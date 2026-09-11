@@ -8,6 +8,7 @@ import { Menu, X, Send } from "lucide-react";
 import { SITE } from "@/lib/constants";
 import { openWhatsApp, generalInquiry } from "@/lib/whatsapp";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { Logo } from "@/components/layout/logo";
 import { cn } from "@/lib/utils";
 
 export function Header() {
@@ -68,16 +69,7 @@ export function Header() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16 lg:h-20">
             {/* Logo */}
-            <Link href="/" className="flex items-center group flex-shrink-0">
-              <Image
-                src="/logo.svg"
-                alt="HTG Travels logo"
-                width={240}
-                height={48}
-                priority
-                className="h-10 lg:h-11 w-auto transition-transform group-hover:scale-105"
-              />
-            </Link>
+            <Logo />
 
             {/* Desktop Nav */}
             <nav className="hidden lg:flex items-center gap-0.5 flex-1 justify-center">

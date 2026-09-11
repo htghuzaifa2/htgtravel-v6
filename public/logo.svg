@@ -1,16 +1,22 @@
-<svg width="240" height="48" viewBox="0 0 240 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
+<svg width="280" height="48" viewBox="0 0 280 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
   <defs>
-    <linearGradient id="htgGrad8" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="planeGradL" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F5A623"/>
-      <stop offset="50%" stop-color="#0FA3A3"/>
       <stop offset="100%" stop-color="#0FA3A3"/>
+    </linearGradient>
+    <linearGradient id="textGradL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1F2A"/>
+      <stop offset="100%" stop-color="#0B1F2A"/>
     </linearGradient>
   </defs>
 
-  <!-- HTG TRAVELS — full wordmark, gradient on both words -->
-  <text x="4" y="35" font-family="Sora, sans-serif" font-size="30" font-weight="900" fill="url(#htgGrad8)" letter-spacing="-0.5">HTG</text>
-  <text x="88" y="35" font-family="Sora, sans-serif" font-size="30" font-weight="800" fill="url(#htgGrad8)" letter-spacing="-0.5">TRAVELS</text>
+  <!-- Plane icon (bigger, standalone — no box) -->
+  <path d="M38 4L4 19C2.5 19.7 2.5 21.8 4 22.4L12 26L16 38C16.6 39.6 18.8 39.9 19.6 38.4L24 30L34 37C35.5 38.1 37.8 37.1 38 35.5L40 5.5C40.3 3.3 38 2.8 38 4Z" fill="url(#planeGradL)"/>
+  <!-- Plane trail detail -->
+  <path d="M12 26L26 12L15 29L19 38.5L12 26Z" fill="#FFFFFF" fill-opacity="0.85"/>
+  <!-- Gold dot on plane nose -->
+  <circle cx="38" cy="4" r="3.5" fill="#F5A623"/>
 
-  <!-- Gold dot accent between HTG and TRAVELS -->
-  <circle cx="80" cy="25" r="3" fill="#F5A623"/>
+  <!-- HTG TRAVELS text (no dot separator, full word) -->
+  <text x="58" y="36" font-family="Sora, sans-serif" font-size="26" font-weight="800" fill="#0B1F2A" letter-spacing="-0.5">HTG TRAVELS</text>
 </svg>
