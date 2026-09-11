@@ -98,7 +98,7 @@ export default function UmrahPage() {
             <p className="mt-4 text-xs text-muted-foreground">Verified hotel vouchers, genuine eVisas, and transparent live quotations.</p>
             <button
               onClick={submitUmrah}
-              className="mt-5 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+              className="mt-5 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
             >
               <Send className="h-4 w-4" />
               Get Instant Umrah Quotation on WhatsApp

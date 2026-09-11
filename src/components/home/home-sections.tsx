@@ -188,7 +188,7 @@ export function StatsSection() {
 // ============ BENTO GRID (services + highlights) ============
 export function BentoGrid() {
   return (
-    <section className="py-16 lg:py-20 bg-background flight-paths-bg relative overflow-hidden">
+    <section className="py-16 lg:py-20 bg-background topo-bg relative overflow-hidden">
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 z-10">
         <FadeIn>
           <SectionHeading
@@ -389,7 +389,7 @@ export function FinalCTA() {
                 "noopener,noreferrer"
               );
             }}
-            className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-110 transition shadow-lg hover:shadow-xl"
+            className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
           >
             <MessageCircle className="h-4 w-4" />
             Message +92 325 1480148 on WhatsApp

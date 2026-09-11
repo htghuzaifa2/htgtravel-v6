@@ -112,7 +112,7 @@ export default function ContactPage() {
             </div>
             <button
               onClick={submit}
-              className="mt-6 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+              className="mt-6 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
             >
               <Send className="h-4 w-4" />
               Send Message via WhatsApp

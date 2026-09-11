@@ -154,7 +154,7 @@ export function HoverLift({
 }
 
 /**
- * MotionButton — CTA with scale-on-hover/tap. Uses Framer Motion only for
+ * MotionButton — CTA with smooth scale-on-hover. Uses Framer Motion only for
  * the interactive micro-interaction (very lightweight).
  */
 export function MotionButton({
@@ -183,9 +183,9 @@ export function MotionButton({
       type={type}
       onClick={onClick}
       className={className}
-      whileHover={{ scale: 1.03 }}
+      whileHover={{ scale: 1.03, y: -2 }}
       whileTap={{ scale: 0.97 }}
-      transition={{ type: "spring", stiffness: 400, damping: 17 }}
+      transition={{ duration: 0.2, ease: [0.16, 1, 0.3, 1] }}
     >
       {children}
     </motion.button>

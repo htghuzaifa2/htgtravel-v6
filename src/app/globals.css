@@ -332,29 +332,24 @@
       radial-gradient(ellipse 70% 60% at 50% 90%, rgba(168, 85, 247, 0.25), transparent 60%);
   }
 
-  /* Animated flight paths — travel-themed background (unique, not generic blobs) */
-  .flight-paths-bg {
+  /* Topographic contour lines — subtle premium map texture (not busy blobs) */
+  .topo-bg {
     position: relative;
   }
-  .flight-paths-bg::before {
+  .topo-bg::before {
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url("data:image/svg+xml,%3Csvg width='800' height='600' viewBox='0 0 800 600' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M50,300 Q200,150 400,250 T750,200' stroke='%230FA3A3' stroke-width='1.5' fill='none' stroke-dasharray='6,8' opacity='0.4'/%3E%3Cpath d='M100,150 Q300,400 500,300 T750,350' stroke='%23F5A623' stroke-width='1.5' fill='none' stroke-dasharray='5,10' opacity='0.35'/%3E%3Cpath d='M50,450 Q250,250 450,400 T750,450' stroke='%230FA3A3' stroke-width='1' fill='none' stroke-dasharray='4,12' opacity='0.3'/%3E%3Ccircle cx='50' cy='300' r='4' fill='%23F5A623' opacity='0.6'/%3E%3Ccircle cx='400' cy='250' r='3' fill='%230FA3A3' opacity='0.5'/%3E%3Ccircle cx='750' cy='200' r='4' fill='%23F5A623' opacity='0.6'/%3E%3Ccircle cx='100' cy='150' r='3' fill='%230FA3A3' opacity='0.5'/%3E%3Ccircle cx='500' cy='300' r='3' fill='%23F5A623' opacity='0.5'/%3E%3Ccircle cx='750' cy='350' r='4' fill='%230FA3A3' opacity='0.6'/%3E%3Ccircle cx='50' cy='450' r='3' fill='%23F5A623' opacity='0.5'/%3E%3Ccircle cx='450' cy='400' r='3' fill='%230FA3A3' opacity='0.5'/%3E%3C/svg%3E");
-    background-size: 800px 600px;
+    background-image: url("data:image/svg+xml,%3Csvg width='600' height='600' viewBox='0 0 600 600' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' stroke='%230FA3A3' stroke-width='1' opacity='0.5'%3E%3Cpath d='M0,300 Q150,200 300,280 T600,250'/%3E%3Cpath d='M0,350 Q150,250 300,330 T600,300'/%3E%3Cpath d='M0,400 Q150,300 300,380 T600,350'/%3E%3Cpath d='M0,250 Q150,150 300,230 T600,200'/%3E%3Cpath d='M0,200 Q150,100 300,180 T600,150'/%3E%3C/g%3E%3Cg fill='none' stroke='%23F5A623' stroke-width='1' opacity='0.3'%3E%3Cpath d='M0,320 Q150,220 300,300 T600,270'/%3E%3Cpath d='M0,370 Q150,270 300,350 T600,320'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 600px 600px;
     background-repeat: repeat;
-    opacity: 0.6;
-    animation: flight-dash 30s linear infinite;
+    opacity: 0.4;
     pointer-events: none;
     z-index: 0;
   }
-  .dark .flight-paths-bg::before {
-    background-image: url("data:image/svg+xml,%3Csvg width='800' height='600' viewBox='0 0 800 600' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M50,300 Q200,150 400,250 T750,200' stroke='%2314B8B8' stroke-width='1.5' fill='none' stroke-dasharray='6,8' opacity='0.5'/%3E%3Cpath d='M100,150 Q300,400 500,300 T750,350' stroke='%23F5A623' stroke-width='1.5' fill='none' stroke-dasharray='5,10' opacity='0.45'/%3E%3Cpath d='M50,450 Q250,250 450,400 T750,450' stroke='%2314B8B8' stroke-width='1' fill='none' stroke-dasharray='4,12' opacity='0.4'/%3E%3Ccircle cx='50' cy='300' r='4' fill='%23F5A623' opacity='0.7'/%3E%3Ccircle cx='400' cy='250' r='3' fill='%2314B8B8' opacity='0.6'/%3E%3Ccircle cx='750' cy='200' r='4' fill='%23F5A623' opacity='0.7'/%3E%3Ccircle cx='100' cy='150' r='3' fill='%2314B8B8' opacity='0.6'/%3E%3Ccircle cx='500' cy='300' r='3' fill='%23F5A623' opacity='0.6'/%3E%3Ccircle cx='750' cy='350' r='4' fill='%2314B8B8' opacity='0.7'/%3E%3Ccircle cx='50' cy='450' r='3' fill='%23F5A623' opacity='0.6'/%3E%3Ccircle cx='450' cy='400' r='3' fill='%2314B8B8' opacity='0.6'/%3E%3C/svg%3E");
-    opacity: 0.8;
-  }
-  @keyframes flight-dash {
-    0% { background-position: 0 0; }
-    100% { background-position: 800px 0; }
+  .dark .topo-bg::before {
+    background-image: url("data:image/svg+xml,%3Csvg width='600' height='600' viewBox='0 0 600 600' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' stroke='%2314B8B8' stroke-width='1' opacity='0.6'%3E%3Cpath d='M0,300 Q150,200 300,280 T600,250'/%3E%3Cpath d='M0,350 Q150,250 300,330 T600,300'/%3E%3Cpath d='M0,400 Q150,300 300,380 T600,350'/%3E%3Cpath d='M0,250 Q150,150 300,230 T600,200'/%3E%3Cpath d='M0,200 Q150,100 300,180 T600,150'/%3E%3C/g%3E%3Cg fill='none' stroke='%23F5A623' stroke-width='1' opacity='0.4'%3E%3Cpath d='M0,320 Q150,220 300,300 T600,270'/%3E%3Cpath d='M0,370 Q150,270 300,350 T600,320'/%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.6;
   }
 
   /* Noise texture overlay (subtle, premium feel) */

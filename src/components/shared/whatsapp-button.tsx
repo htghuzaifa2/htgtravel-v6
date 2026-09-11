@@ -13,16 +13,16 @@ type WhatsAppButtonProps = {
 };
 
 const variantClasses = {
-  // Gold filled button — always dark text on gold (works in both themes)
-  primary: "bg-gold text-navy hover:brightness-110 shadow-sm hover:shadow-md",
-  // Teal filled button — always dark text on teal
-  secondary: "bg-teal text-navy hover:brightness-110 shadow-sm hover:shadow-md",
-  // Navy filled button — always white text on navy
-  navy: "bg-foreground text-background hover:brightness-110 shadow-sm hover:shadow-md",
-  // Outline button — uses foreground color for border+text (theme-aware, always visible)
-  outline: "bg-transparent text-foreground border-2 border-foreground/30 hover:bg-foreground/10 hover:border-foreground/60 backdrop-blur-sm",
+  // Gold filled — smooth brightness + shadow growth on hover
+  primary: "bg-gold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-sm",
+  // Teal filled — subtle lift + brightness
+  secondary: "bg-teal text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-sm",
+  // Navy filled — always visible
+  navy: "bg-foreground text-background hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-sm",
+  // Outline — fills in subtly on hover
+  outline: "bg-transparent text-foreground border-2 border-foreground/30 hover:bg-foreground/10 hover:border-foreground/60 backdrop-blur-sm hover:-translate-y-0.5",
   // Gold filled (same as primary)
-  gold: "bg-gold text-navy hover:brightness-110 shadow-md",
+  gold: "bg-gold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md",
 };
 
 const sizeClasses = {
@@ -43,7 +43,7 @@ export function WhatsAppButton({
     <button
       onClick={() => openWhatsApp(message ?? generalInquiry())}
       className={cn(
-        "inline-flex items-center justify-center gap-2 rounded-full font-semibold transition-all duration-200",
+        "inline-flex items-center justify-center gap-2 rounded-full font-semibold transition-all duration-300 ease-out active:scale-95",
         variantClasses[variant],
         sizeClasses[size],
         fullWidth && "w-full",

@@ -8,7 +8,6 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Input } from "@/components/ui/input";
 import { Send, CheckCircle2, Plane, FileCheck, ArrowRight } from "lucide-react";
 import { openWhatsApp, flightInquiry, visaInquiry } from "@/lib/whatsapp";
-import { MagneticButton } from "@/components/magnetic-button";
 
 const PAKISTANI_AIRPORTS = [
   "Sialkot (SKT)",
@@ -89,7 +88,7 @@ export function Hero() {
   const getDestAirports = () => DEST_AIRPORTS[destCountry] ?? ["Capital City Airport"];
 
   return (
-    <section className="relative overflow-hidden bg-background flight-paths-bg">
+    <section className="relative overflow-hidden bg-background topo-bg">
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 lg:py-24 z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left Column */}
@@ -131,22 +130,20 @@ export function Hero() {
               transition={{ duration: 0.5 }}
               className="mt-8 flex flex-wrap gap-3"
             >
-              <MagneticButton
-                strength={0.25}
+              <button
                 onClick={() => setTab("flight")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-br from-gold to-amber-500 px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 transition shadow-lg hover:shadow-xl"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
               >
                 <Plane className="h-4 w-4" />
                 Request Flight Fare
-              </MagneticButton>
-              <MagneticButton
-                strength={0.25}
+              </button>
+              <button
                 onClick={() => setTab("visa")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent border-2 border-foreground/30 text-foreground px-6 py-3 text-sm font-semibold hover:bg-foreground/5 hover:border-foreground/60 transition backdrop-blur-sm"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent border-2 border-foreground/30 text-foreground px-6 py-3 text-sm font-semibold hover:bg-foreground/10 hover:border-foreground/60 hover:-translate-y-0.5 backdrop-blur-sm active:scale-95 transition-all duration-300 ease-out"
               >
                 <FileCheck className="h-4 w-4" />
                 Ask Visa Expert
-              </MagneticButton>
+              </button>
             </motion.div>
 
             <motion.div
@@ -277,7 +274,7 @@ export function Hero() {
 
                   <button
                     onClick={handleSubmit}
-                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
                   >
                     <Send className="h-4 w-4" />
                     Get Live Rate on WhatsApp
@@ -350,7 +347,7 @@ export function Hero() {
 
                   <button
                     onClick={handleSubmit}
-                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
                   >
                     <Send className="h-4 w-4" />
                     Get Live Rate on WhatsApp

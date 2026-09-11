@@ -1,18 +1,16 @@
-<svg width="120" height="44" viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
+<svg width="240" height="48" viewBox="0 0 240 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
   <defs>
-    <linearGradient id="htgGradW" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="htgGrad8w" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F5A623"/>
       <stop offset="50%" stop-color="#14B8B8"/>
       <stop offset="100%" stop-color="#14B8B8"/>
     </linearGradient>
   </defs>
 
-  <!-- HTG monogram — bold gradient text -->
-  <text x="4" y="33" font-family="Sora, sans-serif" font-size="32" font-weight="900" fill="url(#htgGradW)" letter-spacing="-1">HTG</text>
+  <!-- HTG TRAVELS — full wordmark, white version -->
+  <text x="4" y="35" font-family="Sora, sans-serif" font-size="30" font-weight="900" fill="url(#htgGrad8w)" letter-spacing="-0.5">HTG</text>
+  <text x="88" y="35" font-family="Sora, sans-serif" font-size="30" font-weight="800" fill="url(#htgGrad8w)" letter-spacing="-0.5">TRAVELS</text>
 
   <!-- Gold dot accent -->
-  <circle cx="86" cy="22" r="3" fill="#F5A623"/>
-
-  <!-- 'Travels' wordmark — white for dark backgrounds -->
-  <text x="96" y="29" font-family="Sora, sans-serif" font-size="14" font-weight="400" fill="#FFFFFF" fill-opacity="0.5" letter-spacing="0.5">Travels</text>
+  <circle cx="80" cy="25" r="3" fill="#F5A623"/>
 </svg>

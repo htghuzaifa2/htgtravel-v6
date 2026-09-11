@@ -50,7 +50,7 @@ export function FinalCTA({ heading, body, buttonLabel, icon, variant = "sand" }:
               "noopener,noreferrer"
             );
           }}
-          className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md hover:shadow-lg"
+          className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
         >
           {icon}
           {buttonLabel}
