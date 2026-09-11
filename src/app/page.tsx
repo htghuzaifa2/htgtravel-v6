@@ -1,6 +1,6 @@
 import { Hero } from "@/components/home/hero";
 import {
-  TrustStrip, ServicesGrid, PopularRoutes, HowItWorks, WhyHTG, FinalCTA,
+  TrustStrip, BentoGrid, StatsSection, PopularRoutes, HowItWorks, WhyHTG, FinalCTA,
 } from "@/components/home/home-sections";
 
 export default function Home() {
@@ -8,7 +8,8 @@ export default function Home() {
     <>
       <Hero />
       <TrustStrip />
-      <ServicesGrid />
+      <StatsSection />
+      <BentoGrid />
       <PopularRoutes />
       <HowItWorks />
       <WhyHTG />

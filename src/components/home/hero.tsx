@@ -8,6 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Input } from "@/components/ui/input";
 import { Send, CheckCircle2, Plane, FileCheck, ArrowRight } from "lucide-react";
 import { openWhatsApp, flightInquiry, visaInquiry } from "@/lib/whatsapp";
+import { MagneticButton } from "@/components/magnetic-button";
 
 const PAKISTANI_AIRPORTS = [
   "Sialkot (SKT)",
@@ -88,18 +89,8 @@ export function Hero() {
   const getDestAirports = () => DEST_AIRPORTS[destCountry] ?? ["Capital City Airport"];
 
   return (
-    <section className="relative overflow-hidden bg-background pattern-organic">
-      {/* Single subtle drifting blob — minimal GPU cost */}
-      <div
-        aria-hidden
-        className="absolute -top-32 -right-32 w-96 h-96 bg-teal/10 dark:bg-teal/20 rounded-full blur-3xl pointer-events-none drift-blob"
-      />
-      <div
-        aria-hidden
-        className="absolute -bottom-32 -left-32 w-96 h-96 bg-gold/10 dark:bg-gold/20 rounded-full blur-3xl pointer-events-none drift-blob-2"
-      />
-
-      <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 lg:py-24">
+    <section className="relative overflow-hidden bg-background gradient-mesh-animated noise-overlay">
+      <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 lg:py-24 z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left Column */}
           <motion.div
@@ -113,7 +104,7 @@ export function Hero() {
             <motion.span
               variants={{ hidden: { opacity: 0, y: 12 }, visible: { opacity: 1, y: 0 } }}
               transition={{ duration: 0.5 }}
-              className="inline-flex items-center gap-2 rounded-full bg-teal/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal"
+              className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal pill-modern"
             >
               <Send className="h-3 w-3" />
               Pakistan&apos;s Trusted Travel Desk
@@ -121,10 +112,10 @@ export function Hero() {
             <motion.h1
               variants={{ hidden: { opacity: 0, y: 24 }, visible: { opacity: 1, y: 0 } }}
               transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-              className="mt-5 font-heading font-bold text-foreground leading-[1.15] text-3xl sm:text-4xl md:text-5xl lg:text-[44px] break-words"
+              className="mt-5 font-heading font-bold text-foreground leading-[1.1] text-4xl sm:text-5xl md:text-6xl lg:text-[56px] break-words"
             >
               Fly From Pakistan.{" "}
-              <span className="text-teal">Land Anywhere.</span>{" "}
+              <span className="text-gradient">Land Anywhere.</span>{" "}
               Visa Help Without the Guesswork.
             </motion.h1>
             <motion.p
@@ -140,26 +131,22 @@ export function Hero() {
               transition={{ duration: 0.5 }}
               className="mt-8 flex flex-wrap gap-3"
             >
-              <motion.button
-                whileHover={{ scale: 1.04 }}
-                whileTap={{ scale: 0.97 }}
-                transition={{ type: "spring", stiffness: 400, damping: 17 }}
+              <MagneticButton
+                strength={0.25}
                 onClick={() => setTab("flight")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-br from-gold to-amber-500 px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 transition shadow-lg hover:shadow-xl"
               >
                 <Plane className="h-4 w-4" />
                 Request Flight Fare
-              </motion.button>
-              <motion.button
-                whileHover={{ scale: 1.04 }}
-                whileTap={{ scale: 0.97 }}
-                transition={{ type: "spring", stiffness: 400, damping: 17 }}
+              </MagneticButton>
+              <MagneticButton
+                strength={0.25}
                 onClick={() => setTab("visa")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent border-2 border-foreground text-foreground px-6 py-3 text-sm font-semibold hover:bg-foreground hover:text-background transition"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent border-2 border-foreground/30 text-foreground px-6 py-3 text-sm font-semibold hover:bg-foreground/5 hover:border-foreground/60 transition backdrop-blur-sm"
               >
                 <FileCheck className="h-4 w-4" />
                 Ask Visa Expert
-              </motion.button>
+              </MagneticButton>
             </motion.div>
 
             <motion.div
@@ -201,18 +188,18 @@ export function Hero() {
             animate={{ opacity: 1, scale: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.4, ease: [0.22, 1, 0.36, 1] }}
           >
-            <div className="bg-card rounded-2xl p-6 sm:p-8 shadow-htg border border-border/50 min-h-[540px] flex flex-col">
+            <div className="glass rounded-3xl p-6 sm:p-8 min-h-[540px] flex flex-col">
               <Tabs value={tab} onValueChange={(v) => setTab(v as "flight" | "visa")} className="flex-1 flex flex-col">
-                <TabsList className="grid w-full grid-cols-2 mb-6 bg-muted rounded-xl p-1 h-12">
+                <TabsList className="grid w-full grid-cols-2 mb-6 bg-foreground/5 rounded-xl p-1 h-12 backdrop-blur-sm">
                   <TabsTrigger
                     value="flight"
-                    className="data-[state=active]:bg-card data-[state=active]:text-foreground data-[state=active]:shadow-sm font-semibold rounded-lg transition-all"
+                    className="data-[state=active]:bg-card data-[state=active]:text-foreground data-[state=active]:shadow-md font-semibold rounded-lg transition-all"
                   >
                     Flight Tickets
                   </TabsTrigger>
                   <TabsTrigger
                     value="visa"
-                    className="data-[state=active]:bg-card data-[state=active]:text-foreground data-[state=active]:shadow-sm font-semibold rounded-lg transition-all"
+                    className="data-[state=active]:bg-card data-[state=active]:text-foreground data-[state=active]:shadow-md font-semibold rounded-lg transition-all"
                   >
                     Visa Consultation
                   </TabsTrigger>
