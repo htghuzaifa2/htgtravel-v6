@@ -89,7 +89,17 @@ export function Hero() {
   const getDestAirports = () => DEST_AIRPORTS[destCountry] ?? ["Capital City Airport"];
 
   return (
-    <section className="relative overflow-hidden bg-background gradient-mesh-animated noise-overlay">
+    <section className="relative overflow-hidden bg-background gradient-mesh-animated">
+      {/* Subtle grid pattern overlay for modern tech aesthetic */}
+      <div
+        aria-hidden
+        className="absolute inset-0 pointer-events-none opacity-[0.03] dark:opacity-[0.05]"
+        style={{
+          backgroundImage:
+            "linear-gradient(rgba(11,31,42,0.4) 1px, transparent 1px), linear-gradient(90deg, rgba(11,31,42,0.4) 1px, transparent 1px)",
+          backgroundSize: "48px 48px",
+        }}
+      />
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 lg:py-24 z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left Column */}

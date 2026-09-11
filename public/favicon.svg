@@ -1,17 +1,13 @@
 <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="favGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="favGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="50%" stop-color="#0FA3A3"/>
       <stop offset="100%" stop-color="#0FA3A3"/>
     </linearGradient>
-    <linearGradient id="favBg3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B1F2A"/>
-      <stop offset="100%" stop-color="#1A2B35"/>
-    </linearGradient>
   </defs>
-  <rect x="2" y="2" width="40" height="40" rx="11" fill="url(#favBg3)"/>
-  <rect x="2" y="2" width="40" height="40" rx="11" fill="none" stroke="#F5A623" stroke-opacity="0.35" stroke-width="1"/>
-  <path d="M31 12L11 21C10.2 21.4 10.2 22.6 11 23L16 25L18 32C18.3 32.8 19.3 32.9 19.7 32.2L22 27.5L27 31.5C27.8 32.1 28.8 31.6 28.9 30.7L31 14C31.2 13 30.5 12.3 31 12Z" fill="url(#favGrad3)"/>
-  <path d="M16 25L23 18.5L17.5 26L18 32L16 25Z" fill="#FFFFFF" fill-opacity="0.9"/>
-  <circle cx="31" cy="12" r="3.2" fill="#F5A623"/>
+  <!-- Just the plane, no box — clean and memorable -->
+  <path d="M35 4L4 18C2.5 18.7 2.5 21 4 21.6L12 25L16 36C16.6 38 19 38.3 20 36.6L25 28L34 35C35.5 36 37.5 35 37.7 33L41 5.5C41.5 3 39 -3 35 4Z" fill="url(#favGrad4)"/>
+  <path d="M12 25L24 13L15 30L20 36.5L12 25Z" fill="#FFFFFF" fill-opacity="0.9"/>
+  <circle cx="35" cy="4" r="4" fill="#F5A623"/>
 </svg>

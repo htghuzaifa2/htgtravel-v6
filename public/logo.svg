@@ -1,30 +1,22 @@
-<svg width="180" height="44" viewBox="0 0 180 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
+<svg width="170" height="44" viewBox="0 0 170 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
   <defs>
-    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B1F2A"/>
-      <stop offset="100%" stop-color="#1A2B35"/>
-    </linearGradient>
-    <linearGradient id="planeGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="planeGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F5A623"/>
+      <stop offset="50%" stop-color="#0FA3A3"/>
       <stop offset="100%" stop-color="#0FA3A3"/>
     </linearGradient>
   </defs>
 
-  <!-- Bigger brand mark: rounded square with gradient bg -->
-  <rect x="2" y="4" width="36" height="36" rx="10" fill="url(#bgGrad3)"/>
-  <rect x="2" y="4" width="36" height="36" rx="10" fill="none" stroke="#F5A623" stroke-opacity="0.35" stroke-width="1"/>
-
-  <!-- Paper plane (bigger, more dynamic) -->
-  <path d="M29 12L10 20.5C9.2 20.9 9.2 22.1 10 22.4L15 24.2L17 31C17.3 31.8 18.3 31.9 18.7 31.2L21 26.5L26 30.5C26.8 31.1 27.8 30.6 27.9 29.7L30 13C30.2 12 29.5 11.3 29 12Z" fill="url(#planeGrad3)"/>
+  <!-- Paper plane icon — no box, just the mark with gradient -->
+  <path d="M30 6L4 17.5C3 18 3 19.5 4 19.8L10 22L13 31C13.4 32.2 15 32.4 15.6 31.3L19 25L26 30.5C27 31.3 28.5 30.5 28.6 29.3L31 7.5C31.2 6 29.8 5.2 30 6Z" fill="url(#planeGrad4)"/>
 
   <!-- Plane trail (white detail for depth) -->
-  <path d="M15 24.2L22 17.5L16.5 25L17 31L15 24.2Z" fill="#FFFFFF" fill-opacity="0.9"/>
+  <path d="M10 22L20 13L13 25L15 31.5L10 22Z" fill="#FFFFFF" fill-opacity="0.9"/>
 
   <!-- Gold dot accent (signature mark) -->
-  <circle cx="29" cy="12" r="3" fill="#F5A623"/>
-  <circle cx="29" cy="12" r="3" fill="none" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="0.5"/>
+  <circle cx="30" cy="6" r="3.5" fill="#F5A623"/>
 
-  <!-- Wordmark: HTG bold + Travels lighter, both high-contrast -->
-  <text x="52" y="29" font-family="Sora, sans-serif" font-size="24" font-weight="800" fill="#0B1F2A" letter-spacing="-0.5">HTG</text>
-  <text x="103" y="29" font-family="Sora, sans-serif" font-size="24" font-weight="400" fill="#0B1F2A" fill-opacity="0.5" letter-spacing="-0.3">Travels</text>
+  <!-- Wordmark: HTG bold (no box, standalone) -->
+  <text x="48" y="30" font-family="Sora, sans-serif" font-size="26" font-weight="800" fill="#0B1F2A" letter-spacing="-0.5">HTG</text>
+  <text x="113" y="30" font-family="Sora, sans-serif" font-size="26" font-weight="300" fill="#0B1F2A" fill-opacity="0.45" letter-spacing="-0.3">Travels</text>
 </svg>
