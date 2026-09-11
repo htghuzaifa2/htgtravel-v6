@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { motion } from "framer-motion";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Input } from "@/components/ui/input";
@@ -95,21 +96,44 @@ export function Hero() {
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 lg:py-24">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left Column */}
-          <div>
-            <span className="inline-flex items-center gap-2 rounded-full bg-teal/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal">
+          <motion.div
+            initial="hidden"
+            animate="visible"
+            variants={{
+              hidden: {},
+              visible: { transition: { staggerChildren: 0.12, delayChildren: 0.1 } },
+            }}
+          >
+            <motion.span
+              variants={{ hidden: { opacity: 0, y: 12 }, visible: { opacity: 1, y: 0 } }}
+              transition={{ duration: 0.5 }}
+              className="inline-flex items-center gap-2 rounded-full bg-teal/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal"
+            >
               <Send className="h-3 w-3" />
               Pakistan&apos;s Trusted Travel Desk
-            </span>
-            <h1 className="mt-5 font-heading font-bold text-navy leading-[1.1] text-3xl sm:text-4xl md:text-5xl lg:text-[48px]">
+            </motion.span>
+            <motion.h1
+              variants={{ hidden: { opacity: 0, y: 24 }, visible: { opacity: 1, y: 0 } }}
+              transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
+              className="mt-5 font-heading font-bold text-navy leading-[1.1] text-3xl sm:text-4xl md:text-5xl lg:text-[48px]"
+            >
               Fly From Pakistan.{" "}
-              <span className="text-teal">Land Anywhere.</span>{" "}
+              <span className="text-gradient-animated">Land Anywhere.</span>{" "}
               Visa Help Without the Guesswork.
-            </h1>
-            <p className="mt-6 text-base md:text-lg text-charcoal/80 leading-relaxed max-w-xl">
+            </motion.h1>
+            <motion.p
+              variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
+              transition={{ duration: 0.55 }}
+              className="mt-6 text-base md:text-lg text-charcoal/80 leading-relaxed max-w-xl"
+            >
               HTG Travels compares live airline fares and prepares your visa file step by step — all through WhatsApp. No confusing price lists. No waiting rooms. Just answers in minutes.
-            </p>
+            </motion.p>
 
-            <div className="mt-8 flex flex-wrap gap-3">
+            <motion.div
+              variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
+              transition={{ duration: 0.5 }}
+              className="mt-8 flex flex-wrap gap-3"
+            >
               <button
                 onClick={() => setTab("flight")}
                 className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
@@ -124,9 +148,13 @@ export function Hero() {
                 <FileCheck className="h-4 w-4" />
                 Ask Visa Expert
               </button>
-            </div>
+            </motion.div>
 
-            <div className="mt-8 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-grey">
+            <motion.div
+              variants={{ hidden: { opacity: 0 }, visible: { opacity: 1 } }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+              className="mt-8 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-grey"
+            >
               <span className="inline-flex items-center gap-1.5">
                 <CheckCircle2 className="h-4 w-4 text-teal" />
                 Authorized ticketing for 20+ airlines
@@ -139,20 +167,29 @@ export function Hero() {
                 <CheckCircle2 className="h-4 w-4 text-teal" />
                 Pakistan-wide service
               </span>
-            </div>
+            </motion.div>
 
-            <Link
-              href="/destinations"
-              className="mt-8 inline-flex items-center gap-1.5 text-sm font-semibold text-teal hover:text-gold transition-colors"
+            <motion.div
+              variants={{ hidden: { opacity: 0, y: 12 }, visible: { opacity: 1, y: 0 } }}
+              transition={{ duration: 0.5, delay: 0.3 }}
             >
-              Browse all flight routes
-              <ArrowRight className="h-4 w-4" />
-            </Link>
-          </div>
+              <Link
+                href="/destinations"
+                className="mt-8 inline-flex items-center gap-1.5 text-sm font-semibold text-teal hover:text-gold transition-colors group"
+              >
+                Browse all flight routes
+                <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
+              </Link>
+            </motion.div>
+          </motion.div>
 
           {/* Right Column — Quote Card */}
-          <div>
-            <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-htg">
+          <motion.div
+            initial={{ opacity: 0, scale: 0.96, y: 20 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            transition={{ duration: 0.7, delay: 0.4, ease: [0.22, 1, 0.36, 1] }}
+          >
+            <div className="bg-white dark:bg-card rounded-2xl p-6 sm:p-8 shadow-htg">
               <Tabs value={tab} onValueChange={(v) => setTab(v as "flight" | "visa")}>
                 <TabsList className="grid w-full grid-cols-2 mb-6 bg-sand">
                   <TabsTrigger
@@ -322,7 +359,7 @@ export function Hero() {
                 </TabsContent>
               </Tabs>
             </div>
-          </div>
+          </motion.div>
         </div>
       </div>
     </section>

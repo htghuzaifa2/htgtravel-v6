@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Sora, Inter } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/sonner";
+import { ThemeProvider } from "@/components/theme-provider";
 import { PalestineBanner } from "@/components/layout/palestine-banner";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
@@ -97,18 +98,26 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(travelAgencySchema) }}
         />
+        {/* Prevent flash of wrong theme */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem('theme');if(!t){t=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}if(t==='dark'){document.documentElement.classList.add('dark');}}catch(e){}})();`,
+          }}
+        />
       </head>
       <body
         className={`${sora.variable} ${inter.variable} font-sans antialiased bg-background text-foreground`}
       >
-        <div className="min-h-screen flex flex-col">
-          <PalestineBanner />
-          <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
-        </div>
-        <StickyWhatsApp />
-        <Toaster richColors position="top-center" />
+        <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false}>
+          <div className="min-h-screen flex flex-col">
+            <PalestineBanner />
+            <Header />
+            <main className="flex-1">{children}</main>
+            <Footer />
+          </div>
+          <StickyWhatsApp />
+          <Toaster richColors position="top-center" />
+        </ThemeProvider>
       </body>
     </html>
   );

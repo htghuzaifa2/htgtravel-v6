@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 import { Menu, X, Send, ChevronDown, Plane, FileCheck, ShieldCheck, Building2, Briefcase, Globe, MapPin } from "lucide-react";
 import { SITE } from "@/lib/constants";
 import { openWhatsApp, generalInquiry } from "@/lib/whatsapp";
+import { ThemeToggle } from "@/components/theme-toggle";
 import { cn } from "@/lib/utils";
 
 // Service mega-menu items — shown in a dropdown when hovering "Services"
@@ -112,8 +113,9 @@ export function Header() {
               ))}
             </nav>
 
-            {/* CTA + Mobile toggle */}
+            {/* CTA + Theme toggle + Mobile toggle */}
             <div className="flex items-center gap-2 flex-shrink-0">
+              <ThemeToggle />
               <button
                 onClick={() => openWhatsApp(generalInquiry())}
                 className="hidden sm:inline-flex items-center gap-1.5 rounded-full bg-gold px-4 lg:px-5 py-2.5 text-sm font-semibold text-navy hover:brightness-105 transition-all shadow-sm hover:shadow-md"
