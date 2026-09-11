@@ -3,26 +3,16 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X, Send, ChevronDown, Plane, FileCheck, ShieldCheck, Building2, Briefcase, Globe, MapPin } from "lucide-react";
+import Image from "next/image";
+import { Menu, X, Send } from "lucide-react";
 import { SITE } from "@/lib/constants";
 import { openWhatsApp, generalInquiry } from "@/lib/whatsapp";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { cn } from "@/lib/utils";
 
-// Service mega-menu items — shown in a dropdown when hovering "Services"
-const SERVICES = [
-  { icon: Plane, label: "Flights", href: "/flights", description: "Domestic & international air tickets" },
-  { icon: FileCheck, label: "Visa Consultation", href: "/visa", description: "Tourist & business visas for 12+ countries" },
-  { icon: ShieldCheck, label: "Umrah & Hajj", href: "/umrah", description: "Pilgrimage packages with hotels near Haram" },
-  { icon: Briefcase, label: "Travel Insurance", href: "/insurance", description: "Schengen-approved, cancellation & baggage" },
-  { icon: Building2, label: "Corporate Travel", href: "/corporate", description: "Dedicated account management & group fares" },
-  { icon: Globe, label: "Destinations", href: "/destinations", description: "Browse all flight routes from Pakistan" },
-];
-
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
-  const [servicesOpen, setServicesOpen] = useState(false);
   const pathname = usePathname();
 
   useEffect(() => {
@@ -36,10 +26,6 @@ export function Header() {
   useEffect(() => {
     if (mobileOpen) {
       const t = setTimeout(() => setMobileOpen(false), 0);
-      return () => clearTimeout(t);
-    }
-    if (servicesOpen) {
-      const t = setTimeout(() => setServicesOpen(false), 0);
       return () => clearTimeout(t);
     }
   }, [pathname]);
@@ -83,13 +69,14 @@ export function Header() {
           <div className="flex items-center justify-between h-16 lg:h-20">
             {/* Logo */}
             <Link href="/" className="flex items-center gap-2 group flex-shrink-0">
-              <span className="inline-flex h-9 w-9 items-center justify-center rounded-xl bg-foreground text-background transition-transform group-hover:scale-105">
-                <Send className="h-4 w-4 text-gold" />
-              </span>
-              <span className="font-heading text-lg lg:text-xl">
-                <span className="font-bold text-foreground">HTG</span>
-                <span className="text-foreground/60"> Travels</span>
-              </span>
+              <Image
+                src="/logo.svg"
+                alt="HTG Travels logo"
+                width={120}
+                height={32}
+                priority
+                className="h-8 w-auto transition-transform group-hover:scale-105"
+              />
             </Link>
 
             {/* Desktop Nav */}

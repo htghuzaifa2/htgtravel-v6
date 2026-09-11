@@ -40,6 +40,11 @@ export const metadata: Metadata = {
     "UK visa Pakistan",
     "Schengen visa Pakistan",
   ],
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
   authors: [{ name: "HTG Travels" }],
   metadataBase: new URL("https://htg.com.pk"),
   alternates: {

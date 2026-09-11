@@ -113,7 +113,7 @@ export function Hero() {
             <motion.span
               variants={{ hidden: { opacity: 0, y: 12 }, visible: { opacity: 1, y: 0 } }}
               transition={{ duration: 0.5 }}
-              className="inline-flex items-center gap-2 rounded-full bg-teal/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal badge-glow"
+              className="inline-flex items-center gap-2 rounded-full bg-teal/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal"
             >
               <Send className="h-3 w-3" />
               Pakistan&apos;s Trusted Travel Desk
@@ -121,16 +121,16 @@ export function Hero() {
             <motion.h1
               variants={{ hidden: { opacity: 0, y: 24 }, visible: { opacity: 1, y: 0 } }}
               transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-              className="mt-5 font-heading font-bold text-foreground leading-[1.1] text-3xl sm:text-4xl md:text-5xl lg:text-[48px]"
+              className="mt-5 font-heading font-bold text-foreground leading-[1.15] text-3xl sm:text-4xl md:text-5xl lg:text-[44px] break-words"
             >
               Fly From Pakistan.{" "}
-              <span className="text-gradient-animated">Land Anywhere.</span>{" "}
+              <span className="text-teal">Land Anywhere.</span>{" "}
               Visa Help Without the Guesswork.
             </motion.h1>
             <motion.p
               variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
               transition={{ duration: 0.55 }}
-              className="mt-6 text-base md:text-lg text-muted-foreground leading-relaxed max-w-xl"
+              className="mt-6 text-base md:text-lg text-muted-foreground leading-relaxed max-w-xl break-words"
             >
               HTG Travels compares live airline fares and prepares your visa file step by step — all through WhatsApp. No confusing price lists. No waiting rooms. Just answers in minutes.
             </motion.p>
@@ -145,7 +145,7 @@ export function Hero() {
                 whileTap={{ scale: 0.97 }}
                 transition={{ type: "spring", stiffness: 400, damping: 17 }}
                 onClick={() => setTab("flight")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md glow-gold-pulse"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
               >
                 <Plane className="h-4 w-4" />
                 Request Flight Fare
@@ -201,18 +201,18 @@ export function Hero() {
             animate={{ opacity: 1, scale: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.4, ease: [0.22, 1, 0.36, 1] }}
           >
-            <div className="bg-card rounded-2xl p-6 sm:p-8 shadow-htg border border-border/50">
-              <Tabs value={tab} onValueChange={(v) => setTab(v as "flight" | "visa")}>
-                <TabsList className="grid w-full grid-cols-2 mb-6 bg-muted">
+            <div className="bg-card rounded-2xl p-6 sm:p-8 shadow-htg border border-border/50 min-h-[540px] flex flex-col">
+              <Tabs value={tab} onValueChange={(v) => setTab(v as "flight" | "visa")} className="flex-1 flex flex-col">
+                <TabsList className="grid w-full grid-cols-2 mb-6 bg-muted rounded-xl p-1 h-12">
                   <TabsTrigger
                     value="flight"
-                    className="data-[state=active]:bg-card data-[state=active]:text-foreground font-semibold"
-                    >
+                    className="data-[state=active]:bg-card data-[state=active]:text-foreground data-[state=active]:shadow-sm font-semibold rounded-lg transition-all"
+                  >
                     Flight Tickets
                   </TabsTrigger>
                   <TabsTrigger
                     value="visa"
-                    className="data-[state=active]:bg-card data-[state=active]:text-foreground font-semibold"
+                    className="data-[state=active]:bg-card data-[state=active]:text-foreground data-[state=active]:shadow-sm font-semibold rounded-lg transition-all"
                   >
                     Visa Consultation
                   </TabsTrigger>
