@@ -211,7 +211,7 @@ export function Hero() {
                     <div>
                       <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Flying From</label>
                       <Select value={flyingFrom} onValueChange={setFlyingFrom}>
-                        <SelectTrigger className="h-11 bg-muted/60 border-border">
+                        <SelectTrigger className="h-11 input-recessed border-transparent">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -224,7 +224,7 @@ export function Hero() {
                     <div>
                       <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Destination Country</label>
                       <Select value={destCountry} onValueChange={setDestCountry}>
-                        <SelectTrigger className="h-11 bg-muted/60 border-border">
+                        <SelectTrigger className="h-11 input-recessed border-transparent">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -237,7 +237,7 @@ export function Hero() {
                     <div>
                       <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Destination To</label>
                       <Select value={destTo} onValueChange={setDestTo}>
-                        <SelectTrigger className="h-11 bg-muted/60 border-border">
+                        <SelectTrigger className="h-11 input-recessed border-transparent">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -250,7 +250,7 @@ export function Hero() {
                     <div>
                       <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Travelers</label>
                       <Select value={travelers} onValueChange={setTravelers}>
-                        <SelectTrigger className="h-11 bg-muted/60 border-border">
+                        <SelectTrigger className="h-11 input-recessed border-transparent">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -266,7 +266,7 @@ export function Hero() {
                         type="date"
                         value={flightDate}
                         onChange={(e) => setFlightDate(e.target.value)}
-                        className="h-11 bg-muted/60 border-border"
+                        className="h-11 input-recessed border-transparent"
                       />
                     </div>
                   </div>
@@ -297,7 +297,7 @@ export function Hero() {
                           if (types && !types.includes(visaType)) setVisaType(types[0]);
                         }}
                       >
-                        <SelectTrigger className="h-11 bg-muted/60 border-border">
+                        <SelectTrigger className="h-11 input-recessed border-transparent">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -310,7 +310,7 @@ export function Hero() {
                     <div>
                       <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Visa Type</label>
                       <Select value={visaType} onValueChange={setVisaType}>
-                        <SelectTrigger className="h-11 bg-muted/60 border-border">
+                        <SelectTrigger className="h-11 input-recessed border-transparent">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -326,13 +326,13 @@ export function Hero() {
                         type="date"
                         value={visaDate}
                         onChange={(e) => setVisaDate(e.target.value)}
-                        className="h-11 bg-muted/60 border-border"
+                        className="h-11 input-recessed border-transparent"
                       />
                     </div>
                     <div>
                       <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Nationality</label>
                       <Select value={nationality} onValueChange={setNationality}>
-                        <SelectTrigger className="h-11 bg-muted/60 border-border">
+                        <SelectTrigger className="h-11 input-recessed border-transparent">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
