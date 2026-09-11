@@ -72,10 +72,10 @@ export function Header() {
               <Image
                 src="/logo.svg"
                 alt="HTG Travels logo"
-                width={160}
-                height={40}
+                width={180}
+                height={44}
                 priority
-                className="h-9 lg:h-10 w-auto logo-adaptive transition-transform group-hover:scale-105"
+                className="h-10 lg:h-11 w-auto logo-adaptive transition-transform group-hover:scale-105"
               />
             </Link>
 

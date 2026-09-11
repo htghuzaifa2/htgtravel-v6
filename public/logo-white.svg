@@ -1,27 +1,24 @@
-<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels — Tickets, Visas, Insurance">
+<svg width="180" height="44" viewBox="0 0 180 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
   <defs>
-    <linearGradient id="planeGradW" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="planeGrad3w" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F5A623"/>
       <stop offset="100%" stop-color="#14B8B8"/>
     </linearGradient>
   </defs>
 
-  <!-- Brand mark: rounded square with translucent bg (for dark backgrounds) -->
-  <rect x="2" y="4" width="32" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.08"/>
-  <rect x="2" y="4" width="32" height="32" rx="9" fill="none" stroke="#F5A623" stroke-opacity="0.35" stroke-width="1"/>
+  <!-- Brand mark: translucent rounded square (for dark backgrounds) -->
+  <rect x="2" y="4" width="36" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="2" y="4" width="36" height="36" rx="10" fill="none" stroke="#F5A623" stroke-opacity="0.4" stroke-width="1"/>
 
   <!-- Paper plane -->
-  <path d="M26 11L9 18.5C8.3 18.8 8.3 19.8 9 20.1L13.5 21.6L15.5 27.5C15.7 28.1 16.5 28.2 16.8 27.6L19 23.8L23.5 27C24.1 27.4 24.9 27 25 26.3L27 12C27.1 11.2 26.5 10.7 26 11Z" fill="url(#planeGradW)"/>
-  <path d="M13.5 21.6L20 16L15 22.5L15.5 27.5L13.5 21.6Z" fill="#FFFFFF" fill-opacity="0.85"/>
+  <path d="M29 12L10 20.5C9.2 20.9 9.2 22.1 10 22.4L15 24.2L17 31C17.3 31.8 18.3 31.9 18.7 31.2L21 26.5L26 30.5C26.8 31.1 27.8 30.6 27.9 29.7L30 13C30.2 12 29.5 11.3 29 12Z" fill="url(#planeGrad3w)"/>
+  <path d="M15 24.2L22 17.5L16.5 25L17 31L15 24.2Z" fill="#FFFFFF" fill-opacity="0.9"/>
 
   <!-- Gold dot accent -->
-  <circle cx="26" cy="11" r="2.5" fill="#F5A623"/>
-  <circle cx="26" cy="11" r="2.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="0.5"/>
+  <circle cx="29" cy="12" r="3" fill="#F5A623"/>
+  <circle cx="29" cy="12" r="3" fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="0.5"/>
 
-  <!-- Wordmark (white for dark backgrounds) -->
-  <text x="46" y="26" font-family="Sora, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">HTG</text>
-  <text x="92" y="26" font-family="Sora, sans-serif" font-size="22" font-weight="400" fill="#FFFFFF" fill-opacity="0.6" letter-spacing="-0.3">Travels</text>
-
-  <!-- Tagline dot -->
-  <circle cx="148" cy="20" r="2" fill="#F5A623"/>
+  <!-- Wordmark: white for dark backgrounds -->
+  <text x="52" y="29" font-family="Sora, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">HTG</text>
+  <text x="103" y="29" font-family="Sora, sans-serif" font-size="24" font-weight="400" fill="#FFFFFF" fill-opacity="0.55" letter-spacing="-0.3">Travels</text>
 </svg>

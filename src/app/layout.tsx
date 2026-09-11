@@ -103,18 +103,18 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(travelAgencySchema) }}
         />
-        {/* Set theme before hydration to prevent flash. suppressHydrationWarning
-            on <html> handles the class attribute mismatch warning. */}
+        {/* Auto-detect browser/device theme. Default to light if not detected.
+            Checks localStorage first (user override), then prefers-color-scheme. */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem('theme');if(t==='dark'){document.documentElement.classList.add('dark');}}catch(e){}})();`,
+            __html: `(function(){try{var t=localStorage.getItem('theme');if(t==='dark'){document.documentElement.classList.add('dark');}else if(t!=='light'&&!t){if(window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.classList.add('dark');}}}catch(e){}})();`,
           }}
         />
       </head>
       <body
         className={`${sora.variable} ${inter.variable} font-sans antialiased bg-background text-foreground`}
       >
-        <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false} disableTransitionOnChange>
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <div className="min-h-screen flex flex-col">
             <PalestineBanner />
             <Header />
