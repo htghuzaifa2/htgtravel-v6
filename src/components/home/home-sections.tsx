@@ -354,21 +354,30 @@ export function WhyHTG() {
 // ============ FINAL CTA ============
 export function FinalCTA() {
   return (
-    <section className="bg-gold py-16 lg:py-20 relative overflow-hidden">
-      {/* CSS-animated background blobs (no JS animation loop) */}
+    <section className="relative overflow-hidden bg-gradient-to-br from-navy via-[#0B1F2A] to-[#0A1530] py-16 lg:py-20">
+      {/* Subtle ambient blobs */}
       <div
         aria-hidden
-        className="absolute -top-20 -left-20 w-64 h-64 bg-white/10 rounded-full blur-3xl pointer-events-none drift-blob"
+        className="absolute -top-32 -right-32 w-96 h-96 bg-teal/10 dark:bg-teal/15 rounded-full blur-3xl pointer-events-none drift-blob"
       />
       <div
         aria-hidden
-        className="absolute -bottom-20 -right-20 w-64 h-64 bg-navy/10 rounded-full blur-3xl pointer-events-none drift-blob-2"
+        className="absolute -bottom-32 -left-32 w-96 h-96 bg-gold/10 dark:bg-gold/15 rounded-full blur-3xl pointer-events-none drift-blob-2"
       />
-      <FadeIn className="relative mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="font-heading text-3xl md:text-4xl font-bold text-foreground leading-tight">
+      {/* Dot grid texture */}
+      <div
+        aria-hidden
+        className="absolute inset-0 pointer-events-none opacity-[0.04]"
+        style={{
+          backgroundImage: "radial-gradient(circle, rgba(255,255,255,0.6) 1px, transparent 1px)",
+          backgroundSize: "32px 32px",
+        }}
+      />
+      <FadeIn className="relative mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center z-10">
+        <h2 className="font-heading text-3xl md:text-4xl font-bold text-white leading-tight">
           Need a Ticket or Visa Consultation Today?
         </h2>
-        <p className="mt-4 text-base md:text-lg text-foreground/80 leading-relaxed max-w-2xl mx-auto">
+        <p className="mt-4 text-base md:text-lg text-white/70 leading-relaxed max-w-2xl mx-auto">
           Skip the queues. Send us your travel dates and passenger details on WhatsApp, and our team will find you the best live fares immediately.
         </p>
         <div className="mt-8">
@@ -380,7 +389,7 @@ export function FinalCTA() {
                 "noopener,noreferrer"
               );
             }}
-            className="inline-flex items-center justify-center gap-2 rounded-full bg-navy text-white px-7 py-3.5 text-sm font-semibold hover:bg-charcoal transition shadow-md"
+            className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-110 transition shadow-lg hover:shadow-xl"
           >
             <MessageCircle className="h-4 w-4" />
             Message +92 325 1480148 on WhatsApp

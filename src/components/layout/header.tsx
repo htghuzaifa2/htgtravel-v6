@@ -68,14 +68,14 @@ export function Header() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16 lg:h-20">
             {/* Logo */}
-            <Link href="/" className="flex items-center group flex-shrink-0 text-foreground">
+            <Link href="/" className="flex items-center group flex-shrink-0">
               <Image
                 src="/logo.svg"
                 alt="HTG Travels logo"
                 width={160}
                 height={40}
                 priority
-                className="h-9 lg:h-10 w-auto transition-transform group-hover:scale-105"
+                className="h-9 lg:h-10 w-auto logo-adaptive transition-transform group-hover:scale-105"
               />
             </Link>
 

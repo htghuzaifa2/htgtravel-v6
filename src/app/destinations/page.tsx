@@ -50,9 +50,9 @@ export default function DestinationsPage() {
           <div className="flex flex-col md:flex-row gap-3 mb-8 items-center justify-between">
             <Tabs value={filter} onValueChange={(v) => { setFilter(v as typeof filter); setPage(1); }}>
               <TabsList className="bg-muted">
-                <TabsTrigger value="all" className="data-[state=active]:bg-navy data-[state=active]:text-white">All</TabsTrigger>
-                <TabsTrigger value="Domestic" className="data-[state=active]:bg-navy data-[state=active]:text-white">Domestic</TabsTrigger>
-                <TabsTrigger value="International" className="data-[state=active]:bg-navy data-[state=active]:text-white">International</TabsTrigger>
+                <TabsTrigger value="all" className="data-[state=active]:bg-foreground data-[state=active]:text-background">All</TabsTrigger>
+                <TabsTrigger value="Domestic" className="data-[state=active]:bg-foreground data-[state=active]:text-background">Domestic</TabsTrigger>
+                <TabsTrigger value="International" className="data-[state=active]:bg-foreground data-[state=active]:text-background">International</TabsTrigger>
               </TabsList>
             </Tabs>
             <div className="relative w-full md:w-80">

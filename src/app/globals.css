@@ -196,6 +196,14 @@
   .font-heading { font-family: var(--font-sora); }
   .font-sans { font-family: var(--font-inter); }
 
+  /* Logo theme adaptation — invert the wordmark color in dark mode */
+  .logo-adaptive {
+    filter: brightness(0) invert(1); /* White in dark mode */
+  }
+  :root:not(.dark) .logo-adaptive {
+    filter: none; /* Original colors in light mode */
+  }
+
   /* ============ Shadows ============ */
   .shadow-htg {
     box-shadow: 0 8px 32px rgba(11, 31, 42, 0.08);
