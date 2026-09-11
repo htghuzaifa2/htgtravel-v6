@@ -45,7 +45,7 @@ export default function InsurancePage() {
             {INSURANCE_PLANS.map((plan) => {
               const Icon = iconMap[plan.icon] ?? ShieldCheck;
               return (
-                <div key={plan.id} className="bg-white rounded-2xl p-6 lg:p-8 shadow-htg border border-[#E5E0D8]/60 hover:shadow-htg-lg transition-shadow flex flex-col">
+                <div key={plan.id} className="bg-card rounded-2xl p-6 lg:p-8 shadow-htg border border-border/60 hover:shadow-htg-lg transition-shadow flex flex-col">
                   <div className="flex items-start gap-4 mb-4">
                     <div className="inline-flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-xl bg-teal/10 text-teal">
                       <Icon className="h-6 w-6" />
@@ -57,7 +57,7 @@ export default function InsurancePage() {
                   </div>
                   <p className="text-sm text-foreground/80 leading-relaxed mb-3">{plan.description}</p>
                   <p className="text-xs text-muted-foreground mb-5"><span className="font-medium text-foreground">Best for:</span> {plan.bestFor}</p>
-                  <div className="mt-auto pt-5 border-t border-[#E5E0D8]">
+                  <div className="mt-auto pt-5 border-t border-border">
                     <p className="text-sm font-semibold text-teal mb-3">Price: Live Rate on Request</p>
                     <WhatsAppButton
                       message={insuranceInquiry(plan.name)}
@@ -81,7 +81,7 @@ export default function InsurancePage() {
           <SectionHeading eyebrow="Why Us" title="Why Get Insured With HTG?" />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
             {whyInsured.map((item) => (
-              <div key={item.title} className="bg-white rounded-2xl p-6 border border-[#E5E0D8]/60 shadow-htg text-center">
+              <div key={item.title} className="bg-card rounded-2xl p-6 border border-border/60 shadow-htg text-center">
                 <div className="mx-auto inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>

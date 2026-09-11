@@ -54,7 +54,7 @@ export default function UmrahPage() {
       {/* Quote Builder */}
       <section className="py-16 lg:py-20">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-[#E5E0D8]">
+          <div className="bg-card rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-border">
             <h2 className="font-heading text-xl font-semibold text-foreground mb-1">Custom Umrah Quote Builder</h2>
             <p className="text-xs text-muted-foreground mb-6">Tell us your preferences and we&apos;ll send a live quote on WhatsApp.</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -119,7 +119,7 @@ export default function UmrahPage() {
             {UMRAH_PACKAGES.map((pkg) => (
               <div
                 key={pkg.id}
-                className="bg-white rounded-2xl border border-[#E5E0D8]/60 shadow-htg overflow-hidden hover:shadow-htg-lg transition-shadow"
+                className="bg-card rounded-2xl border border-border/60 shadow-htg overflow-hidden hover:shadow-htg-lg transition-shadow"
               >
                 <div className="p-6 lg:p-8">
                   <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between gap-4 mb-4">
@@ -164,7 +164,7 @@ export default function UmrahPage() {
                     </ul>
                   </details>
 
-                  <div className="mt-6 pt-6 border-t border-[#E5E0D8] flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+                  <div className="mt-6 pt-6 border-t border-border flex flex-col sm:flex-row sm:items-center justify-between gap-3">
                     <p className="text-sm font-semibold text-teal">Pricing: Real-Time Rates on Request</p>
                     <WhatsAppButton
                       message={umrahInquiry({ package: pkg.title, duration: pkg.duration.split("|")[0].trim() })}
@@ -191,7 +191,7 @@ export default function UmrahPage() {
           />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {assistanceFeatures.map((item) => (
-              <div key={item.title} className="bg-white rounded-2xl p-6 border border-[#E5E0D8]/60 shadow-htg">
+              <div key={item.title} className="bg-card rounded-2xl p-6 border border-border/60 shadow-htg">
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>

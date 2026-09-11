@@ -86,7 +86,7 @@ export default function AboutPage() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {differences.map((item) => (
-              <div key={item.title} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 text-center">
+              <div key={item.title} className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 text-center">
                 <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-6 w-6" />
                 </div>
@@ -108,7 +108,7 @@ export default function AboutPage() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {features.map((feat) => (
-              <div key={feat.title} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 hover:shadow-htg-lg transition-shadow">
+              <div key={feat.title} className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 hover:shadow-htg-lg transition-shadow">
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <feat.icon className="h-5 w-5" />
                 </div>
@@ -129,7 +129,7 @@ export default function AboutPage() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {values.map((v) => (
-              <div key={v.title} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60">
+              <div key={v.title} className="bg-card rounded-2xl p-6 shadow-htg border border-border/60">
                 <h3 className="font-heading text-lg font-semibold text-foreground mb-2 flex items-center gap-2">
                   <Sparkles className="h-4 w-4 text-gold" />
                   {v.title}
@@ -147,7 +147,7 @@ export default function AboutPage() {
           <h2 className="font-heading text-2xl md:text-3xl font-semibold text-foreground mb-6 text-center">What We Do</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
             {services.map((s) => (
-              <div key={s} className="flex items-start gap-3 bg-white rounded-xl p-4 border border-[#E5E0D8]/60">
+              <div key={s} className="flex items-start gap-3 bg-card rounded-xl p-4 border border-border/60">
                 <CheckCircle2 className="h-5 w-5 text-teal flex-shrink-0 mt-0.5" />
                 <span className="text-sm text-foreground">{s}</span>
               </div>
@@ -177,7 +177,7 @@ export default function AboutPage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {quickLinks.map((q) => (
-              <a key={q.title} href={q.href} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 hover:shadow-htg-lg transition-shadow block">
+              <a key={q.title} href={q.href} className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 hover:shadow-htg-lg transition-shadow block">
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-navy/5 text-foreground mb-4">
                   <q.icon className="h-5 w-5" />
                 </div>

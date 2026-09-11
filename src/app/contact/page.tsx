@@ -34,7 +34,7 @@ export default function ContactPage() {
       {/* Palestine Support */}
       <section className="py-12 lg:py-16">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <div className="bg-white rounded-2xl p-8 shadow-htg border border-[#E5E0D8] text-center">
+          <div className="bg-card rounded-2xl p-8 shadow-htg border border-border text-center">
             <p className="text-5xl mb-3">🇵🇸</p>
             <h2 className="font-heading text-2xl font-semibold text-foreground mb-2">We Stand with Palestine</h2>
             <p className="text-sm text-foreground/80 max-w-xl mx-auto mb-4">
@@ -56,7 +56,7 @@ export default function ContactPage() {
       <section className="pb-12">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <div className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 text-center">
+            <div className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 text-center">
               <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                 <Mail className="h-6 w-6" />
               </div>
@@ -66,7 +66,7 @@ export default function ContactPage() {
               </a>
               <p className="mt-2 text-xs text-muted-foreground">Our support team responds within 24 hours.</p>
             </div>
-            <div className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 text-center">
+            <div className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 text-center">
               <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                 <MessageCircle className="h-6 w-6" />
               </div>
@@ -76,7 +76,7 @@ export default function ContactPage() {
               </a>
               <p className="mt-2 text-xs text-muted-foreground">Chat with us instantly on WhatsApp.</p>
             </div>
-            <div className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 text-center">
+            <div className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 text-center">
               <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                 <MapPin className="h-6 w-6" />
               </div>
@@ -91,7 +91,7 @@ export default function ContactPage() {
       {/* Contact Form */}
       <section className="py-12">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-[#E5E0D8]">
+          <div className="bg-card rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-border">
             <h2 className="font-heading text-xl font-semibold text-foreground mb-1">Send Us a Message</h2>
             <p className="text-xs text-muted-foreground mb-6">
               The form does not submit to a server. It opens WhatsApp with a pre-filled message containing the form data.
@@ -124,7 +124,7 @@ export default function ContactPage() {
       {/* Map */}
       <section className="pb-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="bg-white rounded-2xl overflow-hidden shadow-htg border border-[#E5E0D8]">
+          <div className="bg-card rounded-2xl overflow-hidden shadow-htg border border-border">
             <iframe
               title="Sialkot, Punjab, Pakistan location map"
               src="https://www.google.com/maps?q=Sialkot,Punjab,Pakistan&output=embed"

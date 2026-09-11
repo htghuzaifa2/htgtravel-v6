@@ -56,7 +56,7 @@ export default function CorporatePage() {
       {/* Form */}
       <section className="py-16 lg:py-20">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-[#E5E0D8]">
+          <div className="bg-card rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-border">
             <h2 className="font-heading text-xl font-semibold text-foreground mb-6">Corporate Quote Request</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
@@ -109,7 +109,7 @@ export default function CorporatePage() {
           <SectionHeading eyebrow="Benefits" title="Why Choose HTG for Corporate Travel" />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {benefits.map((item) => (
-              <div key={item.title} className="bg-white rounded-2xl p-6 border border-[#E5E0D8]/60 shadow-htg">
+              <div key={item.title} className="bg-card rounded-2xl p-6 border border-border/60 shadow-htg">
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>
@@ -127,7 +127,7 @@ export default function CorporatePage() {
           <SectionHeading eyebrow="Clients" title="Who We Serve" />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {clients.map((item) => (
-              <div key={item.title} className="bg-white rounded-2xl p-6 border border-[#E5E0D8]/60 shadow-htg">
+              <div key={item.title} className="bg-card rounded-2xl p-6 border border-border/60 shadow-htg">
                 <h3 className="font-heading text-base font-semibold text-foreground mb-2">{item.title}</h3>
                 <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
               </div>

@@ -39,13 +39,13 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
           {/* Brand & Contact */}
           <div className="lg:col-span-1">
-            <Link href="/" className="flex items-center gap-2 mb-4">
+            <Link href="/" className="flex items-center mb-4">
               <Image
                 src="/logo-white.svg"
                 alt="HTG Travels logo"
-                width={120}
-                height={32}
-                className="h-8 w-auto"
+                width={160}
+                height={40}
+                className="h-9 w-auto"
               />
             </Link>
             <p className="font-heading text-sm font-semibold text-gold">{SITE.tagline}</p>

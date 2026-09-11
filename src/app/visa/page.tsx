@@ -48,7 +48,7 @@ export default function VisaPage() {
           />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {VISA_COUNTRIES.map((v) => (
-              <div key={v.country} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 hover:shadow-htg-lg transition-shadow flex flex-col">
+              <div key={v.country} className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 hover:shadow-htg-lg transition-shadow flex flex-col">
                 <div className="flex items-center justify-between">
                   <p className="font-heading text-xl font-semibold text-foreground flex items-center gap-2">
                     <span className="text-3xl">{v.flag}</span>
@@ -62,7 +62,7 @@ export default function VisaPage() {
                   <p className="text-foreground/80"><span className="font-medium text-muted-foreground">Processing Time: </span>{v.processingTime}</p>
                   <p className="text-foreground/80"><span className="font-medium text-muted-foreground">Visa Validity: </span>{v.validity}</p>
                 </div>
-                <div className="mt-4 pt-4 border-t border-[#E5E0D8]">
+                <div className="mt-4 pt-4 border-t border-border">
                   <p className="text-xs font-medium text-muted-foreground mb-2">Basic Requirements:</p>
                   <ul className="space-y-1.5">
                     {v.requirements.map((r) => (
@@ -73,7 +73,7 @@ export default function VisaPage() {
                     ))}
                   </ul>
                 </div>
-                <div className="mt-5 pt-4 border-t border-[#E5E0D8]">
+                <div className="mt-5 pt-4 border-t border-border">
                   <p className="text-sm font-semibold text-teal mb-3">Visa Fee: Live Rate on Request</p>
                   <WhatsAppButton
                     message={`Hi HTG Travels, I need visa consultation for ${v.country} (${v.visaType}). Please share requirements and live processing fees.`}
@@ -100,7 +100,7 @@ export default function VisaPage() {
           />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
             {whyProcess.map((item) => (
-              <div key={item.title} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60">
+              <div key={item.title} className="bg-card rounded-2xl p-6 shadow-htg border border-border/60">
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>
@@ -118,7 +118,7 @@ export default function VisaPage() {
           <SectionHeading eyebrow="Timeline" title="How Your Visa Application Works" />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-5 gap-4">
             {processSteps.map((item) => (
-              <div key={item.step} className="bg-white rounded-2xl p-5 border border-[#E5E0D8]/60 shadow-htg text-center">
+              <div key={item.step} className="bg-card rounded-2xl p-5 border border-border/60 shadow-htg text-center">
                 <div className="mx-auto inline-flex h-10 w-10 items-center justify-center rounded-full bg-navy text-gold font-heading text-base font-bold mb-3">
                   {item.step}
                 </div>

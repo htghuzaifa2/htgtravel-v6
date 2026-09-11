@@ -59,13 +59,13 @@ export default function FlightsPage() {
       {/* Quote Form */}
       <section className="py-16 lg:py-20">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-[#E5E0D8]">
+          <div className="bg-card rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-border">
             <div className="flex items-center justify-center gap-2 mb-6">
               <button
                 onClick={() => setTripType("round")}
                 className={cn(
                   "px-5 py-2 rounded-full text-sm font-semibold transition",
-                  tripType === "round" ? "bg-foreground text-background" : "bg-muted/60 text-foreground hover:bg-muted"
+                  tripType === "round" ? "bg-gold text-navy" : "bg-muted/60 text-muted-foreground hover:bg-muted"
                 )}
               >
                 Round Trip (Return)
@@ -74,7 +74,7 @@ export default function FlightsPage() {
                 onClick={() => setTripType("oneway")}
                 className={cn(
                   "px-5 py-2 rounded-full text-sm font-semibold transition",
-                  tripType === "oneway" ? "bg-foreground text-background" : "bg-muted/60 text-foreground hover:bg-muted"
+                  tripType === "oneway" ? "bg-gold text-navy" : "bg-muted/60 text-muted-foreground hover:bg-muted"
                 )}
               >
                 One Way
@@ -153,7 +153,7 @@ export default function FlightsPage() {
           />
           <div className="mt-10 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3">
             {AIRLINES.map((a) => (
-              <div key={a} className="bg-white rounded-xl p-4 text-center border border-[#E5E0D8]/60 shadow-sm hover:shadow-md transition">
+              <div key={a} className="bg-card rounded-xl p-4 text-center border border-border/60 shadow-sm hover:shadow-md transition">
                 <p className="font-heading text-sm font-semibold text-foreground">{a}</p>
               </div>
             ))}
@@ -167,7 +167,7 @@ export default function FlightsPage() {
           <SectionHeading eyebrow="Why Book With Us" title="Why Book Your Flight With HTG Travels" />
           <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {whyBook.map((item) => (
-              <div key={item.title} className="bg-white rounded-2xl p-6 border border-[#E5E0D8]/60 shadow-htg">
+              <div key={item.title} className="bg-card rounded-2xl p-6 border border-border/60 shadow-htg">
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>

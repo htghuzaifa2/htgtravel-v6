@@ -61,7 +61,7 @@ export default function DestinationsPage() {
                 placeholder="Search routes (e.g. Sialkot, Dubai, SKT, London...)"
                 value={search}
                 onChange={(e) => { setSearch(e.target.value); setPage(1); }}
-                className="pl-9 bg-white border-[#E5E0D8] h-10"
+                className="pl-9 bg-card border-border h-10"
               />
             </div>
           </div>
@@ -71,7 +71,7 @@ export default function DestinationsPage() {
           </p>
 
           {pageRoutes.length === 0 ? (
-            <div className="bg-white rounded-2xl p-12 text-center border border-[#E5E0D8]/60">
+            <div className="bg-card rounded-2xl p-12 text-center border border-border/60">
               <p className="text-foreground mb-4">No routes found matching your search.</p>
               <WhatsAppButton
                 message="Hi HTG Travels, I'm looking for a flight route that I couldn't find on your site. Can you help?"
@@ -85,7 +85,7 @@ export default function DestinationsPage() {
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {pageRoutes.map((route) => (
-                <div key={route.code} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 hover:shadow-htg-lg transition-shadow flex flex-col">
+                <div key={route.code} className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 hover:shadow-htg-lg transition-shadow flex flex-col">
                   <div className="flex items-start justify-between gap-2 mb-3">
                     <div>
                       <p className="font-heading text-base font-semibold text-foreground">{route.code}</p>
@@ -105,7 +105,7 @@ export default function DestinationsPage() {
                     <p className="flex items-center gap-1.5"><Clock className="h-3.5 w-3.5" /> {route.duration}</p>
                     <p className="flex items-center gap-1.5"><Plane className="h-3.5 w-3.5" /> {route.airlines.join(", ")}</p>
                   </div>
-                  <div className="mt-auto pt-4 border-t border-[#E5E0D8]">
+                  <div className="mt-auto pt-4 border-t border-border">
                     <p className="text-sm font-semibold text-teal mb-3">Live Rate on Request</p>
                     <WhatsAppButton
                       message={routeInquiry(route.code, route.name)}
