@@ -13,11 +13,16 @@ type WhatsAppButtonProps = {
 };
 
 const variantClasses = {
-  primary: "bg-gold text-foreground hover:brightness-105 shadow-sm hover:shadow-md",
-  secondary: "bg-teal text-white hover:brightness-110",
-  navy: "bg-navy text-white hover:bg-charcoal",
-  outline: "bg-transparent text-foreground border-2 border-navy hover:bg-navy hover:text-white",
-  gold: "bg-gold text-foreground hover:brightness-105 shadow-md",
+  // Gold filled button — always dark text on gold (works in both themes)
+  primary: "bg-gold text-navy hover:brightness-110 shadow-sm hover:shadow-md",
+  // Teal filled button — always dark text on teal
+  secondary: "bg-teal text-navy hover:brightness-110 shadow-sm hover:shadow-md",
+  // Navy filled button — always white text on navy
+  navy: "bg-foreground text-background hover:brightness-110 shadow-sm hover:shadow-md",
+  // Outline button — uses foreground color for border+text (theme-aware, always visible)
+  outline: "bg-transparent text-foreground border-2 border-foreground/30 hover:bg-foreground/10 hover:border-foreground/60 backdrop-blur-sm",
+  // Gold filled (same as primary)
+  gold: "bg-gold text-navy hover:brightness-110 shadow-md",
 };
 
 const sizeClasses = {

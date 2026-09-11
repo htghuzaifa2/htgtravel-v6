@@ -277,7 +277,7 @@ export function Hero() {
 
                   <button
                     onClick={handleSubmit}
-                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
+                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
                   >
                     <Send className="h-4 w-4" />
                     Get Live Rate on WhatsApp
@@ -350,7 +350,7 @@ export function Hero() {
 
                   <button
                     onClick={handleSubmit}
-                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
+                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
                   >
                     <Send className="h-4 w-4" />
                     Get Live Rate on WhatsApp

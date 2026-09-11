@@ -25,7 +25,7 @@ export function Footer() {
             </div>
             <button
               onClick={() => openWhatsApp(generalInquiry())}
-              className="inline-flex items-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md whitespace-nowrap"
+              className="inline-flex items-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md whitespace-nowrap"
             >
               <MessageCircle className="h-4 w-4" />
               Message on WhatsApp

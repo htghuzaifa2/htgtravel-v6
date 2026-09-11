@@ -105,7 +105,7 @@ export function Header() {
               <ThemeToggle />
               <button
                 onClick={() => openWhatsApp(generalInquiry())}
-                className="hidden sm:inline-flex items-center gap-1.5 rounded-full bg-gold px-4 lg:px-5 py-2.5 text-sm font-semibold text-foreground hover:brightness-105 transition-all shadow-sm hover:shadow-md"
+                className="hidden sm:inline-flex items-center gap-1.5 rounded-full bg-gold px-4 lg:px-5 py-2.5 text-sm font-semibold text-navy hover:brightness-105 transition-all shadow-sm hover:shadow-md"
               >
                 <Send className="h-3.5 w-3.5" />
                 Get Live Quote
