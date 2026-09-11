@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { Send, Mail, MapPin, Clock, MessageCircle } from "lucide-react";
 import { SITE, FOOTER_LINKS } from "@/lib/constants";
 import { openWhatsApp, generalInquiry } from "@/lib/whatsapp";
@@ -8,7 +9,7 @@ export function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="bg-navy text-white">
+    <footer className="bg-navy text-white mt-auto">
       {/* Bottom Bar CTA */}
       <div className="border-b border-white/10">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10">
@@ -37,18 +38,18 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
           {/* Brand & Contact */}
           <div className="lg:col-span-1">
-            <div className="flex items-center gap-2 mb-4">
-              <span className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-white/10 text-gold">
+            <Link href="/" className="flex items-center gap-2 mb-4">
+              <span className="inline-flex h-9 w-9 items-center justify-center rounded-xl bg-white/10 text-gold">
                 <Send className="h-4 w-4" />
               </span>
               <span className="font-heading text-xl">
                 <span className="font-bold">HTG</span>
                 <span className="text-white/60"> Travels</span>
               </span>
-            </div>
+            </Link>
             <p className="font-heading text-sm font-semibold text-gold">{SITE.tagline}</p>
             <p className="mt-3 text-sm leading-relaxed text-white/70">
-              Sialkot&apos;s trusted travel desk for domestic &amp; international air ticketing, fast tourist visa processing, and travel insurance worldwide.
+              {SITE.secondaryTagline} — flight ticketing, visa consultation, Umrah packages, and travel insurance for Pakistani travelers worldwide.
             </p>
             <p className="mt-3 text-xs text-white/50">
               Airline fares &amp; services are dynamically quoted in real-time — no outdated price lists.
@@ -102,12 +103,9 @@ export function Footer() {
             <ul className="space-y-2">
               {FOOTER_LINKS.airTickets.map((link) => (
                 <li key={link.label}>
-                  <a
-                    href={link.href}
-                    className="text-sm text-white/70 hover:text-gold transition-colors"
-                  >
+                  <Link href={link.href} className="text-sm text-white/70 hover:text-gold transition-colors">
                     {link.label}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -121,12 +119,9 @@ export function Footer() {
             <ul className="space-y-2">
               {FOOTER_LINKS.visaConsultation.map((link) => (
                 <li key={link.label}>
-                  <a
-                    href={link.href}
-                    className="text-sm text-white/70 hover:text-gold transition-colors"
-                  >
+                  <Link href={link.href} className="text-sm text-white/70 hover:text-gold transition-colors">
                     {link.label}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -140,12 +135,9 @@ export function Footer() {
             <ul className="space-y-2 mb-6">
               {FOOTER_LINKS.travelServices.map((link) => (
                 <li key={link.label}>
-                  <a
-                    href={link.href}
-                    className="text-sm text-white/70 hover:text-gold transition-colors"
-                  >
+                  <Link href={link.href} className="text-sm text-white/70 hover:text-gold transition-colors">
                     {link.label}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -155,12 +147,9 @@ export function Footer() {
             <ul className="space-y-2">
               {FOOTER_LINKS.resources.map((link) => (
                 <li key={link.label}>
-                  <a
-                    href={link.href}
-                    className="text-sm text-white/70 hover:text-gold transition-colors"
-                  >
+                  <Link href={link.href} className="text-sm text-white/70 hover:text-gold transition-colors">
                     {link.label}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -193,33 +182,19 @@ export function Footer() {
           </div>
         </div>
 
-        {/* Better Call HTG Easter Egg Badge */}
-        <div className="mt-10 flex justify-center">
-          <div className="relative">
-            <div
-              className="h-20 w-20 rounded-full border-2 border-gold bg-navy flex flex-col items-center justify-center text-gold text-center"
-              title="Better Call HTG"
-            >
-              <Send className="h-4 w-4 mb-0.5" />
-              <span className="font-heading text-[8px] font-bold leading-tight">BETTER CALL</span>
-              <span className="font-heading text-[10px] font-bold leading-tight">HTG</span>
-            </div>
-          </div>
-        </div>
-
         {/* Copyright */}
         <div className="mt-10 pt-6 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/50 text-center md:text-left">
-            © {year} HTG Travels. All rights reserved. Travel &amp; ticketing desk in Sialkot, Pakistan.
+            © {year} HTG Travels. All rights reserved. Travel &amp; ticketing desk based in Sialkot, Pakistan — serving travelers nationwide.
           </p>
           <div className="flex items-center gap-4">
-            <a href="#privacy" className="text-xs text-white/70 hover:text-gold transition-colors">
+            <Link href="/privacy-policy" className="text-xs text-white/70 hover:text-gold transition-colors">
               Privacy Policy
-            </a>
+            </Link>
             <span className="text-white/30">|</span>
-            <a href="#terms" className="text-xs text-white/70 hover:text-gold transition-colors">
+            <Link href="/terms-of-service" className="text-xs text-white/70 hover:text-gold transition-colors">
               Terms of Service
-            </a>
+            </Link>
           </div>
         </div>
       </div>

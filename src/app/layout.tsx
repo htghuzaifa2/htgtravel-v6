@@ -2,6 +2,10 @@ import type { Metadata } from "next";
 import { Sora, Inter } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/sonner";
+import { PalestineBanner } from "@/components/layout/palestine-banner";
+import { Header } from "@/components/layout/header";
+import { Footer } from "@/components/layout/footer";
+import { StickyWhatsApp } from "@/components/layout/sticky-whatsapp";
 
 const sora = Sora({
   variable: "--font-sora",
@@ -18,12 +22,15 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "HTG Travels — Flight Tickets & Visa Consultation in Sialkot",
+  title: {
+    default: "HTG Travels — Flight Tickets & Visa Consultation in Pakistan",
+    template: "%s | HTG Travels",
+  },
   description:
-    "Book domestic & international flights, get visa consultation, Umrah packages, and travel insurance. Sialkot-based travel desk. WhatsApp-first inquiry.",
+    "Book domestic & international flights, get visa consultation, Umrah packages, and travel insurance. Pakistan-based travel desk serving travelers nationwide. WhatsApp-first inquiry.",
   keywords: [
     "HTG Travels",
-    "Sialkot travel agency",
+    "Pakistan travel agency",
     "flight tickets Pakistan",
     "visa consultation",
     "Umrah packages",
@@ -38,9 +45,9 @@ export const metadata: Metadata = {
     canonical: "https://htg.com.pk",
   },
   openGraph: {
-    title: "HTG Travels — Flight Tickets & Visa Consultation in Sialkot",
+    title: "HTG Travels — Flight Tickets & Visa Consultation in Pakistan",
     description:
-      "Book domestic & international flights, get visa consultation, Umrah packages, and travel insurance. Sialkot-based travel desk.",
+      "Book domestic & international flights, get visa consultation, Umrah packages, and travel insurance. Pakistan-based travel desk.",
     url: "https://htg.com.pk",
     siteName: "HTG Travels",
     type: "website",
@@ -48,7 +55,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "HTG Travels — Sialkot's Trusted Travel Desk",
+    title: "HTG Travels — Pakistan's Trusted Travel Desk",
     description:
       "Flight tickets, visa consultation, Umrah packages, and travel insurance. WhatsApp-first.",
   },
@@ -63,7 +70,7 @@ const travelAgencySchema = {
   "@type": "TravelAgency",
   name: "HTG Travels",
   description:
-    "Sialkot's trusted travel desk for domestic & international air ticketing, fast tourist visa processing, and travel insurance worldwide.",
+    "Pakistan's trusted travel desk for domestic & international air ticketing, fast tourist visa processing, and travel insurance worldwide.",
   url: "https://htg.com.pk",
   telephone: "+923251480148",
   email: "htghuzaifa@gmail.com",
@@ -73,6 +80,7 @@ const travelAgencySchema = {
     addressRegion: "Punjab",
     addressCountry: "PK",
   },
+  areaServed: ["Pakistan", "Worldwide"],
   openingHours: "Mo-Su 08:00-21:00",
   priceRange: "$$",
 };
@@ -93,7 +101,13 @@ export default function RootLayout({
       <body
         className={`${sora.variable} ${inter.variable} font-sans antialiased bg-background text-foreground`}
       >
-        {children}
+        <div className="min-h-screen flex flex-col">
+          <PalestineBanner />
+          <Header />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </div>
+        <StickyWhatsApp />
         <Toaster richColors position="top-center" />
       </body>
     </html>

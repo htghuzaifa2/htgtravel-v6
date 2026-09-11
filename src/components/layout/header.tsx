@@ -2,14 +2,27 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { Menu, X, Send } from "lucide-react";
-import { NAV_ITEMS, SITE } from "@/lib/constants";
+import { usePathname } from "next/navigation";
+import { Menu, X, Send, ChevronDown, Plane, FileCheck, ShieldCheck, Building2, Briefcase, Globe, MapPin } from "lucide-react";
+import { SITE } from "@/lib/constants";
 import { openWhatsApp, generalInquiry } from "@/lib/whatsapp";
 import { cn } from "@/lib/utils";
+
+// Service mega-menu items — shown in a dropdown when hovering "Services"
+const SERVICES = [
+  { icon: Plane, label: "Flights", href: "/flights", description: "Domestic & international air tickets" },
+  { icon: FileCheck, label: "Visa Consultation", href: "/visa", description: "Tourist & business visas for 12+ countries" },
+  { icon: ShieldCheck, label: "Umrah & Hajj", href: "/umrah", description: "Pilgrimage packages with hotels near Haram" },
+  { icon: Briefcase, label: "Travel Insurance", href: "/insurance", description: "Schengen-approved, cancellation & baggage" },
+  { icon: Building2, label: "Corporate Travel", href: "/corporate", description: "Dedicated account management & group fares" },
+  { icon: Globe, label: "Destinations", href: "/destinations", description: "Browse all flight routes from Pakistan" },
+];
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [servicesOpen, setServicesOpen] = useState(false);
+  const pathname = usePathname();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 60);
@@ -18,78 +31,104 @@ export function Header() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  // Close mobile drawer on route change (deferred to avoid effect-render warning)
+  useEffect(() => {
+    if (mobileOpen) {
+      const t = setTimeout(() => setMobileOpen(false), 0);
+      return () => clearTimeout(t);
+    }
+    if (servicesOpen) {
+      const t = setTimeout(() => setServicesOpen(false), 0);
+      return () => clearTimeout(t);
+    }
+  }, [pathname]);
+
+  // Lock body scroll when mobile drawer is open
   useEffect(() => {
     if (mobileOpen) {
       document.body.style.overflow = "hidden";
     } else {
       document.body.style.overflow = "";
     }
-    return () => {
-      document.body.style.overflow = "";
-    };
+    return () => { document.body.style.overflow = ""; };
   }, [mobileOpen]);
 
-  const handleNavClick = (href: string) => {
-    setMobileOpen(false);
-    // Slight delay to allow drawer to close
-    setTimeout(() => {
-      const el = document.querySelector(href);
-      if (el) {
-        el.scrollIntoView({ behavior: "smooth", block: "start" });
-      }
-    }, 100);
+  const isActive = (href: string) => {
+    if (href === "/") return pathname === "/";
+    return pathname.startsWith(href);
   };
+
+  const navItems: { label: string; href: string }[] = [
+    { label: "Home", href: "/" },
+    { label: "Flights", href: "/flights" },
+    { label: "Visas", href: "/visa" },
+    { label: "Umrah", href: "/umrah" },
+    { label: "Insurance", href: "/insurance" },
+    { label: "Destinations", href: "/destinations" },
+    { label: "Corporate", href: "/corporate" },
+    { label: "About", href: "/about" },
+    { label: "Contact", href: "/contact" },
+  ];
 
   return (
     <>
       <header
         className={cn(
-          "sticky top-0 z-40 bg-white border-b transition-shadow",
+          "sticky top-0 z-40 bg-white/95 backdrop-blur-sm border-b transition-all duration-200",
           scrolled ? "border-[#E5E0D8] shadow-sm" : "border-transparent"
         )}
-        style={{ height: scrolled ? "64px" : "72px" }}
       >
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-full flex items-center justify-between">
-          {/* Logo */}
-          <Link href="#home" onClick={() => handleNavClick("#home")} className="flex items-center gap-2 group">
-            <span className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-navy text-gold">
-              <Send className="h-4 w-4" />
-            </span>
-            <span className="font-heading text-xl">
-              <span className="font-bold text-navy">HTG</span>
-              <span className="text-navy/60"> Travels</span>
-            </span>
-          </Link>
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="flex items-center justify-between h-16 lg:h-20">
+            {/* Logo */}
+            <Link href="/" className="flex items-center gap-2 group flex-shrink-0">
+              <span className="inline-flex h-9 w-9 items-center justify-center rounded-xl bg-navy text-gold transition-transform group-hover:scale-105">
+                <Send className="h-4 w-4" />
+              </span>
+              <span className="font-heading text-lg lg:text-xl">
+                <span className="font-bold text-navy">HTG</span>
+                <span className="text-navy/60"> Travels</span>
+              </span>
+            </Link>
 
-          {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-1">
-            {NAV_ITEMS.map((item) => (
+            {/* Desktop Nav */}
+            <nav className="hidden lg:flex items-center gap-0.5 flex-1 justify-center">
+              {navItems.map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className={cn(
+                    "relative px-3 py-2 text-sm font-medium transition-colors rounded-md",
+                    isActive(item.href)
+                      ? "text-teal"
+                      : "text-charcoal hover:text-teal"
+                  )}
+                >
+                  {item.label}
+                  {isActive(item.href) && (
+                    <span className="absolute left-3 right-3 -bottom-0.5 h-0.5 rounded-full bg-teal" />
+                  )}
+                </Link>
+              ))}
+            </nav>
+
+            {/* CTA + Mobile toggle */}
+            <div className="flex items-center gap-2 flex-shrink-0">
               <button
-                key={item.href}
-                onClick={() => handleNavClick(item.href)}
-                className="px-3 py-2 text-sm font-medium text-charcoal hover:text-teal transition-colors rounded-md hover:bg-sand/60"
+                onClick={() => openWhatsApp(generalInquiry())}
+                className="hidden sm:inline-flex items-center gap-1.5 rounded-full bg-gold px-4 lg:px-5 py-2.5 text-sm font-semibold text-navy hover:brightness-105 transition-all shadow-sm hover:shadow-md"
               >
-                {item.label}
+                <Send className="h-3.5 w-3.5" />
+                Get Live Quote
               </button>
-            ))}
-          </nav>
-
-          {/* CTA */}
-          <div className="flex items-center gap-2">
-            <button
-              onClick={() => openWhatsApp(generalInquiry())}
-              className="hidden sm:inline-flex items-center gap-2 rounded-full bg-gold px-5 py-2.5 text-sm font-semibold text-navy hover:brightness-105 transition-all shadow-sm hover:shadow-md"
-              style={{ height: "40px" }}
-            >
-              Get Live Quote
-            </button>
-            <button
-              onClick={() => setMobileOpen(true)}
-              className="lg:hidden inline-flex h-10 w-10 items-center justify-center rounded-md text-navy hover:bg-sand"
-              aria-label="Open menu"
-            >
-              <Menu className="h-5 w-5" />
-            </button>
+              <button
+                onClick={() => setMobileOpen(true)}
+                className="lg:hidden inline-flex h-10 w-10 items-center justify-center rounded-md text-navy hover:bg-sand"
+                aria-label="Open menu"
+              >
+                <Menu className="h-5 w-5" />
+              </button>
+            </div>
           </div>
         </div>
       </header>
@@ -113,15 +152,31 @@ export function Header() {
               </button>
             </div>
             <nav className="flex-1 overflow-y-auto py-2">
-              {NAV_ITEMS.map((item) => (
-                <button
+              {navItems.map((item) => (
+                <Link
                   key={item.href}
-                  onClick={() => handleNavClick(item.href)}
-                  className="w-full px-5 py-3 text-left text-base font-medium text-charcoal hover:bg-sand hover:text-teal transition-colors"
+                  href={item.href}
+                  className={cn(
+                    "block px-5 py-3 text-base font-medium transition-colors",
+                    isActive(item.href)
+                      ? "text-teal bg-teal/5 border-l-2 border-teal"
+                      : "text-charcoal hover:bg-sand hover:text-teal"
+                  )}
                 >
                   {item.label}
-                </button>
+                </Link>
               ))}
+              <Link
+                href="/faq"
+                className={cn(
+                  "block px-5 py-3 text-base font-medium transition-colors",
+                  isActive("/faq")
+                    ? "text-teal bg-teal/5 border-l-2 border-teal"
+                    : "text-charcoal hover:bg-sand hover:text-teal"
+                )}
+              >
+                FAQ
+              </Link>
             </nav>
             <div className="p-5 border-t border-[#E5E0D8]">
               <button

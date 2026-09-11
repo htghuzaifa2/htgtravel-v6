@@ -10,55 +10,55 @@ export type Route = {
 
 export const POPULAR_ROUTES: Route[] = [
   {
-    code: "SKT → DXB",
-    name: "Sialkot to Dubai",
-    description: "Direct Sialkot to Dubai flights with live rates on WhatsApp. Emirates, flydubai, PIA ticketing.",
-    duration: "3 hrs 15 mins",
+    code: "LHE → DXB",
+    name: "Lahore to Dubai",
+    description: "Direct Lahore to Dubai flights with live rates on WhatsApp. Emirates, flydubai, PIA ticketing.",
+    duration: "3 hrs 5 mins",
     airlines: ["Emirates", "flydubai", "PIA"],
     category: "International",
     frequency: "Daily Multiple Flights",
   },
   {
-    code: "SKT → JED",
-    name: "Sialkot to Jeddah",
+    code: "ISB → JED",
+    name: "Islamabad to Jeddah",
     description: "Direct flights to Jeddah for Umrah & Hajj pilgrims. PIA, Saudia, flynas ticketing available.",
-    duration: "4 hrs 30 mins",
+    duration: "4 hrs 50 mins",
     airlines: ["PIA", "Saudia", "flynas"],
     category: "International",
     frequency: "Daily Flights",
   },
   {
-    code: "SKT → LHR",
-    name: "Sialkot to London",
+    code: "KHI → LHR",
+    name: "Karachi to London",
     description: "Connecting flights to London Heathrow via Emirates, Qatar Airways, and Turkish Airlines.",
-    duration: "11 hrs 45 mins",
+    duration: "10 hrs 30 mins",
     airlines: ["Emirates", "Qatar", "Turkish"],
     category: "International",
     frequency: "Daily Flights",
   },
   {
-    code: "SKT → IST",
-    name: "Sialkot to Istanbul",
+    code: "LHE → IST",
+    name: "Lahore to Istanbul",
     description: "Direct and connecting flights to Istanbul with Turkish Airlines and PIA. Visa consultation available.",
-    duration: "6 hrs 20 mins",
+    duration: "6 hrs",
     airlines: ["Turkish Airlines", "PIA"],
     category: "International",
     frequency: "Daily Flights",
   },
   {
-    code: "SKT → DOH",
-    name: "Sialkot to Doha",
-    description: "Qatar Airways and PIA flights from Sialkot to Doha with same-day connections worldwide.",
-    duration: "3 hrs 45 mins",
+    code: "ISB → DOH",
+    name: "Islamabad to Doha",
+    description: "Qatar Airways and PIA flights from Islamabad to Doha with same-day connections worldwide.",
+    duration: "3 hrs 40 mins",
     airlines: ["Qatar Airways", "PIA"],
     category: "International",
     frequency: "Daily Multiple Flights",
   },
   {
-    code: "SKT → KUL",
-    name: "Sialkot to Kuala Lumpur",
+    code: "KHI → KUL",
+    name: "Karachi to Kuala Lumpur",
     description: "Connecting flights to Kuala Lumpur with Malaysia Airlines and Thai Airways.",
-    duration: "8 hrs 30 mins",
+    duration: "7 hrs 20 mins",
     airlines: ["Malaysia Airlines", "Thai"],
     category: "International",
     frequency: "Daily Flights",
@@ -614,42 +614,28 @@ export const FAQS: FAQ[] = [
   },
 ];
 
-export const TESTIMONIALS = [
-  {
-    quote: "Booked my Umrah package through HTG Travels. Everything was arranged — flight, hotel near Haram, and the visa came in two days. Very smooth experience.",
-    name: "Muhammad A.",
-    location: "Sialkot",
-  },
-  {
-    quote: "I needed an urgent ticket to Dubai. Messaged them on WhatsApp at 11 PM and had my e-ticket by morning. Genuinely 24/7 service.",
-    name: "Fatima R.",
-    location: "Lahore",
-  },
-  {
-    quote: "They helped me prepare my UK visitor visa file step by step. Explained every document and even reviewed my bank statement. Visa approved.",
-    name: "Usman K.",
-    location: "Islamabad",
-  },
-];
+export const TESTIMONIALS: never[] = [];
 
-export const BLOG_POSTS = [
-  { slug: "uk-visitor-visa-guide-2026", title: "UK Visitor Visa Guide for Pakistani Citizens (2026)", excerpt: "Complete document checklist, bank statement requirements, and appointment tips.", category: "Visa", date: "2026-09-01", readingTime: "8 min read" },
-  { slug: "schengen-visa-checklist", title: "Schengen Visa Checklist: What You Actually Need", excerpt: "Avoid rejections with this verified document guide.", category: "Visa", date: "2026-08-22", readingTime: "6 min read" },
-  { slug: "umrah-packing-list", title: "Umrah Packing List: The Complete Guide", excerpt: "What to pack, what to buy in Saudi, and what to leave behind.", category: "Umrah", date: "2026-08-10", readingTime: "10 min read" },
-  { slug: "cheap-flights-sialkot", title: "How to Get Cheap Flights From Sialkot", excerpt: "Best booking windows, airlines to watch, and route tips.", category: "Flights", date: "2026-07-28", readingTime: "7 min read" },
-  { slug: "uae-visa-30-60-days", title: "UAE Tourist Visa: 30 vs 60 Days Explained", excerpt: "Which one is right for you and how to extend.", category: "Visa", date: "2026-07-15", readingTime: "5 min read" },
-  { slug: "saudi-tourist-evisa-step-by-step", title: "Saudi Tourist eVisa: Step-by-Step Application", excerpt: "Full walkthrough with screenshots.", category: "Visa", date: "2026-07-01", readingTime: "9 min read" },
-  { slug: "schengen-travel-insurance-requirement", title: "Travel Insurance for Schengen Visa: What Meets the Requirement", excerpt: "Coverage amounts, approved insurers, and common mistakes.", category: "Insurance", date: "2026-06-18", readingTime: "6 min read" },
-  { slug: "top-10-family-umrah-tips", title: "Top 10 Family-Friendly Umrah Tips", excerpt: "Travelling with children, elderly parents, and large groups.", category: "Umrah", date: "2026-06-05", readingTime: "8 min read" },
-  { slug: "business-vs-tourist-visa", title: "Business Visa vs Tourist Visa: Know the Difference", excerpt: "When to apply for which, and why it matters.", category: "Visa", date: "2026-05-22", readingTime: "5 min read" },
-  { slug: "ramadan-umrah-best-dates", title: "Ramadan Umrah: Best Dates and Packages", excerpt: "Planning your pilgrimage during the blessed month.", category: "Umrah", date: "2026-05-08", readingTime: "7 min read" },
+// Travel topics we cover (no fake dates, no fake reading times — these are
+// guides we publish over time. Each opens WhatsApp to request the full guide.)
+export const TRAVEL_GUIDES = [
+  { slug: "uk-visitor-visa-guide", title: "UK Visitor Visa Guide for Pakistani Citizens", excerpt: "Complete document checklist, bank statement requirements, and appointment tips.", category: "Visa" },
+  { slug: "schengen-visa-checklist", title: "Schengen Visa Checklist: What You Actually Need", excerpt: "Avoid rejections with this verified document guide.", category: "Visa" },
+  { slug: "umrah-packing-list", title: "Umrah Packing List: The Complete Guide", excerpt: "What to pack, what to buy in Saudi, and what to leave behind.", category: "Umrah" },
+  { slug: "cheap-flights-pakistan", title: "How to Get Cheap Flights From Pakistan", excerpt: "Best booking windows, airlines to watch, and route tips.", category: "Flights" },
+  { slug: "uae-visa-30-60-days", title: "UAE Tourist Visa: 30 vs 60 Days Explained", excerpt: "Which one is right for you and how to extend.", category: "Visa" },
+  { slug: "saudi-tourist-evisa-step-by-step", title: "Saudi Tourist eVisa: Step-by-Step Application", excerpt: "Full walkthrough with screenshots.", category: "Visa" },
+  { slug: "schengen-travel-insurance-requirement", title: "Travel Insurance for Schengen Visa: What Meets the Requirement", excerpt: "Coverage amounts, approved insurers, and common mistakes.", category: "Insurance" },
+  { slug: "top-10-family-umrah-tips", title: "Top 10 Family-Friendly Umrah Tips", excerpt: "Travelling with children, elderly parents, and large groups.", category: "Umrah" },
+  { slug: "business-vs-tourist-visa", title: "Business Visa vs Tourist Visa: Know the Difference", excerpt: "When to apply for which, and why it matters.", category: "Visa" },
+  { slug: "ramadan-umrah-best-dates", title: "Ramadan Umrah: Best Dates and Packages", excerpt: "Planning your pilgrimage during the blessed month.", category: "Umrah" },
 ];
 
 export const WHY_HTG_FEATURES = [
   { icon: "TrendingUp", title: "Transparent Live Rates", description: "No outdated price lists. We quote real-time fares based on your exact dates." },
   { icon: "Layers", title: "One Desk for Everything", description: "Flights, visas, insurance, hotels, and Umrah packages — all handled by one team." },
   { icon: "MessageCircle", title: "WhatsApp-First Support", description: "No call centers, no ticket numbers. Message us and get a real person within minutes." },
-  { icon: "MapPin", title: "Sialkot-Based, Pakistan-Wide", description: "We are local. Walk into our office or reach us from anywhere in Pakistan." },
+  { icon: "Globe", title: "Pakistan-Wide, Globally Connected", description: "Based in Sialkot, serving travelers across Pakistan and Pakistanis worldwide." },
   { icon: "BadgeCheck", title: "Verified Tickets & Vouchers", description: "Official airline e-tickets and authentic hotel vouchers for visa applications." },
   { icon: "FileText", title: "Document Guidance", description: "We help you prepare, review, and submit your visa file correctly the first time." },
 ];
