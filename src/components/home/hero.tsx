@@ -88,27 +88,16 @@ export function Hero() {
   const getDestAirports = () => DEST_AIRPORTS[destCountry] ?? ["Capital City Airport"];
 
   return (
-    <section className="relative overflow-hidden bg-background">
-      {/* Subtle background patterns — animated blobs that drift */}
-      <motion.div
+    <section className="relative overflow-hidden bg-background pattern-organic">
+      {/* Single subtle drifting blob — minimal GPU cost */}
+      <div
         aria-hidden
-        className="absolute top-0 right-0 w-[28rem] h-[28rem] bg-teal/15 dark:bg-teal/25 rounded-full blur-3xl pointer-events-none"
-        animate={{ x: [0, 30, 0], y: [0, 20, 0], scale: [1, 1.1, 1] }}
-        transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
+        className="absolute -top-32 -right-32 w-96 h-96 bg-teal/10 dark:bg-teal/20 rounded-full blur-3xl pointer-events-none drift-blob"
       />
-      <motion.div
+      <div
         aria-hidden
-        className="absolute bottom-0 left-0 w-[28rem] h-[28rem] bg-gold/15 dark:bg-gold/25 rounded-full blur-3xl pointer-events-none"
-        animate={{ x: [0, -30, 0], y: [0, -20, 0], scale: [1, 1.15, 1] }}
-        transition={{ duration: 12, repeat: Infinity, ease: "easeInOut" }}
+        className="absolute -bottom-32 -left-32 w-96 h-96 bg-gold/10 dark:bg-gold/20 rounded-full blur-3xl pointer-events-none drift-blob-2"
       />
-      <motion.div
-        aria-hidden
-        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[32rem] h-[32rem] bg-blue-500/5 dark:bg-blue-500/10 rounded-full blur-3xl pointer-events-none"
-        animate={{ scale: [1, 1.2, 1], opacity: [0.4, 0.7, 0.4] }}
-        transition={{ duration: 14, repeat: Infinity, ease: "easeInOut" }}
-      />
-      <div className="absolute inset-0 pattern-geometric pointer-events-none" />
 
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 lg:py-24">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">

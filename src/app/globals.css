@@ -38,7 +38,6 @@
   --color-popover: var(--popover);
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
-  /* HTG Brand colors */
   --color-navy: var(--navy);
   --color-teal: var(--teal);
   --color-gold: var(--gold);
@@ -53,16 +52,16 @@
   --radius-xl: calc(var(--radius) + 4px);
 }
 
-/* ============ LIGHT THEME (default — warm sand + navy) ============ */
+/* ============ LIGHT THEME (warm sand + navy) ============ */
 :root {
   --radius: 0.625rem;
-  --background: #F7F3EC; /* Sand */
-  --foreground: #0B1F2A; /* Midnight Navy */
+  --background: #F7F3EC;
+  --foreground: #0B1F2A;
   --card: #FFFFFF;
   --card-foreground: #0B1F2A;
   --popover: #FFFFFF;
   --popover-foreground: #0B1F2A;
-  --primary: #F5A623; /* Warm Gold */
+  --primary: #F5A623;
   --primary-foreground: #0B1F2A;
   --secondary: #0B1F2A;
   --secondary-foreground: #FFFFFF;
@@ -87,7 +86,6 @@
   --sidebar-accent-foreground: #0B1F2A;
   --sidebar-border: #E5E0D8;
   --sidebar-ring: #0FA3A3;
-  /* HTG Brand */
   --navy: #0B1F2A;
   --teal: #0FA3A3;
   --gold: #F5A623;
@@ -96,32 +94,28 @@
   --muted-grey: #6B7B85;
   --success: #2E7D32;
   --error: #C62828;
-  /* Light-on-navy color (used inside PageHero, navy CTAs etc.) — does NOT change in dark mode */
   --on-navy: #F7F3EC;
   --on-navy-muted: rgba(247, 243, 236, 0.8);
-  /* Pattern */
-  --pattern-opacity: 0.3;
   --pattern-color: rgba(11, 31, 42, 0.4);
-  /* Glow shadows */
+  --pattern-opacity: 0.3;
   --glow-teal: 0 0 24px rgba(15, 163, 163, 0.18);
   --glow-gold: 0 0 24px rgba(245, 166, 35, 0.25);
 }
 
-/* ============ DARK BLUE THEME (deep midnight blue with vibrant blue undertones) ============ */
+/* ============ DARK BLUE THEME (deep sapphire) ============ */
 .dark {
   --radius: 0.625rem;
-  /* Deep midnight blue — more vibrant, less black. Closer to deep ocean blue. */
-  --background: #0A1530; /* Deep sapphire blue base */
-  --foreground: #E8F0FA; /* Cool blue-tinted white */
-  --card: #112244; /* Slightly elevated blue surface */
+  --background: #0A1530;
+  --foreground: #E8F0FA;
+  --card: #112244;
   --card-foreground: #E8F0FA;
   --popover: #112244;
   --popover-foreground: #E8F0FA;
   --primary: #F5A623;
   --primary-foreground: #0A1530;
-  --secondary: #1B3460; /* Vibrant royal-navy for secondary surfaces */
+  --secondary: #1B3460;
   --secondary-foreground: #E8F0FA;
-  --muted: #142A52; /* Muted navy-blue */
+  --muted: #142A52;
   --muted-foreground: #93B4D8;
   --accent: #14B8B8;
   --accent-foreground: #0A1530;
@@ -142,7 +136,6 @@
   --sidebar-accent-foreground: #E8F0FA;
   --sidebar-border: #1B3460;
   --sidebar-ring: #14B8B8;
-  /* HTG Brand */
   --navy: #0A1530;
   --teal: #14B8B8;
   --gold: #F5A623;
@@ -151,13 +144,10 @@
   --muted-grey: #93B4D8;
   --success: #4ADE80;
   --error: #EF4444;
-  /* Light-on-navy color */
   --on-navy: #E8F0FA;
   --on-navy-muted: rgba(232, 240, 250, 0.78);
-  /* Pattern — blue tinted, very subtle */
-  --pattern-opacity: 0.06;
   --pattern-color: rgba(96, 165, 250, 0.4);
-  /* Glow shadows — vibrant blue/teal halos */
+  --pattern-opacity: 0.06;
   --glow-teal: 0 0 32px rgba(20, 184, 184, 0.4);
   --glow-gold: 0 0 32px rgba(245, 166, 35, 0.45);
 }
@@ -175,17 +165,6 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     transition: background-color 0.4s ease, color 0.4s ease;
-    /* Add a subtle ambient blue glow in dark mode */
-    background-image:
-      radial-gradient(ellipse 80% 50% at 50% -10%, rgba(20, 184, 184, 0.08), transparent 70%),
-      radial-gradient(ellipse 60% 40% at 100% 100%, rgba(96, 165, 250, 0.06), transparent 70%);
-    background-attachment: fixed;
-  }
-  .dark body {
-    background-image:
-      radial-gradient(ellipse 100% 60% at 50% -20%, rgba(20, 184, 184, 0.18), transparent 70%),
-      radial-gradient(ellipse 80% 50% at 100% 100%, rgba(96, 165, 250, 0.12), transparent 70%),
-      radial-gradient(ellipse 60% 40% at 0% 50%, rgba(245, 166, 35, 0.06), transparent 70%);
   }
   h1, h2, h3, h4, h5, h6 {
     @apply font-heading;
@@ -200,7 +179,6 @@
   .text-sand { color: var(--sand); }
   .text-charcoal { color: var(--charcoal); }
   .text-muted-grey { color: var(--muted-grey); }
-  /* Light-on-navy color (PageHero subtitle/intro on dark navy backgrounds) */
   .text-on-navy { color: var(--on-navy); }
   .text-on-navy-muted { color: var(--on-navy-muted); }
   .bg-navy { background-color: var(--navy); }
@@ -231,15 +209,38 @@
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(96, 165, 250, 0.08);
   }
 
-  /* Blue glow halos — only in dark mode for premium feel */
-  .glow-teal {
-    box-shadow: var(--glow-teal);
-  }
-  .glow-gold {
-    box-shadow: var(--glow-gold);
+  /* ============ Code-generated organic backgrounds (no images) ============ */
+
+  /* Subtle dot grid pattern — lightweight, GPU-friendly, no animation */
+  .pattern-dots {
+    background-image: radial-gradient(circle, var(--pattern-color) 1px, transparent 1px);
+    background-size: 24px 24px;
+    background-position: 0 0;
+    opacity: var(--pattern-opacity);
   }
 
-  /* ============ Patterns ============ */
+  /* Subtle grid pattern */
+  .pattern-grid {
+    background-image:
+      linear-gradient(var(--pattern-color) 1px, transparent 1px),
+      linear-gradient(90deg, var(--pattern-color) 1px, transparent 1px);
+    background-size: 48px 48px;
+    opacity: var(--pattern-opacity);
+  }
+
+  /* Organic topographic-like pattern using conic gradients — purely CSS */
+  .pattern-organic {
+    background-image:
+      radial-gradient(ellipse 80% 50% at 20% 0%, rgba(20, 184, 184, 0.04) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 40% at 80% 100%, rgba(245, 166, 35, 0.03) 0%, transparent 60%);
+  }
+  .dark .pattern-organic {
+    background-image:
+      radial-gradient(ellipse 80% 50% at 20% 0%, rgba(20, 184, 184, 0.06) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 40% at 80% 100%, rgba(96, 165, 250, 0.05) 0%, transparent 60%);
+  }
+
+  /* Hero / PageHero navy backgrounds — subtle organic glow */
   .pattern-navy {
     background-color: var(--navy);
     background-image:
@@ -247,11 +248,14 @@
       radial-gradient(circle at 75% 75%, rgba(15, 163, 163, 0.06) 0%, transparent 50%);
   }
   .dark .pattern-navy {
+    background-color: #060E20; /* Slightly darker than bg for depth */
     background-image:
       radial-gradient(circle at 25% 25%, rgba(245, 166, 35, 0.1) 0%, transparent 50%),
       radial-gradient(circle at 75% 75%, rgba(20, 184, 184, 0.12) 0%, transparent 50%),
       radial-gradient(circle at 50% 100%, rgba(96, 165, 250, 0.08) 0%, transparent 70%);
   }
+
+  /* Old geometric pattern — kept for backward compat but unused now */
   .pattern-geometric {
     background-image:
       linear-gradient(45deg, var(--pattern-color) 25%, transparent 25%),
@@ -264,28 +268,50 @@
   }
 
   /* Scrollbar */
-  .scrollbar-custom::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
-  }
-  .scrollbar-custom::-webkit-scrollbar-track {
-    background: transparent;
-  }
+  .scrollbar-custom::-webkit-scrollbar { width: 6px; height: 6px; }
+  .scrollbar-custom::-webkit-scrollbar-track { background: transparent; }
   .scrollbar-custom::-webkit-scrollbar-thumb {
     background: rgba(11, 31, 42, 0.2);
     border-radius: 3px;
   }
-  .scrollbar-custom::-webkit-scrollbar-thumb:hover {
-    background: rgba(11, 31, 42, 0.4);
+  .scrollbar-custom::-webkit-scrollbar-thumb:hover { background: rgba(11, 31, 42, 0.4); }
+  .dark .scrollbar-custom::-webkit-scrollbar-thumb { background: rgba(96, 165, 250, 0.2); }
+  .dark .scrollbar-custom::-webkit-scrollbar-thumb:hover { background: rgba(96, 165, 250, 0.4); }
+
+  /* ============ Animations (CSS-driven, no JS overhead) ============ */
+
+  /* Reveal-on-scroll: default hidden state, .is-visible toggled by IntersectionObserver */
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.55s cubic-bezier(0.22, 1, 0.36, 1), transform 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+    will-change: opacity, transform;
   }
-  .dark .scrollbar-custom::-webkit-scrollbar-thumb {
-    background: rgba(96, 165, 250, 0.2);
+  .reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
   }
-  .dark .scrollbar-custom::-webkit-scrollbar-thumb:hover {
-    background: rgba(96, 165, 250, 0.4);
+  /* Staggered children — set --i index via inline style */
+  .reveal-stagger {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1), transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+    transition-delay: calc(var(--i, 0) * 60ms);
+    will-change: opacity, transform;
+  }
+  .reveal-stagger.is-visible {
+    opacity: 1;
+    transform: translateY(0);
   }
 
-  /* ============ Animated utilities ============ */
+  /* Hover lift — pure CSS, no JS */
+  .lift-on-hover {
+    transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.25s ease;
+    will-change: transform;
+  }
+  .lift-on-hover:hover {
+    transform: translateY(-4px);
+  }
 
   /* Pulsing glow for primary CTAs */
   .glow-gold-pulse {
@@ -296,7 +322,7 @@
     50% { box-shadow: 0 0 0 14px rgba(245, 166, 35, 0), 0 8px 24px rgba(245, 166, 35, 0.4); }
   }
 
-  /* Animated gradient text — gold → teal → blue → gold (cohesive in dark mode) */
+  /* Animated gradient text — gold → teal → blue → gold */
   .text-gradient-animated {
     background: linear-gradient(90deg, #F5A623, #14B8B8, #60A5FA, #F5A623);
     background-size: 300% auto;
@@ -310,26 +336,25 @@
     100% { background-position: 300% center; }
   }
 
-  /* Floating animation — gentler for premium feel */
-  .float {
-    animation: float 4s ease-in-out infinite;
+  /* Slow drift for hero blobs (kept but reduced) */
+  .drift-blob {
+    animation: drift 14s ease-in-out infinite;
+    will-change: transform;
   }
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-8px); }
-  }
-
-  /* Slow drift for background blobs */
-  .drift-slow {
-    animation: drift-slow 12s ease-in-out infinite;
-  }
-  @keyframes drift-slow {
+  @keyframes drift {
     0%, 100% { transform: translate(0, 0) scale(1); }
-    33% { transform: translate(30px, -20px) scale(1.05); }
-    66% { transform: translate(-20px, 30px) scale(0.95); }
+    50% { transform: translate(20px, -15px) scale(1.08); }
+  }
+  .drift-blob-2 {
+    animation: drift-2 18s ease-in-out infinite;
+    will-change: transform;
+  }
+  @keyframes drift-2 {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    50% { transform: translate(-25px, 20px) scale(1.12); }
   }
 
-  /* Subtle glow pulse for badges */
+  /* Badge glow */
   .badge-glow {
     animation: badge-pulse 3s ease-in-out infinite;
   }
@@ -339,27 +364,31 @@
   }
 }
 
-/* ============ RESPONSIVE ANIMATION TUNING ============ */
-/*
-  Mobile (default): subtle, short animations to avoid jank on low-end devices
-  Tablet (sm:): slightly longer durations
-  Desktop (lg:): full animations with depth
-*/
+/* ============ RESPONSIVE TUNING ============ */
+/* Mobile: shorter reveal transitions, less GPU strain */
 @media (max-width: 640px) {
-  /* Reduce motion intensity on mobile */
-  .float { animation-duration: 5s; }
-  .drift-slow { animation-duration: 15s; }
+  .reveal, .reveal-stagger {
+    transition-duration: 0.4s;
+    transform: translateY(16px);
+  }
+  .reveal-stagger {
+    transition-delay: calc(var(--i, 0) * 40ms);
+  }
   .glow-gold-pulse { animation-duration: 3.5s; }
+  .drift-blob { animation-duration: 18s; }
+  .drift-blob-2 { animation-duration: 22s; }
 }
 
-/* Respect reduced motion preference */
+/* prefers-reduced-motion: disable all animations */
 @media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
+  *, *::before, *::after {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
+  }
+  .reveal, .reveal-stagger {
+    opacity: 1 !important;
+    transform: none !important;
   }
 }

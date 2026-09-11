@@ -1,7 +1,7 @@
 "use client";
 
-import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
+import { FadeIn } from "@/components/animations";
 
 type PageHeroProps = {
   eyebrow?: string;
@@ -12,69 +12,43 @@ type PageHeroProps = {
 };
 
 // Page hero used by all detail pages — consistent navy background with
-// subtle geometric pattern, eyebrow tag, title, subtitle and intro.
-// Animates children with stagger on mount.
+// organic CSS-only ambient glow + staggered entrance via CSS reveal.
 export function PageHero({ eyebrow, title, subtitle, intro, className }: PageHeroProps) {
   return (
     <section className={cn("pattern-navy relative overflow-hidden", className)}>
-      <div className="absolute inset-0 pattern-geometric opacity-30 pointer-events-none" />
-      {/* Floating glow accents */}
-      <motion.div
+      {/* Static organic glow — CSS radial gradients, no animation, no GPU cost */}
+      <div
         aria-hidden
-        className="absolute top-0 right-0 w-72 h-72 bg-teal/10 rounded-full blur-3xl pointer-events-none"
-        animate={{ scale: [1, 1.1, 1], opacity: [0.4, 0.7, 0.4] }}
-        transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
+        className="absolute -top-32 -right-32 w-96 h-96 rounded-full blur-3xl pointer-events-none opacity-30"
+        style={{ background: "radial-gradient(circle, rgba(20,184,184,0.4), transparent 70%)" }}
       />
-      <motion.div
+      <div
         aria-hidden
-        className="absolute bottom-0 left-0 w-72 h-72 bg-gold/10 rounded-full blur-3xl pointer-events-none"
-        animate={{ scale: [1, 1.15, 1], opacity: [0.3, 0.6, 0.3] }}
-        transition={{ duration: 7, repeat: Infinity, ease: "easeInOut", delay: 1 }}
+        className="absolute -bottom-32 -left-32 w-96 h-96 rounded-full blur-3xl pointer-events-none opacity-25"
+        style={{ background: "radial-gradient(circle, rgba(245,166,35,0.4), transparent 70%)" }}
       />
-      <motion.div
-        initial="hidden"
-        animate="visible"
-        variants={{
-          hidden: {},
-          visible: { transition: { staggerChildren: 0.12, delayChildren: 0.05 } },
-        }}
-        className="relative mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-16 lg:py-20 text-center"
-      >
-        {eyebrow && (
-          <motion.span
-            variants={{ hidden: { opacity: 0, y: 10 }, visible: { opacity: 1, y: 0 } }}
-            transition={{ duration: 0.4 }}
-            className="inline-block font-sans text-xs font-semibold uppercase tracking-[0.15em] text-gold mb-3"
-          >
-            {eyebrow}
-          </motion.span>
-        )}
-        <motion.h1
-          variants={{ hidden: { opacity: 0, y: 20 }, visible: { opacity: 1, y: 0 } }}
-          transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
-          className="font-heading font-bold text-white leading-tight text-3xl sm:text-4xl md:text-[40px]"
-        >
-          {title}
-        </motion.h1>
-        {subtitle && (
-          <motion.p
-            variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
-            transition={{ duration: 0.45 }}
-            className="mt-3 font-heading text-xl md:text-2xl text-on-navy"
-          >
-            {subtitle}
-          </motion.p>
-        )}
-        {intro && (
-          <motion.p
-            variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
-            transition={{ duration: 0.5 }}
-            className="mt-6 text-base text-on-navy-muted leading-relaxed max-w-3xl mx-auto"
-          >
-            {intro}
-          </motion.p>
-        )}
-      </motion.div>
+      <div className="relative mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-16 lg:py-20 text-center">
+        <FadeIn>
+          {eyebrow && (
+            <span className="inline-block font-sans text-xs font-semibold uppercase tracking-[0.15em] text-gold mb-3 badge-glow rounded-full px-3 py-1">
+              {eyebrow}
+            </span>
+          )}
+          <h1 className="font-heading font-bold text-white leading-tight text-3xl sm:text-4xl md:text-[40px]">
+            {title}
+          </h1>
+          {subtitle && (
+            <p className="mt-3 font-heading text-xl md:text-2xl text-on-navy">
+              {subtitle}
+            </p>
+          )}
+          {intro && (
+            <p className="mt-6 text-base text-on-navy-muted leading-relaxed max-w-3xl mx-auto">
+              {intro}
+            </p>
+          )}
+        </FadeIn>
+      </div>
     </section>
   );
 }

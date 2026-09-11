@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { motion } from "framer-motion";
 import {
   Plane, FileCheck, ShieldCheck, Building2, Briefcase, PlaneTakeoff,
   Clock, Globe, MessageCircle, MapPin, BadgeCheck, FileText,
@@ -9,7 +8,7 @@ import {
 } from "lucide-react";
 import { SectionHeading } from "@/components/shared/section-heading";
 import { WhatsAppButton } from "@/components/shared/whatsapp-button";
-import { FadeIn, Stagger, StaggerItem, HoverLift } from "@/components/animations";
+import { FadeIn, Stagger, StaggerItem, HoverLift, MotionButton } from "@/components/animations";
 import { POPULAR_ROUTES, WHY_HTG_FEATURES, HOW_IT_WORKS_STEPS } from "@/lib/data";
 import { routeInquiry } from "@/lib/whatsapp";
 
@@ -226,18 +225,14 @@ export function WhyHTG() {
 export function FinalCTA() {
   return (
     <section className="bg-gold py-16 lg:py-20 relative overflow-hidden">
-      {/* Animated background blobs */}
-      <motion.div
+      {/* CSS-animated background blobs (no JS animation loop) */}
+      <div
         aria-hidden
-        className="absolute -top-20 -left-20 w-64 h-64 bg-white/10 rounded-full blur-3xl pointer-events-none"
-        animate={{ x: [0, 30, 0], y: [0, 20, 0] }}
-        transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" }}
+        className="absolute -top-20 -left-20 w-64 h-64 bg-white/10 rounded-full blur-3xl pointer-events-none drift-blob"
       />
-      <motion.div
+      <div
         aria-hidden
-        className="absolute -bottom-20 -right-20 w-64 h-64 bg-navy/10 rounded-full blur-3xl pointer-events-none"
-        animate={{ x: [0, -30, 0], y: [0, -20, 0] }}
-        transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
+        className="absolute -bottom-20 -right-20 w-64 h-64 bg-navy/10 rounded-full blur-3xl pointer-events-none drift-blob-2"
       />
       <FadeIn className="relative mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="font-heading text-3xl md:text-4xl font-bold text-foreground leading-tight">
@@ -247,9 +242,7 @@ export function FinalCTA() {
           Skip the queues. Send us your travel dates and passenger details on WhatsApp, and our team will find you the best live fares immediately.
         </p>
         <div className="mt-8">
-          <motion.button
-            whileHover={{ scale: 1.04 }}
-            whileTap={{ scale: 0.98 }}
+          <MotionButton
             onClick={() => {
               window.open(
                 "https://wa.me/923251480148?text=" + encodeURIComponent("Hi HTG Travels, I need a travel consultation."),
@@ -261,7 +254,7 @@ export function FinalCTA() {
           >
             <MessageCircle className="h-4 w-4" />
             Message +92 325 1480148 on WhatsApp
-          </motion.button>
+          </MotionButton>
         </div>
       </FadeIn>
     </section>

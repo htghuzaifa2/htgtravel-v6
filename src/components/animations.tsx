@@ -1,195 +1,200 @@
 "use client";
 
-import { motion, type Variants, useReducedMotion, useInView } from "framer-motion";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
+import { motion, useReducedMotion } from "framer-motion";
+import { cn } from "@/lib/utils";
 
 /* ============================================================
-   Device-aware animation utilities
-   - Mobile  (< 640px):  subtle, 0.4s, smaller offsets
-   - Tablet  (640-1024):  medium, 0.5s
-   - Desktop (> 1024):   full, 0.6s with depth
-   - prefers-reduced-motion: instant (no motion)
+   Performance-first animation utilities.
+   - Reveal/Stagger use CSS transitions + a single IntersectionObserver
+     per element. No JS animation loop, no re-renders during scroll.
+   - MotionButton uses Framer Motion ONLY for hover/tap micro-interactions.
+   - All animations respect prefers-reduced-motion.
    ============================================================ */
 
-type DeviceTier = "mobile" | "tablet" | "desktop";
+/**
+ * useReveal — adds `is-visible` class when element scrolls into view.
+ * One IntersectionObserver per element (cheap, GC'd on unmount).
+ */
+function useReveal<T extends HTMLElement = HTMLDivElement>(options?: {
+  once?: boolean;
+  threshold?: number;
+  rootMargin?: string;
+}) {
+  const ref = useRef<T>(null);
+  const [visible, setVisible] = useState(false);
 
-function getDeviceTier(): DeviceTier {
-  if (typeof window === "undefined") return "desktop";
-  const w = window.innerWidth;
-  if (w < 640) return "mobile";
-  if (w < 1024) return "tablet";
-  return "desktop";
-}
-
-export function useDeviceTier(): DeviceTier {
-  const [tier, setTier] = useState<DeviceTier>("desktop");
   useEffect(() => {
-    const onResize = () => setTier(getDeviceTier());
-    onResize();
-    window.addEventListener("resize", onResize);
-    return () => window.removeEventListener("resize", onResize);
-  }, []);
-  return tier;
+    const node = ref.current;
+    if (!node) return;
+
+    // prefers-reduced-motion: show immediately (deferred to next tick to avoid effect-render warning)
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      const t = setTimeout(() => setVisible(true), 0);
+      return () => clearTimeout(t);
+    }
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setVisible(true);
+          if (options?.once !== false) observer.disconnect();
+        } else if (options?.once === false) {
+          setVisible(false);
+        }
+      },
+      {
+        threshold: options?.threshold ?? 0.1,
+        rootMargin: options?.rootMargin ?? "0px 0px -60px 0px",
+      }
+    );
+
+    observer.observe(node);
+    return () => observer.disconnect();
+  }, [options?.once, options?.threshold, options?.rootMargin]);
+
+  return { ref, visible };
 }
 
-/* Get tuned animation params based on device tier */
-function useAnimationConfig() {
-  const tier = useDeviceTier();
-  const prefersReduced = useReducedMotion();
-
-  if (prefersReduced) {
-    return {
-      duration: 0,
-      y: 0,
-      scale: 1,
-      staggerChildren: 0,
-      delayChildren: 0,
-      enabled: false,
-    };
-  }
-
-  switch (tier) {
-    case "mobile":
-      return {
-        duration: 0.4,
-        y: 16,
-        scale: 0.98,
-        staggerChildren: 0.05,
-        delayChildren: 0.05,
-        enabled: true,
-      };
-    case "tablet":
-      return {
-        duration: 0.5,
-        y: 20,
-        scale: 0.97,
-        staggerChildren: 0.07,
-        delayChildren: 0.08,
-        enabled: true,
-      };
-    case "desktop":
-    default:
-      return {
-        duration: 0.6,
-        y: 24,
-        scale: 0.96,
-        staggerChildren: 0.08,
-        delayChildren: 0.1,
-        enabled: true,
-      };
-  }
-}
-
-/* ============ FadeIn — scroll-triggered fade + slide (device-tuned) ============ */
+/**
+ * FadeIn — single element reveal-on-scroll. CSS-driven, no JS animation loop.
+ */
 export function FadeIn({
   children,
   delay = 0,
   className,
   once = true,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
   delay?: number;
-  y?: number;
   className?: string;
   once?: boolean;
 }) {
-  const cfg = useAnimationConfig();
-
-  if (!cfg.enabled) {
-    return <div className={className}>{children}</div>;
-  }
-
+  const { ref, visible } = useReveal<HTMLDivElement>({ once });
   return (
-    <motion.div
-      className={className}
-      initial={{ opacity: 0, y: cfg.y }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once, margin: "-60px" }}
-      transition={{ duration: cfg.duration, delay, ease: [0.22, 1, 0.36, 1] }}
+    <div
+      ref={ref}
+      className={cn("reveal", visible && "is-visible", className)}
+      style={{ transitionDelay: visible ? `${delay}ms` : "0ms" }}
     >
       {children}
-    </motion.div>
+    </div>
   );
 }
 
-/* ============ Stagger — parent container for staggered children ============ */
+/**
+ * Stagger — container that reveals children in sequence using CSS transitions.
+ * Children should be <StaggerItem>.
+ */
 export function Stagger({
   children,
   className,
+  staggerMs = 60,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
   className?: string;
+  staggerMs?: number;
 }) {
-  const cfg = useAnimationConfig();
-
-  if (!cfg.enabled) {
-    return <div className={className}>{children}</div>;
-  }
-
-  const containerVariants: Variants = {
-    hidden: { opacity: 0 },
-    visible: {
-      opacity: 1,
-      transition: {
-        staggerChildren: cfg.staggerChildren,
-        delayChildren: cfg.delayChildren,
-      },
-    },
-  };
-
-  const itemVariants: Variants = {
-    hidden: { opacity: 0, y: cfg.y },
-    visible: {
-      opacity: 1,
-      y: 0,
-      transition: { duration: cfg.duration, ease: [0.22, 1, 0.36, 1] },
-    },
-  };
-
+  const { ref, visible } = useReveal<HTMLDivElement>({ once: true });
+  // Inject --i CSS variable on each direct child for staggered delay
   return (
-    <motion.div
-      className={className}
-      variants={containerVariants}
-      initial="hidden"
-      whileInView="visible"
-      viewport={{ once: true, margin: "-60px" }}
-    >
+    <div ref={ref} className={className}>
       {Array.isArray(children)
         ? children.map((child, i) => (
-            <StaggerContext.Provider key={i} value={itemVariants}>
+            <StaggerItem key={i} index={i} staggerMs={staggerMs} visible={visible}>
               {child}
-            </StaggerContext.Provider>
+            </StaggerItem>
           ))
         : children}
-    </motion.div>
+    </div>
   );
 }
 
-import { createContext, useContext } from "react";
-const StaggerContext = createContext<Variants | null>(null);
-
+/**
+ * StaggerItem — must be used inside <Stagger>.
+ */
 export function StaggerItem({
   children,
   className,
+  index = 0,
+  staggerMs = 60,
+  visible = false,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
   className?: string;
+  index?: number;
+  staggerMs?: number;
+  visible?: boolean;
 }) {
-  const variants = useContext(StaggerContext);
-  const cfg = useAnimationConfig();
-
-  if (!cfg.enabled || !variants) {
-    return <div className={className}>{children}</div>;
-  }
-
   return (
-    <motion.div className={className} variants={variants}>
+    <div
+      className={cn("reveal-stagger", visible && "is-visible", className)}
+      style={{
+        ["--i" as string]: index,
+        transitionDelay: visible ? `${index * staggerMs}ms` : "0ms",
+      }}
+    >
       {children}
-    </motion.div>
+    </div>
   );
 }
 
-/* ============ AnimatedCounter — count up when in view ============ */
+/**
+ * HoverLift — pure CSS hover lift (no JS). Wraps any element.
+ */
+export function HoverLift({
+  children,
+  className,
+}: {
+  children: ReactNode;
+  className?: string;
+  lift?: number;
+}) {
+  return <div className={cn("lift-on-hover", className)}>{children}</div>;
+}
+
+/**
+ * MotionButton — CTA with scale-on-hover/tap. Uses Framer Motion only for
+ * the interactive micro-interaction (very lightweight).
+ */
+export function MotionButton({
+  children,
+  onClick,
+  className,
+  type = "button",
+}: {
+  children: ReactNode;
+  onClick?: () => void;
+  className?: string;
+  type?: "button" | "submit";
+}) {
+  const prefersReduced = useReducedMotion();
+
+  if (prefersReduced) {
+    return (
+      <button type={type} onClick={onClick} className={className}>
+        {children}
+      </button>
+    );
+  }
+
+  return (
+    <motion.button
+      type={type}
+      onClick={onClick}
+      className={className}
+      whileHover={{ scale: 1.03 }}
+      whileTap={{ scale: 0.97 }}
+      transition={{ type: "spring", stiffness: 400, damping: 17 }}
+    >
+      {children}
+    </motion.button>
+  );
+}
+
+/**
+ * AnimatedCounter — count-up when scrolled into view.
+ */
 export function AnimatedCounter({
   value,
   duration = 2,
@@ -204,25 +209,43 @@ export function AnimatedCounter({
   className?: string;
 }) {
   const ref = useRef<HTMLSpanElement>(null);
-  const inView = useInView(ref, { once: true, margin: "-50px" });
   const prefersReduced = useReducedMotion();
   const [display, setDisplay] = useState(0);
+  const [started, setStarted] = useState(false);
 
-  // Respect reduced motion
-  const effectiveDuration = prefersReduced ? 0 : duration;
-
+  // Start counting when scrolled into view (single observer)
   useEffect(() => {
-    if (!inView) return;
-    if (effectiveDuration === 0) {
-      // Defer to next tick to avoid effect-render warning
-      const t = setTimeout(() => setDisplay(value), 0);
+    const node = ref.current;
+    if (!node) return;
+
+    if (prefersReduced) {
+      const t = setTimeout(() => {
+        setDisplay(value);
+        setStarted(true);
+      }, 0);
       return () => clearTimeout(t);
     }
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting && !started) {
+          setStarted(true);
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.3 }
+    );
+    observer.observe(node);
+    return () => observer.disconnect();
+  }, [prefersReduced, started, value]);
+
+  useEffect(() => {
+    if (!started || prefersReduced) return;
     let startTime: number;
     let frameId: number;
     const animate = (now: number) => {
       if (startTime === undefined) startTime = now;
-      const progress = Math.min((now - startTime) / (effectiveDuration * 1000), 1);
+      const progress = Math.min((now - startTime) / (duration * 1000), 1);
       const eased = 1 - Math.pow(1 - progress, 3);
       setDisplay(Math.floor(eased * value));
       if (progress < 1) {
@@ -233,7 +256,7 @@ export function AnimatedCounter({
     };
     frameId = requestAnimationFrame(animate);
     return () => cancelAnimationFrame(frameId);
-  }, [inView, value, effectiveDuration]);
+  }, [started, value, duration, prefersReduced]);
 
   return (
     <span ref={ref} className={className}>
@@ -244,97 +267,29 @@ export function AnimatedCounter({
   );
 }
 
-/* ============ ScaleIn — for cards that should pop in ============ */
+/**
+ * ScaleIn — element that scales in on scroll. CSS-driven.
+ */
 export function ScaleIn({
   children,
   delay = 0,
   className,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
   delay?: number;
   className?: string;
 }) {
-  const cfg = useAnimationConfig();
-
-  if (!cfg.enabled) {
-    return <div className={className}>{children}</div>;
-  }
-
+  const { ref, visible } = useReveal<HTMLDivElement>({ once: true });
   return (
-    <motion.div
-      className={className}
-      initial={{ opacity: 0, scale: cfg.scale }}
-      whileInView={{ opacity: 1, scale: 1 }}
-      viewport={{ once: true, margin: "-40px" }}
-      transition={{ duration: cfg.duration, delay, ease: [0.22, 1, 0.36, 1] }}
+    <div
+      ref={ref}
+      className={cn("reveal", visible && "is-visible", className)}
+      style={{
+        transitionDelay: visible ? `${delay}ms` : "0ms",
+        transform: visible ? "scale(1)" : "scale(0.96)",
+      }}
     >
       {children}
-    </motion.div>
-  );
-}
-
-/* ============ HoverLift — wrapper that adds hover lift to any element ============ */
-export function HoverLift({
-  children,
-  className,
-  lift = 6,
-}: {
-  children: React.ReactNode;
-  className?: string;
-  lift?: number;
-}) {
-  const cfg = useAnimationConfig();
-
-  if (!cfg.enabled) {
-    return <div className={className}>{children}</div>;
-  }
-
-  // Mobile uses gentler lift (4px), desktop uses 8px
-  const effectiveLift = lift === 6 ? (cfg.y === 16 ? 4 : cfg.y === 20 ? 6 : 8) : lift;
-
-  return (
-    <motion.div
-      className={className}
-      whileHover={{ y: -effectiveLift }}
-      transition={{ type: "spring", stiffness: 300, damping: 20 }}
-    >
-      {children}
-    </motion.div>
-  );
-}
-
-/* ============ MotionButton — CTA with scale on hover/tap ============ */
-export function MotionButton({
-  children,
-  onClick,
-  className,
-  type = "button",
-}: {
-  children: React.ReactNode;
-  onClick?: () => void;
-  className?: string;
-  type?: "button" | "submit";
-}) {
-  const cfg = useAnimationConfig();
-
-  if (!cfg.enabled) {
-    return (
-      <button type={type} onClick={onClick} className={className}>
-        {children}
-      </button>
-    );
-  }
-
-  return (
-    <motion.button
-      type={type}
-      onClick={onClick}
-      className={className}
-      whileHover={{ scale: 1.04 }}
-      whileTap={{ scale: 0.97 }}
-      transition={{ type: "spring", stiffness: 400, damping: 17 }}
-    >
-      {children}
-    </motion.button>
+    </div>
   );
 }

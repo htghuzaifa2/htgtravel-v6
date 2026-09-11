@@ -1,8 +1,7 @@
 "use client";
 
-import { motion } from "framer-motion";
 import { WhatsAppButton } from "@/components/shared/whatsapp-button";
-import { FadeIn } from "@/components/animations";
+import { FadeIn, MotionButton } from "@/components/animations";
 import { cn } from "@/lib/utils";
 
 type FinalCTAProps = {
@@ -14,7 +13,7 @@ type FinalCTAProps = {
 };
 
 // Final CTA section used at the bottom of all detail pages.
-// Variants: gold (default, on detail pages), navy (standalone), sand (subtle).
+// Variants: gold (default), navy (standalone), sand (subtle).
 export function FinalCTA({ heading, body, buttonLabel, icon, variant = "sand" }: FinalCTAProps) {
   const bgClass =
     variant === "navy" ? "pattern-navy text-white"
@@ -25,19 +24,16 @@ export function FinalCTA({ heading, body, buttonLabel, icon, variant = "sand" }:
 
   return (
     <section className={cn("relative overflow-hidden", bgClass)}>
+      {/* CSS-only animated blob — only on gold variant */}
       {variant === "gold" && (
         <>
-          <motion.div
+          <div
             aria-hidden
-            className="absolute -top-20 -left-20 w-64 h-64 bg-white/10 rounded-full blur-3xl pointer-events-none"
-            animate={{ x: [0, 30, 0], y: [0, 20, 0] }}
-            transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" }}
+            className="absolute -top-20 -left-20 w-64 h-64 bg-white/10 rounded-full blur-3xl pointer-events-none drift-blob"
           />
-          <motion.div
+          <div
             aria-hidden
-            className="absolute -bottom-20 -right-20 w-64 h-64 bg-navy/10 rounded-full blur-3xl pointer-events-none"
-            animate={{ x: [0, -30, 0], y: [0, -20, 0] }}
-            transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
+            className="absolute -bottom-20 -right-20 w-64 h-64 bg-navy/10 rounded-full blur-3xl pointer-events-none drift-blob-2"
           />
         </>
       )}
@@ -46,17 +42,23 @@ export function FinalCTA({ heading, body, buttonLabel, icon, variant = "sand" }:
           {heading}
         </h2>
         <p className={cn("text-base mb-6", bodyColor)}>{body}</p>
-        <motion.div
-          whileHover={{ scale: 1.04 }}
-          whileTap={{ scale: 0.98 }}
-          className="inline-block"
+        <MotionButton
+          onClick={() => {
+            window.open(
+              "https://wa.me/923251480148?text=" + encodeURIComponent("Hi HTG Travels, I need a travel consultation."),
+              "_blank",
+              "noopener,noreferrer"
+            );
+          }}
+          className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md glow-gold-pulse"
         >
-          <WhatsAppButton variant="gold" size="lg">
-            {icon}
-            {buttonLabel}
-          </WhatsAppButton>
-        </motion.div>
+          {icon}
+          {buttonLabel}
+        </MotionButton>
       </FadeIn>
     </section>
   );
 }
+
+// Re-export WhatsAppButton for backward compat
+export { WhatsAppButton };
