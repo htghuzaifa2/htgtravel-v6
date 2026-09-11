@@ -65,7 +65,7 @@ export default function FlightsPage() {
                 onClick={() => setTripType("round")}
                 className={cn(
                   "px-5 py-2 rounded-full text-sm font-semibold transition",
-                  tripType === "round" ? "bg-navy text-white" : "bg-sand/60 text-charcoal hover:bg-sand"
+                  tripType === "round" ? "bg-foreground text-background" : "bg-muted/60 text-foreground hover:bg-muted"
                 )}
               >
                 Round Trip (Return)
@@ -74,7 +74,7 @@ export default function FlightsPage() {
                 onClick={() => setTripType("oneway")}
                 className={cn(
                   "px-5 py-2 rounded-full text-sm font-semibold transition",
-                  tripType === "oneway" ? "bg-navy text-white" : "bg-sand/60 text-charcoal hover:bg-sand"
+                  tripType === "oneway" ? "bg-foreground text-background" : "bg-muted/60 text-foreground hover:bg-muted"
                 )}
               >
                 One Way
@@ -83,46 +83,46 @@ export default function FlightsPage() {
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Departure Airport</label>
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Departure Airport</label>
                 <Select value={fromAirport} onValueChange={setFromAirport}>
-                  <SelectTrigger className="h-11 bg-sand/50"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {PAKISTANI_AIRPORTS.map((a) => <SelectItem key={a} value={a}>{a}</SelectItem>)}
                   </SelectContent>
                 </Select>
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Destination Country</label>
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Destination Country</label>
                 <Select value={destCountry} onValueChange={setDestCountry}>
-                  <SelectTrigger className="h-11 bg-sand/50"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {Object.keys(DEST_AIRPORTS).map((c) => <SelectItem key={c} value={c}>{c}</SelectItem>)}
                   </SelectContent>
                 </Select>
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Arrival Airport</label>
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Arrival Airport</label>
                 <Select value={toAirport} onValueChange={setToAirport}>
-                  <SelectTrigger className="h-11 bg-sand/50"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {(DEST_AIRPORTS[destCountry] || []).map((a) => <SelectItem key={a} value={a}>{a}</SelectItem>)}
                   </SelectContent>
                 </Select>
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Departure Date</label>
-                <Input type="date" value={depDate} onChange={(e) => setDepDate(e.target.value)} className="h-11 bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Departure Date</label>
+                <Input type="date" value={depDate} onChange={(e) => setDepDate(e.target.value)} className="h-11 bg-muted/60" />
               </div>
               {tripType === "round" && (
                 <div>
-                  <label className="text-xs font-medium text-muted-grey mb-1.5 block">Return Date</label>
-                  <Input type="date" value={retDate} onChange={(e) => setRetDate(e.target.value)} className="h-11 bg-sand/50" />
+                  <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Return Date</label>
+                  <Input type="date" value={retDate} onChange={(e) => setRetDate(e.target.value)} className="h-11 bg-muted/60" />
                 </div>
               )}
               <div className="sm:col-span-2">
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Passengers & Class</label>
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Passengers & Class</label>
                 <Select value={paxClass} onValueChange={setPaxClass}>
-                  <SelectTrigger className="h-11 bg-sand/50"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["1 Adult, Economy", "2 Adults, Economy", "1 Adult, Business", "2 Adults, Business", "Family (Economy)", "Group (10+)"].map((p) => <SelectItem key={p} value={p}>{p}</SelectItem>)}
                   </SelectContent>
@@ -130,12 +130,12 @@ export default function FlightsPage() {
               </div>
             </div>
 
-            <p className="mt-4 text-xs text-muted-grey">
+            <p className="mt-4 text-xs text-muted-foreground">
               Instant live seat check & direct WhatsApp confirmation with e-ticket voucher.
             </p>
             <button
               onClick={submit}
-              className="mt-5 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+              className="mt-5 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
             >
               <Send className="h-4 w-4" />
               Check Live Rates & Book on WhatsApp
@@ -145,7 +145,7 @@ export default function FlightsPage() {
       </section>
 
       {/* Airlines */}
-      <section className="bg-sand/40 py-16 lg:py-20">
+      <section className="bg-muted/40 py-16 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <SectionHeading
             eyebrow="Our Partners"
@@ -154,7 +154,7 @@ export default function FlightsPage() {
           <div className="mt-10 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3">
             {AIRLINES.map((a) => (
               <div key={a} className="bg-white rounded-xl p-4 text-center border border-[#E5E0D8]/60 shadow-sm hover:shadow-md transition">
-                <p className="font-heading text-sm font-semibold text-navy">{a}</p>
+                <p className="font-heading text-sm font-semibold text-foreground">{a}</p>
               </div>
             ))}
           </div>
@@ -171,8 +171,8 @@ export default function FlightsPage() {
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>
-                <h3 className="font-heading text-base font-semibold text-navy mb-2">{item.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{item.description}</p>
+                <h3 className="font-heading text-base font-semibold text-foreground mb-2">{item.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
               </div>
             ))}
           </div>
@@ -180,10 +180,10 @@ export default function FlightsPage() {
       </section>
 
       {/* Browse Routes Link */}
-      <section className="bg-sand/40 py-12">
+      <section className="bg-muted/40 py-12">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 text-center">
-          <h3 className="font-heading text-xl font-semibold text-navy mb-2">Looking for a specific route?</h3>
-          <p className="text-sm text-charcoal/80 mb-5">Browse all our flight destinations from Pakistan with live rate inquiry on WhatsApp.</p>
+          <h3 className="font-heading text-xl font-semibold text-foreground mb-2">Looking for a specific route?</h3>
+          <p className="text-sm text-foreground/80 mb-5">Browse all our flight destinations from Pakistan with live rate inquiry on WhatsApp.</p>
           <Link
             href="/destinations"
             className="inline-flex items-center gap-1.5 text-sm font-semibold text-teal hover:text-gold transition-colors"

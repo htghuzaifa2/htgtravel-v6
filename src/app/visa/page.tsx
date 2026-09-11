@@ -50,7 +50,7 @@ export default function VisaPage() {
             {VISA_COUNTRIES.map((v) => (
               <div key={v.country} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 hover:shadow-htg-lg transition-shadow flex flex-col">
                 <div className="flex items-center justify-between">
-                  <p className="font-heading text-xl font-semibold text-navy flex items-center gap-2">
+                  <p className="font-heading text-xl font-semibold text-foreground flex items-center gap-2">
                     <span className="text-3xl">{v.flag}</span>
                     <span>{v.country}</span>
                   </p>
@@ -59,14 +59,14 @@ export default function VisaPage() {
                   {v.visaType}
                 </span>
                 <div className="mt-4 space-y-2 text-xs">
-                  <p className="text-charcoal/80"><span className="font-medium text-muted-grey">Processing Time: </span>{v.processingTime}</p>
-                  <p className="text-charcoal/80"><span className="font-medium text-muted-grey">Visa Validity: </span>{v.validity}</p>
+                  <p className="text-foreground/80"><span className="font-medium text-muted-foreground">Processing Time: </span>{v.processingTime}</p>
+                  <p className="text-foreground/80"><span className="font-medium text-muted-foreground">Visa Validity: </span>{v.validity}</p>
                 </div>
                 <div className="mt-4 pt-4 border-t border-[#E5E0D8]">
-                  <p className="text-xs font-medium text-muted-grey mb-2">Basic Requirements:</p>
+                  <p className="text-xs font-medium text-muted-foreground mb-2">Basic Requirements:</p>
                   <ul className="space-y-1.5">
                     {v.requirements.map((r) => (
-                      <li key={r} className="flex items-start gap-1.5 text-xs text-charcoal/80">
+                      <li key={r} className="flex items-start gap-1.5 text-xs text-foreground/80">
                         <CheckCircle2 className="h-3.5 w-3.5 text-teal flex-shrink-0 mt-0.5" />
                         {r}
                       </li>
@@ -91,7 +91,7 @@ export default function VisaPage() {
       </section>
 
       {/* Why Process With HTG */}
-      <section className="bg-sand/40 py-16 lg:py-20">
+      <section className="bg-muted/40 py-16 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <SectionHeading
             eyebrow="Our Process"
@@ -104,8 +104,8 @@ export default function VisaPage() {
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>
-                <h3 className="font-heading text-lg font-semibold text-navy mb-2">{item.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{item.description}</p>
+                <h3 className="font-heading text-lg font-semibold text-foreground mb-2">{item.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
               </div>
             ))}
           </div>
@@ -122,8 +122,8 @@ export default function VisaPage() {
                 <div className="mx-auto inline-flex h-10 w-10 items-center justify-center rounded-full bg-navy text-gold font-heading text-base font-bold mb-3">
                   {item.step}
                 </div>
-                <h3 className="font-heading text-sm font-semibold text-navy mb-2">{item.title}</h3>
-                <p className="text-xs text-charcoal/80 leading-relaxed">{item.description}</p>
+                <h3 className="font-heading text-sm font-semibold text-foreground mb-2">{item.title}</h3>
+                <p className="text-xs text-foreground/80 leading-relaxed">{item.description}</p>
               </div>
             ))}
           </div>

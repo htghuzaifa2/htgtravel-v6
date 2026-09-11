@@ -64,10 +64,10 @@ export default function AboutPage() {
       {/* Who We Are */}
       <section className="py-16 lg:py-20">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-navy mb-5">
+          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-foreground mb-5">
             A Travel Desk Built on Transparency & Speed
           </h2>
-          <div className="space-y-4 text-base text-charcoal/85 leading-relaxed">
+          <div className="space-y-4 text-base text-foreground/85 leading-relaxed">
             <p>
               In a world where airline fares and hotel rates fluctuate daily, travelers need honesty, real-time rates, and instant communication. At HTG Travels, we don&apos;t lock you into rigid overpriced packages. Instead, we connect directly with global airline reservation engines and verified hotel suppliers to give you customized live quotes within minutes on WhatsApp.
             </p>
@@ -79,9 +79,9 @@ export default function AboutPage() {
       </section>
 
       {/* What Makes Us Different */}
-      <section className="bg-sand/40 py-16 lg:py-20">
+      <section className="bg-muted/40 py-16 lg:py-20">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
-          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-navy text-center mb-10">
+          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-foreground text-center mb-10">
             What Makes Us Different
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -90,8 +90,8 @@ export default function AboutPage() {
                 <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-6 w-6" />
                 </div>
-                <h3 className="font-heading text-lg font-semibold text-navy mb-2">{item.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{item.description}</p>
+                <h3 className="font-heading text-lg font-semibold text-foreground mb-2">{item.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
               </div>
             ))}
           </div>
@@ -103,8 +103,8 @@ export default function AboutPage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center mb-10">
             <span className="inline-block font-sans text-xs font-semibold uppercase tracking-[0.15em] text-teal mb-3">Our Strengths</span>
-            <h2 className="font-heading text-2xl md:text-3xl font-semibold text-navy">Why Travelers Rely on HTG Travels</h2>
-            <p className="mt-3 text-base text-charcoal/80">Fast, reliable, and tailored to your journey.</p>
+            <h2 className="font-heading text-2xl md:text-3xl font-semibold text-foreground">Why Travelers Rely on HTG Travels</h2>
+            <p className="mt-3 text-base text-foreground/80">Fast, reliable, and tailored to your journey.</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {features.map((feat) => (
@@ -112,8 +112,8 @@ export default function AboutPage() {
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <feat.icon className="h-5 w-5" />
                 </div>
-                <h3 className="font-heading text-lg font-semibold text-navy mb-2">{feat.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{feat.description}</p>
+                <h3 className="font-heading text-lg font-semibold text-foreground mb-2">{feat.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{feat.description}</p>
               </div>
             ))}
           </div>
@@ -121,20 +121,20 @@ export default function AboutPage() {
       </section>
 
       {/* Values */}
-      <section className="bg-sand/40 py-16 lg:py-20">
+      <section className="bg-muted/40 py-16 lg:py-20">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center mb-10">
             <span className="inline-block font-sans text-xs font-semibold uppercase tracking-[0.15em] text-teal mb-3">Our Values</span>
-            <h2 className="font-heading text-2xl md:text-3xl font-semibold text-navy">Our Values</h2>
+            <h2 className="font-heading text-2xl md:text-3xl font-semibold text-foreground">Our Values</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {values.map((v) => (
               <div key={v.title} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60">
-                <h3 className="font-heading text-lg font-semibold text-navy mb-2 flex items-center gap-2">
+                <h3 className="font-heading text-lg font-semibold text-foreground mb-2 flex items-center gap-2">
                   <Sparkles className="h-4 w-4 text-gold" />
                   {v.title}
                 </h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{v.description}</p>
+                <p className="text-sm text-foreground/80 leading-relaxed">{v.description}</p>
               </div>
             ))}
           </div>
@@ -144,12 +144,12 @@ export default function AboutPage() {
       {/* What We Do */}
       <section className="py-16 lg:py-20">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
-          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-navy mb-6 text-center">What We Do</h2>
+          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-foreground mb-6 text-center">What We Do</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
             {services.map((s) => (
               <div key={s} className="flex items-start gap-3 bg-white rounded-xl p-4 border border-[#E5E0D8]/60">
                 <CheckCircle2 className="h-5 w-5 text-teal flex-shrink-0 mt-0.5" />
-                <span className="text-sm text-charcoal">{s}</span>
+                <span className="text-sm text-foreground">{s}</span>
               </div>
             ))}
           </div>
@@ -157,12 +157,12 @@ export default function AboutPage() {
       </section>
 
       {/* Ready CTA */}
-      <section className="bg-sand py-16 lg:py-20">
+      <section className="bg-muted py-16 lg:py-20">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-navy mb-4">
+          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-foreground mb-4">
             Ready to Plan Your Next Journey?
           </h2>
-          <p className="text-base text-charcoal/80 mb-6 max-w-2xl mx-auto">
+          <p className="text-base text-foreground/80 mb-6 max-w-2xl mx-auto">
             Get in touch with our travel team on WhatsApp to get real-time airfares, visa consultation, or travel insurance quotations.
           </p>
           <WhatsAppButton variant="gold" size="lg">
@@ -178,11 +178,11 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {quickLinks.map((q) => (
               <a key={q.title} href={q.href} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 hover:shadow-htg-lg transition-shadow block">
-                <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-navy/5 text-navy mb-4">
+                <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-navy/5 text-foreground mb-4">
                   <q.icon className="h-5 w-5" />
                 </div>
-                <h3 className="font-heading text-base font-semibold text-navy mb-2">{q.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{q.description}</p>
+                <h3 className="font-heading text-base font-semibold text-foreground mb-2">{q.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{q.description}</p>
               </a>
             ))}
           </div>

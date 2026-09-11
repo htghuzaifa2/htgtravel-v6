@@ -55,50 +55,50 @@ export default function UmrahPage() {
       <section className="py-16 lg:py-20">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
           <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-[#E5E0D8]">
-            <h2 className="font-heading text-xl font-semibold text-navy mb-1">Custom Umrah Quote Builder</h2>
-            <p className="text-xs text-muted-grey mb-6">Tell us your preferences and we&apos;ll send a live quote on WhatsApp.</p>
+            <h2 className="font-heading text-xl font-semibold text-foreground mb-1">Custom Umrah Quote Builder</h2>
+            <p className="text-xs text-muted-foreground mb-6">Tell us your preferences and we&apos;ll send a live quote on WhatsApp.</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Duration</label>
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Duration</label>
                 <Select value={duration} onValueChange={setDuration}>
-                  <SelectTrigger className="h-11 bg-sand/50"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["7 Days (Quick Umrah)", "10 Days", "14 Days", "21 Days"].map((d) => <SelectItem key={d} value={d}>{d}</SelectItem>)}
                   </SelectContent>
                 </Select>
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Hotel Category</label>
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Hotel Category</label>
                 <Select value={hotel} onValueChange={setHotel}>
-                  <SelectTrigger className="h-11 bg-sand/50"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["5-Star VIP (0m Haram)", "4-Star Premium (150m)", "3-Star Economy (Shuttle)", "Custom"].map((h) => <SelectItem key={h} value={h}>{h}</SelectItem>)}
                   </SelectContent>
                 </Select>
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Pilgrim Group</label>
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Pilgrim Group</label>
                 <Select value={pilgrims} onValueChange={setPilgrims}>
-                  <SelectTrigger className="h-11 bg-sand/50"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["1 Pilgrim (Single Room)", "2 Pilgrims (Double)", "3-4 Pilgrims (Family)", "5+ Pilgrims (Group)"].map((p) => <SelectItem key={p} value={p}>{p}</SelectItem>)}
                   </SelectContent>
                 </Select>
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Travel Month</label>
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Travel Month</label>
                 <Select value={month} onValueChange={setMonth}>
-                  <SelectTrigger className="h-11 bg-sand/50"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["Current Month", "Next Month", "Ramadan", "Shawwal", "Custom Date"].map((m) => <SelectItem key={m} value={m}>{m}</SelectItem>)}
                   </SelectContent>
                 </Select>
               </div>
             </div>
-            <p className="mt-4 text-xs text-muted-grey">Verified hotel vouchers, genuine eVisas, and transparent live quotations.</p>
+            <p className="mt-4 text-xs text-muted-foreground">Verified hotel vouchers, genuine eVisas, and transparent live quotations.</p>
             <button
               onClick={submitUmrah}
-              className="mt-5 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+              className="mt-5 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
             >
               <Send className="h-4 w-4" />
               Get Instant Umrah Quotation on WhatsApp
@@ -108,7 +108,7 @@ export default function UmrahPage() {
       </section>
 
       {/* Package List */}
-      <section className="bg-sand/40 py-16 lg:py-20">
+      <section className="bg-muted/40 py-16 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <SectionHeading
             eyebrow="Packages"
@@ -127,25 +127,25 @@ export default function UmrahPage() {
                       <span className={cn("inline-flex items-center rounded-full border px-3 py-1 text-xs font-semibold", umrahBadgeClasses[pkg.badgeStyle])}>
                         {pkg.badge}
                       </span>
-                      <h3 className="mt-3 font-heading text-xl lg:text-2xl font-semibold text-navy">{pkg.title}</h3>
-                      <p className="mt-1 text-xs text-muted-grey">{pkg.duration}</p>
+                      <h3 className="mt-3 font-heading text-xl lg:text-2xl font-semibold text-foreground">{pkg.title}</h3>
+                      <p className="mt-1 text-xs text-muted-foreground">{pkg.duration}</p>
                     </div>
                   </div>
 
-                  <p className="text-sm text-charcoal/80 leading-relaxed mb-5">{pkg.description}</p>
+                  <p className="text-sm text-foreground/80 leading-relaxed mb-5">{pkg.description}</p>
 
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mb-5">
-                    <div className="bg-sand/40 rounded-xl p-4">
-                      <p className="text-xs font-semibold text-muted-grey uppercase tracking-wide mb-1">Makkah Hotel</p>
-                      <p className="text-sm text-charcoal">{pkg.hotel.makkah}</p>
+                    <div className="bg-muted/40 rounded-xl p-4">
+                      <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wide mb-1">Makkah Hotel</p>
+                      <p className="text-sm text-foreground">{pkg.hotel.makkah}</p>
                     </div>
-                    <div className="bg-sand/40 rounded-xl p-4">
-                      <p className="text-xs font-semibold text-muted-grey uppercase tracking-wide mb-1">Madinah Hotel</p>
-                      <p className="text-sm text-charcoal">{pkg.hotel.madinah}</p>
+                    <div className="bg-muted/40 rounded-xl p-4">
+                      <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wide mb-1">Madinah Hotel</p>
+                      <p className="text-sm text-foreground">{pkg.hotel.madinah}</p>
                     </div>
-                    <div className="bg-sand/40 rounded-xl p-4">
-                      <p className="text-xs font-semibold text-muted-grey uppercase tracking-wide mb-1">Transport</p>
-                      <p className="text-sm text-charcoal">{pkg.hotel.transport}</p>
+                    <div className="bg-muted/40 rounded-xl p-4">
+                      <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wide mb-1">Transport</p>
+                      <p className="text-sm text-foreground">{pkg.hotel.transport}</p>
                     </div>
                   </div>
 
@@ -156,7 +156,7 @@ export default function UmrahPage() {
                     </summary>
                     <ul className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-2">
                       {pkg.inclusions.map((inc) => (
-                        <li key={inc} className="flex items-start gap-2 text-xs text-charcoal/80">
+                        <li key={inc} className="flex items-start gap-2 text-xs text-foreground/80">
                           <CheckCircle2 className="h-3.5 w-3.5 text-teal flex-shrink-0 mt-0.5" />
                           {inc}
                         </li>
@@ -195,8 +195,8 @@ export default function UmrahPage() {
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>
-                <h3 className="font-heading text-base font-semibold text-navy mb-2">{item.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{item.description}</p>
+                <h3 className="font-heading text-base font-semibold text-foreground mb-2">{item.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
               </div>
             ))}
           </div>

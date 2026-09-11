@@ -96,56 +96,70 @@
   --muted-grey: #6B7B85;
   --success: #2E7D32;
   --error: #C62828;
-  /* Hero pattern visibility */
+  /* Light-on-navy color (used inside PageHero, navy CTAs etc.) — does NOT change in dark mode */
+  --on-navy: #F7F3EC;
+  --on-navy-muted: rgba(247, 243, 236, 0.8);
+  /* Pattern */
   --pattern-opacity: 0.3;
-  --pattern-color: rgba(255, 255, 255, 0.4);
+  --pattern-color: rgba(11, 31, 42, 0.4);
+  /* Glow shadows */
+  --glow-teal: 0 0 24px rgba(15, 163, 163, 0.18);
+  --glow-gold: 0 0 24px rgba(245, 166, 35, 0.25);
 }
 
-/* ============ DARK BLUISH THEME (deep navy with blue undertones) ============ */
+/* ============ DARK BLUE THEME (deep midnight blue with vibrant blue undertones) ============ */
 .dark {
   --radius: 0.625rem;
-  --background: #0A1622; /* Deep blue-navy (not pure black) */
-  --foreground: #E2E8F0; /* Soft slate-blue white */
-  --card: #0F1E2E; /* Slightly lighter blue-navy */
-  --card-foreground: #E2E8F0;
-  --popover: #0F1E2E;
-  --popover-foreground: #E2E8F0;
-  --primary: #F5A623; /* Gold stays the same */
-  --primary-foreground: #0A1622;
-  --secondary: #1E3A52; /* Blue-navy */
-  --secondary-foreground: #E2E8F0;
-  --muted: #162838; /* Muted blue-navy */
-  --muted-foreground: #94A3B8; /* Slate-blue grey */
-  --accent: #14B8B8; /* Brighter teal for dark mode visibility */
-  --accent-foreground: #0A1622;
+  /* Deep midnight blue — more vibrant, less black. Closer to deep ocean blue. */
+  --background: #0A1530; /* Deep sapphire blue base */
+  --foreground: #E8F0FA; /* Cool blue-tinted white */
+  --card: #112244; /* Slightly elevated blue surface */
+  --card-foreground: #E8F0FA;
+  --popover: #112244;
+  --popover-foreground: #E8F0FA;
+  --primary: #F5A623;
+  --primary-foreground: #0A1530;
+  --secondary: #1B3460; /* Vibrant royal-navy for secondary surfaces */
+  --secondary-foreground: #E8F0FA;
+  --muted: #142A52; /* Muted navy-blue */
+  --muted-foreground: #93B4D8;
+  --accent: #14B8B8;
+  --accent-foreground: #0A1530;
   --destructive: #EF4444;
-  --border: #1E3A52;
-  --input: #1E3A52;
+  --border: #1B3460;
+  --input: #1B3460;
   --ring: #14B8B8;
   --chart-1: #14B8B8;
   --chart-2: #F5A623;
   --chart-3: #60A5FA;
   --chart-4: #4ADE80;
-  --chart-5: #94A3B8;
-  --sidebar: #0F1E2E;
-  --sidebar-foreground: #E2E8F0;
+  --chart-5: #93B4D8;
+  --sidebar: #112244;
+  --sidebar-foreground: #E8F0FA;
   --sidebar-primary: #F5A623;
-  --sidebar-primary-foreground: #0A1622;
-  --sidebar-accent: #162838;
-  --sidebar-accent-foreground: #E2E8F0;
-  --sidebar-border: #1E3A52;
+  --sidebar-primary-foreground: #0A1530;
+  --sidebar-accent: #142A52;
+  --sidebar-accent-foreground: #E8F0FA;
+  --sidebar-border: #1B3460;
   --sidebar-ring: #14B8B8;
-  /* HTG Brand — adjusted for dark mode visibility */
-  --navy: #0A1622; /* Darker for navy backgrounds */
-  --teal: #14B8B8; /* Brighter teal */
+  /* HTG Brand */
+  --navy: #0A1530;
+  --teal: #14B8B8;
   --gold: #F5A623;
-  --sand: #162838; /* Sand becomes muted blue-navy in dark */
-  --charcoal: #E2E8F0;
-  --muted-grey: #94A3B8;
+  --sand: #142A52;
+  --charcoal: #E8F0FA;
+  --muted-grey: #93B4D8;
   --success: #4ADE80;
   --error: #EF4444;
-  --pattern-opacity: 0.15;
-  --pattern-color: rgba(245, 166, 35, 0.3);
+  /* Light-on-navy color */
+  --on-navy: #E8F0FA;
+  --on-navy-muted: rgba(232, 240, 250, 0.78);
+  /* Pattern — blue tinted, very subtle */
+  --pattern-opacity: 0.06;
+  --pattern-color: rgba(96, 165, 250, 0.4);
+  /* Glow shadows — vibrant blue/teal halos */
+  --glow-teal: 0 0 32px rgba(20, 184, 184, 0.4);
+  --glow-gold: 0 0 32px rgba(245, 166, 35, 0.45);
 }
 
 @layer base {
@@ -160,7 +174,18 @@
     @apply bg-background text-foreground font-sans;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    transition: background-color 0.4s ease, color 0.4s ease;
+    /* Add a subtle ambient blue glow in dark mode */
+    background-image:
+      radial-gradient(ellipse 80% 50% at 50% -10%, rgba(20, 184, 184, 0.08), transparent 70%),
+      radial-gradient(ellipse 60% 40% at 100% 100%, rgba(96, 165, 250, 0.06), transparent 70%);
+    background-attachment: fixed;
+  }
+  .dark body {
+    background-image:
+      radial-gradient(ellipse 100% 60% at 50% -20%, rgba(20, 184, 184, 0.18), transparent 70%),
+      radial-gradient(ellipse 80% 50% at 100% 100%, rgba(96, 165, 250, 0.12), transparent 70%),
+      radial-gradient(ellipse 60% 40% at 0% 50%, rgba(245, 166, 35, 0.06), transparent 70%);
   }
   h1, h2, h3, h4, h5, h6 {
     @apply font-heading;
@@ -175,6 +200,9 @@
   .text-sand { color: var(--sand); }
   .text-charcoal { color: var(--charcoal); }
   .text-muted-grey { color: var(--muted-grey); }
+  /* Light-on-navy color (PageHero subtitle/intro on dark navy backgrounds) */
+  .text-on-navy { color: var(--on-navy); }
+  .text-on-navy-muted { color: var(--on-navy-muted); }
   .bg-navy { background-color: var(--navy); }
   .bg-teal { background-color: var(--teal); }
   .bg-gold { background-color: var(--gold); }
@@ -188,6 +216,8 @@
   .ring-navy { --tw-ring-color: var(--navy); }
   .font-heading { font-family: var(--font-sora); }
   .font-sans { font-family: var(--font-inter); }
+
+  /* ============ Shadows ============ */
   .shadow-htg {
     box-shadow: 0 8px 32px rgba(11, 31, 42, 0.08);
   }
@@ -195,16 +225,32 @@
     box-shadow: 0 20px 60px rgba(11, 31, 42, 0.12);
   }
   .dark .shadow-htg {
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(96, 165, 250, 0.05);
   }
   .dark .shadow-htg-lg {
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(96, 165, 250, 0.08);
   }
+
+  /* Blue glow halos — only in dark mode for premium feel */
+  .glow-teal {
+    box-shadow: var(--glow-teal);
+  }
+  .glow-gold {
+    box-shadow: var(--glow-gold);
+  }
+
+  /* ============ Patterns ============ */
   .pattern-navy {
     background-color: var(--navy);
     background-image:
-      radial-gradient(circle at 25% 25%, rgba(245, 166, 35, 0.04) 0%, transparent 50%),
-      radial-gradient(circle at 75% 75%, rgba(15, 163, 163, 0.04) 0%, transparent 50%);
+      radial-gradient(circle at 25% 25%, rgba(245, 166, 35, 0.06) 0%, transparent 50%),
+      radial-gradient(circle at 75% 75%, rgba(15, 163, 163, 0.06) 0%, transparent 50%);
+  }
+  .dark .pattern-navy {
+    background-image:
+      radial-gradient(circle at 25% 25%, rgba(245, 166, 35, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 75% 75%, rgba(20, 184, 184, 0.12) 0%, transparent 50%),
+      radial-gradient(circle at 50% 100%, rgba(96, 165, 250, 0.08) 0%, transparent 70%);
   }
   .pattern-geometric {
     background-image:
@@ -212,10 +258,12 @@
       linear-gradient(-45deg, var(--pattern-color) 25%, transparent 25%),
       linear-gradient(45deg, transparent 75%, var(--pattern-color) 75%),
       linear-gradient(-45deg, transparent 75%, var(--pattern-color) 75%);
-    background-size: 24px 24px;
-    background-position: 0 0, 0 12px, 12px -12px, -12px 0px;
+    background-size: 32px 32px;
+    background-position: 0 0, 0 16px, 16px -16px, -16px 0px;
     opacity: var(--pattern-opacity);
   }
+
+  /* Scrollbar */
   .scrollbar-custom::-webkit-scrollbar {
     width: 6px;
     height: 6px;
@@ -230,35 +278,88 @@
   .scrollbar-custom::-webkit-scrollbar-thumb:hover {
     background: rgba(11, 31, 42, 0.4);
   }
-  /* Glow effect for primary CTAs */
-  .glow-gold {
-    box-shadow: 0 0 0 0 rgba(245, 166, 35, 0.6);
-    animation: pulse-gold 2.5s infinite;
+  .dark .scrollbar-custom::-webkit-scrollbar-thumb {
+    background: rgba(96, 165, 250, 0.2);
+  }
+  .dark .scrollbar-custom::-webkit-scrollbar-thumb:hover {
+    background: rgba(96, 165, 250, 0.4);
+  }
+
+  /* ============ Animated utilities ============ */
+
+  /* Pulsing glow for primary CTAs */
+  .glow-gold-pulse {
+    animation: pulse-gold 2.8s ease-in-out infinite;
   }
   @keyframes pulse-gold {
-    0% { box-shadow: 0 0 0 0 rgba(245, 166, 35, 0.4); }
-    70% { box-shadow: 0 0 0 12px rgba(245, 166, 35, 0); }
-    100% { box-shadow: 0 0 0 0 rgba(245, 166, 35, 0); }
+    0%, 100% { box-shadow: 0 0 0 0 rgba(245, 166, 35, 0.5), 0 4px 12px rgba(245, 166, 35, 0.3); }
+    50% { box-shadow: 0 0 0 14px rgba(245, 166, 35, 0), 0 8px 24px rgba(245, 166, 35, 0.4); }
   }
-  /* Animated gradient text */
+
+  /* Animated gradient text — gold → teal → blue → gold (cohesive in dark mode) */
   .text-gradient-animated {
-    background: linear-gradient(90deg, var(--teal), var(--gold), var(--teal));
-    background-size: 200% auto;
+    background: linear-gradient(90deg, #F5A623, #14B8B8, #60A5FA, #F5A623);
+    background-size: 300% auto;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: shimmer 4s linear infinite;
+    animation: shimmer 6s linear infinite;
   }
   @keyframes shimmer {
     0% { background-position: 0% center; }
-    100% { background-position: 200% center; }
+    100% { background-position: 300% center; }
   }
-  /* Floating animation for hero badge */
+
+  /* Floating animation — gentler for premium feel */
   .float {
-    animation: float 3s ease-in-out infinite;
+    animation: float 4s ease-in-out infinite;
   }
   @keyframes float {
     0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-6px); }
+    50% { transform: translateY(-8px); }
+  }
+
+  /* Slow drift for background blobs */
+  .drift-slow {
+    animation: drift-slow 12s ease-in-out infinite;
+  }
+  @keyframes drift-slow {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    33% { transform: translate(30px, -20px) scale(1.05); }
+    66% { transform: translate(-20px, 30px) scale(0.95); }
+  }
+
+  /* Subtle glow pulse for badges */
+  .badge-glow {
+    animation: badge-pulse 3s ease-in-out infinite;
+  }
+  @keyframes badge-pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(20, 184, 184, 0.4); }
+    50% { box-shadow: 0 0 16px 4px rgba(20, 184, 184, 0.2); }
+  }
+}
+
+/* ============ RESPONSIVE ANIMATION TUNING ============ */
+/*
+  Mobile (default): subtle, short animations to avoid jank on low-end devices
+  Tablet (sm:): slightly longer durations
+  Desktop (lg:): full animations with depth
+*/
+@media (max-width: 640px) {
+  /* Reduce motion intensity on mobile */
+  .float { animation-duration: 5s; }
+  .drift-slow { animation-duration: 15s; }
+  .glow-gold-pulse { animation-duration: 3.5s; }
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }

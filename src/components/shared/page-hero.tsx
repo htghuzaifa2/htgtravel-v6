@@ -60,7 +60,7 @@ export function PageHero({ eyebrow, title, subtitle, intro, className }: PageHer
           <motion.p
             variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
             transition={{ duration: 0.45 }}
-            className="mt-3 font-heading text-xl md:text-2xl text-sand"
+            className="mt-3 font-heading text-xl md:text-2xl text-on-navy"
           >
             {subtitle}
           </motion.p>
@@ -69,7 +69,7 @@ export function PageHero({ eyebrow, title, subtitle, intro, className }: PageHer
           <motion.p
             variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
             transition={{ duration: 0.5 }}
-            className="mt-6 text-base text-sand/80 leading-relaxed max-w-3xl mx-auto"
+            className="mt-6 text-base text-on-navy-muted leading-relaxed max-w-3xl mx-auto"
           >
             {intro}
           </motion.p>

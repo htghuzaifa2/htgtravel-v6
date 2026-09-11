@@ -39,7 +39,7 @@ export function SectionHeading({
       <h2
         className={cn(
           "font-heading font-semibold leading-tight",
-          isLight ? "text-white" : "text-navy dark:text-foreground",
+          isLight ? "text-white" : "text-foreground",
           "text-2xl sm:text-3xl md:text-[32px]"
         )}
       >
@@ -49,7 +49,7 @@ export function SectionHeading({
         <p
           className={cn(
             "mt-4 text-base leading-relaxed",
-            isLight ? "text-sand/80" : "text-charcoal/80 dark:text-muted-foreground",
+            isLight ? "text-on-navy-muted" : "text-muted-foreground",
             align === "center" ? "mx-auto max-w-2xl" : ""
           )}
         >

@@ -17,11 +17,11 @@ type FinalCTAProps = {
 // Variants: gold (default, on detail pages), navy (standalone), sand (subtle).
 export function FinalCTA({ heading, body, buttonLabel, icon, variant = "sand" }: FinalCTAProps) {
   const bgClass =
-    variant === "navy" ? "bg-navy text-white"
+    variant === "navy" ? "pattern-navy text-white"
     : variant === "gold" ? "bg-gold text-navy"
-    : "bg-sand/40";
-  const headingColor = variant === "navy" ? "text-white" : variant === "gold" ? "text-navy" : "text-navy dark:text-foreground";
-  const bodyColor = variant === "navy" ? "text-sand/80" : variant === "gold" ? "text-navy/80" : "text-charcoal/80 dark:text-muted-foreground";
+    : "bg-muted/40";
+  const headingColor = variant === "navy" ? "text-white" : variant === "gold" ? "text-navy" : "text-foreground";
+  const bodyColor = variant === "navy" ? "text-on-navy-muted" : variant === "gold" ? "text-navy/80" : "text-muted-foreground";
 
   return (
     <section className={cn("relative overflow-hidden", bgClass)}>

@@ -28,14 +28,14 @@ export default function FAQPage() {
           <div className="space-y-12">
             {FAQS.map((cat) => (
               <div key={cat.category}>
-                <h2 className="font-heading text-2xl font-semibold text-navy mb-5">{cat.category}</h2>
+                <h2 className="font-heading text-2xl font-semibold text-foreground mb-5">{cat.category}</h2>
                 <Accordion type="single" collapsible className="w-full">
                   {cat.items.map((faq, idx) => (
                     <AccordionItem key={idx} value={`${cat.category}-${idx}`}>
-                      <AccordionTrigger className="text-left font-heading text-base font-semibold text-navy hover:no-underline">
+                      <AccordionTrigger className="text-left font-heading text-base font-semibold text-foreground hover:no-underline">
                         {faq.q}
                       </AccordionTrigger>
-                      <AccordionContent className="text-sm text-charcoal/80 leading-relaxed">
+                      <AccordionContent className="text-sm text-foreground/80 leading-relaxed">
                         {faq.a}
                       </AccordionContent>
                     </AccordionItem>

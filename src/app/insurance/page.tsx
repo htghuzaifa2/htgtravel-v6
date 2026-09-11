@@ -51,12 +51,12 @@ export default function InsurancePage() {
                       <Icon className="h-6 w-6" />
                     </div>
                     <div>
-                      <h3 className="font-heading text-lg font-semibold text-navy">{plan.name}</h3>
-                      <p className="text-xs text-muted-grey">Coverage: {plan.coverage}</p>
+                      <h3 className="font-heading text-lg font-semibold text-foreground">{plan.name}</h3>
+                      <p className="text-xs text-muted-foreground">Coverage: {plan.coverage}</p>
                     </div>
                   </div>
-                  <p className="text-sm text-charcoal/80 leading-relaxed mb-3">{plan.description}</p>
-                  <p className="text-xs text-muted-grey mb-5"><span className="font-medium text-charcoal">Best for:</span> {plan.bestFor}</p>
+                  <p className="text-sm text-foreground/80 leading-relaxed mb-3">{plan.description}</p>
+                  <p className="text-xs text-muted-foreground mb-5"><span className="font-medium text-foreground">Best for:</span> {plan.bestFor}</p>
                   <div className="mt-auto pt-5 border-t border-[#E5E0D8]">
                     <p className="text-sm font-semibold text-teal mb-3">Price: Live Rate on Request</p>
                     <WhatsAppButton
@@ -76,7 +76,7 @@ export default function InsurancePage() {
       </section>
 
       {/* Why Get Insured */}
-      <section className="bg-sand/40 py-16 lg:py-20">
+      <section className="bg-muted/40 py-16 lg:py-20">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
           <SectionHeading eyebrow="Why Us" title="Why Get Insured With HTG?" />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -85,8 +85,8 @@ export default function InsurancePage() {
                 <div className="mx-auto inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>
-                <h3 className="font-heading text-base font-semibold text-navy mb-2">{item.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{item.description}</p>
+                <h3 className="font-heading text-base font-semibold text-foreground mb-2">{item.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
               </div>
             ))}
           </div>

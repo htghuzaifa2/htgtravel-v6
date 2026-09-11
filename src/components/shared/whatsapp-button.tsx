@@ -13,11 +13,11 @@ type WhatsAppButtonProps = {
 };
 
 const variantClasses = {
-  primary: "bg-gold text-navy hover:brightness-105 shadow-sm hover:shadow-md",
+  primary: "bg-gold text-foreground hover:brightness-105 shadow-sm hover:shadow-md",
   secondary: "bg-teal text-white hover:brightness-110",
   navy: "bg-navy text-white hover:bg-charcoal",
-  outline: "bg-transparent text-navy border-2 border-navy hover:bg-navy hover:text-white",
-  gold: "bg-gold text-navy hover:brightness-105 shadow-md",
+  outline: "bg-transparent text-foreground border-2 border-navy hover:bg-navy hover:text-white",
+  gold: "bg-gold text-foreground hover:brightness-105 shadow-md",
 };
 
 const sizeClasses = {

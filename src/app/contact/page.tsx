@@ -36,14 +36,14 @@ export default function ContactPage() {
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
           <div className="bg-white rounded-2xl p-8 shadow-htg border border-[#E5E0D8] text-center">
             <p className="text-5xl mb-3">🇵🇸</p>
-            <h2 className="font-heading text-2xl font-semibold text-navy mb-2">We Stand with Palestine</h2>
-            <p className="text-sm text-charcoal/80 max-w-xl mx-auto mb-4">
+            <h2 className="font-heading text-2xl font-semibold text-foreground mb-2">We Stand with Palestine</h2>
+            <p className="text-sm text-foreground/80 max-w-xl mx-auto mb-4">
               Solidarity with the Palestinian people in their struggle for freedom, justice, and human rights.
             </p>
-            <p className="font-heading text-lg font-bold text-navy mb-4">FREE PALESTINE</p>
+            <p className="font-heading text-lg font-bold text-foreground mb-4">FREE PALESTINE</p>
             <div className="flex flex-wrap gap-2 justify-center">
               {["⚖️ Justice", "🕊️ Freedom", "☮️ Peace", "❤️ Humanity"].map((t) => (
-                <span key={t} className="inline-flex items-center rounded-full bg-sand px-4 py-2 text-sm font-medium text-charcoal">
+                <span key={t} className="inline-flex items-center rounded-full bg-muted px-4 py-2 text-sm font-medium text-foreground">
                   {t}
                 </span>
               ))}
@@ -60,29 +60,29 @@ export default function ContactPage() {
               <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                 <Mail className="h-6 w-6" />
               </div>
-              <h3 className="font-heading text-base font-semibold text-navy mb-2">Email Support</h3>
+              <h3 className="font-heading text-base font-semibold text-foreground mb-2">Email Support</h3>
               <a href={`mailto:${SITE.email}`} className="block text-sm text-teal hover:text-gold transition-colors break-all">
                 {SITE.email}
               </a>
-              <p className="mt-2 text-xs text-muted-grey">Our support team responds within 24 hours.</p>
+              <p className="mt-2 text-xs text-muted-foreground">Our support team responds within 24 hours.</p>
             </div>
             <div className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 text-center">
               <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                 <MessageCircle className="h-6 w-6" />
               </div>
-              <h3 className="font-heading text-base font-semibold text-navy mb-2">WhatsApp</h3>
+              <h3 className="font-heading text-base font-semibold text-foreground mb-2">WhatsApp</h3>
               <a href={SITE.whatsappLink} target="_blank" rel="noopener noreferrer" className="block text-sm text-teal hover:text-gold transition-colors">
                 {SITE.whatsappDisplay}
               </a>
-              <p className="mt-2 text-xs text-muted-grey">Chat with us instantly on WhatsApp.</p>
+              <p className="mt-2 text-xs text-muted-foreground">Chat with us instantly on WhatsApp.</p>
             </div>
             <div className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 text-center">
               <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                 <MapPin className="h-6 w-6" />
               </div>
-              <h3 className="font-heading text-base font-semibold text-navy mb-2">Office</h3>
-              <p className="text-sm text-charcoal">{SITE.location}</p>
-              <p className="mt-2 text-xs text-muted-grey">{SITE.hours}</p>
+              <h3 className="font-heading text-base font-semibold text-foreground mb-2">Office</h3>
+              <p className="text-sm text-foreground">{SITE.location}</p>
+              <p className="mt-2 text-xs text-muted-foreground">{SITE.hours}</p>
             </div>
           </div>
         </div>
@@ -92,27 +92,27 @@ export default function ContactPage() {
       <section className="py-12">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
           <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-[#E5E0D8]">
-            <h2 className="font-heading text-xl font-semibold text-navy mb-1">Send Us a Message</h2>
-            <p className="text-xs text-muted-grey mb-6">
+            <h2 className="font-heading text-xl font-semibold text-foreground mb-1">Send Us a Message</h2>
+            <p className="text-xs text-muted-foreground mb-6">
               The form does not submit to a server. It opens WhatsApp with a pre-filled message containing the form data.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Full Name</label>
-                <Input value={name} onChange={(e) => setName(e.target.value)} placeholder="Your full name" className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Full Name</label>
+                <Input value={name} onChange={(e) => setName(e.target.value)} placeholder="Your full name" className="bg-muted/60" />
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Email Address</label>
-                <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="your.email@example.com" className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Email Address</label>
+                <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="your.email@example.com" className="bg-muted/60" />
               </div>
               <div className="sm:col-span-2">
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Your Message</label>
-                <Textarea value={message} onChange={(e) => setMessage(e.target.value)} placeholder="Type your message here..." className="bg-sand/50 min-h-[140px]" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Your Message</label>
+                <Textarea value={message} onChange={(e) => setMessage(e.target.value)} placeholder="Type your message here..." className="bg-muted/60 min-h-[140px]" />
               </div>
             </div>
             <button
               onClick={submit}
-              className="mt-6 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+              className="mt-6 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
             >
               <Send className="h-4 w-4" />
               Send Message via WhatsApp
@@ -137,10 +137,10 @@ export default function ContactPage() {
       </section>
 
       {/* Our Commitment */}
-      <section className="bg-sand/40 py-16">
+      <section className="bg-muted/40 py-16">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-navy mb-4">Our Commitment</h2>
-          <p className="text-base text-charcoal/80 leading-relaxed">
+          <h2 className="font-heading text-2xl md:text-3xl font-semibold text-foreground mb-4">Our Commitment</h2>
+          <p className="text-base text-foreground/80 leading-relaxed">
             We believe in building trust through clear communication. Every query is important to us, and our goal is to provide you with fast, professional, and reliable support at every step of your journey with HTG Travels.
           </p>
         </div>

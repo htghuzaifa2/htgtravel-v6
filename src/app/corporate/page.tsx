@@ -57,44 +57,44 @@ export default function CorporatePage() {
       <section className="py-16 lg:py-20">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
           <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-htg-lg border border-[#E5E0D8]">
-            <h2 className="font-heading text-xl font-semibold text-navy mb-6">Corporate Quote Request</h2>
+            <h2 className="font-heading text-xl font-semibold text-foreground mb-6">Corporate Quote Request</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Company Name</label>
-                <Input value={company} onChange={(e) => setCompany(e.target.value)} placeholder="Your company name" className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Company Name</label>
+                <Input value={company} onChange={(e) => setCompany(e.target.value)} placeholder="Your company name" className="bg-muted/60" />
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Contact Person</label>
-                <Input value={contact} onChange={(e) => setContact(e.target.value)} placeholder="Full name" className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Contact Person</label>
+                <Input value={contact} onChange={(e) => setContact(e.target.value)} placeholder="Full name" className="bg-muted/60" />
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Email</label>
-                <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="email@company.com" className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Email</label>
+                <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="email@company.com" className="bg-muted/60" />
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Phone</label>
-                <Input value={phone} onChange={(e) => setPhone(e.target.value)} placeholder="+92..." className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Phone</label>
+                <Input value={phone} onChange={(e) => setPhone(e.target.value)} placeholder="+92..." className="bg-muted/60" />
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Number of Travelers</label>
-                <Input value={travelers} onChange={(e) => setTravelers(e.target.value)} placeholder="e.g. 15" className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Number of Travelers</label>
+                <Input value={travelers} onChange={(e) => setTravelers(e.target.value)} placeholder="e.g. 15" className="bg-muted/60" />
               </div>
               <div>
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Route / Destination</label>
-                <Input value={route} onChange={(e) => setRoute(e.target.value)} placeholder="e.g. Lahore to Dubai" className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Route / Destination</label>
+                <Input value={route} onChange={(e) => setRoute(e.target.value)} placeholder="e.g. Lahore to Dubai" className="bg-muted/60" />
               </div>
               <div className="sm:col-span-2">
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Travel Dates</label>
-                <Input value={dates} onChange={(e) => setDates(e.target.value)} placeholder="e.g. 15-22 December 2026" className="bg-sand/50" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Travel Dates</label>
+                <Input value={dates} onChange={(e) => setDates(e.target.value)} placeholder="e.g. 15-22 December 2026" className="bg-muted/60" />
               </div>
               <div className="sm:col-span-2">
-                <label className="text-xs font-medium text-muted-grey mb-1.5 block">Special Requirements</label>
-                <Textarea value={notes} onChange={(e) => setNotes(e.target.value)} placeholder="Visa assistance, hotel, group Umrah, billing terms, etc." className="bg-sand/50 min-h-[100px]" />
+                <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Special Requirements</label>
+                <Textarea value={notes} onChange={(e) => setNotes(e.target.value)} placeholder="Visa assistance, hotel, group Umrah, billing terms, etc." className="bg-muted/60 min-h-[100px]" />
               </div>
             </div>
             <button
               onClick={submit}
-              className="mt-6 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+              className="mt-6 w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
             >
               <Send className="h-4 w-4" />
               Request Corporate Quote on WhatsApp
@@ -104,7 +104,7 @@ export default function CorporatePage() {
       </section>
 
       {/* Benefits */}
-      <section className="bg-sand/40 py-16 lg:py-20">
+      <section className="bg-muted/40 py-16 lg:py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <SectionHeading eyebrow="Benefits" title="Why Choose HTG for Corporate Travel" />
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -113,8 +113,8 @@ export default function CorporatePage() {
                 <div className="inline-flex h-11 w-11 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
                   <item.icon className="h-5 w-5" />
                 </div>
-                <h3 className="font-heading text-base font-semibold text-navy mb-2">{item.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{item.description}</p>
+                <h3 className="font-heading text-base font-semibold text-foreground mb-2">{item.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
               </div>
             ))}
           </div>
@@ -128,8 +128,8 @@ export default function CorporatePage() {
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {clients.map((item) => (
               <div key={item.title} className="bg-white rounded-2xl p-6 border border-[#E5E0D8]/60 shadow-htg">
-                <h3 className="font-heading text-base font-semibold text-navy mb-2">{item.title}</h3>
-                <p className="text-sm text-charcoal/80 leading-relaxed">{item.description}</p>
+                <h3 className="font-heading text-base font-semibold text-foreground mb-2">{item.title}</h3>
+                <p className="text-sm text-foreground/80 leading-relaxed">{item.description}</p>
               </div>
             ))}
           </div>

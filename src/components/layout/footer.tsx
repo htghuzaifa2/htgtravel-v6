@@ -9,7 +9,7 @@ export function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="bg-navy text-white mt-auto">
+    <footer className="pattern-navy text-white mt-auto">
       {/* Bottom Bar CTA */}
       <div className="border-b border-white/10">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10">
@@ -24,7 +24,7 @@ export function Footer() {
             </div>
             <button
               onClick={() => openWhatsApp(generalInquiry())}
-              className="inline-flex items-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md whitespace-nowrap"
+              className="inline-flex items-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md whitespace-nowrap"
             >
               <MessageCircle className="h-4 w-4" />
               Message on WhatsApp

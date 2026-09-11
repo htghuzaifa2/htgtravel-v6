@@ -88,10 +88,27 @@ export function Hero() {
   const getDestAirports = () => DEST_AIRPORTS[destCountry] ?? ["Capital City Airport"];
 
   return (
-    <section className="relative overflow-hidden bg-sand">
-      <div className="absolute inset-0 pattern-geometric opacity-30 pointer-events-none" />
-      <div className="absolute top-0 right-0 w-96 h-96 bg-teal/5 rounded-full blur-3xl pointer-events-none" />
-      <div className="absolute bottom-0 left-0 w-96 h-96 bg-gold/5 rounded-full blur-3xl pointer-events-none" />
+    <section className="relative overflow-hidden bg-background">
+      {/* Subtle background patterns — animated blobs that drift */}
+      <motion.div
+        aria-hidden
+        className="absolute top-0 right-0 w-[28rem] h-[28rem] bg-teal/15 dark:bg-teal/25 rounded-full blur-3xl pointer-events-none"
+        animate={{ x: [0, 30, 0], y: [0, 20, 0], scale: [1, 1.1, 1] }}
+        transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
+      />
+      <motion.div
+        aria-hidden
+        className="absolute bottom-0 left-0 w-[28rem] h-[28rem] bg-gold/15 dark:bg-gold/25 rounded-full blur-3xl pointer-events-none"
+        animate={{ x: [0, -30, 0], y: [0, -20, 0], scale: [1, 1.15, 1] }}
+        transition={{ duration: 12, repeat: Infinity, ease: "easeInOut" }}
+      />
+      <motion.div
+        aria-hidden
+        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[32rem] h-[32rem] bg-blue-500/5 dark:bg-blue-500/10 rounded-full blur-3xl pointer-events-none"
+        animate={{ scale: [1, 1.2, 1], opacity: [0.4, 0.7, 0.4] }}
+        transition={{ duration: 14, repeat: Infinity, ease: "easeInOut" }}
+      />
+      <div className="absolute inset-0 pattern-geometric pointer-events-none" />
 
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 lg:py-24">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
@@ -107,7 +124,7 @@ export function Hero() {
             <motion.span
               variants={{ hidden: { opacity: 0, y: 12 }, visible: { opacity: 1, y: 0 } }}
               transition={{ duration: 0.5 }}
-              className="inline-flex items-center gap-2 rounded-full bg-teal/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal"
+              className="inline-flex items-center gap-2 rounded-full bg-teal/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal badge-glow"
             >
               <Send className="h-3 w-3" />
               Pakistan&apos;s Trusted Travel Desk
@@ -115,7 +132,7 @@ export function Hero() {
             <motion.h1
               variants={{ hidden: { opacity: 0, y: 24 }, visible: { opacity: 1, y: 0 } }}
               transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-              className="mt-5 font-heading font-bold text-navy leading-[1.1] text-3xl sm:text-4xl md:text-5xl lg:text-[48px]"
+              className="mt-5 font-heading font-bold text-foreground leading-[1.1] text-3xl sm:text-4xl md:text-5xl lg:text-[48px]"
             >
               Fly From Pakistan.{" "}
               <span className="text-gradient-animated">Land Anywhere.</span>{" "}
@@ -124,7 +141,7 @@ export function Hero() {
             <motion.p
               variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
               transition={{ duration: 0.55 }}
-              className="mt-6 text-base md:text-lg text-charcoal/80 leading-relaxed max-w-xl"
+              className="mt-6 text-base md:text-lg text-muted-foreground leading-relaxed max-w-xl"
             >
               HTG Travels compares live airline fares and prepares your visa file step by step — all through WhatsApp. No confusing price lists. No waiting rooms. Just answers in minutes.
             </motion.p>
@@ -134,26 +151,32 @@ export function Hero() {
               transition={{ duration: 0.5 }}
               className="mt-8 flex flex-wrap gap-3"
             >
-              <button
+              <motion.button
+                whileHover={{ scale: 1.04 }}
+                whileTap={{ scale: 0.97 }}
+                transition={{ type: "spring", stiffness: 400, damping: 17 }}
                 onClick={() => setTab("flight")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md glow-gold-pulse"
               >
                 <Plane className="h-4 w-4" />
                 Request Flight Fare
-              </button>
-              <button
+              </motion.button>
+              <motion.button
+                whileHover={{ scale: 1.04 }}
+                whileTap={{ scale: 0.97 }}
+                transition={{ type: "spring", stiffness: 400, damping: 17 }}
                 onClick={() => setTab("visa")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent border-2 border-navy text-navy px-6 py-3 text-sm font-semibold hover:bg-navy hover:text-white transition"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent border-2 border-foreground text-foreground px-6 py-3 text-sm font-semibold hover:bg-foreground hover:text-background transition"
               >
                 <FileCheck className="h-4 w-4" />
                 Ask Visa Expert
-              </button>
+              </motion.button>
             </motion.div>
 
             <motion.div
               variants={{ hidden: { opacity: 0 }, visible: { opacity: 1 } }}
               transition={{ duration: 0.6, delay: 0.2 }}
-              className="mt-8 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-grey"
+              className="mt-8 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground"
             >
               <span className="inline-flex items-center gap-1.5">
                 <CheckCircle2 className="h-4 w-4 text-teal" />
@@ -189,18 +212,18 @@ export function Hero() {
             animate={{ opacity: 1, scale: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.4, ease: [0.22, 1, 0.36, 1] }}
           >
-            <div className="bg-white dark:bg-card rounded-2xl p-6 sm:p-8 shadow-htg">
+            <div className="bg-card rounded-2xl p-6 sm:p-8 shadow-htg border border-border/50">
               <Tabs value={tab} onValueChange={(v) => setTab(v as "flight" | "visa")}>
-                <TabsList className="grid w-full grid-cols-2 mb-6 bg-sand">
+                <TabsList className="grid w-full grid-cols-2 mb-6 bg-muted">
                   <TabsTrigger
                     value="flight"
-                    className="data-[state=active]:bg-white data-[state=active]:text-navy font-semibold"
-                  >
+                    className="data-[state=active]:bg-card data-[state=active]:text-foreground font-semibold"
+                    >
                     Flight Tickets
                   </TabsTrigger>
                   <TabsTrigger
                     value="visa"
-                    className="data-[state=active]:bg-white data-[state=active]:text-navy font-semibold"
+                    className="data-[state=active]:bg-card data-[state=active]:text-foreground font-semibold"
                   >
                     Visa Consultation
                   </TabsTrigger>
@@ -210,9 +233,9 @@ export function Hero() {
                 <TabsContent value="flight" className="space-y-4 mt-0">
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     <div>
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Flying From</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Flying From</label>
                       <Select value={flyingFrom} onValueChange={setFlyingFrom}>
-                        <SelectTrigger className="h-11 bg-sand/50 border-[#E5E0D8]">
+                        <SelectTrigger className="h-11 bg-muted/60 border-border">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -223,9 +246,9 @@ export function Hero() {
                       </Select>
                     </div>
                     <div>
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Destination Country</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Destination Country</label>
                       <Select value={destCountry} onValueChange={setDestCountry}>
-                        <SelectTrigger className="h-11 bg-sand/50 border-[#E5E0D8]">
+                        <SelectTrigger className="h-11 bg-muted/60 border-border">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -236,9 +259,9 @@ export function Hero() {
                       </Select>
                     </div>
                     <div>
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Destination To</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Destination To</label>
                       <Select value={destTo} onValueChange={setDestTo}>
-                        <SelectTrigger className="h-11 bg-sand/50 border-[#E5E0D8]">
+                        <SelectTrigger className="h-11 bg-muted/60 border-border">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -249,9 +272,9 @@ export function Hero() {
                       </Select>
                     </div>
                     <div>
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Travelers</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Travelers</label>
                       <Select value={travelers} onValueChange={setTravelers}>
-                        <SelectTrigger className="h-11 bg-sand/50 border-[#E5E0D8]">
+                        <SelectTrigger className="h-11 bg-muted/60 border-border">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -262,23 +285,23 @@ export function Hero() {
                       </Select>
                     </div>
                     <div className="sm:col-span-2">
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Travel Date (Optional)</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Travel Date (Optional)</label>
                       <Input
                         type="date"
                         value={flightDate}
                         onChange={(e) => setFlightDate(e.target.value)}
-                        className="h-11 bg-sand/50 border-[#E5E0D8]"
+                        className="h-11 bg-muted/60 border-border"
                       />
                     </div>
                   </div>
 
-                  <p className="text-xs text-muted-grey pt-1">
+                  <p className="text-xs text-muted-foreground pt-1">
                     Get direct consultation and live rates from our experts on WhatsApp.
                   </p>
 
                   <button
                     onClick={handleSubmit}
-                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
                   >
                     <Send className="h-4 w-4" />
                     Get Live Rate on WhatsApp
@@ -289,7 +312,7 @@ export function Hero() {
                 <TabsContent value="visa" className="space-y-4 mt-0">
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     <div>
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Destination Country</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Destination Country</label>
                       <Select
                         value={visaCountry}
                         onValueChange={(v) => {
@@ -298,7 +321,7 @@ export function Hero() {
                           if (types && !types.includes(visaType)) setVisaType(types[0]);
                         }}
                       >
-                        <SelectTrigger className="h-11 bg-sand/50 border-[#E5E0D8]">
+                        <SelectTrigger className="h-11 bg-muted/60 border-border">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -309,9 +332,9 @@ export function Hero() {
                       </Select>
                     </div>
                     <div>
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Visa Type</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Visa Type</label>
                       <Select value={visaType} onValueChange={setVisaType}>
-                        <SelectTrigger className="h-11 bg-sand/50 border-[#E5E0D8]">
+                        <SelectTrigger className="h-11 bg-muted/60 border-border">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -322,18 +345,18 @@ export function Hero() {
                       </Select>
                     </div>
                     <div>
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Travel Date</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Travel Date</label>
                       <Input
                         type="date"
                         value={visaDate}
                         onChange={(e) => setVisaDate(e.target.value)}
-                        className="h-11 bg-sand/50 border-[#E5E0D8]"
+                        className="h-11 bg-muted/60 border-border"
                       />
                     </div>
                     <div>
-                      <label className="text-xs font-medium text-muted-grey mb-1.5 block">Nationality</label>
+                      <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Nationality</label>
                       <Select value={nationality} onValueChange={setNationality}>
-                        <SelectTrigger className="h-11 bg-sand/50 border-[#E5E0D8]">
+                        <SelectTrigger className="h-11 bg-muted/60 border-border">
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
@@ -345,13 +368,13 @@ export function Hero() {
                     </div>
                   </div>
 
-                  <p className="text-xs text-muted-grey pt-1">
+                  <p className="text-xs text-muted-foreground pt-1">
                     Get direct consultation and live rates from our experts on WhatsApp.
                   </p>
 
                   <button
                     onClick={handleSubmit}
-                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-navy hover:brightness-105 transition shadow-md"
+                    className="w-full inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3.5 text-sm font-semibold text-foreground hover:brightness-105 transition shadow-md"
                   >
                     <Send className="h-4 w-4" />
                     Get Live Rate on WhatsApp

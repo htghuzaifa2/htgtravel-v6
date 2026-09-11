@@ -37,14 +37,14 @@ const trustItems = [
 // ============ TRUST STRIP ============
 export function TrustStrip() {
   return (
-    <section className="bg-sand border-y border-[#E5E0D8] dark:border-border">
+    <section className="bg-muted border-y border-border">
       <Stagger className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           {trustItems.map((item) => (
             <StaggerItem key={item.label}>
               <div className="flex items-center gap-3 justify-center md:justify-start">
                 <item.icon className="h-5 w-5 text-teal flex-shrink-0" />
-                <span className="text-sm font-medium text-charcoal dark:text-foreground">{item.label}</span>
+                <span className="text-sm font-medium text-foreground dark:text-foreground">{item.label}</span>
               </div>
             </StaggerItem>
           ))}
@@ -72,13 +72,13 @@ export function ServicesGrid() {
               <HoverLift className="h-full">
                 <Link
                   href={svc.href}
-                  className="group block h-full bg-white dark:bg-card rounded-2xl p-6 shadow-htg hover:shadow-htg-lg transition-all duration-300 border border-[#E5E0D8]/60 dark:border-border"
+                  className="group block h-full bg-card rounded-2xl p-6 shadow-htg hover:shadow-htg-lg transition-all duration-300 border border-border/60"
                 >
                   <div className="inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4 group-hover:bg-teal group-hover:text-white transition-colors">
                     <svc.icon className="h-6 w-6" />
                   </div>
-                  <h3 className="font-heading text-xl font-semibold text-navy dark:text-foreground mb-2">{svc.title}</h3>
-                  <p className="text-sm text-charcoal/80 dark:text-muted-foreground leading-relaxed">{svc.description}</p>
+                  <h3 className="font-heading text-xl font-semibold text-foreground mb-2">{svc.title}</h3>
+                  <p className="text-sm text-muted-foreground leading-relaxed">{svc.description}</p>
                   <span className="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-teal group-hover:text-gold transition-colors">
                     {svc.link}
                     <ArrowRight className="h-3.5 w-3.5 group-hover:translate-x-0.5 transition-transform" />
@@ -96,7 +96,7 @@ export function ServicesGrid() {
 // ============ POPULAR ROUTES ============
 export function PopularRoutes() {
   return (
-    <section className="py-16 lg:py-20 bg-sand/40">
+    <section className="py-16 lg:py-20 bg-muted/40">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <FadeIn>
           <SectionHeading
@@ -109,17 +109,17 @@ export function PopularRoutes() {
           {POPULAR_ROUTES.map((route) => (
             <StaggerItem key={route.code}>
               <HoverLift className="h-full">
-                <div className="bg-white dark:bg-card rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 dark:border-border hover:shadow-htg-lg transition-shadow flex flex-col h-full">
+                <div className="bg-card rounded-2xl p-6 shadow-htg border border-border/60 hover:shadow-htg-lg transition-shadow flex flex-col h-full">
                   <div className="flex items-start justify-between gap-2">
                     <div>
-                      <p className="font-heading text-lg font-semibold text-navy dark:text-foreground">{route.code}</p>
-                      <p className="text-sm text-charcoal dark:text-muted-foreground mt-1">{route.name}</p>
+                      <p className="font-heading text-lg font-semibold text-foreground">{route.code}</p>
+                      <p className="text-sm text-muted-foreground mt-1">{route.name}</p>
                     </div>
-                    <span className="inline-flex items-center rounded-full bg-navy/5 dark:bg-white/5 px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-navy dark:text-foreground">
+                    <span className="inline-flex items-center rounded-full bg-foreground/5 px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-foreground">
                       {route.category}
                     </span>
                   </div>
-                  <div className="mt-4 space-y-1.5 text-xs text-muted-grey dark:text-muted-foreground">
+                  <div className="mt-4 space-y-1.5 text-xs text-muted-foreground">
                     <p className="flex items-center gap-1.5">
                       <Clock className="h-3.5 w-3.5" /> {route.duration}
                     </p>
@@ -127,7 +127,7 @@ export function PopularRoutes() {
                       <Plane className="h-3.5 w-3.5" /> {route.airlines.join(", ")}
                     </p>
                   </div>
-                  <div className="mt-4 pt-4 border-t border-[#E5E0D8] dark:border-border">
+                  <div className="mt-4 pt-4 border-t border-border">
                     <p className="text-sm font-semibold text-teal mb-3">Live Rate on Request</p>
                     <WhatsAppButton
                       message={routeInquiry(route.code, route.name)}
@@ -160,7 +160,7 @@ export function PopularRoutes() {
 // ============ HOW IT WORKS ============
 export function HowItWorks() {
   return (
-    <section className="py-16 lg:py-20 bg-sand/40">
+    <section className="py-16 lg:py-20 bg-muted/40">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <FadeIn>
           <SectionHeading eyebrow="Process" title="How It Works" />
@@ -169,11 +169,11 @@ export function HowItWorks() {
           {HOW_IT_WORKS_STEPS.map((step) => (
             <StaggerItem key={step.number}>
               <div className="text-center">
-                <div className="mx-auto inline-flex h-16 w-16 items-center justify-center rounded-2xl bg-navy/5 dark:bg-white/5 mb-5">
+                <div className="mx-auto inline-flex h-16 w-16 items-center justify-center rounded-2xl bg-foreground/5 mb-5">
                   <span className="font-heading text-3xl font-bold text-gold">{step.number}</span>
                 </div>
-                <h3 className="font-heading text-xl font-semibold text-navy dark:text-foreground mb-2">{step.title}</h3>
-                <p className="text-sm text-charcoal/80 dark:text-muted-foreground leading-relaxed max-w-xs mx-auto">{step.description}</p>
+                <h3 className="font-heading text-xl font-semibold text-foreground mb-2">{step.title}</h3>
+                <p className="text-sm text-muted-foreground leading-relaxed max-w-xs mx-auto">{step.description}</p>
               </div>
             </StaggerItem>
           ))}
@@ -203,13 +203,13 @@ export function WhyHTG() {
             return (
               <StaggerItem key={feat.title}>
                 <HoverLift>
-                  <div className="flex items-start gap-4 bg-white dark:bg-card rounded-2xl p-6 border border-[#E5E0D8]/60 dark:border-border shadow-htg hover:shadow-htg-lg transition-shadow h-full">
+                  <div className="flex items-start gap-4 bg-card rounded-2xl p-6 border border-border/60 shadow-htg hover:shadow-htg-lg transition-shadow h-full">
                     <div className="inline-flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-xl bg-teal/10 text-teal">
                       <Icon className="h-5 w-5" />
                     </div>
                     <div>
-                      <h3 className="font-heading text-lg font-semibold text-navy dark:text-foreground mb-1">{feat.title}</h3>
-                      <p className="text-sm text-charcoal/80 dark:text-muted-foreground leading-relaxed">{feat.description}</p>
+                      <h3 className="font-heading text-lg font-semibold text-foreground mb-1">{feat.title}</h3>
+                      <p className="text-sm text-muted-foreground leading-relaxed">{feat.description}</p>
                     </div>
                   </div>
                 </HoverLift>
@@ -240,10 +240,10 @@ export function FinalCTA() {
         transition={{ duration: 10, repeat: Infinity, ease: "easeInOut" }}
       />
       <FadeIn className="relative mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="font-heading text-3xl md:text-4xl font-bold text-navy leading-tight">
+        <h2 className="font-heading text-3xl md:text-4xl font-bold text-foreground leading-tight">
           Need a Ticket or Visa Consultation Today?
         </h2>
-        <p className="mt-4 text-base md:text-lg text-navy/80 leading-relaxed max-w-2xl mx-auto">
+        <p className="mt-4 text-base md:text-lg text-foreground/80 leading-relaxed max-w-2xl mx-auto">
           Skip the queues. Send us your travel dates and passenger details on WhatsApp, and our team will find you the best live fares immediately.
         </p>
         <div className="mt-8">

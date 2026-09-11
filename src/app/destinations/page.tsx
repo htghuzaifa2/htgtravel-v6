@@ -49,14 +49,14 @@ export default function DestinationsPage() {
           {/* Filters */}
           <div className="flex flex-col md:flex-row gap-3 mb-8 items-center justify-between">
             <Tabs value={filter} onValueChange={(v) => { setFilter(v as typeof filter); setPage(1); }}>
-              <TabsList className="bg-sand">
+              <TabsList className="bg-muted">
                 <TabsTrigger value="all" className="data-[state=active]:bg-navy data-[state=active]:text-white">All</TabsTrigger>
                 <TabsTrigger value="Domestic" className="data-[state=active]:bg-navy data-[state=active]:text-white">Domestic</TabsTrigger>
                 <TabsTrigger value="International" className="data-[state=active]:bg-navy data-[state=active]:text-white">International</TabsTrigger>
               </TabsList>
             </Tabs>
             <div className="relative w-full md:w-80">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-grey" />
+              <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
               <Input
                 placeholder="Search routes (e.g. Sialkot, Dubai, SKT, London...)"
                 value={search}
@@ -66,13 +66,13 @@ export default function DestinationsPage() {
             </div>
           </div>
 
-          <p className="text-xs text-muted-grey mb-6">
+          <p className="text-xs text-muted-foreground mb-6">
             Showing {pageRoutes.length === 0 ? 0 : (currentPage - 1) * PER_PAGE + 1}–{(currentPage - 1) * PER_PAGE + pageRoutes.length} of {filtered.length} flight routes · Page {currentPage} of {totalPages}
           </p>
 
           {pageRoutes.length === 0 ? (
             <div className="bg-white rounded-2xl p-12 text-center border border-[#E5E0D8]/60">
-              <p className="text-charcoal mb-4">No routes found matching your search.</p>
+              <p className="text-foreground mb-4">No routes found matching your search.</p>
               <WhatsAppButton
                 message="Hi HTG Travels, I'm looking for a flight route that I couldn't find on your site. Can you help?"
                 variant="primary"
@@ -88,11 +88,11 @@ export default function DestinationsPage() {
                 <div key={route.code} className="bg-white rounded-2xl p-6 shadow-htg border border-[#E5E0D8]/60 hover:shadow-htg-lg transition-shadow flex flex-col">
                   <div className="flex items-start justify-between gap-2 mb-3">
                     <div>
-                      <p className="font-heading text-base font-semibold text-navy">{route.code}</p>
-                      <p className="text-sm text-charcoal">{route.name}</p>
+                      <p className="font-heading text-base font-semibold text-foreground">{route.code}</p>
+                      <p className="text-sm text-foreground">{route.name}</p>
                     </div>
                     <div className="flex flex-col gap-1 items-end">
-                      <span className="inline-flex items-center rounded-full bg-navy/5 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-navy">
+                      <span className="inline-flex items-center rounded-full bg-navy/5 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-foreground">
                         {route.category}
                       </span>
                       <span className="inline-flex items-center rounded-full bg-gold/10 px-2 py-0.5 text-[10px] font-medium text-gold">
@@ -100,8 +100,8 @@ export default function DestinationsPage() {
                       </span>
                     </div>
                   </div>
-                  <p className="text-xs text-charcoal/80 leading-relaxed mb-3">{route.description}</p>
-                  <div className="space-y-1 text-xs text-muted-grey mb-4">
+                  <p className="text-xs text-foreground/80 leading-relaxed mb-3">{route.description}</p>
+                  <div className="space-y-1 text-xs text-muted-foreground mb-4">
                     <p className="flex items-center gap-1.5"><Clock className="h-3.5 w-3.5" /> {route.duration}</p>
                     <p className="flex items-center gap-1.5"><Plane className="h-3.5 w-3.5" /> {route.airlines.join(", ")}</p>
                   </div>
@@ -127,15 +127,15 @@ export default function DestinationsPage() {
               <button
                 onClick={() => setPage(Math.max(1, currentPage - 1))}
                 disabled={currentPage === 1}
-                className="px-3 py-1.5 text-sm rounded-md border border-[#E5E0D8] bg-white text-charcoal disabled:opacity-40 hover:bg-sand transition"
+                className="px-3 py-1.5 text-sm rounded-md border border-border bg-card text-foreground disabled:opacity-40 hover:bg-muted transition"
               >
                 ← Prev
               </button>
-              <span className="px-3 text-sm text-charcoal">Page {currentPage} of {totalPages}</span>
+              <span className="px-3 text-sm text-foreground">Page {currentPage} of {totalPages}</span>
               <button
                 onClick={() => setPage(Math.min(totalPages, currentPage + 1))}
                 disabled={currentPage === totalPages}
-                className="px-3 py-1.5 text-sm rounded-md border border-[#E5E0D8] bg-white text-charcoal disabled:opacity-40 hover:bg-sand transition"
+                className="px-3 py-1.5 text-sm rounded-md border border-border bg-card text-foreground disabled:opacity-40 hover:bg-muted transition"
               >
                 Next →
               </button>
