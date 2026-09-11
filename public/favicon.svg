@@ -1,13 +1,11 @@
 <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="favGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="favGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F5A623"/>
       <stop offset="50%" stop-color="#0FA3A3"/>
       <stop offset="100%" stop-color="#0FA3A3"/>
     </linearGradient>
   </defs>
-  <!-- Just the plane, no box — clean and memorable -->
-  <path d="M35 4L4 18C2.5 18.7 2.5 21 4 21.6L12 25L16 36C16.6 38 19 38.3 20 36.6L25 28L34 35C35.5 36 37.5 35 37.7 33L41 5.5C41.5 3 39 -3 35 4Z" fill="url(#favGrad4)"/>
-  <path d="M12 25L24 13L15 30L20 36.5L12 25Z" fill="#FFFFFF" fill-opacity="0.9"/>
-  <circle cx="35" cy="4" r="4" fill="#F5A623"/>
+  <!-- Just "H" monogram — bold gradient, no box -->
+  <text x="22" y="32" text-anchor="middle" font-family="Sora, sans-serif" font-size="32" font-weight="900" fill="url(#favGrad5)">H</text>
 </svg>

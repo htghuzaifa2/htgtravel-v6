@@ -332,35 +332,29 @@
       radial-gradient(ellipse 70% 60% at 50% 90%, rgba(168, 85, 247, 0.25), transparent 60%);
   }
 
-  /* Animated gradient mesh — vibrant spotlights positioned to frame content */
-  .gradient-mesh-animated {
+  /* Animated flight paths — travel-themed background (unique, not generic blobs) */
+  .flight-paths-bg {
     position: relative;
   }
-  .gradient-mesh-animated::before {
+  .flight-paths-bg::before {
     content: "";
     position: absolute;
     inset: 0;
-    background:
-      /* Primary spotlight — cyan, behind headline (left side) */
-      radial-gradient(ellipse 50% 60% at 15% 35%, rgba(6, 182, 212, 0.18), transparent 50%),
-      /* Secondary spotlight — gold, behind form (right side) */
-      radial-gradient(ellipse 45% 50% at 85% 50%, rgba(245, 166, 35, 0.15), transparent 50%),
-      /* Tertiary — subtle purple accent (bottom center) */
-      radial-gradient(ellipse 40% 40% at 50% 95%, rgba(139, 92, 246, 0.12), transparent 50%);
-    animation: mesh-drift 25s ease-in-out infinite alternate;
+    background-image: url("data:image/svg+xml,%3Csvg width='800' height='600' viewBox='0 0 800 600' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M50,300 Q200,150 400,250 T750,200' stroke='%230FA3A3' stroke-width='1.5' fill='none' stroke-dasharray='6,8' opacity='0.4'/%3E%3Cpath d='M100,150 Q300,400 500,300 T750,350' stroke='%23F5A623' stroke-width='1.5' fill='none' stroke-dasharray='5,10' opacity='0.35'/%3E%3Cpath d='M50,450 Q250,250 450,400 T750,450' stroke='%230FA3A3' stroke-width='1' fill='none' stroke-dasharray='4,12' opacity='0.3'/%3E%3Ccircle cx='50' cy='300' r='4' fill='%23F5A623' opacity='0.6'/%3E%3Ccircle cx='400' cy='250' r='3' fill='%230FA3A3' opacity='0.5'/%3E%3Ccircle cx='750' cy='200' r='4' fill='%23F5A623' opacity='0.6'/%3E%3Ccircle cx='100' cy='150' r='3' fill='%230FA3A3' opacity='0.5'/%3E%3Ccircle cx='500' cy='300' r='3' fill='%23F5A623' opacity='0.5'/%3E%3Ccircle cx='750' cy='350' r='4' fill='%230FA3A3' opacity='0.6'/%3E%3Ccircle cx='50' cy='450' r='3' fill='%23F5A623' opacity='0.5'/%3E%3Ccircle cx='450' cy='400' r='3' fill='%230FA3A3' opacity='0.5'/%3E%3C/svg%3E");
+    background-size: 800px 600px;
+    background-repeat: repeat;
+    opacity: 0.6;
+    animation: flight-dash 30s linear infinite;
     pointer-events: none;
     z-index: 0;
   }
-  .dark .gradient-mesh-animated::before {
-    background:
-      radial-gradient(ellipse 50% 60% at 15% 35%, rgba(6, 182, 212, 0.22), transparent 50%),
-      radial-gradient(ellipse 45% 50% at 85% 50%, rgba(245, 166, 35, 0.18), transparent 50%),
-      radial-gradient(ellipse 40% 40% at 50% 95%, rgba(139, 92, 246, 0.15), transparent 50%);
+  .dark .flight-paths-bg::before {
+    background-image: url("data:image/svg+xml,%3Csvg width='800' height='600' viewBox='0 0 800 600' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M50,300 Q200,150 400,250 T750,200' stroke='%2314B8B8' stroke-width='1.5' fill='none' stroke-dasharray='6,8' opacity='0.5'/%3E%3Cpath d='M100,150 Q300,400 500,300 T750,350' stroke='%23F5A623' stroke-width='1.5' fill='none' stroke-dasharray='5,10' opacity='0.45'/%3E%3Cpath d='M50,450 Q250,250 450,400 T750,450' stroke='%2314B8B8' stroke-width='1' fill='none' stroke-dasharray='4,12' opacity='0.4'/%3E%3Ccircle cx='50' cy='300' r='4' fill='%23F5A623' opacity='0.7'/%3E%3Ccircle cx='400' cy='250' r='3' fill='%2314B8B8' opacity='0.6'/%3E%3Ccircle cx='750' cy='200' r='4' fill='%23F5A623' opacity='0.7'/%3E%3Ccircle cx='100' cy='150' r='3' fill='%2314B8B8' opacity='0.6'/%3E%3Ccircle cx='500' cy='300' r='3' fill='%23F5A623' opacity='0.6'/%3E%3Ccircle cx='750' cy='350' r='4' fill='%2314B8B8' opacity='0.7'/%3E%3Ccircle cx='50' cy='450' r='3' fill='%23F5A623' opacity='0.6'/%3E%3Ccircle cx='450' cy='400' r='3' fill='%2314B8B8' opacity='0.6'/%3E%3C/svg%3E");
+    opacity: 0.8;
   }
-  @keyframes mesh-drift {
-    0% { transform: translate(0, 0); }
-    50% { transform: translate(2%, -1%); }
-    100% { transform: translate(-1%, 2%); }
+  @keyframes flight-dash {
+    0% { background-position: 0 0; }
+    100% { background-position: 800px 0; }
   }
 
   /* Noise texture overlay (subtle, premium feel) */

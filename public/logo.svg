@@ -1,22 +1,18 @@
-<svg width="170" height="44" viewBox="0 0 170 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
+<svg width="120" height="44" viewBox="0 0 120 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HTG Travels">
   <defs>
-    <linearGradient id="planeGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="htgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#F5A623"/>
       <stop offset="50%" stop-color="#0FA3A3"/>
       <stop offset="100%" stop-color="#0FA3A3"/>
     </linearGradient>
   </defs>
 
-  <!-- Paper plane icon — no box, just the mark with gradient -->
-  <path d="M30 6L4 17.5C3 18 3 19.5 4 19.8L10 22L13 31C13.4 32.2 15 32.4 15.6 31.3L19 25L26 30.5C27 31.3 28.5 30.5 28.6 29.3L31 7.5C31.2 6 29.8 5.2 30 6Z" fill="url(#planeGrad4)"/>
+  <!-- HTG monogram — bold gradient text, no icon -->
+  <text x="4" y="33" font-family="Sora, sans-serif" font-size="32" font-weight="900" fill="url(#htgGrad)" letter-spacing="-1">HTG</text>
 
-  <!-- Plane trail (white detail for depth) -->
-  <path d="M10 22L20 13L13 25L15 31.5L10 22Z" fill="#FFFFFF" fill-opacity="0.9"/>
+  <!-- Small gold dot accent after HTG (signature mark) -->
+  <circle cx="86" cy="22" r="3" fill="#F5A623"/>
 
-  <!-- Gold dot accent (signature mark) -->
-  <circle cx="30" cy="6" r="3.5" fill="#F5A623"/>
-
-  <!-- Wordmark: HTG bold (no box, standalone) -->
-  <text x="48" y="30" font-family="Sora, sans-serif" font-size="26" font-weight="800" fill="#0B1F2A" letter-spacing="-0.5">HTG</text>
-  <text x="113" y="30" font-family="Sora, sans-serif" font-size="26" font-weight="300" fill="#0B1F2A" fill-opacity="0.45" letter-spacing="-0.3">Travels</text>
+  <!-- 'Travels' wordmark — lighter, smaller -->
+  <text x="96" y="29" font-family="Sora, sans-serif" font-size="14" font-weight="400" fill="#0B1F2A" fill-opacity="0.5" letter-spacing="0.5">Travels</text>
 </svg>

@@ -188,7 +188,7 @@ export function StatsSection() {
 // ============ BENTO GRID (services + highlights) ============
 export function BentoGrid() {
   return (
-    <section className="py-16 lg:py-20 bg-background gradient-mesh-animated relative overflow-hidden">
+    <section className="py-16 lg:py-20 bg-background flight-paths-bg relative overflow-hidden">
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 z-10">
         <FadeIn>
           <SectionHeading

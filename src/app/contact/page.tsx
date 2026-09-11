@@ -121,17 +121,16 @@ export default function ContactPage() {
         </div>
       </section>
 
-      {/* Map */}
+      {/* Office Location Card (no Google Maps embed — privacy-friendly) */}
       <section className="pb-16">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="bg-card rounded-2xl overflow-hidden shadow-htg border border-border">
-            <iframe
-              title="Sialkot, Punjab, Pakistan location map"
-              src="https://www.google.com/maps?q=Sialkot,Punjab,Pakistan&output=embed"
-              className="w-full h-[400px] border-0"
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            />
+        <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
+          <div className="bg-card rounded-2xl p-8 shadow-htg border border-border text-center">
+            <div className="mx-auto inline-flex h-12 w-12 items-center justify-center rounded-xl bg-teal/10 text-teal mb-4">
+              <MapPin className="h-6 w-6" />
+            </div>
+            <h3 className="font-heading text-xl font-semibold text-foreground mb-2">Visit Our Office</h3>
+            <p className="text-sm text-muted-foreground mb-4">{SITE.location}</p>
+            <p className="text-xs text-muted-foreground">Message us on WhatsApp for the exact address — we'll share location pin instantly.</p>
           </div>
         </div>
       </section>

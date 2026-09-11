@@ -43,9 +43,9 @@ export function Footer() {
               <Image
                 src="/logo-white.svg"
                 alt="HTG Travels logo"
-                width={180}
+                width={120}
                 height={44}
-                className="h-10 w-auto"
+                className="h-9 w-auto"
               />
             </Link>
             <p className="font-heading text-sm font-semibold text-gold">{SITE.tagline}</p>
