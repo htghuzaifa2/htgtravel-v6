@@ -40,13 +40,15 @@ Each section is its own Next.js route:
 
 1. Go to Cloudflare Dashboard → Pages → Create a project → Connect to Git.
 2. Select the `htghuzaifa2/htg-travel-v1` repository.
-3. Build settings (auto-detected from `wrangler.toml`):
+3. Configure build settings in the dashboard:
    - **Framework preset:** Next.js
    - **Build command:** `npm run build`
    - **Build output directory:** `out`
-   - **Node version:** 20 (specified in `.nvmrc`)
+   - **Environment variables:** `NODE_VERSION = 20`
 4. Click **Save and Deploy**.
 5. Add custom domain `htg.com.pk` in Pages → Custom domains.
+
+> Note: No `wrangler.toml` is included — Cloudflare Pages reads build settings from the dashboard. The `.nvmrc` file pins Node 20 as a fallback.
 
 ### Option B — Wrangler CLI
 
