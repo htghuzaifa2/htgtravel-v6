@@ -7012,4 +7012,617 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "germany-student-visa-free-tuition-guide",
+    title: "Germany Student Visa: Study in Germany for FREE from Pakistan",
+    category: "Visa",
+    metaDescription:
+      "Complete guide to studying in Germany for free. Student visa requirements, blocked account, university application, German language requirements, and how Pakistani students can study without tuition fees.",
+    keywords: [
+      "Germany student visa Pakistan",
+      "study in Germany free",
+      "Germany visa Pakistan",
+      "blocked account Germany",
+      "German university admission Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Germany offers FREE tuition at public universities for all international students, including Pakistanis. You only pay a semester fee of EUR 150-300. This makes Germany the most affordable study destination for Pakistani students. This guide covers the complete visa and admission process.",
+      },
+      {
+        type: "h2",
+        text: "Why Study in Germany?",
+      },
+      {
+        type: "ul",
+        items: [
+          "FREE tuition at 400+ public universities (only EUR 150-300 semester fee)",
+          "World-class education: 40+ universities in global top 500",
+          "18-month post-study work visa after graduation",
+          "Strong job market for engineers, IT, and healthcare professionals",
+          "Pathway to permanent residency after 21 months of work (with B1 German)",
+          "English-taught programs available (especially Master's degrees)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Germany Student Visa Requirements",
+      },
+      {
+        type: "ul",
+        items: [
+          "University admission letter (from a German university)",
+          "Blocked account (Sperrkonto) with EUR 11,208 (approximately PKR 3,400,000) for one year of living expenses",
+          "Health insurance (approximately EUR 110/month)",
+          "Valid passport (6+ months validity)",
+          "Completed visa application form",
+          "Passport-size photos (3, biometric)",
+          "Language proof: IELTS 6.0+ (English programs) or TestDaF/Goethe (German programs)",
+          "Academic certificates (attested by HEC and German embassy)",
+          "CV/Resume in German or English format",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Step-by-Step Application Process",
+      },
+      {
+        type: "ul",
+        items: [
+          "Step 1: Find a program at daad.de (official database of German universities)",
+          "Step 2: Apply to universities (deadlines: January 15 for summer semester, July 15 for winter semester)",
+          "Step 3: Receive admission letter (Zulassungsbescheid)",
+          "Step 4: Open a blocked account with EUR 11,208 (Fintiba, Expatrio, Coracle)",
+          "Step 5: Get health insurance (TK, AOK, or private providers)",
+          "Step 6: Book visa appointment at German Embassy Islamabad",
+          "Step 7: Submit visa application with all documents",
+          "Step 8: Wait for processing (6-12 weeks)",
+          "Step 9: Receive visa, book flights, travel to Germany",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Visa Fees and Processing",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visa fee: EUR 75 (approximately PKR 23,000)",
+          "Processing time: 6-12 weeks",
+          "Embassy: German Embassy in Islamabad (only embassy in Pakistan)",
+          "Interview: May be required for some applicants",
+          "Apply at least 3 months before your course start date",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Want to study in Germany for free? Message HTG Travels on WhatsApp for visa travel support.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-first-time-complete-guide",
+    title: "First Time Umrah: Complete Step-by-Step Guide for Beginners",
+    category: "Umrah",
+    metaDescription:
+      "Everything a first-time Umrah pilgrim needs to know. From booking to departure, Ihram to Tawaf, Sa'i to Ziyarat. Complete beginner's guide with practical tips for Pakistani pilgrims.",
+    keywords: [
+      "first time Umrah guide",
+      "Umrah for beginners",
+      "how to perform Umrah",
+      "Umrah step by step",
+      "Umrah complete guide Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "If you are performing Umrah for the first time, this guide will walk you through every step — from booking your package to completing the rituals and returning home. Umrah is a beautiful spiritual journey, and being well-prepared makes it even more meaningful.",
+      },
+      {
+        type: "h2",
+        text: "Phase 1: Booking and Preparation (Before Travel)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Contact HTG Travels on WhatsApp with your preferred dates and budget",
+          "Choose your package tier (Economy, Premium, or VIP)",
+          "Submit passport, CNIC, and photos for visa processing",
+          "Get your Saudi eVisa or Umrah visa (1-3 days processing)",
+          "Book flights (Sialkot/Lahore/Islamabad/Karachi to Jeddah)",
+          "Book hotels (aim for within 500m of Haram in Makkah, within 300m in Madinah)",
+          "Get meningitis ACWY vaccination (mandatory, 10+ days before travel)",
+          "Download Nusuk app and create an account for Rawdah permits",
+          "Learn the rituals: watch YouTube tutorials on Tawaf, Sa'i, and duas",
+          "Pack your bags (see our Umrah Packing List guide)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Phase 2: Travel Day",
+      },
+      {
+        type: "ul",
+        items: [
+          "Arrive at airport 3 hours before international flight",
+          "Carry: passport, visa printout, hotel confirmation, vaccination certificate",
+          "Wear comfortable travel clothes (NOT Ihram yet — change at Miqat or on the plane)",
+          "On the plane: Rest, pray, prepare mentally for the spiritual journey",
+          "Approximately 30-45 minutes before landing in Jeddah, change into Ihram (if performing Umrah immediately)",
+          "Make the niyyah (intention) for Umrah and recite Talbiyah",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Phase 3: Arriving in Saudi Arabia",
+      },
+      {
+        type: "ul",
+        items: [
+          "Clear immigration at Jeddah airport (have visa and passport ready)",
+          "Collect luggage and proceed to transport (pre-arranged by HTG Travels)",
+          "Drive to Makkah (90-120 minutes from Jeddah airport)",
+          "Check into your hotel",
+          "Rest briefly, then prepare for Umrah",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Phase 4: Performing Umrah",
+      },
+      {
+        type: "p",
+        text: "Umrah consists of 4 main steps:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Step 1: Enter Ihram at Miqat (wear Ihram clothing, make intention, recite Talbiyah)",
+          "Step 2: Tawaf — walk 7 times counter-clockwise around the Kaabah",
+          "Step 3: Sa'i — walk 7 times between Safa and Marwah hills",
+          "Step 4: Halq or Taqsir — shave (men) or trim hair (men and women)",
+          "After Step 4, your Umrah is complete and Ihram restrictions are lifted",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Phase 5: Stay in Makkah",
+      },
+      {
+        type: "ul",
+        items: [
+          "Perform additional Tawafs (Nafl Tawaf — can be done anytime, no Ihram needed)",
+          "Pray all 5 daily prayers in the Haram (reward multiplied by 100,000)",
+          "Perform Ziyarat (visit Cave of Hira, Cave of Thawr, Arafat, Mina)",
+          "Drink Zamzam water regularly (available throughout the Haram)",
+          "Read Quran and make duas — this is the best place on Earth for dua",
+          "Rest between prayer times — do not exhaust yourself",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Phase 6: Travel to Madinah",
+      },
+      {
+        type: "ul",
+        items: [
+          "Travel from Makkah to Madinah (4-5 hours by road, 2 hours by Haramain train)",
+          "Check into hotel near Masjid an-Nabawi",
+          "Visit the Prophet's Mosque (Rawdah permit required via Nusuk app)",
+          "Send salutations upon the Prophet (PBUH) at his grave",
+          "Perform Ziyarat in Madinah (Quba Mosque, Qiblatayn Mosque, Uhud, Baqi)",
+          "Pray 40 prayers in Masjid an-Nabawi (Sunnah, but very rewarding)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Phase 7: Return Home",
+      },
+      {
+        type: "ul",
+        items: [
+          "Collect Zamzam water from official distribution points (5-10 liters allowed on flight)",
+          "Arrive at Jeddah airport 3 hours before departure",
+          "Reflect on your journey and make dua for acceptance",
+          "Share your experience with family and friends",
+          "Continue the spiritual habits you developed (prayers, Quran, duas)",
+        ],
+      },
+      {
+        type: "quote",
+        text: "First time performing Umrah? Message HTG Travels on WhatsApp — we guide you every step.",
+      },
+    ],
+  },
+  {
+    slug: "schengen-visa-from-dubai-guide",
+    title: "How to Apply for Schengen Visa from Dubai (For Pakistani Residents)",
+    category: "Visa",
+    metaDescription:
+      "Guide for Pakistani residents in UAE applying for Schengen visa. Which embassy to apply to, document requirements, processing time, and how having UAE residency affects your Schengen visa application.",
+    keywords: [
+      "Schengen visa from Dubai",
+      "Schengen visa UAE resident",
+      "Europe visa from Dubai Pakistan",
+      "Schengen visa Pakistani UAE resident",
+      "Apply Schengen visa Dubai",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "If you are a Pakistani citizen living in the UAE (on a residence visa), applying for a Schengen visa is often easier than applying from Pakistan. UAE residents generally have higher approval rates because they have established residency, stable income, and travel history. This guide covers the process for Pakistani UAE residents.",
+      },
+      {
+        type: "h2",
+        text: "Advantages of Applying from UAE",
+      },
+      {
+        type: "ul",
+        items: [
+          "Higher approval rate (UAE residency shows stability)",
+          "Faster processing (many embassies process UAE applications faster)",
+          "More embassies available in Abu Dhabi/Dubai (French, German, Italian, Spanish, Swiss)",
+          "VFS Global centers in Dubai and Abu Dhabi for biometrics",
+          "UAE bank statements are well-regarded by Schengen embassies",
+          "Previous UAE travel history (exit/entry stamps) shows compliance with visa rules",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Requirements for Pakistani UAE Residents",
+      },
+      {
+        type: "ul",
+        items: [
+          "Valid Pakistani passport (6+ months validity)",
+          "UAE residence visa (valid 3+ months beyond return date)",
+          "Emirates ID (copy)",
+          "Bank statements (3-6 months, UAE bank, minimum AED 15,000 balance)",
+          "Salary certificate or employment letter (stating salary, role, NOC for leave)",
+          "Trade license (if self-employed/business owner)",
+          "Confirmed return flight ticket",
+          "Hotel bookings for entire stay",
+          "Travel insurance (minimum EUR 30,000 coverage)",
+          "Passport-size photos (as per Schengen specs)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Which Embassy to Apply To?",
+      },
+      {
+        type: "p",
+        text: "Apply to the embassy of your main destination country. Embassies in UAE:",
+      },
+      {
+        type: "ul",
+        items: [
+          "French Embassy (Abu Dhabi) — usually no interview, fast processing",
+          "German Consulate (Dubai) — may require interview for first-timers",
+          "Italian Consulate (Dubai) — moderate processing time",
+          "Spanish Consulate (Dubai) — rare interviews",
+          "Swiss Consulate (Dubai) — not Schengen but similar process",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Processing Time from UAE",
+      },
+      {
+        type: "ul",
+        items: [
+          "Standard: 7-15 working days (faster than from Pakistan)",
+          "French Embassy: 5-10 working days",
+          "German Consulate: 10-15 working days",
+          "Italian Consulate: 10-15 working days",
+          "Peak season (summer): 15-20 working days",
+        ],
+      },
+      {
+        type: "quote",
+        text: "UAE resident applying for Schengen? Message HTG Travels on WhatsApp for help.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-zamzam-water-guide",
+    title: "Zamzam Water Guide: Benefits, Collection, and Bringing It Home",
+    category: "Umrah",
+    metaDescription:
+      "Everything about Zamzam water. Its history, spiritual benefits, how to collect it in Makkah, airline rules for bringing Zamzam home, and how to identify authentic Zamzam water.",
+    keywords: [
+      "Zamzam water guide",
+      "how to bring Zamzam home",
+      "Zamzam water benefits",
+      "Zamzam collection Makkah",
+      "airline Zamzam rules",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Zamzam water is the blessed water that miraculously sprang from the ground when Hajar (Abraham's wife) searched for water for her infant son Ismail. It has flowed continuously for over 4,000 years and holds immense spiritual significance for Muslims. This guide covers everything about Zamzam — its benefits, how to collect it, and how to bring it home to Pakistan.",
+      },
+      {
+        type: "h2",
+        text: "The History of Zamzam",
+      },
+      {
+        type: "p",
+        text: "When Prophet Ibrahim left his wife Hajar and infant son Ismail in the barren valley of Makkah (by Allah's command), Hajar ran between the hills of Safa and Marwah searching for water. After 7 trips, she found water springing from the ground near baby Ismail's feet. This water became the well of Zamzam, which has never dried up since.",
+      },
+      {
+        type: "h2",
+        text: "Spiritual and Health Benefits of Zamzam",
+      },
+      {
+        type: "ul",
+        items: [
+          "The Prophet (PBUH) said: 'The best water on earth is Zamzam'",
+          "It is a cure for whatever it is drunk for (with sincere intention and dua)",
+          "It satisfies hunger — the Prophet (PBUH) used it as food during periods of scarcity",
+          "It is pure, free from bacteria and contamination (scientifically proven)",
+          "Drinking Zamzam with intention for healing, knowledge, or forgiveness is recommended",
+          "It is Sunnah to drink Zamzam while standing and facing the Qibla",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Collect Zamzam in Makkah",
+      },
+      {
+        type: "ul",
+        items: [
+          "Zamzam water coolers are available throughout the Haram (free, unlimited)",
+          "Bring your own water bottle (or buy one near the Haram for SAR 5-10)",
+          "Fill at the cooler stations, not from the taps near the Kaabah (those are for drinking only)",
+          "Official Zamzam distribution center: Located near the Haram, provides sealed 5-liter and 10-liter containers",
+          "Cost: SAR 10-20 per container (includes the bottle)",
+          "Do NOT collect Zamzam in random plastic bottles for the return flight — airlines require official sealed containers",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Airline Rules for Bringing Zamzam Home",
+      },
+      {
+        type: "ul",
+        items: [
+          "PIA: Allows 5-10 liters of Zamzam per pilgrim (in official sealed container, checked baggage)",
+          "Saudia: Allows 10 liters per pilgrim (in official sealed container, checked baggage, free of charge)",
+          "flydubai: Allows 5 liters in checked baggage (official sealed container)",
+          "Emirates: Allows 5 liters in checked baggage (official sealed container)",
+          "The container must be sealed with the official Zamzam label",
+          "Do NOT carry Zamzam in carry-on luggage — it will be confiscated at security",
+          "Declare Zamzam at check-in — airline staff will tag it separately",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Identify Authentic Zamzam",
+      },
+      {
+        type: "ul",
+        items: [
+          "Authentic Zamzam is only available from official distribution points in Makkah",
+          "Look for the official seal with the Saudi government Zamzam logo",
+          "The container should be factory-sealed (not manually filled)",
+          "Do NOT buy Zamzam from street vendors or unauthorized sellers",
+          "Authentic Zamzam has no smell and a slightly alkaline taste",
+          "If the water smells or tastes like regular tap water, it may not be authentic",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Questions about Zamzam water? Message HTG Travels on WhatsApp.",
+      },
+    ],
+  },
+  {
+    slug: "pakistan-to-london-flight-guide",
+    title: "Pakistan to London: Complete Flight Guide for Pakistani Travelers",
+    category: "Flights",
+    metaDescription:
+      "Complete flight guide from Pakistan to London. Airlines, routes, fares, best time to book, visa requirements, and tips for Pakistani travelers flying to the UK in 2026.",
+    keywords: [
+      "Pakistan to London flights",
+      "flights to UK from Pakistan",
+      "London flight tickets Pakistan",
+      "cheap flights London Pakistan",
+      "UK flight guide Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "London is one of the most popular international destinations for Pakistani travelers. Whether you are visiting family, attending a business meeting, or exploring the city's iconic landmarks, this guide covers everything you need to know about flying from Pakistan to London.",
+      },
+      {
+        type: "h2",
+        text: "Airlines Flying Pakistan to London",
+      },
+      {
+        type: "ul",
+        items: [
+          "PIA: Direct flights from Lahore and Islamabad to London Heathrow. Flight time: 8-9 hours. Fares: PKR 120,000-200,000 round-trip.",
+          "Qatar Airways: Via Doha. Total: 11-13 hours. Fares: PKR 100,000-180,000. Premium service.",
+          "Emirates: Via Dubai. Total: 11-13 hours. Fares: PKR 110,000-190,000.",
+          "Turkish Airlines: Via Istanbul. Total: 12-14 hours. Fares: PKR 100,000-170,000. Generous baggage.",
+          "Etihad Airways: Via Abu Dhabi. Total: 11-13 hours. Fares: PKR 100,000-175,000.",
+          "Virgin Atlantic: Direct from Islamabad (seasonal). Flight time: 8-9 hours. Fares: PKR 130,000-210,000.",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Time to Book London Flights",
+      },
+      {
+        type: "ul",
+        items: [
+          "Book 8-10 weeks in advance for the best fares",
+          "Cheapest months: January-March (post-holiday season, cold weather in UK)",
+          "Most expensive: July-August (UK summer, school holidays), December (Christmas)",
+          "Tuesday-Wednesday departures are 10-15% cheaper than weekends",
+          "Avoid Eid holidays — fares spike 50-100%",
+        ],
+      },
+      {
+        type: "h2",
+        text: "UK Visa Requirements for Pakistanis",
+      },
+      {
+        type: "p",
+        text: "You need a UK Standard Visitor Visa to travel to London. See our complete UK Visitor Visa Guide for the full process. Processing time: 3-6 weeks. Apply at least 2 months before your travel date.",
+      },
+      {
+        type: "h2",
+        text: "Tips for Pakistani Travelers to London",
+      },
+      {
+        type: "ul",
+        items: [
+          "Carry warm clothes — London weather is unpredictable, even in summer (carry a light jacket)",
+          "Get an Oyster Card or use contactless card for London Underground (tube)",
+          "Visit free attractions: British Museum, National Gallery, Hyde Park, Borough Market",
+          "Halal food is widely available — Brick Lane (curry), Whitechapel, Southall",
+          "Use Uber or Bolt instead of black taxis (50% cheaper)",
+          "Carry a UK power adapter (Type G plug, same as Pakistan — no adapter needed!)",
+          "Get travel insurance — UK healthcare is not free for visitors",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Flying to London? Message HTG Travels on WhatsApp for the best fares.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-haramain-train-guide",
+    title: "Haramain Train Guide: Travel Between Makkah and Madinah by Bullet Train",
+    category: "Umrah",
+    metaDescription:
+      "Complete guide to the Haramain Bullet Train. How to book, ticket prices, schedule, stations, and tips for traveling between Makkah, Jeddah, and Madinah at 300 km/h.",
+    keywords: [
+      "Haramain train guide",
+      "Makkah to Madinah train",
+      "Haramain bullet train",
+      "Saudi train tickets",
+      "Makkah Madinah transport",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "The Haramain High-Speed Railway is one of the most exciting transportation developments for Umrah and Hajj pilgrims. This electric bullet train connects Makkah, Jeddah, King Abdulaziz International Airport, and Madinah at speeds of up to 300 km/h, reducing the Makkah-to-Madinah journey from 5 hours by road to just 2 hours by train.",
+      },
+      {
+        type: "h2",
+        text: "Haramain Train Routes and Stations",
+      },
+      {
+        type: "ul",
+        items: [
+          "Makkah Station: Located at Rusaifa, approximately 3km from the Haram (free shuttle available)",
+          "Jeddah Station (Sulaymaniyah): Central Jeddah, near King Abdulaziz Airport",
+          "King Abdulaziz International Airport Station: Direct connection to the new airport terminal",
+          "Madinah Station: Located near the Knowledge Economic City, approximately 5km from Masjid an-Nabawi (taxi/SAR 15-25)",
+          "Total journey Makkah to Madinah: approximately 2 hours (with stops)",
+          "Total journey Makkah to Jeddah Airport: approximately 45 minutes",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Ticket Prices (2026)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Makkah to Madinah (Economy): SAR 50-150 per person (approximately PKR 3,800-11,500)",
+          "Makkah to Madinah (Business): SAR 100-250 per person (approximately PKR 7,700-19,200)",
+          "Makkah to Jeddah Airport (Economy): SAR 20-60 (approximately PKR 1,500-4,600)",
+          "Jeddah Airport to Madinah (Economy): SAR 40-100 (approximately PKR 3,000-7,700)",
+          "Prices vary by time of day, demand, and season (Ramadan = highest prices)",
+          "Children under 12: 50% discount",
+          "Children under 3: Free (on parent's lap)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Book Haramain Train Tickets",
+      },
+      {
+        type: "h3",
+        text: "Option 1: Online (Easiest)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visit hhr.com.sa (official Haramain Railway website)",
+          "Create an account with your email",
+          "Select departure and arrival stations",
+          "Choose date and time",
+          "Select seat (window/aisle, economy/business)",
+          "Enter passenger details (passport number, name)",
+          "Pay online with credit/debit card (Visa/Mastercard/Mada)",
+          "Download or screenshot your e-ticket (QR code)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Option 2: At the Station",
+      },
+      {
+        type: "ul",
+        items: [
+          "Ticket counters at all stations accept cash and cards",
+          "Self-service kiosks available in Arabic and English",
+          "During peak season (Ramadan, Hajj), book online to avoid long queues",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Option 3: Through HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels books Haramain train tickets for all our Umrah package clients. Just tell us your preferred travel time and we handle the booking. Message us on WhatsApp to add train tickets to your Umrah package.",
+      },
+      {
+        type: "h2",
+        text: "Train Schedule",
+      },
+      {
+        type: "ul",
+        items: [
+          "First train from Makkah: approximately 6:00 AM",
+          "Last train from Makkah: approximately 10:00 PM",
+          "Frequency: Every 30-60 minutes (more frequent during peak season)",
+          "First train from Madinah: approximately 6:00 AM",
+          "Last train from Madinah: approximately 10:00 PM",
+          "During Ramadan: Additional late-night trains (check website for schedule)",
+          "During Hajj: Special schedule (check hhr.com.sa)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tips for Riding the Haramain Train",
+      },
+      {
+        type: "ul",
+        items: [
+          "Arrive at the station 30 minutes before departure (security check)",
+          "Carry your passport — ID is checked before boarding",
+          "Luggage limit: 2 pieces, total 25kg + 1 carry-on (similar to airline rules)",
+          "Zamzam water: Allowed in checked luggage (sealed container, max 10 liters)",
+          "Free Wi-Fi on board",
+          "Clean restrooms and prayer area on the train",
+          "Snacks and drinks available for purchase (cash or card)",
+          "The train is fully air-conditioned and very comfortable",
+          "Window seats offer desert views — book early for window seats",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Want to add Haramain train to your Umrah package? Message HTG Travels on WhatsApp.",
+      },
+    ],
+  },
 ];
