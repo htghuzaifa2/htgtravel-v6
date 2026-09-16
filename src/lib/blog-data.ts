@@ -6450,4 +6450,566 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "canada-tourist-visa-guide-pakistan",
+    title: "Canada Tourist Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete Canada tourist visa (TRV) guide for Pakistanis. Application process, document checklist, biometrics, fees, processing time, and tips for approval in 2026.",
+    keywords: [
+      "Canada visa Pakistan",
+      "Canada tourist visa",
+      "Canadian visa from Pakistan",
+      "Canada TRV requirements",
+      "Canada visitor visa Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Canada is a dream destination for many Pakistani travelers — from Niagara Falls to Banff National Park, the country offers breathtaking natural beauty and vibrant multicultural cities. The Canada Tourist Visa (Temporary Resident Visa or TRV) allows Pakistani citizens to visit for tourism, family visits, or business. This guide covers the complete application process.",
+      },
+      {
+        type: "h2",
+        text: "Canada Tourist Visa Requirements",
+      },
+      {
+        type: "ul",
+        items: [
+          "Valid passport (6+ months validity beyond intended stay)",
+          "Completed online application (via IRCC portal)",
+          "Two passport-size photos (35mm x 45mm, white background, taken within last 6 months)",
+          "Bank statements (6 months, minimum CAD 5,000-10,000 balance recommended)",
+          "Proof of employment: employment letter stating salary, role, approved leave",
+          "Property ownership documents (fards, registry)",
+          "Marriage certificate and children's birth certificates (if applicable)",
+          "Travel itinerary (day-by-day plan with hotel bookings)",
+          "Invitation letter from Canadian host (if visiting family/friends)",
+          "Proof of relationship with host (if visiting family)",
+          "Biometrics: fingerprints and photo at VFS Global (Islamabad, Lahore, Karachi)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Application Process",
+      },
+      {
+        type: "ul",
+        items: [
+          "Step 1: Create an IRCC account at canada.ca",
+          "Step 2: Fill out the online application form",
+          "Step 3: Upload all required documents as PDFs",
+          "Step 4: Pay the visa fee: CAD 100 (approximately PKR 20,000)",
+          "Step 5: Pay biometrics fee: CAD 85 (approximately PKR 17,000)",
+          "Step 6: Receive Biometrics Instruction Letter by email",
+          "Step 7: Visit VFS Global for fingerprints and photo",
+          "Step 8: Wait for decision (processing time: 4-8 weeks for Pakistanis)",
+          "Step 9: If approved, passport is stamped at VFS Global",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Processing Time",
+      },
+      {
+        type: "ul",
+        items: [
+          "Standard processing: 4-8 weeks from biometrics submission",
+          "Peak season (summer, holidays): 8-12 weeks",
+          "Off-season (winter): 3-6 weeks",
+          "There is no priority or express service for tourist visas",
+          "Apply at least 3 months before your intended travel date",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Common Refusal Reasons",
+      },
+      {
+        type: "ul",
+        items: [
+          "Insufficient funds or recent large deposits in bank account",
+          "Weak ties to Pakistan (no property, employment, or family)",
+          "Vague travel purpose or itinerary",
+          "Previous visa refusals (especially from US, UK, Schengen)",
+          "Inconsistencies between application and supporting documents",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Applying for a Canada visa? Message HTG Travels on WhatsApp for document preparation help.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-mistakes-to-avoid",
+    title: "10 Common Umrah Mistakes to Avoid (Complete Guide)",
+    category: "Umrah",
+    metaDescription:
+      "Avoid these 10 common Umrah mistakes that pilgrims make. From Ihram violations to Tawaf errors, hotel booking mistakes to Nusuk permit issues. Essential guide for Pakistani pilgrims.",
+    keywords: [
+      "Umrah mistakes",
+      "common Umrah errors",
+      "Umrah tips Pakistan",
+      "what not to do in Umrah",
+      "Umrah pitfalls",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Performing Umrah is a deeply spiritual experience, but many pilgrims — especially first-timers — make mistakes that can affect their pilgrimage. Some mistakes are minor (like not knowing where to start Tawaf), while others can invalidate your Umrah (like violating Ihram rules). This guide covers 10 common mistakes and how to avoid them.",
+      },
+      {
+        type: "h2",
+        text: "1. Not Learning the Rituals Before Traveling",
+      },
+      {
+        type: "p",
+        text: "Many pilgrims arrive in Makkah without knowing how to perform Tawaf, Sa'i, or the proper duas. They rely on group leaders or strangers, which leads to confusion and anxiety. Solution: Watch YouTube tutorials, read a guidebook, and practice the duas before your trip. HTG Travels provides all our clients with a pre-departure Umrah guide booklet.",
+      },
+      {
+        type: "h2",
+        text: "2. Using Scented Products in Ihram",
+      },
+      {
+        type: "p",
+        text: "This is the most common Ihram violation. Pilgrims unknowingly use scented soap, shampoo, deodorant, or hand sanitizer while in Ihram. Solution: Buy unscented products before travel. Carry unscented soap and shampoo. Avoid scented hand sanitizers — use unscented ones or plain water.",
+      },
+      {
+        type: "h2",
+        text: "3. Pushing and Shoving During Tawaf",
+      },
+      {
+        type: "p",
+        text: "The Mataf (Tawaf area) can be extremely crowded, especially near the Kaabah. Some pilgrims push, shove, or argue to get closer. This violates the spirit of Ihram (no arguing allowed). Solution: Walk on the outer circles of the Mataf — it takes longer but is calmer and safer. Do not push to touch the Kaabah or Black Stone if it is too crowded.",
+      },
+      {
+        type: "h2",
+        text: "4. Booking Hotels Too Far from the Haram",
+      },
+      {
+        type: "p",
+        text: "To save money, some pilgrims book hotels 2-3km from the Haram. Walking 4-6km per day in heat is exhausting, especially for elderly pilgrims. Solution: Book within 500m of the Haram if possible. If budget is tight, choose a hotel with a free 24/7 shuttle service. HTG Travels guarantees hotel distance in writing.",
+      },
+      {
+        type: "h2",
+        text: "5. Not Booking Nusuk Permits in Advance",
+      },
+      {
+        type: "p",
+        text: "Rawdah Mubarak permits fill within seconds during peak seasons. Pilgrims who arrive without permits cannot visit the Rawdah. Solution: Create your Nusuk account and verify it BEFORE traveling. Book permits at midnight Saudi time (2 AM Pakistan time). HTG Travels arranges Nusuk permits for all our Umrah clients.",
+      },
+      {
+        type: "h2",
+        text: "6. Performing Tawaf in the Wrong Direction",
+      },
+      {
+        type: "p",
+        text: "Tawaf must be performed counter-clockwise (Kaabah on your left side). Some first-time pilgrims walk clockwise by mistake. Solution: Follow the crowd — everyone walks counter-clockwise. If unsure, ask a nearby guard or pilgrim.",
+      },
+      {
+        type: "h2",
+        text: "7. Not Carrying Enough Water and Snacks",
+      },
+      {
+        type: "p",
+        text: "A single Tawaf + Sa'i session can take 2-3 hours, plus waiting for prayers. Pilgrims who don't carry water or snacks get dehydrated and weak. Solution: Carry a small backpack with a water bottle, dates, biscuits, and a prayer mat. Zamzam water is available throughout the Haram but having your own is convenient.",
+      },
+      {
+        type: "h2",
+        text: "8. Wearing New Shoes for the First Time",
+      },
+      {
+        type: "p",
+        text: "New shoes cause blisters. Walking 15-20km per day in Makkah with blistered feet is painful. Solution: Wear broken-in, comfortable shoes. Crocs or soft sandals are popular among pilgrims. Bring blister plasters just in case.",
+      },
+      {
+        type: "h2",
+        text: "9. Not Having Travel Insurance",
+      },
+      {
+        type: "p",
+        text: "Medical care in Saudi Arabia is expensive for non-residents. Without insurance, a simple hospital visit can cost SAR 500-2,000 (PKR 38,000-150,000). Solution: Buy travel insurance before your trip. It costs PKR 2,000-5,000 for a 10-day trip and covers medical emergencies.",
+      },
+      {
+        type: "h2",
+        text: "10. Forgetting to Collect Zamzam Water Properly",
+      },
+      {
+        type: "p",
+        text: "Airlines allow 5-10 liters of Zamzam water per pilgrim on the return flight. Many pilgrims forget to collect it, or buy fake Zamzam from unauthorized sellers. Solution: Collect Zamzam from the official distribution points near the Haram. Use the airline-approved plastic containers (available for SAR 10-20 near the Haram).",
+      },
+      {
+        type: "quote",
+        text: "Want to avoid Umrah mistakes? Message HTG Travels on WhatsApp for a complete guide.",
+      },
+    ],
+  },
+  {
+    slug: "uk-student-visa-guide-pakistan",
+    title: "UK Student Visa Guide: Study in the UK from Pakistan",
+    category: "Visa",
+    metaDescription:
+      "Complete UK Student Visa guide for Pakistani students. Requirements, financial proof, IELTS, university application, visa fees, processing time, and post-study work visa. Updated for 2026.",
+    keywords: [
+      "UK student visa Pakistan",
+      "study in UK from Pakistan",
+      "UK study visa requirements",
+      "UK Tier 4 visa Pakistan",
+      "student visa UK 2026",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "The UK is one of the top destinations for Pakistani students, offering world-class universities, a 2-year post-study work visa, and a pathway to permanent residency. This guide covers the complete UK Student Visa process for Pakistani students.",
+      },
+      {
+        type: "h2",
+        text: "UK Student Visa Requirements",
+      },
+      {
+        type: "ul",
+        items: [
+          "Confirmation of Acceptance for Studies (CAS) from a UK university",
+          "IELTS UKVI score: minimum 5.5-6.5 overall (depends on university and course)",
+          "Bank statement showing tuition + living costs for 9 months: GBP 1,334/month (London) or GBP 1,023/month (outside London)",
+          "Total financial proof: approximately PKR 4,000,000-8,000,000 depending on tuition and location",
+          "Tuberculosis test certificate (from approved clinics in Islamabad, Lahore, Karachi)",
+          "ATAS certificate (only for certain research courses in science/technology)",
+          "Valid passport (6+ months validity)",
+          "Online application via UK gov visa portal",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Application Process",
+      },
+      {
+        type: "ul",
+        items: [
+          "Step 1: Apply to UK universities (UCAS or direct application) and receive an offer",
+          "Step 2: Accept the offer and pay the tuition deposit",
+          "Step 3: Receive your CAS (Confirmation of Acceptance for Studies) from the university",
+          "Step 4: Complete the online visa application at gov.uk",
+          "Step 5: Pay visa fee: GBP 490 (approximately PKR 175,000)",
+          "Step 6: Pay Immigration Health Surcharge: GBP 776 per year (approximately PKR 280,000)",
+          "Step 7: Book biometrics appointment at UK VFS (Islamabad, Lahore, Karachi)",
+          "Step 8: Attend biometrics appointment (fingerprints + photo)",
+          "Step 9: Wait for decision (3-4 weeks standard, 5 days priority for additional GBP 500)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Post-Study Work Visa (Graduate Route)",
+      },
+      {
+        type: "p",
+        text: "After completing your degree, you can apply for the Graduate Route visa, which allows you to work in the UK for 2 years (3 years for PhD graduates) after graduation. No job offer required. This is a major advantage of studying in the UK.",
+      },
+      {
+        type: "h2",
+        text: "Processing Time",
+      },
+      {
+        type: "ul",
+        items: [
+          "Standard processing: 3-4 weeks",
+          "Priority service (5 working days): additional GBP 500",
+          "Super priority service (24 hours): additional GBP 1,000",
+          "Apply at least 3 months before your course start date",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Got your UK university offer? Message HTG Travels on WhatsApp for visa travel support.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-group-booking-guide",
+    title: "Umrah Group Booking Guide: How to Organize Group Umrah from Pakistan",
+    category: "Umrah",
+    metaDescription:
+      "Complete guide to organizing group Umrah from Pakistan. Group size, discounts, mosque committees, corporate Umrah, and how HTG Travels handles group bookings with special rates.",
+    keywords: [
+      "group Umrah booking",
+      "Umrah group package Pakistan",
+      "mosque Umrah group",
+      "corporate Umrah",
+      "group Umrah discount",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Organizing Umrah for a group — whether a mosque committee, corporate team, extended family, or community organization — requires careful planning. Group bookings come with significant discounts (10-20%) and dedicated support. This guide covers everything you need to organize a successful group Umrah trip.",
+      },
+      {
+        type: "h2",
+        text: "Benefits of Group Umrah Bookings",
+      },
+      {
+        type: "ul",
+        items: [
+          "10-20% discount on flights (group fares from PIA, Saudia)",
+          "Discounted hotel rates (group contracts with hotels)",
+          "Dedicated group coordinator (Urdu/English speaking)",
+          "Shared transport (HiAce van or coaster bus for the group)",
+          "Group Ziyarat tours with a guide",
+          "Nusuk permits arranged for the entire group",
+          "One invoice for the entire group (easier for organizations)",
+          "Flexible payment: 25% deposit, balance 2-3 weeks before travel",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Organize a Group Umrah Trip",
+      },
+      {
+        type: "ul",
+        items: [
+          "Step 1: Contact HTG Travels with your group size, preferred dates, and budget",
+          "Step 2: We send you group fare quotes from multiple airlines and hotels",
+          "Step 3: Choose the package that fits your group's needs",
+          "Step 4: Collect all passports, CNICs, and photos from group members",
+          "Step 5: Pay 25% deposit to hold the group booking",
+          "Step 6: Submit all passenger names with passport details 2-3 weeks before travel",
+          "Step 7: Pay remaining balance and receive e-tickets + hotel confirmations",
+          "Step 8: Travel together with a dedicated coordinator",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Who Organizes Group Umrah?",
+      },
+      {
+        type: "ul",
+        items: [
+          "Mosque committees: Organize Umrah for congregation members (10-50 pilgrims)",
+          "Corporate companies: Reward employees with Umrah trips (5-20 pilgrims)",
+          "Extended families: Large families traveling together (5-30 pilgrims)",
+          "Community organizations: NGOs, welfare societies, professional associations",
+          "Student groups: University Islamic societies (10-30 students)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Group Umrah Package Discounts",
+      },
+      {
+        type: "ul",
+        items: [
+          "5-9 pilgrims: 5-8% discount on standard package price",
+          "10-19 pilgrims: 10-15% discount",
+          "20-49 pilgrims: 15-20% discount",
+          "50+ pilgrims: Custom pricing (contact for quote)",
+          "Group leader travels free with groups of 20+ (on economy packages)",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Organizing group Umrah? Message HTG Travels on WhatsApp for group discounts.",
+      },
+    ],
+  },
+  {
+    slug: "australia-tourist-visa-guide-pakistan",
+    title: "Australia Tourist Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete Australia tourist visa (subclass 600) guide for Pakistanis. Requirements, online application, biometrics, fees, processing time, and top attractions in Sydney, Melbourne, and Gold Coast.",
+    keywords: [
+      "Australia visa Pakistan",
+      "Australia tourist visa",
+      "Australia visa subclass 600",
+      "Australian visa from Pakistan",
+      "Sydney visa Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Australia offers stunning beaches, unique wildlife, the Great Barrier Reef, and vibrant cities like Sydney and Melbourne. For Pakistani travelers, the Australia tourist visa (subclass 600) is the gateway to exploring this beautiful country. This guide covers the complete visa process.",
+      },
+      {
+        type: "h2",
+        text: "Australia Tourist Visa (Subclass 600) Requirements",
+      },
+      {
+        type: "ul",
+        items: [
+          "Valid passport (6+ months validity)",
+          "Online application via ImmiAccount (homeaffairs.gov.au)",
+          "Passport-size photo (recent, white background)",
+          "Bank statements (6 months, minimum AUD 5,000 balance)",
+          "Employment letter or business registration",
+          "Property ownership documents",
+          "Travel itinerary with planned dates and destinations",
+          "Proof of accommodation (hotel bookings or host invitation)",
+          "Health insurance (recommended)",
+          "Biometrics at VFS Global (Islamabad, Lahore, Karachi)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Application Process",
+      },
+      {
+        type: "ul",
+        items: [
+          "Step 1: Create an ImmiAccount at homeaffairs.gov.au",
+          "Step 2: Complete the online application form (subclass 600 - Tourist stream)",
+          "Step 3: Upload all required documents as PDFs",
+          "Step 4: Pay visa fee: AUD 190 (approximately PKR 35,000)",
+          "Step 5: Receive biometrics request by email",
+          "Step 6: Visit VFS Global for biometrics (fingerprints + photo)",
+          "Step 7: Wait for decision (processing: 20-40 days for Pakistanis)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Processing Time",
+      },
+      {
+        type: "ul",
+        items: [
+          "Standard processing: 20-40 days from biometrics",
+          "Peak season (November-February): 30-60 days",
+          "No priority service available for tourist visas from Pakistan",
+          "Apply at least 2 months before intended travel date",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Destinations in Australia",
+      },
+      {
+        type: "ul",
+        items: [
+          "Sydney: Opera House, Harbour Bridge, Bondi Beach, Blue Mountains",
+          "Melbourne: Great Ocean Road, Philip Island (penguins), Yarra Valley",
+          "Gold Coast: Theme parks, Surfers Paradise, beach lifestyle",
+          "Cairns: Great Barrier Reef diving, Daintree Rainforest",
+          "Uluru (Ayers Rock): Sacred Aboriginal site, sunset/sunrise viewing",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Want to visit Australia? Message HTG Travels on WhatsApp for visa assistance.",
+      },
+    ],
+  },
+  {
+    slug: "ramadan-umrah-best-practices-guide",
+    title: "Ramadan Umrah Best Practices: A Complete Survival Guide",
+    category: "Umrah",
+    metaDescription:
+      "Complete survival guide for Umrah during Ramadan. Fasting tips, managing crowds, Laylatul Qadr planning, Taraweeh in Haram, and how to maximize spiritual benefits while staying healthy.",
+    keywords: [
+      "Ramadan Umrah best practices",
+      "fasting during Umrah",
+      "Ramadan Umrah survival guide",
+      "Taraweeh in Haram",
+      "Laylatul Qadr in Makkah",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Performing Umrah during Ramadan is a profoundly spiritual experience, but it also requires careful planning to manage fasting, crowds, heat, and the intense spiritual schedule. This survival guide covers practical tips to maximize your spiritual benefits while staying healthy and safe.",
+      },
+      {
+        type: "h2",
+        text: "Fasting During Umrah: Practical Tips",
+      },
+      {
+        type: "p",
+        text: "Fasting while performing Tawaf and Sa'i is physically demanding. Here is how to manage it:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Perform Tawaf after Fajr (coolest time, 5-6 AM) — you have energy from Suhoor",
+          "Alternatively, perform Tawaf after Maghrib — break your fast with dates and water, then walk",
+          "Drink 2-3 glasses of water between Maghrib and Fajr (not all at once)",
+          "Eat a protein-rich Suhoor: eggs, yogurt, dates, oats — slow-release energy",
+          "Avoid salty food at Suhoor — it increases thirst during the day",
+          "Rest between Dhuhr and Asr — the Haram is air-conditioned, find a quiet spot",
+          "Do NOT skip Suhoor — fasting without Suhoor while walking 10+km is dangerous",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Managing Ramadan Crowds",
+      },
+      {
+        type: "p",
+        text: "Ramadan brings 2-3 million pilgrims to Makkah. Here is how to navigate the crowds:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Arrive at the Haram 30-45 minutes before prayer times to get a spot",
+          "For Taraweeh: Arrive by 8 PM (Taraweeh starts after Isha, around 9-9:30 PM)",
+          "Sit on the upper levels of the Haram — less crowded, better view, still connected",
+          "Avoid the Mataf (Tawaf area) during prayer times — it is closed for prayers",
+          "Perform Tawaf between 2-5 AM — fewest crowds, coolest temperature",
+          "Use the ground floor for Sa'i — the upper levels get very crowded during Ramadan",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Laylatul Qadr Planning (Last 10 Nights)",
+      },
+      {
+        type: "p",
+        text: "The last 10 nights of Ramadan are the most blessed. Laylatul Qadr (Night of Power) is better than 1,000 months of worship. Here is how to maximize these nights:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Plan to stay in the Haram from Isha until Fajr (10 PM - 5 AM) on odd nights (21, 23, 25, 27, 29)",
+          "Bring a small cushion or prayer mat — sitting on marble for 7 hours is hard",
+          "Carry a water bottle and some dates for energy (you are not fasting at night)",
+          "Dress warmly — Makkah can get cool at night in the last 10 days of Ramadan",
+          "Memorize key Laylatul Qadr duas: 'Allahumma innaka afuwwun tuhibbul afwa fa'fu anni'",
+          "Do NOT exhaust yourself during the day — rest so you can stay up at night",
+          "Book Nusuk permits for Rawdah visits during the last 10 days well in advance",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Iftar in the Haram",
+      },
+      {
+        type: "p",
+        text: "Breaking your fast in the Haram is a beautiful experience. Tips:",
+      },
+      {
+        type: "ul",
+        items: [
+          "The Haram provides free Iftar meals (dates, water, yogurt, bread) at Maghrib",
+          "Arrive 30 minutes before Maghrib to get a spot and receive the Iftar packet",
+          "Bring your own dates and water as backup — the crowd is large",
+          "After Iftar, pray Maghrib quickly, then rest until Isha",
+          "Do NOT eat a heavy meal at Iftar — you need to pray Taraweeh right after",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Health and Safety During Ramadan Umrah",
+      },
+      {
+        type: "ul",
+        items: [
+          "Dehydration is the #1 risk — drink 3+ liters of water between Maghrib and Fajr",
+          "Carry ORS packets (available at pharmacies in Makkah) in case of dehydration",
+          "Wear a hat or use an umbrella when walking outside during the day",
+          "If you feel dizzy or weak, sit down immediately and drink water — do not push through",
+          "Elderly pilgrims: Consider not fasting on days you perform Tawaf (consult a scholar)",
+          "Carry your medications — pharmacies near the Haram are expensive",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Planning Ramadan Umrah? Message HTG Travels on WhatsApp for the best Ramadan packages.",
+      },
+    ],
+  },
 ];
