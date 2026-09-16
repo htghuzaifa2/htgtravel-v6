@@ -1,12 +1,8 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
 import Link from "next/link";
-import { PageHero } from "@/components/shared/page-hero";
-import { FinalCTA } from "@/components/shared/final-cta";
-import { WhatsAppButton } from "@/components/shared/whatsapp-button";
-import { FadeIn } from "@/components/animations";
 import { BLOG_POSTS } from "@/lib/blog-data";
 import { ArrowLeft, MessageCircle } from "lucide-react";
+import { SITE } from "@/lib/constants";
 
 export function generateStaticParams() {
   return BLOG_POSTS.map((post) => ({ slug: post.slug }));
@@ -33,7 +29,16 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
   const post = BLOG_POSTS.find((p) => p.slug === params.slug);
-  if (!post) notFound();
+  if (!post) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-background">
+        <div className="text-center">
+          <h1 className="font-heading text-4xl font-bold text-foreground mb-4">Post Not Found</h1>
+          <Link href="/blog" className="text-teal hover:text-gold transition-colors">← Back to Blog</Link>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <>
@@ -45,29 +50,26 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
           style={{ background: "radial-gradient(circle, rgba(20,184,184,0.5), transparent 70%)" }}
         />
         <div className="relative mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
-          <FadeIn>
-            <Link
-              href="/blog"
-              className="inline-flex items-center gap-1.5 text-sm font-medium text-on-navy-muted hover:text-white transition-colors mb-4"
-            >
-              <ArrowLeft className="h-4 w-4" />
-              Back to Blog
-            </Link>
-            <span className="inline-flex items-center rounded-full bg-gold/10 border border-gold/20 px-3 py-1.5 text-xs font-semibold text-gold mb-4">
-              {post.category}
-            </span>
-            <h1 className="font-heading font-bold text-white leading-tight text-3xl sm:text-4xl md:text-[40px] break-words">
-              {post.title}
-            </h1>
-          </FadeIn>
+          <Link
+            href="/blog"
+            className="inline-flex items-center gap-1.5 text-sm font-medium text-on-navy-muted hover:text-white transition-colors mb-4"
+          >
+            <ArrowLeft className="h-4 w-4" />
+            Back to Blog
+          </Link>
+          <span className="inline-flex items-center rounded-full bg-gold/10 border border-gold/20 px-3 py-1.5 text-xs font-semibold text-gold mb-4">
+            {post.category}
+          </span>
+          <h1 className="font-heading font-bold text-white leading-tight text-3xl sm:text-4xl md:text-[40px] break-words">
+            {post.title}
+          </h1>
         </div>
       </section>
 
       {/* Article Content */}
       <article className="py-16 lg:py-20 bg-background">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
-          <FadeIn>
-            <div className="prose prose-lg max-w-none">
+          <div className="prose prose-lg max-w-none">
               {post.content.map((block, i) => {
                 if (block.type === "h2") {
                   return (
@@ -109,11 +111,16 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                         {block.text}
                       </p>
                       <div className="mt-4">
-                        <WhatsAppButton variant="gold" size="md">
-                          <MessageCircle className="h-4 w-4" />
-                          Message on WhatsApp
-                        </WhatsAppButton>
-                      </div>
+                  <a
+                    href={SITE.whatsappLink}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 transition shadow-md"
+                  >
+                    <MessageCircle className="h-4 w-4" />
+                    Message on WhatsApp
+                  </a>
+                </div>
                     </blockquote>
                   );
                 }
@@ -130,10 +137,15 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                 <p className="text-sm text-muted-foreground mb-5 max-w-md mx-auto">
                   Our team is ready to assist with flights, visas, Umrah packages, and more — all on WhatsApp.
                 </p>
-                <WhatsAppButton variant="gold" size="lg">
+                <a
+                  href={SITE.whatsappLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 transition shadow-md"
+                >
                   <MessageCircle className="h-4 w-4" />
                   Chat With Us on WhatsApp
-                </WhatsAppButton>
+                </a>
               </div>
             </div>
 
@@ -159,7 +171,6 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
                   ))}
               </div>
             </div>
-          </FadeIn>
         </div>
       </article>
     </>
