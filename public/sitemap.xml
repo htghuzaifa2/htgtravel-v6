@@ -60,7 +60,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
-</urlset>
+
   <url>
     <loc>https://htg.com.pk/blog/</loc>
     <changefreq>weekly</changefreq>
@@ -93,6 +93,41 @@
   </url>
   <url>
     <loc>https://htg.com.pk/blog/ramadan-umrah-planning-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/saudi-tourist-evisa-step-by-step/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/travel-insurance-schengen-requirement/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/best-travel-destinations-from-pakistan/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/hajj-2026-complete-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/pakistan-domestic-flights-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/business-visa-vs-tourist-visa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/family-umrah-tips-with-children/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
