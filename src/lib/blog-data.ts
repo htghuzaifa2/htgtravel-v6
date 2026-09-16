@@ -8197,4 +8197,986 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "saudi-visa-on-arrival-pakistan",
+    title: "Saudi Visa on Arrival for Pakistani Citizens: 2026 Eligibility & Rules",
+    category: "Visa",
+    metaDescription:
+      "Saudi visa on arrival for Pakistani citizens. Who is eligible, UK/US/Schengen visa holders rules, eVisa vs VOA, fees, and step-by-step process for 2026 travelers.",
+    keywords: [
+      "Saudi visa on arrival Pakistan",
+      "Saudi Arabia visa on arrival Pakistani",
+      "Saudi tourist visa Pakistan",
+      "Saudi eVisa Pakistan",
+      "Saudi visa UK US Schengen holder",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Saudi Arabia's visa on arrival (VOA) facility can save Pakistani travelers significant time, but only certain categories of applicants are eligible. This 2026 guide explains exactly who qualifies, how it works at the airport, the fees, and the documents you must carry. If you already hold a valid UK, US, or Schengen visa — or a permanent residence permit from those countries — you may bypass the eVisa application entirely. However, the rules are nuanced, and presenting the wrong documents at the Saudi immigration counter can result in being denied entry, even with a confirmed hotel and return ticket.",
+      },
+      {
+        type: "h2",
+        text: "Who Is Eligible for Saudi Visa on Arrival?",
+      },
+      {
+        type: "p",
+        text: "Saudi Arabia offers visa on arrival to a limited set of travelers. Pakistani passport holders qualify only under specific conditions. The most common route is being a holder of a valid tourist, business, or residence visa from the United Kingdom, the United States, or a Schengen Area country. The visa must be valid and used at least once to enter the issuing country. Alternatively, permanent residents of the UK, US, or EU with valid residence permits also qualify. Travelers from GCC countries automatically receive a Saudi visa on arrival, but this does not apply to Pakistani citizens.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Hold a valid UK, US, or Schengen visa (used at least once to enter the issuing country)",
+          "Hold a valid permanent residence permit from UK, US, or any Schengen country",
+          "Visa must be valid for at least 90 days at the time of Saudi entry",
+          "Pakistani citizens with only Pakistani residence/visa are NOT eligible for VOA",
+          "Hajj season has special rules — VOA may be suspended during Hajj (May-June)",
+          "Umrah visa rules differ from tourist visa rules — confirm with HTG Travels before booking",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Visa on Arrival vs Saudi eVisa",
+      },
+      {
+        type: "p",
+        text: "Both options lead to the same single-entry tourist visa, valid for 90 days, with multiple entries allowed within that window. The eVisa is applied for online before travel, while the visa on arrival is issued at the Saudi airport immigration counter. The eVisa costs approximately SAR 480 (about PKR 35,000) and is processed within 24-72 hours. The visa on arrival costs slightly more — SAR 580 to 700 (about PKR 42,000-52,000) — payable by international credit card at the airport. For Pakistani travelers, the eVisa is generally recommended because it removes the risk of being turned away at the airport for insufficient documentation.",
+      },
+      {
+        type: "h3",
+        text: "Key Differences at a Glance",
+      },
+      {
+        type: "ul",
+        items: [
+          "eVisa: Apply online before travel, cost SAR 480 (~PKR 35,000), 24-72 hour processing",
+          "VOA: Issued at Saudi airport, cost SAR 580-700 (~PKR 42,000-52,000), instant",
+          "Both: Single entry, valid 90 days from issue, multiple entries allowed within validity",
+          "Both: Insurance is included in the visa fee (mandatory Saudi travel insurance)",
+          "eVisa is safer — no risk of being denied boarding by airline staff",
+          "VOA is convenient for last-minute travel — but airline staff may still ask for proof",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Documents Required for Visa on Arrival",
+      },
+      {
+        type: "p",
+        text: "If you intend to use the visa on arrival facility, prepare your documents carefully. Saudi immigration officers are strict and may deny entry if documentation is incomplete. The visa on arrival counter is usually located before the main immigration desks at Jeddah, Riyadh, and Dammam airports. Have your documents ready in physical form — digital copies on your phone may not be accepted. Print every important document and keep them in a folder for easy access.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Pakistani passport valid for at least 6 months from date of entry",
+          "Valid UK, US, or Schengen visa (original + photocopy)",
+          "Proof that the UK/US/Schengen visa has been used (entry/exit stamps, boarding passes)",
+          "Return ticket confirmation (within 90 days)",
+          "Hotel booking confirmation for the entire stay",
+          "International credit card (Visa/Mastercard) to pay the VOA fee at the airport",
+          "Cash (USD or SAR) as backup — credit card machines can fail",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Step-by-Step Process at Saudi Airport",
+      },
+      {
+        type: "p",
+        text: "When you land at King Abdulaziz International Airport (Jeddah), King Khalid International Airport (Riyadh), or King Fahd International Airport (Dammam), follow the signs for Visa on Arrival. The counter is generally staffed 24 hours a day, but expect longer queues during peak Umrah hours (especially after Fajr and Maghrib flights land). The process takes between 30 minutes and 2 hours depending on queue length and document verification. Once the visa is issued and fee paid, proceed to the main immigration counters for entry stamping.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Step 1: Disembark and follow 'Visa on Arrival' signs",
+          "Step 2: Submit passport, UK/US/Schengen visa, return ticket, hotel booking to VOA officer",
+          "Step 3: Pay VOA fee by international credit card (SAR 580-700)",
+          "Step 4: Officer issues visa sticker in passport and registers it in the system",
+          "Step 5: Proceed to main immigration counter for entry stamp",
+          "Step 6: Collect baggage and pass through customs",
+          "Step 7: Pick up local SIM (STC/Mobily/Zain) at the airport arrivals hall",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Important Warnings for Pakistani Travelers",
+      },
+      {
+        type: "p",
+        text: "Even if you are eligible, there are several risks associated with the visa on arrival route. The most common issue is airline staff at Pakistani airports refusing to board you because they are not familiar with the VOA rules for Pakistani passport holders. Always carry a printout of the official Saudi Ministry of Hajj and Umrah announcement confirming Pakistani citizens with valid UK/US/Schengen visas are eligible. Another common issue is presenting an expired or unused UK/US/Schengen visa — the visa must be valid and used at least once. Finally, the visa on arrival is for tourism only; if you intend to perform Umrah, confirm with HTG Travels whether your VOA will allow Umrah rituals or if a separate Umrah visa is required.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Airlines may deny boarding if staff are unfamiliar with VOA rules for Pakistanis",
+          "Always carry a printout of the Saudi Ministry of Hajj and Umrah VOA policy",
+          "The UK/US/Schengen visa must be valid and have been used at least once",
+          "Visa on arrival does NOT automatically allow Umrah — confirm with HTG Travels",
+          "VOA is suspended during Hajj season (typically May-June)",
+          "Always have a backup plan — apply for eVisa if there is any doubt",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Can I Perform Umrah on a Saudi Visa on Arrival?",
+      },
+      {
+        type: "p",
+        text: "Yes, in most cases Pakistani citizens who enter Saudi Arabia on a tourist visa (whether eVisa or visa on arrival) can perform Umrah. However, this is subject to current Saudi regulations which can change without notice. You will need a separate Nusuk permit to perform Umrah and to enter the Rawdah in Madinah. The Nusuk app is free to download but slots fill quickly during Ramadan and peak seasons. If your primary purpose is Umrah, an Umrah-specific visa (which is cheaper and includes insurance) may be more appropriate than a tourist visa. Contact HTG Travels to compare both options for your specific travel dates.",
+      },
+      {
+        type: "quote",
+        text: "Unsure if Saudi visa on arrival applies to you? Message HTG Travels on WhatsApp for a free eligibility check.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-vaccination-requirements-2026",
+    title: "Umrah Vaccination Requirements 2026: Complete Guide for Pakistani Pilgrims",
+    category: "Umrah",
+    metaDescription:
+      "Umrah vaccination requirements 2026. Meningitis ACWY certificate, COVID-19 rules, flu shot, yellow fever, polio drops for Pakistani pilgrims, approved clinics, and certificate validation.",
+    keywords: [
+      "Umrah vaccination requirements",
+      "Meningitis vaccine Umrah Pakistan",
+      "Umrah vaccine certificate",
+      "COVID vaccine Saudi Arabia Umrah",
+      "Umrah polio vaccine Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Every Pakistani pilgrim traveling for Umrah must carry specific vaccination certificates, or they will be denied boarding at the airport. The Saudi Ministry of Health enforces these rules strictly, and they are updated annually. For 2026, the headline requirements are the quadrivalent meningitis ACWY vaccine (mandatory for all pilgrims) and the oral polio vaccine (mandatory for travelers from Pakistan, Afghanistan, and a few other polio-endemic countries). This guide explains every vaccination required, the timeline for getting them, approved clinics in major Pakistani cities, and how to validate your certificate so Saudi immigration accepts it without question.",
+      },
+      {
+        type: "h2",
+        text: "Mandatory Vaccines for Umrah 2026",
+      },
+      {
+        type: "p",
+        text: "The Saudi Ministry of Health requires all Umrah pilgrims to be vaccinated against specific diseases before travel. For Pakistani pilgrims, three vaccinations are mandatory: quadrivalent meningitis ACWY (covering strains A, C, W, Y), oral polio vaccine (OPV), and seasonal influenza. The meningitis vaccine must be administered at least 10 days before travel and no more than 3 years before departure. The polio drops must be administered no more than 12 months and at least 4 weeks before travel. Influenza is recommended for all pilgrims and mandatory for those over 65, pregnant women, and pilgrims with chronic conditions like diabetes, heart disease, or respiratory issues.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Quadrivalent Meningitis ACWY: Mandatory for all pilgrims. Valid 3 years. Must be taken at least 10 days before travel.",
+          "Oral Polio Vaccine (OPV): Mandatory for Pakistani pilgrims. Valid 12 months. Must be taken 4 weeks before travel.",
+          "Seasonal Influenza: Recommended for all, mandatory for over-65, pregnant women, chronic illness patients.",
+          "COVID-19: As of 2026, no longer mandatory but recommended. Check current rules before travel.",
+          "Yellow Fever: Only if traveling from a yellow-fever endemic country (not applicable to Pakistanis).",
+          "Pneumococcal (PPSV23): Recommended for pilgrims over 65 or with chronic illness.",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Meningitis ACWY Vaccine — The Most Critical",
+      },
+      {
+        type: "p",
+        text: "Meningitis is the single most important vaccine for Umrah pilgrims because of the dense crowds in Makkah and Madinah, which create ideal conditions for the spread of meningococcal meningitis. The quadrivalent vaccine covers strains A, C, W, and Y — the strains most likely to cause outbreaks during Hajj and Umrah. Saudi Arabia requires proof of meningitis vaccination issued no more than 3 years and no less than 10 days before arrival. Without a valid certificate, the airline will deny you boarding in Pakistan. The vaccine costs between PKR 3,500 and PKR 6,000 depending on the brand (Menveo, Menactra, or Nimenrix) and is available at all designated Hajj/Umrah vaccination centers.",
+      },
+      {
+        type: "h3",
+        text: "Approved Meningitis Vaccine Brands",
+      },
+      {
+        type: "ul",
+        items: [
+          "Menactra (Sanofi): Most common in Pakistan, PKR 4,000-5,500, valid 3 years",
+          "Menveo (GSK): Available at major centers, PKR 4,500-6,000, valid 3 years",
+          "Nimenrix (Pfizer): Premium option, PKR 5,500-7,000, valid 3 years (some studies suggest up to 5 years)",
+          "Menomune (older polysaccharide vaccine): Valid only 2 years, not preferred",
+          "All brands must be quadrivalent ACWY — single-strain vaccines are NOT accepted",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Oral Polio Vaccine (OPV) for Pakistani Pilgrims",
+      },
+      {
+        type: "p",
+        text: "Pakistan is one of the few countries where wild polio is still endemic, which means Saudi Arabia requires all Pakistani pilgrims to take the oral polio vaccine before travel. This rule applies regardless of whether you were vaccinated as a child. The OPV is administered as drops (not injection) at designated Points of Entry (POE) vaccination centers. The vaccine must be taken at least 4 weeks before travel and is valid for 12 months. The certificate is issued at the same center and must be presented at Saudi immigration. There is no cost for OPV at government-designated centers — it is provided free of charge.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Free at all government Hajj/Umrah vaccination centers",
+          "Must be taken at least 4 weeks before travel — do not delay",
+          "Valid for 12 months from the date of administration",
+          "Issued as drops (2 drops by mouth), not injection",
+          "Required regardless of childhood polio vaccination history",
+          "Certificate format: yellow card with WHO seal, separate from meningitis certificate",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Approved Vaccination Centers in Pakistan",
+      },
+      {
+        type: "p",
+        text: "Saudi Arabia only accepts vaccination certificates from designated centers. Private clinics that are not on the approved list may issue a certificate, but Saudi immigration may reject it. The designated centers are run by the federal and provincial health departments, often located at major airports and city hospitals. In addition, certain private hospitals and travel clinics are approved by the Saudi Ministry of Health to issue vaccination certificates. Always confirm that the center you choose is on the approved list before getting vaccinated — HTG Travels can provide the current list of approved centers in your city.",
+      },
+      {
+        type: "h3",
+        text: "Approved Centers by City",
+      },
+      {
+        type: "ul",
+        items: [
+          "Karachi: Jinnah Hospital, Aga Khan University Hospital, Dr. Ruth Pfau Civil Hospital, Airport Health Office (JKIA)",
+          "Lahore: Services Hospital, Mayo Hospital, Shaukat Khanum Travel Clinic, Allama Iqbal International Airport Health Office",
+          "Islamabad: Pakistan Institute of Medical Sciences (PIMS), Federal General Hospital, Islamabad International Airport Health Office",
+          "Rawalpindi: Holy Family Hospital, District Health Office Travel Clinic",
+          "Multan: Nishtar Hospital Travel Clinic, Airport Health Office",
+          "Peshawar: Hayatabad Medical Complex, Khyber Teaching Hospital",
+          "Faisalabad: Allied Hospital, District Health Office Travel Clinic",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Validate Your Vaccination Certificate",
+      },
+      {
+        type: "p",
+        text: "A valid vaccination certificate must be issued on the official yellow International Certificate of Vaccination or Prophylaxis (ICVP) card. The card must be stamped by the issuing center with the official seal, signed by a registered medical practitioner, and include the date of vaccination, vaccine brand, batch number, and expiry date. For digital verification, Saudi Arabia uses the Quddum platform — your vaccination records should be uploaded there by your travel agency before travel. Always carry the physical ICVP card with you — digital copies on your phone are NOT accepted at Saudi immigration.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Use the official yellow ICVP card (International Certificate of Vaccination or Prophylaxis)",
+          "Card must be stamped with the official seal of the issuing center",
+          "Must be signed by a registered medical practitioner (name + PMDC registration number)",
+          "Must include: vaccine brand, batch number, date of vaccination, expiry date",
+          "Upload records to Quddum platform via your travel agency before travel",
+          "Always carry the physical card — digital copies are NOT accepted at Saudi immigration",
+          "Keep a photocopy of your vaccination card with your passport — in case the original is lost",
+        ],
+      },
+      {
+        type: "h2",
+        text: "COVID-19 Vaccine — Is It Still Required?",
+      },
+      {
+        type: "p",
+        text: "As of 2026, Saudi Arabia no longer requires COVID-19 vaccination for Umrah pilgrims. The Quddum platform no longer asks for COVID-19 vaccine details during registration. However, the Saudi Ministry of Health still recommends COVID-19 vaccination, especially for pilgrims over 60, those with chronic illnesses, and pregnant women. If you have been vaccinated, you can voluntarily upload your COVID-19 certificate to the Quddum platform — it does not hurt and may speed up your entry. The rules can change quickly in response to outbreaks, so always confirm with HTG Travels in the week before your departure.",
+      },
+      {
+        type: "ul",
+        items: [
+          "COVID-19 vaccination is no longer mandatory for Umrah (as of 2026)",
+          "Still recommended for pilgrims over 60, pregnant women, chronic illness patients",
+          "Quddum platform no longer requires COVID-19 vaccine details",
+          "Rules may change in response to outbreaks — confirm before travel",
+          "Mask-wearing is recommended but not mandatory inside the Haram",
+        ],
+      },
+      {
+        type: "h2",
+        text: "When to Get Vaccinated — Timeline",
+      },
+      {
+        type: "p",
+        text: "Timing your vaccinations is critical. The meningitis vaccine must be administered at least 10 days before travel, but no more than 3 years before. The oral polio vaccine must be taken at least 4 weeks before travel. To allow time for certificate processing and Quddum platform upload, aim to complete all vaccinations 4-6 weeks before your departure date. Getting vaccinated too early means the certificate may expire during Umrah; getting vaccinated too late means you may be denied boarding. Create a calendar reminder for your vaccinations alongside your flight booking.",
+      },
+      {
+        type: "ul",
+        items: [
+          "6 weeks before travel: Book vaccination appointment at approved center",
+          "4-5 weeks before travel: Get OPV (oral polio drops) — must be 4+ weeks before departure",
+          "3-4 weeks before travel: Get meningitis ACWY vaccine — must be 10+ days before departure",
+          "2 weeks before travel: Get influenza vaccine (if recommended for your age group)",
+          "1 week before travel: Verify Quddum platform shows your vaccination records",
+          "Day before travel: Pack your ICVP card with your passport — physical copy required",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Need help with your Umrah vaccination schedule? Message HTG Travels on WhatsApp for the list of approved centers in your city.",
+      },
+    ],
+  },
+  {
+    slug: "japan-tourist-visa-pakistan",
+    title: "Japan Tourist Visa Guide for Pakistani Citizens: 2026 Application Process",
+    category: "Visa",
+    metaDescription:
+      "Complete Japan tourist visa guide for Pakistani citizens. Document checklist, financial requirements, sponsor letter, embassy process, processing time, and approval tips for 2026.",
+    keywords: [
+      "Japan tourist visa Pakistan",
+      "Japan visa from Pakistan",
+      "Japan visa requirements Pakistani",
+      "Japan visa document checklist",
+      "Japan visa processing time Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Japan has become an increasingly popular destination for Pakistani tourists, drawn by cherry blossom season, advanced technology, and unique cultural experiences. The Japan tourist visa process for Pakistani citizens is detailed but manageable if you prepare your documents carefully. This 2026 guide covers the complete application process, document requirements, financial proof thresholds, embassy interview tips, and processing timelines. Whether you are planning to visit Tokyo, Kyoto, Osaka, or Hokkaido, this guide will walk you through every step from document preparation to landing at Narita or Haneda airport.",
+      },
+      {
+        type: "h2",
+        text: "Types of Japan Tourist Visa for Pakistanis",
+      },
+      {
+        type: "p",
+        text: "Japan offers single-entry and multiple-entry tourist visas for Pakistani citizens. The single-entry visa is valid for 90 days from the date of issue and allows a stay of up to 15 days. The multiple-entry visa (introduced for Pakistani citizens in recent years) is valid for 1-3 years and allows stays of up to 30 days per visit, with a maximum of 90 days per year. Multiple-entry visas are typically granted only to applicants who have previously visited Japan on a single-entry visa and complied with all visa conditions. For first-time applicants, the single-entry visa is the standard option.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Single-entry tourist visa: Valid 90 days, stay up to 15 days. Best for first-time visitors.",
+          "Multiple-entry tourist visa: Valid 1-3 years, stay up to 30 days per visit (90 days/year). Requires prior Japan travel history.",
+          "Transit visa: Valid 72 hours, only for connecting flights through Japan. Rare for Pakistanis.",
+          "Visitor visa (for family/friends): Same as tourist but requires a sponsor in Japan.",
+          "Business visa: For business meetings, conferences. Requires invitation letter from Japanese company.",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Required Documents for Japan Tourist Visa",
+      },
+      {
+        type: "p",
+        text: "The Japan Embassy in Islamabad has a strict document checklist. Missing even one document can result in a refusal. All documents must be original plus one photocopy. Bank statements must be originals stamped by the bank — online printouts are not accepted. Photographs must be exactly 4.5cm x 4.5cm with a white background taken within the last 6 months. The visa application form must be typed (not handwritten) and signed in blue or black ink. Submit your application through Gerry's Visa Drop Box — the embassy does not accept direct submissions from individual applicants.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Passport: Valid for at least 6 months, with at least 2 blank pages",
+          "Visa application form: Typed, signed in blue/black ink, with one 4.5x4.5cm white background photo attached",
+          "Photograph: 4.5cm x 4.5cm, white background, taken within last 6 months, no glasses",
+          "CNIC copy: Both sides on one page",
+          "Bank statement: Last 6 months, original stamped by bank, minimum balance PKR 500,000-800,000",
+          "Bank account maintenance letter: Original, signed by bank manager, stamped",
+          "Salary slip: Last 3 months (if employed)",
+          "Business registration: NTN certificate + Chamber of Commerce certificate (if business owner)",
+          "Hotel booking confirmation: For the entire duration of stay in Japan",
+          "Flight itinerary: Round-trip reservation (do NOT purchase ticket before visa approval)",
+          "Travel itinerary: Day-by-day plan of where you will go and what you will see",
+          "Cover letter: Explaining the purpose of visit and your travel plans",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Financial Requirements",
+      },
+      {
+        type: "p",
+        text: "Japan does not publish an official minimum bank balance, but based on approval patterns, Pakistani applicants should maintain a minimum closing balance of PKR 500,000 to PKR 800,000 for a 7-10 day trip. The bank statement must show consistent income — large sudden deposits just before the application are red flags and may trigger a refusal. If your bank balance is lower than recommended, you can supplement it with a sponsor (parent, sibling, or spouse) who provides their bank statement along with an affidavit of support. The sponsor must be a first-degree relative and their income should be clearly documented.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Minimum bank balance: PKR 500,000-800,000 for a 7-10 day trip",
+          "Bank statement: 6 months, original stamped by bank",
+          "Account maintenance letter: Original, from bank manager",
+          "Consistent income: Avoid large sudden deposits before application",
+          "Sponsor option: Parent/sibling/spouse can sponsor with affidavit of support",
+          "Sponsor must be first-degree relative — friends and cousins cannot sponsor",
+          "Property documents: Optional but strengthen application (Fard, registry, allotment letter)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Where to Submit Your Japan Visa Application",
+      },
+      {
+        type: "p",
+        text: "The Embassy of Japan in Islamabad does not accept direct visa applications from individuals. All applications must be submitted through Gerry's Visa Drop Box, which has offices in Islamabad, Lahore, and Karachi. You can either visit Gerry's office in person or use their online appointment system to book a submission slot. The processing time is typically 5-7 working days from the date of submission. During peak seasons (cherry blossom season March-April, autumn foliage October-November), processing may take longer — apply at least 3-4 weeks before your intended travel date.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Submit through Gerry's Visa Drop Box — embassy does NOT accept direct applications",
+          "Gerry's offices: Islamabad (Blue Area), Lahore (Main Boulevard Gulberg), Karachi (Clifton)",
+          "Book an appointment online at gerrysvisa.com to avoid long queues",
+          "Visa fee: Single entry PKR 2,000, multiple entry PKR 4,000 (subject to change)",
+          "Processing time: 5-7 working days (longer during peak seasons)",
+          "Gerry's service fee: PKR 1,500-2,000 additional per application",
+          "Passport collection: In person or via courier (additional fee)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Common Reasons for Japan Visa Refusal",
+      },
+      {
+        type: "p",
+        text: "Japan is one of the stricter embassies in Islamabad, and refusals are common. The most common refusal reasons include insufficient bank balance, sudden large deposits before application, unclear travel purpose, weak ties to Pakistan (no job, no property, no family), and inconsistent information between the application form and supporting documents. Japan also looks unfavorably on applicants who have never traveled internationally before applying for a Japan visa — a travel history of at least 2-3 international trips (preferably to Thailand, UAE, Singapore, or Malaysia) significantly improves your chances. If refused, you can reapply after 6 months with stronger documents — reapplying earlier typically results in another refusal.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Insufficient or unstable bank balance — sudden large deposits are red flags",
+          "Lack of international travel history — visit 2-3 easier countries first (Thailand, UAE, Singapore)",
+          "Weak ties to Pakistan — no job, no property, no family",
+          "Inconsistent information between application form and supporting documents",
+          "Unclear or unrealistic travel itinerary",
+          "Missing documents — even one missing paper can result in refusal",
+          "Reapplication: Wait at least 6 months before reapplying after a refusal",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tips to Improve Your Approval Chances",
+      },
+      {
+        type: "p",
+        text: "Building a strong application is more important than rushing to submit. Start preparing 3-6 months before your intended travel date. Maintain a healthy bank balance with consistent income deposits. Take 2-3 international trips to easier destinations (Thailand, Malaysia, Singapore, UAE) before applying for Japan to establish a travel history. Include a detailed day-by-day itinerary with specific attractions, restaurants, and hotels — this shows you have genuinely planned the trip. If you have family or friends in Japan, include their invitation letter, residence card copy, and bank statement as additional supporting documents. A well-prepared application has a 60-70% approval rate for Pakistani citizens.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Build travel history: Visit Thailand, Malaysia, Singapore, or UAE first",
+          "Maintain consistent bank balance for 6+ months before applying",
+          "Include detailed day-by-day travel itinerary with specific places",
+          "Add property documents (Fard, allotment letter) if you own property",
+          "Add family documents (marriage certificate, children's birth certificates) for ties",
+          "Get a sponsor letter from Japan-based family/friends if applicable",
+          "Use a travel agent for itinerary and hotel bookings — HTG Travels can help",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Planning a Japan trip from Pakistan? Message HTG Travels on WhatsApp for document checklist and itinerary help.",
+      },
+    ],
+  },
+  {
+    slug: "pakistan-to-bangkok-flight-guide",
+    title: "Pakistan to Bangkok: Complete Flight Guide for Tourists",
+    category: "Flights",
+    metaDescription:
+      "Complete flight guide Pakistan to Bangkok. Airlines, direct vs connecting flights, fares, visa on arrival, best booking times, airport transfers, and tips for Thai tourists from Pakistan.",
+    keywords: [
+      "Pakistan to Bangkok flights",
+      "Karachi to Bangkok flights",
+      "Lahore to Bangkok flights",
+      "cheap flights to Thailand Pakistan",
+      "Thai visa on arrival Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Bangkok is one of the most popular international destinations for Pakistani tourists, thanks to affordable flights, visa on arrival, world-class shopping, and family-friendly attractions. Multiple airlines operate direct and connecting flights from Karachi, Lahore, and Islamabad to Suvarnabhumi Airport (BKK) and Don Mueang Airport (DMK). This guide covers everything you need to know — from choosing the right airline to navigating Bangkok airport, getting the visa on arrival, and reaching your hotel efficiently. Whether you are visiting for tourism, medical treatment, shopping, or business, this is the only flight guide you need for your Pakistan to Bangkok journey.",
+      },
+      {
+        type: "h2",
+        text: "Airlines Flying Pakistan to Bangkok",
+      },
+      {
+        type: "p",
+        text: "Several airlines operate flights between Pakistan and Bangkok, ranging from direct budget options to full-service carriers with connections. Thai Airways is the only airline offering direct flights from Karachi, Lahore, and Islamabad to Bangkok, with a flight time of approximately 4.5-5.5 hours. Other carriers like Emirates, Qatar Airways, Etihad, and Oman Air offer connecting flights via their respective hubs, with total journey times of 8-12 hours. Low-cost options include AirAsia (via Kuala Lumpur) and flydubai (via Dubai), which are popular with budget travelers and backpackers. Always compare fares across airlines — the cheapest option is not always the most convenient.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Thai Airways: Direct from Karachi, Lahore, Islamabad. 4.5-5.5 hours. Fares: PKR 75,000-140,000 round-trip. Generous 30kg baggage.",
+          "Emirates: Via Dubai. 8-10 hours total. Fares: PKR 90,000-160,000. Premium service, 30kg baggage.",
+          "Qatar Airways: Via Doha. 8-11 hours total. Fares: PKR 85,000-150,000. 30kg baggage.",
+          "Etihad Airways: Via Abu Dhabi. 8-10 hours total. Fares: PKR 80,000-145,000. 30kg baggage.",
+          "Oman Air: Via Muscat. 7-9 hours total. Fares: PKR 75,000-130,000. 30kg baggage. Often the cheapest full-service option.",
+          "AirAsia: Via Kuala Lumpur. 9-12 hours total. Fares: PKR 60,000-110,000. Budget airline, 20kg baggage extra cost.",
+          "flydubai: Via Dubai. 8-10 hours total. Fares: PKR 70,000-120,000. 20kg baggage included.",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Direct vs Connecting Flights — Which Is Better?",
+      },
+      {
+        type: "p",
+        text: "Direct flights save time but cost more. Connecting flights are cheaper but add 3-7 hours to your journey. For families with children or elderly travelers, direct flights (Thai Airways) are strongly recommended despite the higher cost. For solo travelers, couples, and budget-conscious tourists, connecting flights via Dubai, Doha, or Muscat are usually the best balance of price and comfort. If you choose a connecting flight, aim for a layover of 2-4 hours — shorter layovers risk missed connections, longer layovers add unnecessary travel time. Avoid overnight layovers unless you want to explore the layover city.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Direct flights (Thai Airways): Best for families, elderly, business travelers. Higher cost but no hassle.",
+          "Connecting flights: Best for budget travelers, solo tourists, backpackers.",
+          "Optimal layover: 2-4 hours (avoids missed connections and unnecessary waiting)",
+          "Avoid overnight layovers unless you want to explore the layover city",
+          "Emirates and Qatar Airways offer the best in-flight service among connecting options",
+          "AirAsia is cheapest but has restrictive baggage — pay extra for 20kg or 25kg allowance",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Time to Book Bangkok Flights",
+      },
+      {
+        type: "p",
+        text: "Bangkok flight prices fluctuate significantly based on season, day of the week, and how far in advance you book. The cheapest months to fly are March-April (hot season in Thailand), September-October (rainy season), and November-early December (shoulder season before peak holidays). The most expensive times are December-January (peak holiday season), Chinese New Year (late January-February), and Songkran (Thai New Year in mid-April). Book 6-8 weeks before your travel date for the best fares. Mid-week flights (Tuesday-Thursday) are typically 15-20% cheaper than weekend flights.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Cheapest months: March-April, September-October, November-early December",
+          "Most expensive: December-January, Chinese New Year (late Jan-Feb), Songkran (April 13-15)",
+          "Best booking window: 6-8 weeks before travel for international flights",
+          "Cheapest days to fly: Tuesday, Wednesday, Thursday (15-20% cheaper than weekend)",
+          "Most expensive days to fly: Friday-Sunday, especially Saturday morning departures",
+          "Avoid school holiday periods in Thailand (March-May, October) — higher demand from regional tourists",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Thailand Visa on Arrival for Pakistanis",
+      },
+      {
+        type: "p",
+        text: "Pakistani citizens are eligible for Thailand Visa on Arrival (VOA) at Suvarnabhumi and Don Mueang airports in Bangkok. The visa is valid for 15 days and costs 2,000 Thai Baht (about PKR 16,000). To qualify, you must have a passport valid for at least 30 days, a return ticket within 15 days, proof of accommodation in Thailand, and proof of funds of at least 10,000 Baht per person (20,000 Baht per family). The VOA queue can be long — 1-3 hours during peak arrivals. For faster processing, apply for a Thailand eVisa online before travel, which costs the same but is processed in 3-5 working days and allows stays of up to 60 days.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visa on Arrival: 15 days, 2,000 THB (~PKR 16,000) payable in cash",
+          "Required documents: Passport (30+ days validity), return ticket, hotel booking, 10,000 THB per person",
+          "VOA queue: 1-3 hours during peak arrivals (morning and evening flights from Asia)",
+          "eVisa option: Apply online, 3-5 working days, valid 60 days, single entry",
+          "Multiple-entry eVisa: Valid 6 months, multiple entries, 5,000 THB (~PKR 40,000)",
+          "Always carry 2 passport-size photos for VOA application",
+          "Tip: Apply for eVisa before travel to skip VOA queues and get longer stay",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Bangkok Airport Arrival Guide",
+      },
+      {
+        type: "p",
+        text: "Bangkok has two international airports: Suvarnabhumi (BKK) is the main hub for Thai Airways, Emirates, Qatar, Etihad, and Oman Air. Don Mueang (DMK) is the hub for low-cost carriers like AirAsia. After landing at Suvarnabhumi, follow signs for Immigration and Visa on Arrival (if applicable). After clearing immigration and collecting baggage, you have several transport options to reach central Bangkok: Airport Rail Link (City Line), public taxi, Grab ride-hailing, or pre-booked private transfer. The Airport Rail Link is the cheapest option (45 THB to Phaya Thai, 30 minutes), but if you have heavy luggage, a Grab or taxi is more convenient (300-500 THB to Sukhumvit area, 45-60 minutes depending on traffic).",
+      },
+      {
+        type: "ul",
+        items: [
+          "Suvarnabhumi Airport (BKK): Main hub for Thai Airways, Emirates, Qatar, Etihad, Oman Air",
+          "Don Mueang Airport (DMK): Hub for AirAsia and other low-cost carriers",
+          "Visa on Arrival counter: Located before immigration — queue can be 1-3 hours",
+          "Airport Rail Link: 45 THB (~PKR 360) to Phaya Thai, 30 minutes, cheapest option",
+          "Public taxi: 300-500 THB to Sukhumvit, 45-60 minutes depending on traffic",
+          "Grab ride-hailing: 350-600 THB, no haggling, download Grab app before travel",
+          "Pre-booked transfer: 800-1,500 THB, recommended for first-time visitors and families",
+          "Buy a Thai SIM card at the airport arrivals hall: AIS, DTAC, TrueMove (300-500 THB for 8-day tourist SIM)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Baggage Allowance and Customs",
+      },
+      {
+        type: "p",
+        text: "Baggage allowance varies by airline. Thai Airways offers the most generous allowance at 30kg checked + 7kg carry-on for economy passengers. Emirates, Qatar, and Etihad also offer 30kg checked baggage. Budget airlines like AirAsia include only 20kg in their basic fares — pay extra for 25kg or 30kg if needed. Thailand has strict customs rules: do not bring e-cigarettes or vaping devices (illegal in Thailand), more than 200 cigarettes, more than 1 liter of alcohol, or any Narcotics. Customs may check baggage randomly — declare anything of high value (electronics, jewelry) to avoid confiscation.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Thai Airways: 30kg checked + 7kg carry-on (most generous for Pakistanis)",
+          "Emirates, Qatar, Etihad: 30kg checked + 7kg carry-on",
+          "Oman Air: 30kg checked + 7kg carry-on",
+          "AirAsia: 20kg checked + 7kg carry-on (upgrade to 25kg or 30kg for extra fee)",
+          "flydubai: 20kg checked + 7kg carry-on (depends on fare type)",
+          "Prohibited items: e-cigarettes/vapes (illegal in Thailand), narcotics, counterfeit goods",
+          "Duty-free allowance: 200 cigarettes OR 250g tobacco, 1 liter alcohol, personal items up to 20,000 THB",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Planning a trip to Bangkok? Message HTG Travels on WhatsApp for the best flight + hotel packages.",
+      },
+    ],
+  },
+  {
+    slug: "annual-multi-trip-insurance-guide",
+    title: "Annual Multi-Trip Travel Insurance Guide for Pakistani Travelers",
+    category: "Insurance",
+    metaDescription:
+      "Complete guide to annual multi-trip travel insurance for Pakistanis. Coverage, cost comparison, single vs annual trip, best providers, claim process, and tips for frequent travelers.",
+    keywords: [
+      "annual multi-trip insurance Pakistan",
+      "annual travel insurance Pakistan",
+      "frequent traveler insurance",
+      "multi-trip travel insurance cost",
+      "best travel insurance Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "If you travel internationally more than 3 times per year — whether for business, family visits, or tourism — an annual multi-trip travel insurance policy is almost always more cost-effective than buying separate single-trip policies. This guide explains what annual multi-trip insurance covers, how it compares to single-trip policies in cost and coverage, the best providers for Pakistani travelers, the claim process, and the small print you need to read before purchasing. For frequent business travelers, consultants, and professionals with international commitments, the right annual policy can save 30-50% versus buying individual trip policies while offering superior coverage limits.",
+      },
+      {
+        type: "h2",
+        text: "What Is Annual Multi-Trip Travel Insurance?",
+      },
+      {
+        type: "p",
+        text: "Annual multi-trip travel insurance is a single policy that covers all trips you take during a 12-month period. Each individual trip can be up to 30, 45, 60, or 90 days depending on the policy tier you choose. The policy covers medical emergencies, trip cancellations, lost baggage, flight delays, and other standard travel insurance risks — but the coverage resets for every trip, so you are protected year-round without needing to purchase a new policy each time. This is particularly convenient for business travelers who may need to travel on short notice; instead of scrambling to buy insurance before every trip, you are already covered from the moment you book.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Single policy covering ALL trips during a 12-month period",
+          "Each trip can be 30/45/60/90 days maximum (varies by policy tier)",
+          "Coverage includes medical, cancellation, baggage, delays, personal liability",
+          "Premium is paid once per year — no per-trip purchasing",
+          "Ideal for business travelers, frequent tourists, consultants, expat professionals",
+          "Coverage applies to all international destinations (some exclude USA/Canada unless upgraded)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Single-Trip vs Annual Multi-Trip: Cost Comparison",
+      },
+      {
+        type: "p",
+        text: "The break-even point for annual multi-trip insurance is typically 3 trips per year. If you travel internationally 3 or more times in 12 months, annual multi-trip is cheaper than buying 3 separate single-trip policies. For Pakistani travelers, a standard single-trip policy for a 7-day trip to UAE costs approximately PKR 4,000-6,000, while a 7-day trip to Schengen costs PKR 6,000-10,000. An annual multi-trip policy covering worldwide (excluding USA/Canada) costs approximately PKR 25,000-40,000, and worldwide including USA/Canada costs PKR 45,000-70,000. If you take 4-5 international trips per year, the annual policy can save you 30-50% versus individual policies.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Single-trip policy cost (7-day UAE trip): PKR 4,000-6,000",
+          "Single-trip policy cost (7-day Schengen trip): PKR 6,000-10,000",
+          "Single-trip policy cost (7-day USA trip): PKR 12,000-18,000",
+          "Annual multi-trip (worldwide excl. USA/Canada): PKR 25,000-40,000",
+          "Annual multi-trip (worldwide incl. USA/Canada): PKR 45,000-70,000",
+          "Break-even point: 3 trips per year",
+          "Savings: 30-50% if you take 4+ international trips per year",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Coverage Limits and What's Included",
+      },
+      {
+        type: "p",
+        text: "Annual multi-trip policies typically offer higher coverage limits than single-trip policies because they are designed for frequent travelers. Medical coverage ranges from USD 50,000 to USD 1,000,000 depending on the tier. Trip cancellation coverage ranges from USD 1,000 to USD 10,000 per trip. Baggage loss coverage ranges from USD 500 to USD 3,000 per trip. Most policies include coverage for adventure sports (skiing, scuba diving, trekking) as an add-on — confirm this is included if you plan such activities. Pre-existing conditions are generally excluded unless declared and accepted at the time of purchase with an additional premium.",
+      },
+      {
+        type: "h3",
+        text: "Standard Coverage Limits (Mid-Tier Policy)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Medical emergency: USD 250,000-500,000 (Schengen requires minimum EUR 30,000)",
+          "Medical evacuation/repatriation: USD 100,000-500,000",
+          "Trip cancellation: USD 2,000-5,000 per trip",
+          "Trip curtailment (cutting trip short): USD 2,000-5,000 per trip",
+          "Baggage loss: USD 1,000-2,000 per trip",
+          "Baggage delay (over 12 hours): USD 200-500",
+          "Flight delay (over 6 hours): USD 100-300",
+          "Personal liability: USD 100,000-500,000",
+          "Legal expenses: USD 5,000-15,000",
+          "Adventure sports (optional add-on): Covers skiing, scuba, trekking up to 6,000m",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Travel Insurance Providers in Pakistan",
+      },
+      {
+        type: "p",
+        text: "Several international and local insurance companies offer annual multi-trip travel insurance for Pakistani citizens. The best provider for you depends on whether you prioritize price, claim settlement speed, or specific coverage features. International providers like AXA, Allianz, and Bupa offer the most comprehensive coverage but cost more. Pakistani providers like Jubilee, EFU, and IGI offer competitive pricing and good local claim support but may have lower coverage limits. Always check whether the provider has 24/7 emergency assistance and a global network of hospitals — this is critical for medical emergencies abroad.",
+      },
+      {
+        type: "ul",
+        items: [
+          "AXA Travel Insurance: Premium, comprehensive coverage, 24/7 global assistance. PKR 35,000-65,000/year.",
+          "Allianz Travel Insurance: Worldwide network, fast claim settlement. PKR 30,000-55,000/year.",
+          "Jubilee General Insurance (Pakistani): Local claim support, competitive pricing. PKR 25,000-45,000/year.",
+          "EFU General Insurance (Pakistani): Strong local network, fast claim processing in Pakistan. PKR 25,000-45,000/year.",
+          "IGI Insurance (Pakistani): Good customer service, multiple tier options. PKR 28,000-50,000/year.",
+          "Bupa Global: Premium coverage, includes USA/Canada. PKR 60,000-90,000/year.",
+          "World Nomads: Popular with backpackers, covers adventure sports. PKR 45,000-70,000/year.",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Important Exclusions to Watch For",
+      },
+      {
+        type: "p",
+        text: "Travel insurance policies have several exclusions that catch travelers off guard when they file a claim. The most common exclusions are pre-existing medical conditions (unless declared and accepted), self-inflicted injuries, drug/alcohol-related incidents, undeclared adventure sports, traveling against medical advice, and traveling to countries with active travel advisories from the Pakistani government. Mental health conditions are often excluded or have very low coverage limits. Pregnancy-related medical care is typically excluded after the 28th week. Read the policy wording carefully — the exclusions section is usually 3-4 pages long and is where most claim disputes arise.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Pre-existing medical conditions (unless declared and accepted with extra premium)",
+          "Self-inflicted injuries, suicide attempts",
+          "Drug or alcohol-related incidents",
+          "Undeclared adventure sports (skydiving, paragliding, mountaineering above 6,000m)",
+          "Traveling against medical advice or to countries with travel advisories",
+          "Mental health conditions (often excluded or low coverage limits)",
+          "Pregnancy after 28 weeks (delivery and pregnancy complications excluded)",
+          "Acts of war, terrorism (some providers offer limited terrorism coverage)",
+          "Cybersecurity incidents, identity theft (separate cyber insurance needed)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to File a Travel Insurance Claim",
+      },
+      {
+        type: "p",
+        text: "Filing a travel insurance claim requires specific documentation, and the process must be initiated promptly. For medical emergencies, contact the insurance company's 24/7 emergency assistance hotline BEFORE incurring large expenses — they can direct you to network hospitals and pre-authorize treatment. For trip cancellations, file the claim within 14-30 days of the cancellation. For baggage loss, file a Property Irregularity Report (PIR) with the airline before leaving the airport, then submit a claim to the insurance company within 21-30 days. Keep all original receipts, medical reports, police reports, and other supporting documents — copies are not accepted during claim processing.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Medical emergency: Call 24/7 hotline BEFORE large expenses — pre-authorize treatment",
+          "Trip cancellation: File within 14-30 days of cancellation reason arising",
+          "Baggage loss: File PIR at airport, then claim within 21-30 days",
+          "Baggage delay: Get written confirmation from airline, claim within 21 days",
+          "Flight delay: Get written confirmation from airline, claim within 21 days",
+          "Required documents: Original receipts, medical reports, police reports, boarding passes",
+          "Claim processing time: 15-45 days depending on complexity",
+          "Always keep digital copies of all documents — original may be required for claim",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tips for Buying Annual Multi-Trip Insurance",
+      },
+      {
+        type: "p",
+        text: "Before purchasing an annual multi-trip policy, list all the trips you expect to take in the next 12 months — destinations, duration, and purpose. This will help you choose the right coverage region (worldwide vs worldwide excl. USA/Canada), the right maximum trip length (30/45/60/90 days), and the right coverage limits. If you have any pre-existing medical conditions, declare them at the time of purchase — undeclared conditions are the #1 reason claims are denied. Compare at least 3-4 providers before deciding — HTG Travels can help you compare quotes and find the best policy for your needs. Finally, save the policy documents and emergency assistance numbers on your phone AND carry a physical copy in your travel wallet.",
+      },
+      {
+        type: "ul",
+        items: [
+          "List all expected trips in next 12 months: destinations, duration, purpose",
+          "Choose coverage region: worldwide excl. USA/Canada vs worldwide incl. USA/Canada",
+          "Choose max trip length: 30/45/60/90 days (must cover your longest expected trip)",
+          "Declare all pre-existing medical conditions — undeclared = denied claims",
+          "Compare 3-4 providers before purchasing — HTG Travels can help",
+          "Save policy documents and emergency numbers on phone + physical copy in wallet",
+          "Set calendar reminder for renewal 30 days before policy expires",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Looking for annual multi-trip insurance? Message HTG Travels on WhatsApp for personalized quote comparison.",
+      },
+    ],
+  },
+  {
+    slug: "best-time-to-book-umrah-2026",
+    title: "Best Time to Book Umrah in 2026: Month-by-Month Guide for Pakistani Pilgrims",
+    category: "Umrah",
+    metaDescription:
+      "Best time to book Umrah in 2026. Cheapest months, weather considerations, crowd levels, Ramadan dates, hotel rates, flight prices, and complete month-by-month analysis for Pakistani pilgrims.",
+    keywords: [
+      "best time to book Umrah",
+      "cheapest Umrah packages 2026",
+      "Umrah off season",
+      "Ramadan Umrah 2026 dates",
+      "when to perform Umrah",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Choosing the right time to perform Umrah can save you 40-60% on package costs, reduce crowds significantly, and offer a much more comfortable spiritual experience. The price difference between the cheapest month and the most expensive month (Ramadan) for the same 7-day Umrah package from Pakistan can exceed PKR 200,000 per person. This 2026 month-by-month guide analyzes weather, crowd levels, hotel prices, flight availability, and spiritual significance of each month — helping you make an informed decision based on your budget, schedule, and personal preferences. Whether you are a budget-conscious family or a pilgrim seeking the most spiritually rewarding time, this guide will help you choose your ideal Umrah window.",
+      },
+      {
+        type: "h2",
+        text: "Umrah Calendar 2026: Key Dates",
+      },
+      {
+        type: "p",
+        text: "The Islamic calendar shifts 10-11 days earlier each Gregorian year. In 2026, Ramadan is expected to begin around February 18 and end around March 19. Hajj will fall in late May to early June 2026 (Hajj season restricts Umrah visas). The Islamic months of Muharram, Safar, and Rabi-ul-Awwal (corresponding to July-September 2026) are considered off-season and offer the cheapest packages. Rajab (January 2027), Sha'ban (February 2027), and Ramadan (February-March 2026) are peak seasons with the highest prices. Plan your Umrah 6-12 months in advance for peak season, and 2-3 months in advance for off-season.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Ramadan 2026: Expected Feb 18 - Mar 19 (peak season, highest prices)",
+          "Hajj 2026: Late May - early June (Umrah visas restricted)",
+          "Off-season 2026: July-September (cheapest packages, hottest weather)",
+          "Shoulder season 2026: October-November (good prices, pleasant weather)",
+          "Pre-Ramadan season: January-February 2026 (rising prices, good weather)",
+          "Post-Ramadan season: April-May 2026 (prices drop sharply after Ramadan)",
+          "December holidays: Peak tourist season, higher prices",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Month-by-Month Analysis",
+      },
+      {
+        type: "h3",
+        text: "January 2026 (Pre-Ramadan Buildup)",
+      },
+      {
+        type: "p",
+        text: "January is when Umrah prices start climbing toward Ramadan peaks. Weather is excellent — cool nights in Makkah (15-20°C) and pleasant days (25-30°C). Crowd levels are moderate to high as many families try to perform Umrah before Ramadan begins. Hotel prices are 30-40% higher than the cheapest months. Book 4-6 months in advance for January packages. Best for: Families who want cool weather but cannot travel during Ramadan.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Weather: Excellent (15-25°C in Makkah, 18-28°C in Madinah)",
+          "Crowd level: Moderate to high",
+          "Hotel prices: 30-40% above cheapest months",
+          "Flight prices: Moderate to high",
+          "Booking window: 4-6 months in advance",
+          "Best for: Families wanting cool weather before Ramadan",
+        ],
+      },
+      {
+        type: "h3",
+        text: "February 2026 (Ramadan Begins)",
+      },
+      {
+        type: "p",
+        text: "February is the start of Ramadan 2026 and prices skyrocket. Hotels in Makkah command 3-5x their off-season rates. Flights fill up 6+ months in advance. The spiritual experience of performing Umrah during Ramadan is unmatched, but the cost is significant — a 7-day package that costs PKR 200,000 in July may cost PKR 500,000-700,000 in late February. If you must travel during Ramadan, target the first 10 days (Feb 18-28) — prices drop slightly compared to the last 10 days when Laylatul Qadr crowds peak. Best for: Pilgrims who prioritize spiritual reward over budget.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Weather: Cool and pleasant (18-28°C in Makkah)",
+          "Crowd level: Extremely high — peak of the year",
+          "Hotel prices: 3-5x off-season rates",
+          "Flight prices: Highest of the year",
+          "Booking window: 6-9 months in advance minimum",
+          "Best for: Pilgrims prioritizing spiritual reward (Ramadan = highest reward)",
+          "Tip: Target first 10 days of Ramadan — slightly cheaper than last 10 days",
+        ],
+      },
+      {
+        type: "h3",
+        text: "March 2026 (Eid al-Fitr & Post-Ramadan)",
+      },
+      {
+        type: "p",
+        text: "The first week of March is still Ramadan peak with high prices. Eid al-Fitr (around March 19-20) sees a brief spike in travelers. After Eid, prices drop sharply — late March offers good value with pleasant weather. Crowd levels normalize after Ramadan. Hotel availability improves significantly. Best for: Pilgrims who want post-Ramadan cool weather at moderate prices.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Early March: Ramadan peak (high prices)",
+          "Mid-March: Last 10 days of Ramadan (Laylatul Qadr — peak crowds)",
+          "Late March: Post-Ramadan, prices drop sharply",
+          "Weather: Pleasant (20-28°C in Makkah)",
+          "Crowd level: High early, moderate late",
+          "Booking window: 4-6 months in advance",
+        ],
+      },
+      {
+        type: "h3",
+        text: "April-May 2026 (Shoulder Season)",
+      },
+      {
+        type: "p",
+        text: "April and May are excellent shoulder-season months — prices have dropped from Ramadan peaks, weather is still pleasant, and crowds are manageable. May is when Hajj season approaches, and Umrah visa restrictions may begin in late May. Book your Umrah to complete before mid-May to avoid Hajj-related visa restrictions. Best for: Budget-conscious families who want pleasant weather and moderate crowds.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Weather: Warm but not extreme (28-38°C in Makkah)",
+          "Crowd level: Moderate",
+          "Hotel prices: 40-50% cheaper than Ramadan",
+          "Flight prices: Moderate",
+          "Booking window: 2-3 months in advance",
+          "Best for: Budget travelers wanting good weather",
+          "Note: Hajj visa restrictions may begin mid-May — complete Umrah before",
+        ],
+      },
+      {
+        type: "h3",
+        text: "June-August 2026 (Off-Season, Hottest Months)",
+      },
+      {
+        type: "p",
+        text: "June, July, and August are the cheapest months for Umrah — packages can be 50-60% cheaper than Ramadan. The downside is extreme heat (45-50°C in Makkah), which makes outdoor rituals like Tawaf and Sa'i challenging, especially for elderly pilgrims. June often has Hajj visa restrictions, so confirm availability. July and August are good for budget pilgrims who can tolerate heat, especially with air-conditioned hotels close to the Haram. Best for: Budget travelers without elderly family members, pilgrims who can handle heat.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Weather: Extreme heat (45-50°C in Makkah, 40-45°C in Madinah)",
+          "Crowd level: Low (fewest pilgrims of the year)",
+          "Hotel prices: Cheapest of the year (50-60% below Ramadan)",
+          "Flight prices: Cheapest of the year",
+          "Booking window: 2-4 weeks in advance (last-minute bookings OK)",
+          "Best for: Budget travelers without elderly family",
+          "Tip: Book air-conditioned hotel within 500m of Haram to avoid long outdoor walks",
+        ],
+      },
+      {
+        type: "h3",
+        text: "September-October 2026 (Best Value Months)",
+      },
+      {
+        type: "p",
+        text: "September and October are the best value months for Umrah — prices are still low (20-30% above the cheapest summer months), but weather has cooled significantly (35-40°C in September, 30-35°C in October). Crowd levels are still manageable. Schools in Pakistan reopen in August, so September is family-friendly. October is arguably the best overall month for Umrah — perfect weather, low prices, manageable crowds. Best for: Families, first-time pilgrims, anyone wanting the best overall experience.",
+      },
+      {
+        type: "ul",
+        items: [
+          "September weather: Cooling down (35-40°C in Makkah)",
+          "October weather: Pleasant (30-35°C in Makkah, 28-32°C in Madinah)",
+          "Crowd level: Low to moderate",
+          "Hotel prices: 20-30% above cheapest summer months",
+          "Flight prices: Low to moderate",
+          "Booking window: 1-2 months in advance",
+          "Best for: Overall best value — weather, price, crowd balance",
+        ],
+      },
+      {
+        type: "h3",
+        text: "November-December 2026 (Pleasant Weather, Higher Crowds)",
+      },
+      {
+        type: "p",
+        text: "November and December offer the coolest weather of the year (20-28°C in Makkah, 18-25°C in Madinah), making outdoor rituals comfortable. Prices rise moderately as international tourists visit Saudi Arabia during the cool season. December is particularly busy due to school holidays and year-end travel. Crowd levels increase, especially in the last two weeks of December. Best for: Elderly pilgrims, families with young children, anyone sensitive to heat.",
+      },
+      {
+        type: "ul",
+        items: [
+          "November weather: Pleasant (25-30°C in Makkah)",
+          "December weather: Cool (20-28°C in Makkah, 18-25°C in Madinah)",
+          "Crowd level: Moderate to high (especially December)",
+          "Hotel prices: 30-40% above cheapest months",
+          "Flight prices: Higher in December (year-end travel)",
+          "Booking window: 3-4 months in advance for December",
+          "Best for: Elderly, families with children, heat-sensitive pilgrims",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Quick Reference: Best Months by Priority",
+      },
+      {
+        type: "ul",
+        items: [
+          "Cheapest packages: July-August (extreme heat, budget travelers only)",
+          "Best overall value: September-October (cool weather, low prices, manageable crowds)",
+          "Best weather: November-February (cool, pleasant for outdoor rituals)",
+          "Most spiritual reward: Ramadan (Feb-Mar 2026, but 3-5x normal prices)",
+          "Best for families with children: October-November (weather, prices, school holidays)",
+          "Best for elderly pilgrims: November-February (cool weather, less crowded)",
+          "Best for first-time pilgrims: October-November (everything is balanced)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How Far in Advance Should You Book?",
+      },
+      {
+        type: "p",
+        text: "Booking window depends on the season. For Ramadan Umrah, book 6-9 months in advance — hotels fill up fast and prices only go up. For December Umrah, book 3-4 months in advance. For shoulder season (April-May, September-November), 1-3 months in advance is sufficient. For off-season (July-August), you can book just 2-4 weeks in advance and often get last-minute deals. Always book your package before applying for the Umrah visa, as the visa requires confirmed hotel and flight bookings.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Ramadan Umrah: 6-9 months in advance (book early, prices only rise)",
+          "December Umrah: 3-4 months in advance",
+          "Shoulder season (Apr-May, Sep-Nov): 1-3 months in advance",
+          "Off-season (Jul-Aug): 2-4 weeks in advance (last-minute deals available)",
+          "Always book package before applying for Umrah visa (visa requires confirmed bookings)",
+          "Group bookings: Book 4-6 months in advance to secure group discounts",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Not sure which month is best for you? Message HTG Travels on WhatsApp for a personalized recommendation based on your budget and schedule.",
+      },
+    ],
+  },
 ];
