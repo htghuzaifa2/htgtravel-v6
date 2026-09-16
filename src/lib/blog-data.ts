@@ -3606,4 +3606,783 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "qatar-visa-guide-pakistan",
+    title: "Qatar Tourist Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete Qatar tourist visa guide for Pakistanis. eVisa process, Hayya visa, documents, fees, processing time, and top things to do in Doha in 2026.",
+    keywords: [
+      "Qatar visa Pakistan",
+      "Qatar tourist visa",
+      "Doha visa Pakistan",
+      "Qatar eVisa",
+      "Hayya visa Qatar",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Qatar has become one of the most accessible and exciting destinations for Pakistani travelers. With the Hayya visa platform (launched for the 2022 FIFA World Cup) and the standard eVisa system, getting a Qatar visa is now faster than ever. This guide covers the visa process, requirements, and what to do in Doha.",
+      },
+      {
+        type: "h2",
+        text: "Types of Qatar Visas for Pakistanis",
+      },
+      {
+        type: "ul",
+        items: [
+          "Hayya Entry Visa: Available through the Hayya portal (hayya.qa). Valid for 30 days, single or multiple entry. Open to all Pakistani citizens.",
+          "Tourist eVisa: Available if you hold a valid Schengen, US, UK, or GCC visa. Valid for 30 days.",
+          "GCC Resident Visa: If you hold a GCC (Gulf) residence permit, you can get a Qatar eVisa instantly.",
+          "Transit Visa: Free 96-hour transit visa if you have a layover of 5+ hours in Doha (arranged by Qatar Airways).",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Hayya Visa Application Process",
+      },
+      {
+        type: "p",
+        text: "The Hayya platform is the easiest way for Pakistanis to get a Qatar visa:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visit hayya.qa and create an account",
+          "Upload passport bio page scan (6+ months validity)",
+          "Upload passport-size photo (white background)",
+          "Upload hotel booking confirmation OR host address in Qatar",
+          "Upload return flight ticket",
+          "Pay visa fee: QAR 100 (approximately PKR 7,700)",
+          "Processing: 24-48 hours for most Pakistani applicants",
+          "Visa is issued as a digital Hayya card (save as PDF on your phone)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Things to Do in Doha",
+      },
+      {
+        type: "ul",
+        items: [
+          "Souq Waqif — traditional market, spices, perfumes, restaurants, falcon shops",
+          "Museum of Islamic Art — free entry, stunning collection spanning 1,400 years",
+          "Katara Cultural Village — amphitheater, beach, galleries, mosques",
+          "The Pearl-Qatar — luxury island, marina, restaurants, shopping",
+          "Doha Corniche — 7km waterfront promenade, best at sunset",
+          "Lusail City — futuristic city, Lusail Iconic Stadium",
+          "Desert Safari — dune bashing in Khor Al Adaid (Inland Sea)",
+          "Villaggio Mall — indoor canal, luxury shopping, theme park",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Qatar Trip with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels processes Qatar visas and books complete Doha packages — flights, hotels, desert safaris, and museum tickets. Message us on WhatsApp to start your Qatar visa application.",
+      },
+      {
+        type: "quote",
+        text: "Need a Qatar visa? Message HTG Travels on WhatsApp — 24-48 hour processing.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-ziyarat-guide-makkah-madinah",
+    title: "Umrah Ziyarat Guide: Sacred Sites in Makkah and Madinah",
+    category: "Umrah",
+    metaDescription:
+      "Complete guide to Ziyarat (sacred site visits) during Umrah. What to visit in Makkah and Madinah, historical significance, practical tips, and how to plan your Ziyarat schedule.",
+    keywords: [
+      "Umrah Ziyarat guide",
+      "Ziyarat Makkah",
+      "Ziyarat Madinah",
+      "sacred sites Umrah",
+      "historical places Makkah Madinah",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Ziyarat — visiting sacred and historical Islamic sites — is one of the most spiritually rewarding parts of Umrah. Beyond Tawaf and Sa'i, these sites connect you to the lives of Prophet Muhammad (PBUH), Prophet Ibrahim, and the early Muslims. This guide covers all the major Ziyarat sites in Makkah and Madinah, their significance, and practical tips for visiting them.",
+      },
+      {
+        type: "h2",
+        text: "Ziyarat in Makkah",
+      },
+      {
+        type: "h3",
+        text: "1. Jabal al-Nour (Mountain of Light) — Cave of Hira",
+      },
+      {
+        type: "p",
+        text: "This is where Prophet Muhammad (PBUH) received the first revelation from Angel Jibreel. The cave is a 2-3 hour climb (about 600 meters) up the mountain. Best visited in the early morning or evening (avoid midday heat). The climb is physically demanding — wear proper shoes and carry water.",
+      },
+      {
+        type: "h3",
+        text: "2. Jabal Thawr (Mountain of Thawr) — Cave of Thawr",
+      },
+      {
+        type: "p",
+        text: "The cave where Prophet Muhammad (PBUH) and Abu Bakr (RA) hid for 3 days during the Hijrah (migration to Madinah). A spider's web and dove's nest at the entrance protected them from their pursuers. The climb is longer and steeper than Jabal al-Nour — about 3-4 hours round trip.",
+      },
+      {
+        type: "h3",
+        text: "3. Masjid Aisha (Masjid Taneem)",
+      },
+      {
+        type: "p",
+        text: "Located 7km from the Haram, this is where pilgrims enter Ihram for Umrah. Also known as Masjid Taneem, it is the miqat (boundary point) for those performing Umrah from within Makkah. HTG Travels arranges transport to this mosque for our Umrah clients.",
+      },
+      {
+        type: "h3",
+        text: "4. Mina, Arafat, and Muzdalifah",
+      },
+      {
+        type: "p",
+        text: "These are the sites of the Hajj rituals. During non-Hajj season, you can visit: Mina (the tent city where pilgrims stay during Hajj), Jabal al-Rahmah at Arafat (the mountain where Adam and Hawwa reunited, and where the Prophet delivered his farewell sermon), and Muzdalifah (where pilgrims collect pebbles for Rami).",
+      },
+      {
+        type: "h3",
+        text: "5. Factory of Kiswah (Kiswah Factory)",
+      },
+      {
+        type: "p",
+        text: "The factory where the Kiswah (the black cloth covering the Kaabah) is woven. The cloth is replaced annually during Hajj. The factory offers guided tours showing the intricate gold and silver embroidery process. Free entry.",
+      },
+      {
+        type: "h2",
+        text: "Ziyarat in Madinah",
+      },
+      {
+        type: "h3",
+        text: "1. Masjid Quba",
+      },
+      {
+        type: "p",
+        text: "The first mosque built by Prophet Muhammad (PBUH) after migrating to Madinah. Praying 2 rakats here equals the reward of one Umrah. Located 5km from Masjid an-Nabawi. HTG Travels includes Quba in all Ziyarat tours.",
+      },
+      {
+        type: "h3",
+        text: "2. Masjid Qiblatayn (Mosque of Two Qiblas)",
+      },
+      {
+        type: "p",
+        text: "The mosque where the Qibla (prayer direction) was changed from Jerusalem (Bait al-Maqdis) to Makkah (Kaabah) during a prayer. A historically and spiritually significant site.",
+      },
+      {
+        type: "h3",
+        text: "3. Jabal Uhud (Mount Uhud)",
+      },
+      {
+        type: "p",
+        text: "Site of the Battle of Uhud, where 70 companions were martyred including Hamza ibn Abdul Muttalib (RA), the Prophet's uncle. The graves of the martyrs are at the base of the mountain. A deeply emotional and reflective site.",
+      },
+      {
+        type: "h3",
+        text: "4. Jannat al-Baqi (Baqi Cemetery)",
+      },
+      {
+        type: "p",
+        text: "The oldest Islamic cemetery in Madinah, where many of the Prophet's family members and companions are buried, including his wife Khadijah (RA), his daughter Fatima (RA), and his son Ibrahim (RA). Located adjacent to Masjid an-Nabawi. Open after Fajr and Asr prayers.",
+      },
+      {
+        type: "h3",
+        text: "5. Masjid al-Jumu'ah",
+      },
+      {
+        type: "p",
+        text: "The mosque where Prophet Muhammad (PBUH) led the first Jumu'ah (Friday) prayer after migrating to Madinah. Located in the area of Quba.",
+      },
+      {
+        type: "h3",
+        text: "6. Site of the Battle of the Trench (Khandaq)",
+      },
+      {
+        type: "p",
+        text: "Site of the Battle of Khandaq (Ahzab), where the Muslims dug a trench to defend Madinah. Several mosques mark the locations where the Prophet's tent was pitched during the battle.",
+      },
+      {
+        type: "h2",
+        text: "Practical Tips for Ziyarat",
+      },
+      {
+        type: "ul",
+        items: [
+          "Ziyarat tours typically take 3-4 hours in Makkah and 3-4 hours in Madinah",
+          "Most Ziyarat sites are free to enter (no tickets needed)",
+          "Wear comfortable shoes — some sites involve walking and climbing",
+          "Carry water and a hat — many sites are outdoors with no shade",
+          "Visit mountain sites (Hira, Thawr, Uhud) early morning or evening",
+          "Hire a guide through HTG Travels for historical context and stories",
+          "Respect the sites — do not climb on graves or historical structures",
+          "Make duas at each site — this is a once-in-a-lifetime opportunity",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Ziyarat with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "All HTG Travels Umrah packages include guided Ziyarat tours in both Makkah and Madinah. Our knowledgeable guides share the historical significance of each site in Urdu. Message us on WhatsApp to book your Umrah package with Ziyarat included.",
+      },
+      {
+        type: "quote",
+        text: "Want a guided Ziyarat tour? Message HTG Travels on WhatsApp — included in all Umrah packages.",
+      },
+    ],
+  },
+  {
+    slug: "oman-tourist-visa-guide-pakistan",
+    title: "Oman Tourist Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete Oman tourist visa guide for Pakistanis. eVisa process, documents, fees, processing time, and top attractions in Muscat, Salalah, and Nizwa. Updated for 2026.",
+    keywords: [
+      "Oman visa Pakistan",
+      "Oman tourist visa",
+      "Muscat visa Pakistan",
+      "Oman eVisa",
+      "Salalah travel guide",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Oman is the hidden gem of the Middle East — stunning mountains, pristine coastline, rich Omani culture, and warm hospitality. Unlike its flashier neighbors (Dubai, Doha), Oman preserves its traditional charm. This guide covers the visa process and top destinations for Pakistani travelers visiting Oman.",
+      },
+      {
+        type: "h2",
+        text: "Oman Visa Types for Pakistanis",
+      },
+      {
+        type: "ul",
+        items: [
+          "Tourist eVisa (10 days): Single entry, valid for 10 days from entry. Fee: OMR 5 (~PKR 3,600). Processing: 12-48 hours.",
+          "Tourist eVisa (30 days): Single entry, valid for 30 days. Fee: OMR 10 (~PKR 7,200). Processing: 12-48 hours.",
+          "Multiple-entry eVisa (1 year): Multiple entries, 30 days per visit. Fee: OMR 20 (~PKR 14,400). Processing: 3-5 days.",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Oman eVisa Requirements",
+      },
+      {
+        type: "ul",
+        items: [
+          "Passport bio page scan (valid 6+ months, 2+ blank pages)",
+          "Passport-size photo (white background)",
+          "Confirmed return flight ticket",
+          "Hotel booking confirmation (or host sponsorship letter)",
+          "Bank statement (last 3 months, minimum OMR 200 equivalent balance)",
+          "CNIC copy",
+          "Apply at evisa.rop.gov.om (Royal Oman Police eVisa portal)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Flights from Pakistan to Oman",
+      },
+      {
+        type: "ul",
+        items: [
+          "Oman Air: Direct from Islamabad, Lahore, Karachi. Flight time: 2.5-3 hours.",
+          "SalamAir: Budget carrier, direct from Karachi, Lahore. Flight time: 2.5-3 hours.",
+          "PIA: Direct from Karachi. Flight time: 2 hours.",
+          "Fares: PKR 45,000-90,000 round-trip",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Destinations in Oman",
+      },
+      {
+        type: "h3",
+        text: "Muscat (3-4 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Grand Mosque (Sultan Qaboos Mosque) — stunning architecture, free entry (women must wear abaya)",
+          "Mutrah Souq — traditional market, frankincense, silver, spices",
+          "Royal Opera House — world-class opera and concert venue",
+          "Mutrah Corniche — waterfront walk, best at sunset",
+          "Al Jalali and Al Mirani Forts — 16th-century Portuguese forts",
+          "Bait Al Zubair Museum — Omani heritage and culture",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Salalah (2-3 days, June-September only)",
+      },
+      {
+        type: "p",
+        text: "Salalah is unique — during the Khareef season (June-September), the desert turns green with monsoon rains. This is Oman's most beautiful season. Visit: Wadi Darbat (waterfalls), Mughsail Beach (Marneef Cave and blowholes), and the frankincense trees.",
+      },
+      {
+        type: "h3",
+        text: "Nizwa and Surroundings (1-2 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Nizwa Fort — 17th-century fort, great views from the top",
+          "Nizwa Souq — famous for silver, pottery, and Friday cattle market",
+          "Jebel Akhdar (Green Mountain) — terrace farms, rose water production",
+          "Wahiba Sands — desert dunes, overnight camping",
+          "Wadi Shab — stunning canyon with turquoise pools (2-hour hike)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Oman Trip with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers Oman visa processing and complete travel packages. Message us on WhatsApp with your dates and budget.",
+      },
+      {
+        type: "quote",
+        text: "Want to visit Oman? Message HTG Travels on WhatsApp for visa + flight packages.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-evisa-vs-umrah-visa",
+    title: "Umrah eVisa vs Umrah Visa: Which Should You Get?",
+    category: "Umrah",
+    metaDescription:
+      "Umrah eVisa vs Umrah visa — which is better? Complete comparison of cost, processing time, validity, requirements, and which one to choose for your Umrah trip in 2026.",
+    keywords: [
+      "Umrah eVisa vs Umrah visa",
+      "Saudi eVisa for Umrah",
+      "Umrah visa types",
+      "Saudi tourist visa Umrah",
+      "Umrah visa comparison",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Pakistani pilgrims now have two visa options for performing Umrah: the traditional Umrah visa and the newer Saudi tourist eVisa. Each has its advantages and limitations. This guide compares both so you can choose the right one for your trip.",
+      },
+      {
+        type: "h2",
+        text: "Option 1: Traditional Umrah Visa",
+      },
+      {
+        type: "p",
+        text: "The Umrah visa is issued specifically for performing Umrah. It is arranged through approved travel agents (like HTG Travels) and the Saudi Ministry of Hajj and Umrah.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Validity: 30-90 days from issue (varies by season)",
+          "Stay: Up to 30 days per visit",
+          "Entries: Single entry only",
+          "Cost: Approximately SAR 200-300 (PKR 15,000-22,000) + agent fees",
+          "Processing: 1-3 days through an approved agent",
+          "Includes: Mandatory medical insurance",
+          "Restrictions: Cannot perform Hajj on this visa, cannot be used for tourism",
+          "Season: Available year-round except during Hajj season",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Option 2: Saudi Tourist eVisa",
+      },
+      {
+        type: "p",
+        text: "The Saudi tourist eVisa is a general tourist visa that also allows you to perform Umrah. It is applied for online through the official Saudi eVisa portal.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Validity: 1 year from issue date",
+          "Stay: Up to 90 days per visit",
+          "Entries: Multiple entry (can come and go multiple times in a year)",
+          "Cost: SAR 480 (PKR 36,000-38,000) including insurance",
+          "Processing: 24-48 hours (instant if you have a US/UK/Schengen visa)",
+          "Includes: Travel medical insurance",
+          "Advantages: Can also use for tourism, multiple entries, longer validity",
+          "Restrictions: Cannot be used during Hajj season for Umrah",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Key Differences Comparison",
+      },
+      {
+        type: "ul",
+        items: [
+          "Cost: Umrah visa is cheaper (PKR 15-22K vs PKR 36-38K)",
+          "Validity: eVisa wins (1 year vs 30-90 days)",
+          "Entries: eVisa allows multiple entries (Umrah visa = single only)",
+          "Processing: Both are fast (1-3 days)",
+          "Flexibility: eVisa allows tourism + Umrah; Umrah visa = Umrah only",
+          "Stay duration: eVisa allows 90 days vs Umrah visa 30 days",
+          "Insurance: Both include mandatory medical insurance",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Which Should You Choose?",
+      },
+      {
+        type: "h3",
+        text: "Choose Umrah Visa If:",
+      },
+      {
+        type: "ul",
+        items: [
+          "You are performing Umrah only (no tourism)",
+          "You want the cheapest option",
+          "You are traveling once and do not plan to return within a year",
+          "You do not have a US/UK/Schengen visa (eVisa may take longer)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Choose Saudi eVisa If:",
+      },
+      {
+        type: "ul",
+        items: [
+          "You want to visit Saudi Arabia for both tourism and Umrah",
+          "You plan to perform Umrah multiple times within a year",
+          "You want flexibility to enter and exit Saudi Arabia multiple times",
+          "You hold a valid US/UK/Schengen visa (instant eVisa approval)",
+          "You want a longer stay (up to 90 days per visit)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Get Help Choosing with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels can process both Umrah visas and Saudi tourist eVisas. Tell us your travel plans on WhatsApp and we will recommend the best option for your situation. We handle the entire application — you just send your documents.",
+      },
+      {
+        type: "quote",
+        text: "Not sure which visa to get? Message HTG Travels on WhatsApp for a free consultation.",
+      },
+    ],
+  },
+  {
+    slug: "travel-budget-planning-guide",
+    title: "Travel Budget Planning: How to Budget for International Trips",
+    category: "Travel",
+    metaDescription:
+      "How to plan and budget for an international trip from Pakistan. Cost breakdown, saving strategies, hidden costs to expect, and how to travel smart without overspending. Complete budget guide for 2026.",
+    keywords: [
+      "travel budget planning",
+      "how to budget for travel",
+      "international trip cost Pakistan",
+      "travel expenses guide",
+      "budget travel tips",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Planning an international trip from Pakistan but not sure how much it will cost or how to budget for it? This guide breaks down every expense category, gives realistic cost estimates for popular destinations, and shares practical strategies to save money without sacrificing the experience.",
+      },
+      {
+        type: "h2",
+        text: "The 5 Major Travel Expense Categories",
+      },
+      {
+        type: "p",
+        text: "Every international trip has 5 main cost categories. Understanding each one helps you budget accurately:",
+      },
+      {
+        type: "h3",
+        text: "1. Visa and Documentation (10-15% of budget)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visa fee: PKR 4,000-50,000 depending on country",
+          "Passport renewal (if needed): PKR 3,000-5,000",
+          "Photographs: PKR 500-1,000",
+          "Document attestation/translation: PKR 1,000-3,000",
+          "Travel insurance: PKR 2,500-15,000 depending on coverage",
+        ],
+      },
+      {
+        type: "h3",
+        text: "2. Flights (30-45% of budget)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Round-trip airfare: PKR 35,000-200,000+ depending on destination",
+          "Airport taxes: Usually included in ticket price",
+          "Excess baggage fees: PKR 1,000-5,000 per kg over allowance",
+          "Airport transfers: PKR 1,000-5,000 each way",
+        ],
+      },
+      {
+        type: "h3",
+        text: "3. Accommodation (20-30% of budget)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Budget hotels/hostels: PKR 2,500-8,000 per night",
+          "Mid-range hotels: PKR 8,000-25,000 per night",
+          "Luxury hotels: PKR 25,000-100,000+ per night",
+          "Airbnb/apartments: PKR 5,000-20,000 per night (good for families)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "4. Food and Drink (10-20% of budget)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Street food/budget: PKR 500-1,500 per day",
+          "Mid-range restaurants: PKR 2,000-5,000 per day",
+          "Fine dining: PKR 5,000-15,000+ per day",
+          "Hotel breakfast: Often included in room rate",
+        ],
+      },
+      {
+        type: "h3",
+        text: "5. Activities and Transport (10-20% of budget)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Local transport (metro, bus, taxi): PKR 500-3,000 per day",
+          "Attraction tickets: PKR 1,000-10,000 per attraction",
+          "Guided tours: PKR 3,000-15,000 per tour",
+          "Shopping and souvenirs: Variable (set a limit)",
+          "SIM card/data: PKR 1,000-3,000 for a trip",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Realistic Budget Estimates by Destination",
+      },
+      {
+        type: "h3",
+        text: "Dubai (5 days, 2 people)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visa: PKR 15,000 x 2 = PKR 30,000",
+          "Flights: PKR 50,000 x 2 = PKR 100,000",
+          "Hotel (mid-range): PKR 12,000 x 5 nights = PKR 60,000",
+          "Food: PKR 3,000 x 5 days x 2 = PKR 30,000",
+          "Activities: PKR 40,000 (Burj Khalifa, desert safari, mall)",
+          "Total: Approximately PKR 260,000",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Umrah (10 days, 1 person)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visa (Umrah visa): PKR 20,000",
+          "Flights: PKR 60,000",
+          "Hotel (4-star, walking distance): PKR 20,000 (shared room)",
+          "Food: PKR 15,000",
+          "Transport (Ziyarat, airport): PKR 10,000",
+          "Total: Approximately PKR 125,000-200,000",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Hidden Costs to Budget For",
+      },
+      {
+        type: "ul",
+        items: [
+          "Airport parking (if driving to airport): PKR 500-2,000 per day",
+          "Travel adapters and SIM cards: PKR 1,000-3,000",
+          "Tips (porters, guides, drivers): 10-15% in many countries",
+          "Tourist taxes (some cities charge per night): PKR 500-2,000/night",
+          "Currency exchange fees: 1-3% margin (use a travel card to minimize)",
+          "Emergency fund: Always keep PKR 20,000-50,000 for unexpected costs",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Money-Saving Strategies",
+      },
+      {
+        type: "ul",
+        items: [
+          "Start saving 3-6 months before your trip — set up a dedicated travel fund",
+          "Book flights 6-8 weeks in advance for international travel",
+          "Travel during off-peak seasons (avoid school holidays, Eid, Ramadan)",
+          "Use hotel booking sites with free cancellation — rebook if prices drop",
+          "Cook some meals if your hotel has a kitchen (saves PKR 3,000-5,000/day)",
+          "Use public transport instead of taxis (saves 50-70% on local transport)",
+          "Buy attraction tickets online — often 10-20% cheaper than at the gate",
+          "Set a daily spending limit and track expenses on your phone",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Plan Your Trip Budget with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels helps you plan your trip within your budget. Tell us your destination and budget on WhatsApp — we will find the best flights, hotels, and packages that fit. No hidden costs, transparent pricing, live rates.",
+      },
+      {
+        type: "quote",
+        text: "Planning a trip? Message HTG Travels on WhatsApp — we work within your budget.",
+      },
+    ],
+  },
+  {
+    slug: "malaysia-tourist-visa-guide-pakistan",
+    title: "Malaysia Tourist Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete Malaysia tourist visa guide for Pakistanis. eVisa process, requirements, fees, processing time, and top attractions in Kuala Lumpur, Langkawi, and Penang. Updated for 2026.",
+    keywords: [
+      "Malaysia visa Pakistan",
+      "Malaysia tourist visa",
+      "Kuala Lumpur visa Pakistan",
+      "Malaysia eVisa",
+      "Langkawi travel guide",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Malaysia is one of the most budget-friendly and diverse destinations from Pakistan — offering the Petronas Towers in Kuala Lumpur, rainforests in Borneo, beaches in Langkawi, and colonial history in Penang. This guide covers the Malaysia visa process and everything you need for a great trip.",
+      },
+      {
+        type: "h2",
+        text: "Malaysia Visa for Pakistanis",
+      },
+      {
+        type: "p",
+        text: "Pakistani citizens need a visa to visit Malaysia. The eVisa system makes it straightforward:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Tourist eVisa (single entry): Valid for 3 months from issue, 30-day stay. Fee: MYR 160 (approximately PKR 10,000).",
+          "Tourist eVisa (multiple entry): Valid for 3 months, 30-day stay per visit. Fee: MYR 250 (PKR 15,500).",
+          "Processing time: 3-5 working days",
+          "Apply at: Malaysia eVisa portal (windowmalaysia.my)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Malaysia eVisa Requirements",
+      },
+      {
+        type: "ul",
+        items: [
+          "Passport bio page scan (valid 6+ months)",
+          "Passport-size photo (white background)",
+          "Confirmed return flight ticket",
+          "Hotel booking confirmation",
+          "Bank statement (last 3 months, minimum MYR 1,000 equivalent)",
+          "CNIC copy",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Flights from Pakistan to Malaysia",
+      },
+      {
+        type: "ul",
+        items: [
+          "Malaysia Airlines: Direct from Karachi and Lahore. Flight time: 6-7 hours.",
+          "Thai Airways: Via Bangkok. Total: 8-9 hours.",
+          "Emirates: Via Dubai. Total: 9-10 hours.",
+          "AirAsia: Budget option, via Bangkok or direct seasonally.",
+          "Fares: PKR 60,000-120,000 round-trip",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Destinations in Malaysia",
+      },
+      {
+        type: "h3",
+        text: "Kuala Lumpur (3-4 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Petronas Twin Towers — iconic skyline, skybridge + observation deck",
+          "Batu Caves — 272-step climb to Hindu temple in a limestone cave",
+          "KL Tower — 421m tower, panoramic city views",
+          "Bukit Bintang — shopping district, street food, nightlife",
+          "Central Market — handicrafts, art, souvenirs",
+          "Jalan Alor — famous street food street (halal options available)",
+          "Islamic Arts Museum — stunning Islamic art collection",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Langkawi (3-4 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Cable Car (SkyCab) — ride to 708m, glass-bottom gondolas available",
+          "Sky Bridge — curved pedestrian bridge at 700m elevation",
+          "Cenang Beach — main tourist beach, water sports, restaurants",
+          "Island hopping — tour 3-4 islands by speedboat",
+          "Eagle feeding — watch eagles being fed in the mangroves",
+          "Langkawi is duty-free — great for chocolate and alcohol shopping",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Penang / George Town (2-3 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "UNESCO World Heritage colonial architecture",
+          "Street art — famous murals throughout the old town",
+          "Penang Hill — funicular train, cooler climate, views",
+          "Kek Lok Si Temple — largest Buddhist temple in Malaysia",
+          "Gurney Drive — famous hawker food market (halal options)",
+          "Clan Jetties — traditional Chinese water villages",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Budget Tips for Malaysia",
+      },
+      {
+        type: "ul",
+        items: [
+          "Use Grab (ride-hailing) instead of taxis — 30-50% cheaper",
+          "KL has excellent LRT/MRT trains — MYR 1-5 per ride",
+          "Eat at mamak stalls (Indian-Muslim restaurants) — MYR 8-15 per meal, all halal",
+          "Stay in Chinatown or Bukit Bintang for budget accommodation",
+          "Langkawi: rent a scooter (MYR 50/day) for cheapest transport",
+          "Visit free attractions: Batu Caves (free), Islamic Arts Museum (free on certain days)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Malaysia Trip with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers Malaysia visa processing and complete travel packages — flights, hotels, island tours, and airport transfers. Message us on WhatsApp with your dates and budget.",
+      },
+      {
+        type: "quote",
+        text: "Planning a Malaysia trip? Message HTG Travels on WhatsApp for visa + flight + hotel packages.",
+      },
+    ],
+  },
 ];
