@@ -2812,4 +2812,798 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "dubai-travel-guide-pakistanis",
+    title: "Dubai Travel Guide: Everything Pakistanis Need to Know",
+    category: "Travel",
+    metaDescription:
+      "Complete Dubai travel guide for Pakistanis. Visa process, best time to visit, where to stay, what to do, budget tips, halal food, and how to get the most out of your Dubai trip in 2026.",
+    keywords: [
+      "Dubai travel guide Pakistan",
+      "Dubai trip from Pakistan",
+      "Dubai tourist guide",
+      "things to do in Dubai",
+      "Dubai budget travel",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Dubai is the #1 international destination for Pakistani travelers — and for good reason. It is a 3-hour flight from Sialkot and Lahore, the visa process takes 24-72 hours, and the city offers everything from desert safaris to the world's tallest building. This guide covers everything you need to know for a perfect Dubai trip from Pakistan.",
+      },
+      {
+        type: "h2",
+        text: "Dubai Visa for Pakistanis",
+      },
+      {
+        type: "p",
+        text: "Pakistani citizens need a UAE tourist visa to visit Dubai. The eVisa process is fully online and takes 24-72 hours. You can get a 30-day or 60-day single-entry visa. HTG Travels processes Dubai visas on WhatsApp — send your passport scan and photo, and we handle the rest. Visa cost: approximately PKR 12,000-18,000 depending on duration and processing speed.",
+      },
+      {
+        type: "h2",
+        text: "Best Time to Visit Dubai",
+      },
+      {
+        type: "ul",
+        items: [
+          "November-March: Best weather (20-30°C), peak tourist season, highest prices",
+          "April-May: Good weather, lower prices, fewer crowds",
+          "September-October: Transition season, good deals, getting cooler",
+          "June-August: Extremely hot (40-48°C), lowest prices, indoor activities only",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Get to Dubai from Pakistan",
+      },
+      {
+        type: "p",
+        text: "Multiple airlines fly from Pakistan to Dubai with direct and connecting flights:",
+      },
+      {
+        type: "ul",
+        items: [
+          "flydubai: Direct from Sialkot, Lahore, Karachi, Islamabad — cheapest option",
+          "Emirates: Direct from Karachi, Islamabad — premium service",
+          "PIA: Direct from Lahore, Karachi, Islamabad — national carrier",
+          "Air Arabia: Via Sharjah — budget option",
+          "Flight time: 2.5-3.5 hours direct",
+          "Fares: PKR 35,000-80,000 round-trip (book 4-6 weeks ahead for best prices)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Where to Stay in Dubai",
+      },
+      {
+        type: "h3",
+        text: "Budget (PKR 5,000-10,000 per night)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Deira: Traditional area, near Gold Souk, affordable hotels",
+          "Al Rigga: Close to airport, budget hotels, good metro access",
+          "Bur Dubai: Historical area, affordable, great food",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Mid-Range (PKR 10,000-25,000 per night)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Downtown Dubai: Near Burj Khalifa and Dubai Mall",
+          "Business Bay: Modern area, close to Downtown",
+          "Jumeirah: Beach area, mid-range hotels",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Luxury (PKR 25,000-100,000+ per night)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Palm Jumeirah: Atlantis, Jumeirah Zabeel Saray",
+          "Dubai Marina: Marina-facing luxury hotels",
+          "Downtown: Address Hotels, Armani Hotel",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top 10 Things to Do in Dubai",
+      },
+      {
+        type: "ul",
+        items: [
+          "Burj Khalifa (tallest building) — book tickets online for sunset slot",
+          "Dubai Mall (largest mall) — aquarium, fountain show, shopping",
+          "Dubai Frame — panoramic views of old and new Dubai",
+          "Desert Safari — dune bashing, camel ride, BBQ dinner, belly dance",
+          "Palm Jumeirah — monorail ride, Atlantis Aquaventure waterpark",
+          "Dubai Marina — walk the marina, dinner cruise on a dhow",
+          "Gold Souk and Spice Souk — traditional markets in Deira",
+          "Dubai Creek — abra (boat) ride for AED 1",
+          "Museum of the Future — newest attraction, book in advance",
+          "Global Village — seasonal (Oct-Apr), cultures from 90+ countries",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Budget Tips for Dubai",
+      },
+      {
+        type: "ul",
+        items: [
+          "Use the Dubai Metro (red line) — AED 3-8 per ride, covers most attractions",
+          "Eat at food courts in malls — AED 15-30 per meal, halal options everywhere",
+          "Book Burj Khalifa tickets online — cheaper than buying at the counter",
+          "Visit during summer (June-August) for 50% lower hotel rates",
+          "Use Careem (local ride-hailing app) instead of taxis — often cheaper",
+          "Friday brunch is expensive — go on weekdays for better deals",
+          "Many attractions offer combo tickets (save 20-30%)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Dubai Trip with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers complete Dubai packages: visa, flights, hotels, desert safari bookings, and Burj Khalifa tickets. Message us on WhatsApp with your dates and budget — we will build a custom package for you.",
+      },
+      {
+        type: "quote",
+        text: "Planning a Dubai trip? Message HTG Travels on WhatsApp for visa + flight + hotel packages.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-vs-hajj-differences-explained",
+    title: "Umrah vs Hajj: Key Differences Every Muslim Should Know",
+    category: "Umrah",
+    metaDescription:
+      "Umrah vs Hajj — what is the difference? Timing, rituals, duration, cost, and requirements compared. Complete guide for Pakistani Muslims planning their pilgrimage journey.",
+    keywords: [
+      "Umrah vs Hajj",
+      "difference between Umrah and Hajj",
+      "Hajj rituals",
+      "Umrah meaning",
+      "Hajj requirements Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Umrah and Hajj are both sacred pilgrimages to Makkah, but they are fundamentally different in their significance, timing, rituals, and requirements. Many Pakistani Muslims are confused about which one they should perform and what each entails. This guide clearly explains the key differences to help you plan your spiritual journey.",
+      },
+      {
+        type: "h2",
+        text: "What is Umrah?",
+      },
+      {
+        type: "p",
+        text: "Umrah (sometimes called the 'minor pilgrimage' or 'lesser pilgrimage') is a voluntary act of worship that can be performed at any time of the year. It involves entering the state of Ihram, performing Tawaf (circling the Kaabah 7 times), Sa'i (walking between Safa and Marwah 7 times), and shaving or trimming the hair. Umrah takes 2-3 hours to complete.",
+      },
+      {
+        type: "h2",
+        text: "What is Hajj?",
+      },
+      {
+        type: "p",
+        text: "Hajj is the fifth pillar of Islam and is mandatory for every physically and financially capable Muslim at least once in their lifetime. Hajj can only be performed during specific days of the Islamic month of Dhul Hijjah (8th-13th). It involves all Umrah rituals PLUS additional rites including traveling to Mina, standing at Arafat (Wuquf), spending the night at Muzdalifah, stoning the Jamrat (Rami), and animal sacrifice (Nahr). Hajj takes 5-6 days to complete.",
+      },
+      {
+        type: "h2",
+        text: "Key Differences: Umrah vs Hajj",
+      },
+      {
+        type: "ul",
+        items: [
+          "Obligation: Umrah is voluntary (Sunnah); Hajj is mandatory (Fard) for capable Muslims",
+          "Timing: Umrah can be done any time of year; Hajj only during 8th-13th of Dhul Hijjah",
+          "Duration: Umrah takes 2-3 hours; Hajj takes 5-6 days of rituals",
+          "Rituals: Umrah = Ihram + Tawaf + Sa'i + Halq/Taqsir; Hajj = all Umrah rites + Mina + Arafat + Muzdalifah + Rami + Nahr",
+          "Quota: Umrah has no quota (unlimited pilgrims); Hajj has strict country quotas (Pakistan: ~179,000/year)",
+          "Cost: Umrah PKR 150,000-500,000; Hajj PKR 1,200,000-2,500,000",
+          "Visa: Umrah uses eVisa or Umrah visa (easy); Hajj requires special Hajj visa through Ministry of Religious Affairs",
+          "Crowds: Umrah has moderate crowds; Hajj has 2-3 million pilgrims simultaneously",
+          "Reward: Umrah is highly rewarded; Hajj is one of the five pillars of Islam",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Can You Do Umrah Instead of Hajj?",
+      },
+      {
+        type: "p",
+        text: "No. Umrah does not replace the obligation of Hajj. If you are physically and financially capable of performing Hajj, it is mandatory upon you. Performing Umrah multiple times does not fulfill the Hajj obligation. However, if you are not yet capable (financially or physically), performing Umrah is highly recommended and earns great rewards.",
+      },
+      {
+        type: "h2",
+        text: "Which Should You Do First?",
+      },
+      {
+        type: "p",
+        text: "If you are performing Hajj for the first time, it is recommended to perform Umrah first (either separately or as part of the Hajj journey). This helps you familiarize yourself with the Ihram, Tawaf, and Sa'i rituals before the more complex Hajj rites. Many Pakistani pilgrims perform Umrah a year or two before their Hajj to build confidence.",
+      },
+      {
+        type: "h2",
+        text: "Umrah and Hajj Cost Comparison",
+      },
+      {
+        type: "ul",
+        items: [
+          "Umrah Economy (10 days, 3-star): PKR 150,000-200,000 per person",
+          "Umrah Premium (10 days, 4-star): PKR 250,000-350,000 per person",
+          "Umrah VIP (10 days, 5-star): PKR 400,000-600,000 per person",
+          "Hajj Economy (30 days, 4-star): PKR 1,200,000-1,400,000 per person",
+          "Hajj Premium (35 days, 5-star): PKR 1,600,000-2,000,000 per person",
+          "Hajj VIP (40 days, Clock Tower): PKR 2,000,000-2,500,000+ per person",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Plan Your Pilgrimage with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "Whether you are planning Umrah (any time of year) or Hajj (registration opens January-February), HTG Travels offers complete packages for both. We handle visas, flights, hotels, transport, Nusuk permits, and Moallim arrangements. Message us on WhatsApp to start planning your spiritual journey.",
+      },
+      {
+        type: "quote",
+        text: "Planning Umrah or Hajj? Message HTG Travels on WhatsApp for complete packages.",
+      },
+    ],
+  },
+  {
+    slug: "istanbul-travel-guide-pakistanis",
+    title: "Istanbul Travel Guide: A Pakistani Traveler's Complete Guide",
+    category: "Travel",
+    metaDescription:
+      "Complete Istanbul travel guide for Pakistanis. Visa process, flights, where to stay, top attractions, halal food, budget tips, and cultural etiquette for visiting Turkey in 2026.",
+    keywords: [
+      "Istanbul travel guide Pakistan",
+      "Turkey visa Pakistan",
+      "Istanbul trip from Pakistan",
+      "things to do in Istanbul",
+      "Turkey travel tips",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Istanbul is where East meets West — a city that spans two continents, blending Ottoman palaces, Byzantine churches, and vibrant bazaars. For Pakistani travelers, it is one of the most accessible and rewarding European destinations. This guide covers everything from visa to attractions for a perfect Istanbul trip.",
+      },
+      {
+        type: "h2",
+        text: "Turkey Visa for Pakistanis",
+      },
+      {
+        type: "p",
+        text: "Pakistani citizens need a visa to visit Turkey. You have two options:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Sticker Visa: Apply through the Turkish embassy in Islamabad or consulate in Karachi. Processing: 10-15 working days. Cost: approximately PKR 8,000-12,000",
+          "eVisa: Available if you hold a valid Schengen, US, or UK visa. Instant approval. Cost: USD 43.50",
+          "Conditional eVisa: If you have a valid Schengen/UK/US visa, you can get a single-entry Turkey eVisa online in 30 minutes",
+          "HTG Travels can process your Turkey visa on WhatsApp — contact us for details",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Flights from Pakistan to Istanbul",
+      },
+      {
+        type: "ul",
+        items: [
+          "Turkish Airlines: Direct from Islamabad, Lahore, Karachi. Flight time: 5.5-6.5 hours. Premium service.",
+          "PIA: Direct from Islamabad and Lahore. Flight time: 5-6 hours.",
+          "Qatar Airways: Via Doha. Total travel time: 8-10 hours. Often cheaper.",
+          "Flydubai: Via Dubai. Total travel time: 8-10 hours. Budget option.",
+          "Fares: PKR 80,000-180,000 round-trip (book 6-8 weeks ahead)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Where to Stay in Istanbul",
+      },
+      {
+        type: "h3",
+        text: "Sultanahmet (Old City)",
+      },
+      {
+        type: "p",
+        text: "Best for first-time visitors. Walking distance to Hagia Sophia, Blue Mosque, Topkapi Palace, and Grand Bazaar. Budget to mid-range hotels. PKR 5,000-15,000 per night.",
+      },
+      {
+        type: "h3",
+        text: "Taksim / Beyoglu",
+      },
+      {
+        type: "p",
+        text: "Best for nightlife, shopping, and modern Istanbul. Close to Istiklal Street, Galata Tower. Mid-range to luxury. PKR 8,000-25,000 per night.",
+      },
+      {
+        type: "h3",
+        text: "Bosphorus / Besiktas",
+      },
+      {
+        type: "p",
+        text: "Best for scenic views and luxury stays. Waterfront hotels, palaces. PKR 15,000-50,000 per night.",
+      },
+      {
+        type: "h2",
+        text: "Top 10 Things to Do in Istanbul",
+      },
+      {
+        type: "ul",
+        items: [
+          "Hagia Sophia — free entry, one of the world's greatest architectural wonders",
+          "Blue Mosque (Sultanahmet Camii) — free entry, stunning Ottoman architecture",
+          "Topkapi Palace — home of Ottoman sultans, entry TL 950 (~PKR 7,000)",
+          "Grand Bazaar — 4,000+ shops, free to wander, bargaining expected",
+          "Bosphorus Cruise — 2-hour boat ride between two continents, TL 200-400",
+          "Spice Bazaar (Egyptian Bazaar) — spices, Turkish delight, nuts, tea",
+          "Galata Tower — 360-degree city views, TL 650 (~PKR 5,000)",
+          "Dolmabahce Palace — Ottoman palace on the Bosphorus, TL 950",
+          "Suleymaniye Mosque — free entry, best mosque views in Istanbul",
+          "Turkish Bath (Hamam) — traditional bath experience, TL 800-1,500",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Food in Istanbul (All Halal!)",
+      },
+      {
+        type: "p",
+        text: "Turkey is a Muslim country — all food is halal. Must-try dishes:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Kebab (Iskender, Doner, Adana) — TL 150-300 per meal",
+          "Simit (Turkish bagel) — TL 15, perfect breakfast street food",
+          "Turkish Breakfast (Kahvalti) — cheese, olives, honey, bread, tea — TL 200-400 per person",
+          "Baklava — Turkish sweet pastry, TL 100-200 per box",
+          "Turkish Tea (Cay) — TL 10-20, served everywhere, free in many shops",
+          "Turkish Coffee — TL 50-80, UNESCO heritage drink",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Budget Tips for Istanbul",
+      },
+      {
+        type: "ul",
+        items: [
+          "Get an Istanbulkart (transport card) — TL 70 for card, then pay per ride (TL 15-30)",
+          "Buy a Museum Pass Istanbul (TL 2,050) if visiting 5+ museums — saves 40%",
+          "Eat at local lokantas (family restaurants) — TL 100-200 per meal, authentic food",
+          "Free attractions: Hagia Sophia, Blue Mosque, Grand Bazaar, Spice Bazaar, Suleymaniye Mosque",
+          "Walk between Sultanahmet attractions — everything is within 10-15 minutes walking",
+          "Shop at Grand Bazaar but bargain hard — start at 50% of asking price",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Istanbul Trip with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers complete Istanbul packages: Turkey visa, flights, hotels, airport transfers, and Bosphorus cruise bookings. Message us on WhatsApp with your dates and budget.",
+      },
+      {
+        type: "quote",
+        text: "Planning an Istanbul trip? Message HTG Travels on WhatsApp for visa + flight + hotel packages.",
+      },
+    ],
+  },
+  {
+    slug: "passport-renewal-guide-pakistan",
+    title: "Passport Renewal Guide: How to Renew in Pakistan",
+    category: "Travel",
+    metaDescription:
+      "Step-by-step passport renewal guide for Pakistani citizens. Online and offline process, required documents, fees, processing times, and tips for urgent renewal. Updated for 2026.",
+    keywords: [
+      "passport renewal Pakistan",
+      "renew Pakistani passport",
+      "passport office Pakistan",
+      "urgent passport Pakistan",
+      "passport fee Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "A valid passport is the foundation of all international travel. Whether your passport is expiring soon or you have run out of blank pages, renewing your Pakistani passport is straightforward if you know the process. This guide covers both online and office-based renewal, fees, and processing times.",
+      },
+      {
+        type: "h2",
+        text: "When Should You Renew Your Passport?",
+      },
+      {
+        type: "p",
+        text: "Renew your passport if:",
+      },
+      {
+        type: "ul",
+        items: [
+          "It expires within the next 6 months (most countries require 6 months validity for visa applications)",
+          "You have fewer than 2 blank pages remaining",
+          "Your passport is damaged (torn pages, water damage, faded data)",
+          "You need to change personal details (name, marital status)",
+          "You have lost your passport and need a replacement",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Renew Your Pakistani Passport",
+      },
+      {
+        type: "h3",
+        text: "Option 1: Online Renewal (E-Passport)",
+      },
+      {
+        type: "p",
+        text: "Pakistan now offers online passport renewal through the Directorate General of Immigration and Passports (DGIP) website. This is the easiest method:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visit passport.gov.pk (official DGIP website)",
+          "Create an account with your CNIC and email",
+          "Fill in the application form",
+          "Upload passport-size photo and CNIC scan",
+          "Pay the fee online (credit/debit card)",
+          "Visit the passport office for biometrics (fingerprints and photo)",
+          "Collect your passport or have it delivered to your address",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Option 2: Visit the Passport Office",
+      },
+      {
+        type: "p",
+        text: "You can visit any regional passport office in Pakistan for walk-in renewal:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Bring your original CNIC + photocopy",
+          "Bring your current passport (original)",
+          "Bring 2 passport-size photos (white background)",
+          "Fill out the application form at the office",
+          "Pay the fee at the designated bank counter",
+          "Get your biometrics done (fingerprints + photo)",
+          "Collect your passport after the processing period",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Passport Fees in Pakistan (2026)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Normal (36 pages, 5-year validity): PKR 3,000",
+          "Normal (36 pages, 10-year validity): PKR 4,500",
+          "Normal (72 pages, 5-year validity): PKR 5,500",
+          "Normal (72 pages, 10-year validity): PKR 8,000",
+          "Urgent (36 pages, 5-year validity): PKR 5,000",
+          "Urgent (36 pages, 10-year validity): PKR 7,500",
+          "Urgent (72 pages, 5-year validity): PKR 8,500",
+          "Urgent (72 pages, 10-year validity): PKR 12,500",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Processing Times",
+      },
+      {
+        type: "ul",
+        items: [
+          "Normal processing: 7-10 working days",
+          "Urgent processing: 2-3 working days",
+          "Online renewal (normal): 10-14 working days (includes delivery)",
+          "Online renewal (urgent): 3-5 working days (includes delivery)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tips for Smooth Passport Renewal",
+      },
+      {
+        type: "ul",
+        items: [
+          "Renew at least 2 months before you need it for visa applications",
+          "Get the 72-page passport if you travel frequently (36 pages fill up fast)",
+          "Take photos at a professional studio (white background, 2x2 inch, no glasses)",
+          "Visit the passport office early morning (8 AM) to avoid long queues",
+          "If renewing online, have your CNIC scan and photo ready in JPEG format",
+          "Keep the receipt/tracking number to check your application status online",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Need Help with Passport + Travel?",
+      },
+      {
+        type: "p",
+        text: "HTG Travels can guide you through the passport renewal process and book your flights, visas, and hotels once your passport is ready. Message us on WhatsApp for travel assistance.",
+      },
+      {
+        type: "quote",
+        text: "Renewing your passport? Message HTG Travels on WhatsApp for travel planning help.",
+      },
+    ],
+  },
+  {
+    slug: "nusuk-permit-guide-umrah",
+    title: "Nusuk Permit Guide: How to Book Rawdah and Haram Access",
+    category: "Umrah",
+    metaDescription:
+      "Complete guide to Nusuk permits for Umrah pilgrims. How to book Rawdah Mubarak permits, Haram access permits, appointment slots, and common issues Pakistani pilgrims face in 2026.",
+    keywords: [
+      "Nusuk permit",
+      "Rawdah permit Umrah",
+      "Nusuk app guide",
+      "Haram access permit",
+      "Rawdah Mubarak booking",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "The Nusuk platform is Saudi Arabia's official system for managing pilgrim access to key religious sites during Umrah. If you are planning Umrah, you need Nusuk permits to visit Rawdah Mubarak in Madinah and sometimes for specific Haram access periods. This guide explains how the system works and how to secure your permits.",
+      },
+      {
+        type: "h2",
+        text: "What is the Nusuk Platform?",
+      },
+      {
+        type: "p",
+        text: "Nusuk (nusuk.sa) is the official Saudi government platform for pilgrim management. It handles permits for visiting Rawdah Mubarak (the area between the Prophet's tomb and his pulpit in Masjid an-Nabawi, Madinah), and managing crowd flow at the Haram during peak times. Permits are free but required — entering Rawdah without a permit can result in being turned away.",
+      },
+      {
+        type: "h2",
+        text: "How to Book a Rawdah Mubarak Permit",
+      },
+      {
+        type: "h3",
+        text: "Step 1: Download the Nusuk App or Visit the Website",
+      },
+      {
+        type: "p",
+        text: "Download the Nusuk app (available on iOS and Android) or visit nusuk.sa. Create an account using your passport details and Saudi visa/eVisa number. Verify your phone number and email.",
+      },
+      {
+        type: "h3",
+        text: "Step 2: Select Rawdah Permit",
+      },
+      {
+        type: "p",
+        text: "Once logged in, select 'Rawdah Visit Permit' from the menu. Choose your preferred date and time slot. Available slots are released daily and fill within minutes, especially during Ramadan and peak seasons.",
+      },
+      {
+        type: "h3",
+        text: "Step 3: Confirm and Download Permit",
+      },
+      {
+        type: "p",
+        text: "After selecting a slot, confirm your details and submit. The permit is issued immediately as a QR code. Take a screenshot or download the permit PDF. Show the QR code at the Rawdah entrance in Masjid an-Nabawi.",
+      },
+      {
+        type: "h2",
+        text: "Tips for Getting Rawdah Permits (They Sell Out Fast!)",
+      },
+      {
+        type: "ul",
+        items: [
+          "New slots are released at midnight Saudi time (2 AM Pakistan time) — be awake and ready",
+          "Have your passport and visa details pre-filled in your Nusuk profile to save time",
+          "Use the app (faster than the website) and have a stable internet connection",
+          "Book for weekday mornings — weekend slots fill instantly",
+          "If you miss a slot, keep refreshing — sometimes cancellations open up spots",
+          "Book permits for all family members at the same time (each person needs their own permit)",
+          "Children under 7 are often allowed without a permit (accompanied by a parent)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Do You Need a Permit for Tawaf at the Haram?",
+      },
+      {
+        type: "p",
+        text: "Generally, no. Tawaf at Masjid al-Haram in Makkah does not require a Nusuk permit during most of the year. However, during peak seasons (Ramadan last 10 days, Hajj season), Saudi authorities may implement permit-based access to manage crowd flow. Check the Nusuk app for current requirements during your travel dates.",
+      },
+      {
+        type: "h2",
+        text: "Common Nusuk Issues and Solutions",
+      },
+      {
+        type: "ul",
+        items: [
+          "Account creation fails: Use your full passport name exactly as printed, including spaces",
+          "Visa number not accepted: Make sure you are entering the eVisa number, not the passport number",
+          "No slots available: Check at midnight Saudi time (2 AM PKT) when new slots are released",
+          "QR code not loading: Take a screenshot immediately after booking, clear app cache",
+          "Permit shows wrong date: Contact Nusuk support through the app — do not show up on wrong date",
+          "App crashes: Use the website (nusuk.sa) as a backup, try a different phone/browser",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Get Help with Nusuk Permits",
+      },
+      {
+        type: "p",
+        text: "HTG Travels arranges Nusuk permits for all our Umrah package clients. We book permits for the entire family, coordinate timing with your Ziyarat schedule, and provide WhatsApp support if you face any issues. Message us to book your Umrah package with Nusuk permit assistance included.",
+      },
+      {
+        type: "quote",
+        text: "Need help with Nusuk permits? Message HTG Travels on WhatsApp — we handle it for you.",
+      },
+    ],
+  },
+  {
+    slug: "thailand-tourist-visa-guide-pakistan",
+    title: "Thailand Tourist Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete Thailand tourist visa guide for Pakistanis. Requirements, visa on arrival eligibility, application process, fees, and tips for visiting Bangkok, Phuket, and Chiang Mai in 2026.",
+    keywords: [
+      "Thailand visa Pakistan",
+      "Thailand tourist visa",
+      "Bangkok visa Pakistan",
+      "Thailand visa on arrival",
+      "Phuket travel Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Thailand is one of the most budget-friendly international destinations from Pakistan, offering stunning beaches (Phuket, Krabi), vibrant cities (Bangkok), rich culture (Chiang Mai temples), and amazing street food. This guide covers the visa process, requirements, and tips for Pakistani travelers planning a Thailand trip.",
+      },
+      {
+        type: "h2",
+        text: "Do Pakistanis Need a Visa for Thailand?",
+      },
+      {
+        type: "p",
+        text: "Yes, Pakistani citizens need a visa to visit Thailand. There are two options:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Tourist Visa (sticker): Apply at the Thai embassy in Islamabad. Processing: 5-7 working days. Cost: PKR 4,000-6,000. Valid for 3 months, allows 60-day stay.",
+          "Visa on Arrival (VOA): Available at major Thai airports for PKR-equivalent of THB 2,000 (~PKR 16,000). Allows 15-day stay. Requires return ticket, hotel booking, and THB 10,000 cash proof.",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Thailand Tourist Visa Requirements",
+      },
+      {
+        type: "ul",
+        items: [
+          "Original passport (valid 6+ months, 2+ blank pages)",
+          "Visa application form (completed and signed)",
+          "Two passport-size photos (white background, 3.5cm x 4.5cm)",
+          "Bank statement (6 months, minimum balance PKR 150,000)",
+          "Confirmed return flight ticket",
+          "Hotel booking confirmation for entire stay",
+          "CNIC copy (both sides)",
+          "Cover letter stating travel purpose",
+          "Employment letter or business registration",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Visa on Arrival Requirements",
+      },
+      {
+        type: "p",
+        text: "If you choose Visa on Arrival at Bangkok airport:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Passport valid 6+ months",
+          "Visa on Arrival form (filled at the airport or pre-filled online)",
+          "One passport-size photo",
+          "Return flight ticket within 15 days",
+          "Hotel booking confirmation",
+          "Cash: THB 10,000 per person (approximately PKR 80,000) as proof of funds",
+          "Visa fee: THB 2,000 (pay in cash at the airport)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Flights from Pakistan to Thailand",
+      },
+      {
+        type: "ul",
+        items: [
+          "Thai Airways: Direct from Islamabad and Karachi. Flight time: 5-6 hours.",
+          "Qatar Airways: Via Doha. Total: 8-10 hours. Often cheaper.",
+          "Emirates: Via Dubai. Total: 8-10 hours.",
+          "Malaysia Airlines: Via Kuala Lumpur. Total: 8-9 hours.",
+          "Fares: PKR 70,000-150,000 round-trip",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Destinations in Thailand",
+      },
+      {
+        type: "h3",
+        text: "Bangkok (3-4 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Grand Palace and Wat Phra Kaew (Temple of the Emerald Buddha)",
+          "Wat Arun (Temple of Dawn) — stunning riverside temple",
+          "Chatuchak Weekend Market — 15,000+ stalls",
+          "Khao San Road — backpacker street, food, nightlife",
+          "Chao Phraya River cruise",
+          "Shopping: MBK, Siam Paragon, Terminal 21",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Phuket (3-5 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Patong Beach — main tourist beach, nightlife",
+          "Phi Phi Islands — day trip by speedboat",
+          "James Bond Island — day trip from Phuket",
+          "Big Buddha — 45m statue, panoramic views",
+          "Old Phuket Town — Portuguese colonial architecture",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Chiang Mai (2-3 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Doi Suthep — mountaintop temple, golden stupa",
+          "Elephant Sanctuary — ethical elephant encounters",
+          "Night Bazaar — shopping and street food",
+          "Old City — ancient moat and temples",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Budget Tips for Thailand",
+      },
+      {
+        type: "ul",
+        items: [
+          "Use BTS Skytrain and MRT in Bangkok (THB 16-60 per ride)",
+          "Eat at street food stalls (THB 40-80 per meal, halal options in Muslim areas)",
+          "Stay in hostels/guesthouses (THB 300-600 per night = PKR 2,500-5,000)",
+          "Book island tours at local agencies (50% cheaper than hotel tours)",
+          "Use Grab (Southeast Asia's Uber) instead of taxis",
+          "November-February is best weather (cool and dry), but most expensive",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Thailand Trip with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers complete Thailand packages: visa processing, flights, hotels, island tours, and airport transfers. Message us on WhatsApp with your dates and budget.",
+      },
+      {
+        type: "quote",
+        text: "Planning a Thailand trip? Message HTG Travels on WhatsApp for visa + flight + hotel packages.",
+      },
+    ],
+  },
 ];
