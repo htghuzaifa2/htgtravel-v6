@@ -10327,4 +10327,1277 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "group-umrah-booking-guide-families-organizations",
+    title: "Group Umrah Booking Guide: Tips for Families and Organizations from Pakistan",
+    category: "Umrah",
+    metaDescription:
+      "Complete guide to group Umrah bookings from Pakistan. Family group packages, corporate Umrah trips, mosque groups, discounts, group leader responsibilities, and visa processing for large groups.",
+    keywords: [
+      "group Umrah booking Pakistan",
+      "Umrah group packages",
+      "corporate Umrah travel",
+      "mosque Umrah group",
+      "family Umrah package discount",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Group Umrah bookings offer significant cost savings, dedicated support, and a more organized spiritual journey compared to individual bookings. Whether you are planning a family Umrah trip with 10-15 members, organizing a corporate Umrah for employees, or coordinating a mosque group of 50+ pilgrims, this guide covers everything Pakistani group organizers need to know. We explain how group pricing works, what discounts are available, how to manage group leader responsibilities, the visa processing differences for groups, and how to coordinate logistics for a smooth group Umrah experience. With proper planning, group Umrah can save 15-30% per person compared to individual bookings.",
+      },
+      {
+        type: "h2",
+        text: "Types of Group Umrah Bookings",
+      },
+      {
+        type: "p",
+        text: "Group Umrah bookings come in several forms, each with different requirements and benefits. Family groups of 10-15 pilgrims are the most common — multiple generations traveling together for a shared spiritual experience. Corporate Umrah groups, organized by companies for employees or as performance rewards, range from 20-100 pilgrims. Mosque groups, organized by religious leaders or community organizations, often have 50-200 pilgrims. Institutional Umrah groups (universities, professional associations, charitable organizations) are smaller but growing in popularity. Each type has different dynamics — family groups prioritize togetherness, corporate groups value efficiency, mosque groups focus on spiritual learning.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Family group: 10-15 pilgrims, multiple generations, prioritize togetherness",
+          "Corporate Umrah: 20-100 pilgrims, organized by companies for employees",
+          "Mosque group: 50-200 pilgrims, organized by religious leaders",
+          "Institutional group: Universities, professional associations, charities (20-50 pilgrims)",
+          "Friends/extended family: 5-20 pilgrims, shared accommodation preference",
+          "Specialty group: All-female, all-elderly, all-doctors — niche organized groups",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Cost Savings with Group Bookings",
+      },
+      {
+        type: "p",
+        text: "Group Umrah bookings offer significant cost savings across all package components. Hotels provide 15-25% discounts for group bookings of 10+ rooms. Airlines offer group fares (typically 10-15% below individual fares) for groups of 10+ passengers. Saudi transport companies (buses, vans) offer better rates for group transfers. Saudi processing fees for Umrah visas are lower per person when applied as a group. Ground operators (mutawwif) provide package discounts for groups of 20+. Total savings: A standard 7-day Umrah package that costs PKR 200,000 per person individually can drop to PKR 150,000-170,000 per person in a group of 20+.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Hotels: 15-25% discount for groups booking 10+ rooms",
+          "Airlines: Group fares 10-15% below individual fares (groups of 10+)",
+          "Transport: Better rates for group bus/van transfers (Jeddah-Makkah-Madinah)",
+          "Visa processing: Lower per-person fees for group visa applications",
+          "Mutawwif (ground operator): Package discounts for 20+ pilgrims",
+          "Standard 7-day package: PKR 200,000 individual → PKR 150,000-170,000 in group",
+          "Total potential savings: 15-30% per person for groups of 20+",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Group Leader Responsibilities",
+      },
+      {
+        type: "p",
+        text: "Every group Umrah requires a designated group leader (mutaqaddim) who serves as the primary point of contact with Saudi authorities, the travel agency, and the airline. The group leader must hold a Saudi-approved group leader license (arranged by HTG Travels through Saudi Ministry of Hajj and Umrah). Key responsibilities include: collecting all documents (passports, photographs, vaccination certificates), submitting the group visa application, coordinating flight and hotel bookings, managing on-ground logistics in Saudi Arabia, handling emergencies (lost passports, medical issues, separated members), and ensuring all group members complete Umrah rituals correctly. Choose a group leader who is organized, patient, and respected by all group members.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Saudi-approved group leader license required (arranged by travel agency)",
+          "Collect all documents: Passports, photos, vaccination certificates, CNICs",
+          "Submit group visa application through licensed Umrah operator",
+          "Coordinate flight and hotel bookings — confirm all 2-3 months in advance",
+          "Manage on-ground logistics: Transport, hotel check-in, ziyarat tours",
+          "Handle emergencies: Lost passports, medical issues, separated members",
+          "Ensure all group members complete Umrah rituals correctly",
+          "Conduct pre-departure briefing for all group members",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Group Umrah Visa Processing",
+      },
+      {
+        type: "p",
+        text: "Group Umrah visas are processed differently from individual Umrah visas. The group leader submits all passports together through a licensed Umrah operator (like HTG Travels). The Saudi Ministry of Hajj and Umrah processes the group as a single batch — typically faster than individual processing (5-7 days vs 7-10 days). All group members must travel on the same flight and stay at the same hotel. Group visa holders must depart Saudi Arabia together — no individual extensions. The visa is issued as a single batch sticker in each passport, with the group leader's name referenced. If any group member needs to leave early or stay longer, separate individual visa processing is required (additional cost).",
+      },
+      {
+        type: "ul",
+        items: [
+          "Group leader submits all passports together through licensed operator",
+          "Saudi Ministry processes as single batch (5-7 days, faster than individual)",
+          "All group members must travel on same flight",
+          "All group members must stay at same hotel",
+          "Group visa holders must depart Saudi Arabia together — no individual extensions",
+          "Visa issued as batch sticker referencing group leader's name",
+          "Individual variations (early departure, extension) require separate visa processing",
+          "Group size limits: 5-200 pilgrims per group (larger groups split into batches)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Choosing Group Accommodation",
+      },
+      {
+        type: "p",
+        text: "Group accommodation strategy differs from individual bookings. For groups of 15-30, request interconnected rooms in the same hotel — this allows families to stay together while maintaining privacy. For groups of 30+, consider booking entire floors of a hotel — many Makkah and Madinah hotels offer this for large groups. Hotel proximity to Haram is critical — for groups, choose hotels within 500m of the Haram to minimize walking for elderly members. Look for hotels with large dining areas that can accommodate group meals. Ensure the hotel has elevators that can handle group traffic during peak prayer times. HTG Travels has established relationships with group-friendly hotels in Makkah and Madinah.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Groups of 15-30: Request interconnected rooms for family togetherness",
+          "Groups of 30+: Book entire hotel floors for cohesion",
+          "Proximity to Haram: Within 500m to minimize elderly walking",
+          "Large dining area: For group meals (breakfast, dinner)",
+          "Multiple elevators: To handle group traffic during peak prayer times",
+          "Wheelchair accessibility: For elderly and disabled group members",
+          "Hotel with prayer area: For group spiritual activities",
+          "Group-friendly hotels: HTG Travels has established relationships",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Transport Coordination for Groups",
+      },
+      {
+        type: "p",
+        text: "Group transport requires careful planning. For groups of 10-15, a single 30-seater coaster bus works well for airport transfers and intercity travel (Jeddah to Makkah, Makkah to Madinah, Madinah to Jeddah). For groups of 20-40, two coaster buses or one 45-seater bus. For groups of 50+, multiple buses or a convoy. Pre-book all transport 4-6 weeks in advance. Each bus should have a designated seat leader (group member) who counts passengers before departure. For airport transfers, schedule bus departures based on flight times — allow 4 hours from Makkah to Jeddah Airport to account for traffic and check-in. HTG Travels coordinates all group transport with verified Saudi operators.",
+      },
+      {
+        type: "ul",
+        items: [
+          "10-15 pilgrims: 30-seater coaster bus",
+          "20-40 pilgrims: Two coaster buses or one 45-seater bus",
+          "50+ pilgrims: Multiple buses or convoy",
+          "Pre-book all transport 4-6 weeks in advance",
+          "Each bus: Designated seat leader to count passengers",
+          "Airport transfer timing: Allow 4 hours Makkah to Jeddah Airport",
+          "Saudi operators: Use only licensed, verified transport companies",
+          "Tip: Carry group manifest with names, passport numbers, blood groups",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Managing Group Dynamics",
+      },
+      {
+        type: "p",
+        text: "Group Umrah brings together diverse personalities, ages, and physical capabilities. Effective group management requires setting clear expectations before travel, establishing communication protocols, and being flexible with the schedule. Distribute a written itinerary 2 weeks before departure so all members know the plan. Create WhatsApp groups for each subgroup (e.g., one for women, one for elderly, one for the entire group). Designate subgroup leaders for women, elderly, and children. Allow flexibility for individual preferences (some may want extra Tawaf, others may need rest). Handle conflicts privately and diplomatically — group harmony is essential for spiritual focus.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Distribute written itinerary 2 weeks before departure",
+          "Create WhatsApp groups: All-members, women-only, elderly-only, families",
+          "Designate subgroup leaders: For women, elderly, families with children",
+          "Set clear expectations: Schedule, dress code, etiquette in Haram",
+          "Allow flexibility: Members can opt out of group activities for individual worship",
+          "Conflict resolution: Handle privately, diplomatically, with spiritual reminders",
+          "Daily check-ins: Group leader confirms all members at every meal and prayer",
+          "Rest periods: Schedule 2-hour rest daily for elderly and children",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Corporate Umrah Trip Planning",
+      },
+      {
+        type: "p",
+        text: "Corporate Umrah trips are increasingly popular as employee rewards, team-building exercises, or annual company traditions. Companies organizing Umrah for employees should: (1) Define the selection criteria (performance, tenure, lottery), (2) Include family members in the package (boosts employee morale), (3) Choose a fixed annual period (avoid peak Ramadan prices), (4) Plan group activities (reflection sessions, team dinners), (5) Document the trip for corporate social responsibility (CSR) reporting. HTG Travels offers dedicated corporate Umrah planning services with tailored packages for Pakistani companies, including group insurance, medical support, and post-trip feedback sessions.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Selection criteria: Performance-based, tenure-based, or lottery system",
+          "Include family members: Boosts employee morale and loyalty",
+          "Choose fixed annual period: Avoid peak Ramadan prices (Feb-Mar)",
+          "Group activities: Reflection sessions, team dinners, group photos",
+          "CSR documentation: Photos, testimonials, impact reports",
+          "Group insurance: Mandatory for all corporate Umrah participants",
+          "Medical support: Dedicated first aid responder in the group",
+          "Post-trip feedback: Collect employee feedback for future improvements",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Emergency Protocols for Groups",
+      },
+      {
+        type: "p",
+        text: "Group emergencies require predefined protocols. Create an emergency contact list with: group leader's Saudi phone number, hotel contact, HTG Travels 24/7 hotline, Saudi emergency numbers (937 medical, 999 general), and Pakistan Embassy contacts (Riyadh, Jeddah). Issue each member a laminated card with these numbers in Urdu and English. Establish a meeting point inside the Haram (e.g., Gate 79 in Makkah, Gate 25 in Madinah) — if anyone is separated, they go to the meeting point. For medical emergencies, designate one group member as the first aid coordinator (preferably with medical training). For lost passports, contact HTG Travels immediately — emergency travel documents can be issued by Pakistan Embassy within 24-48 hours.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Emergency contact list: Group leader, hotel, HTG Travels, Saudi emergencies, Pakistan Embassy",
+          "Issue each member: Laminated emergency card (Urdu + English)",
+          "Haram meeting points: Gate 79 (Makkah), Gate 25 (Madinah) — for separated members",
+          "First aid coordinator: Designated group member with medical training",
+          "Lost passport: Contact HTG Travels → Pakistan Embassy (24-48 hour emergency document)",
+          "Medical emergency: Saudi emergency number 937 — free ambulance service",
+          "Death in group: Contact HTG Travels for Saudi repatriation procedures",
+          "Pakistan Embassy Riyadh: +966-11-488-1234, Jeddah: +966-12-691-3111",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Planning a group Umrah from Pakistan? Message HTG Travels on WhatsApp for group discounts and dedicated group leader support.",
+      },
+    ],
+  },
+  {
+    slug: "pakistan-passport-renewal-abroad-guide",
+    title: "Pakistani Passport Renewal from Abroad: Complete Guide for Overseas Pakistanis",
+    category: "Visa",
+    metaDescription:
+      "Complete guide to renewing Pakistani passport from abroad. Online renewal via Pakistan Online Passport System, embassy renewal, fees, required documents, and emergency travel document for overseas Pakistanis.",
+    keywords: [
+      "Pakistani passport renewal abroad",
+      "Pakistan online passport renewal",
+      "renew Pakistani passport online",
+      "Pakistani embassy passport renewal",
+      "Pakistan emergency travel document",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Renewing a Pakistani passport while abroad is now easier than ever thanks to the Pakistan Online Passport System (POMA) launched by the Directorate General of Immigration and Passports. Whether you are a student in the UK, a professional in Saudi Arabia, a businessman in Dubai, or a visitor in the Schengen Area, you can renew your Pakistani passport without returning to Pakistan. This guide explains the complete renewal process — both online and through Pakistani embassies — the fees, required documents, processing times, and what to do if you need an emergency travel document. With proper preparation, Pakistani citizens can renew their passport from anywhere in the world within 2-6 weeks.",
+      },
+      {
+        type: "h2",
+        text: "Two Methods of Passport Renewal Abroad",
+      },
+      {
+        type: "p",
+        text: "Pakistani citizens living or traveling abroad have two options for passport renewal. The first and preferred method is online renewal through the Pakistan Online Passport System (POMA) at passport.gov.pk — this is faster, cheaper, and more convenient. The second method is in-person renewal at a Pakistani embassy or consulate — required if you need an urgent passport or cannot complete online renewal. Online renewal is processed in Pakistan and the new passport is couriered to your international address. Embassy renewal is processed locally and collected in person. For most overseas Pakistanis, online renewal is the recommended option.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Method 1: Online renewal via Pakistan Online Passport System (POMA) — passport.gov.pk",
+          "Method 2: In-person renewal at Pakistani embassy or consulate",
+          "Online renewal: Processed in Pakistan, couriered to international address (2-6 weeks)",
+          "Embassy renewal: Processed locally, collected in person (3-8 weeks depending on embassy)",
+          "Online is preferred: Faster, cheaper, no embassy visit required",
+          "Embassy is needed when: Urgent renewal, online renewal fails, emergency travel",
+          "Both methods produce the same machine-readable Pakistani passport",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Online Passport Renewal via POMA",
+      },
+      {
+        type: "p",
+        text: "The Pakistan Online Passport System (POMA) at passport.gov.pk allows Pakistani citizens to renew their passport from anywhere in the world. The process is fully online — no embassy visit required. Create an account on passport.gov.pk using your CNIC and existing passport number. Fill out the renewal application form. Upload scanned documents (CNIC, existing passport, photograph). Pay the renewal fee via international credit card or bank transfer. The application is reviewed in Islamabad, the passport is printed, and couriered to your international address via DHL or FedEx. Processing time: 2-6 weeks for normal, 7-10 days for urgent. The courier cost is included in the fee.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Website: passport.gov.pk (Pakistan Online Passport System)",
+          "Account creation: Using CNIC and existing passport number",
+          "Upload documents: CNIC, existing passport (first 2 pages), passport-size photograph",
+          "Photograph requirements: White background, 35x45mm, no glasses, neutral expression",
+          "Fee payment: International credit card (Visa/Mastercard) or bank transfer",
+          "Processing time: 2-6 weeks normal, 7-10 days urgent (additional fee)",
+          "Courier: DHL or FedEx to international address (cost included in fee)",
+          "Tracking: Application status tracked online using tracking ID",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Required Documents for Online Renewal",
+      },
+      {
+        type: "p",
+        text: "The documents required for online passport renewal are minimal but must be scanned clearly. Original CNIC (Computerized National Identity Card) — both front and back scanned. Existing Pakistani passport — scan the first two pages (bio-data page and page 2). Passport-size photograph — 35x45mm with white background, taken within the last 6 months, no glasses, neutral expression, high resolution (300+ DPI). For married women changing their name after marriage, scan the Nikahnama (marriage certificate). For applicants under 18, scan the B-Form (CRC) and parents' CNICs. All scanned documents must be in PDF or JPG format, file size under 2 MB each. HTG Travels can assist with document preparation.",
+      },
+      {
+        type: "ul",
+        items: [
+          "CNIC: Both front and back scanned (PDF or JPG, under 2MB)",
+          "Existing passport: First two pages scanned (bio-data page and page 2)",
+          "Photograph: 35x45mm white background, taken within last 6 months, 300+ DPI",
+          "Photograph rules: No glasses, no head covering (except religious), neutral expression",
+          "Married women changing name: Nikahnama (marriage certificate) scan",
+          "Applicants under 18: B-Form (CRC) and both parents' CNICs",
+          "Document format: PDF or JPG, file size under 2MB each",
+          "Tip: Use a scanner, not phone camera, for document scans",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Online Renewal Fee Structure",
+      },
+      {
+        type: "p",
+        text: "The online passport renewal fee depends on the passport type (ordinary, urgent, or fast track) and the number of pages (36, 72, or 100). Ordinary 36-page passport (5-year validity, normal processing): USD 30 (PKR 8,500 equivalent). Urgent 36-page passport (5-year validity, fast processing 7-10 days): USD 60 (PKR 17,000 equivalent). Ordinary 72-page passport (5-year validity, normal processing): USD 50 (PKR 14,000 equivalent). Urgent 72-page passport (5-year validity, fast processing): USD 100 (PKR 28,500 equivalent). The 100-page passport is available for frequent travelers — USD 80 ordinary, USD 150 urgent. Fees are payable in USD via international credit card or bank transfer.",
+      },
+      {
+        type: "ul",
+        items: [
+          "36-page ordinary (5-year, normal): USD 30 (~PKR 8,500)",
+          "36-page urgent (5-year, fast 7-10 days): USD 60 (~PKR 17,000)",
+          "72-page ordinary (5-year, normal): USD 50 (~PKR 14,000)",
+          "72-page urgent (5-year, fast 7-10 days): USD 100 (~PKR 28,500)",
+          "100-page ordinary (5-year, normal): USD 80 (~PKR 22,500) — for frequent travelers",
+          "100-page urgent (5-year, fast 7-10 days): USD 150 (~PKR 42,000)",
+          "Courier cost: Included in fee (DHL/FedEx to international address)",
+          "Payment: International credit card (Visa/Mastercard) or bank transfer",
+        ],
+      },
+      {
+        type: "h2",
+        text: "In-Person Renewal at Pakistani Embassy",
+      },
+      {
+        type: "p",
+        text: "If online renewal is not possible, you can renew your Pakistani passport in person at the nearest Pakistani embassy or consulate. The process requires visiting the embassy during consular hours (typically 9 AM - 12 PM, Sunday to Thursday). Bring the original documents (CNIC, existing passport, photographs). Fill out the passport renewal application at the embassy. Pay the fee in cash or local currency equivalent. The embassy forwards the application to Islamabad, the passport is printed in Pakistan, and couriered back to the embassy. Processing time: 3-8 weeks depending on embassy location and workload. You can either collect the new passport in person or request courier delivery (additional fee).",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visit nearest Pakistani embassy or consulate during consular hours (9 AM - 12 PM)",
+          "Working days: Sunday to Thursday (closed Friday and Saturday in most countries)",
+          "Bring original documents: CNIC, existing passport, 4 passport-size photographs",
+          "Photograph requirements: White background, 35x45mm, taken within last 6 months",
+          "Fill out passport renewal application form at embassy",
+          "Fee: Payable in cash or local currency equivalent (varies by embassy)",
+          "Processing time: 3-8 weeks (embassy forwards to Islamabad)",
+          "Collection: In person or courier delivery (additional fee)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Emergency Travel Document (ETD)",
+      },
+      {
+        type: "p",
+        text: "If your Pakistani passport is lost, stolen, or expired while abroad and you need to return to Pakistan urgently, the Pakistani embassy can issue an Emergency Travel Document (ETD). The ETD is a single-use travel document that allows you to travel only to Pakistan — no other countries. The ETD is valid for 30 days from issue. Required documents: Police report (for lost/stolen passport), CNIC, 4 photographs, flight booking to Pakistan. Processing time: 1-3 working days. Fee: USD 25-50 depending on embassy. The ETD cannot be used for transit through other countries unless specifically endorsed — confirm transit requirements with the airline before booking. Contact the nearest Pakistani embassy immediately if you need an ETD.",
+      },
+      {
+        type: "ul",
+        items: [
+          "ETD issued by Pakistani embassy for emergency return to Pakistan",
+          "Single-use document: Allows travel only to Pakistan, no other countries",
+          "Validity: 30 days from issue date",
+          "Required documents: Police report, CNIC, 4 photographs, flight booking to Pakistan",
+          "Processing time: 1-3 working days",
+          "Fee: USD 25-50 depending on embassy",
+          "Transit restrictions: Cannot transit through other countries unless endorsed",
+          "Tip: Confirm transit requirements with airline before booking ETD travel",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Renewing Passport in Saudi Arabia (Umrah/Hajj Pilgrims)",
+      },
+      {
+        type: "p",
+        text: "Pakistani pilgrims performing Umrah or Hajj sometimes discover their passport is expiring during or shortly after their trip. If your passport expires within 6 months, Saudi Arabia may deny entry. Renew your passport BEFORE traveling for Umrah. If your passport is lost or stolen during Umrah, contact the Pakistan Consulate in Jeddah immediately. The consulate can issue an Emergency Travel Document (ETD) for return to Pakistan — processing time 1-2 days. For non-emergency renewal while in Saudi Arabia, use the online POMA system with courier delivery to your Saudi address. Pakistan Consulate Jeddah: +966-12-691-3111, Pakistan Embassy Riyadh: +966-11-488-1234.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Renew passport BEFORE traveling for Umrah if expiring within 6 months",
+          "Saudi Arabia may deny entry if passport has less than 6 months validity",
+          "Lost/stolen passport in Saudi: Contact Pakistan Consulate Jeddah immediately",
+          "Pakistan Consulate Jeddah: +966-12-691-3111",
+          "Pakistan Embassy Riyadh: +966-11-488-1234",
+          "ETD for return to Pakistan: Processing 1-2 days in Saudi",
+          "Online renewal while in Saudi: POMA system with courier to Saudi address",
+          "Tip: Always carry photocopies of passport and CNIC separately from originals",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tips for Smooth Passport Renewal",
+      },
+      {
+        type: "p",
+        text: "Several best practices ensure smooth passport renewal from abroad. Start the renewal process 3-4 months before your passport expires — this gives ample time for processing and avoids last-minute stress. Keep digital copies of all documents (CNIC, passport, photographs) on a secure cloud storage (Google Drive, Dropbox) so you can access them from anywhere. Use a scanner rather than phone camera for document scans — quality matters. Track your application status online using the tracking ID provided. If applying online, ensure your credit card allows international payments. If using embassy renewal, call ahead to confirm consular hours and required documents. HTG Travels can assist with the renewal process for clients planning Umrah or Hajj.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Start renewal 3-4 months before passport expiry date",
+          "Keep digital copies on secure cloud storage (Google Drive, Dropbox)",
+          "Use a scanner, not phone camera, for document scans (quality matters)",
+          "Track application status online using tracking ID",
+          "Online renewal: Ensure credit card allows international payments",
+          "Embassy renewal: Call ahead to confirm consular hours and documents",
+          "Photograph: Use a professional photographer, not phone selfie",
+          "Tip: Renew passport before booking Umrah/Hajj (Saudi requires 6+ months validity)",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Need to renew your Pakistani passport for Umrah or travel? Message HTG Travels on WhatsApp for document preparation assistance.",
+      },
+    ],
+  },
+  {
+    slug: "europe-budget-travel-10-day-itinerary",
+    title: "Europe on a Budget: 10-Day Itinerary Under PKR 500,000 from Pakistan",
+    category: "Travel",
+    metaDescription:
+      "Complete 10-day Europe budget itinerary under PKR 500,000 from Pakistan. Cheap flights, hostel bookings, free attractions, budget meals, public transport tips, and daily cost breakdown.",
+    keywords: [
+      "Europe budget travel Pakistan",
+      "cheap Europe trip from Pakistan",
+      "Europe under 500000 Pakistan",
+      "budget Europe itinerary 10 days",
+      "cheap Europe travel tips Pakistani",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Visiting Europe from Pakistan on a budget is absolutely possible with strategic planning. While luxury European trips can cost PKR 1,500,000+ per person, a well-planned 10-day budget trip can be done for under PKR 500,000 — including flights, Schengen visa, insurance, accommodation, food, transport, and attractions. This guide provides a complete 10-day budget itinerary for Europe (Paris, Brussels, Amsterdam) that has been successfully completed by Pakistani travelers under PKR 500,000. We cover cheap flight booking, hostel recommendations, free attractions, budget meal strategies, public transport tips, and a detailed daily cost breakdown. With careful planning and the right choices, Europe is accessible to budget-conscious Pakistani travelers.",
+      },
+      {
+        type: "h2",
+        text: "Budget Breakdown: 10-Day Europe Trip",
+      },
+      {
+        type: "p",
+        text: "The total cost of a 10-day Europe budget trip from Pakistan breaks down as follows. Pakistan-Europe return flight (via Dubai or Istanbul): PKR 150,000-180,000. Schengen visa fee and service charges: PKR 25,000. Schengen travel insurance: PKR 4,000. Accommodation (hostels, 10 nights): PKR 80,000-100,000 (EUR 250-330). Food (groceries + occasional restaurants): PKR 60,000-80,000 (EUR 200-260). Local transport (metro, buses, trains): PKR 25,000-35,000 (EUR 80-115). Intercity trains (Paris-Brussels-Amsterdam): PKR 30,000-40,000 (EUR 95-130). Attractions (mix of free and paid): PKR 25,000-35,000 (EUR 80-115). Miscellaneous (SIM card, souvenirs, emergencies): PKR 20,000-30,000. Total: PKR 419,000-529,000.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Pakistan-Europe return flight (via Dubai/Istanbul): PKR 150,000-180,000",
+          "Schengen visa fee and service charges: PKR 25,000",
+          "Schengen travel insurance: PKR 4,000",
+          "Accommodation (hostels, 10 nights): PKR 80,000-100,000 (EUR 25-33/night)",
+          "Food (groceries + occasional restaurants): PKR 60,000-80,000 (EUR 20-26/day)",
+          "Local transport (metro, buses): PKR 25,000-35,000 (EUR 8-12/day)",
+          "Intercity trains (Paris-Brussels-Amsterdam): PKR 30,000-40,000 (EUR 95-130 total)",
+          "Attractions (free + paid mix): PKR 25,000-35,000 (EUR 8-12/day)",
+          "Miscellaneous (SIM, souvenirs, emergencies): PKR 20,000-30,000",
+          "TOTAL: PKR 419,000-529,000 (under PKR 500,000 target with smart choices)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Cheap Flight Booking Strategy",
+      },
+      {
+        type: "p",
+        text: "The flight is the largest single expense. To get under PKR 180,000 return, you must book smart. Use flight comparison sites (Skyscanner, Google Flights, Kayak) to compare fares across airlines. Cheapest routes from Pakistan to Europe: PIA direct to London (when on sale), Turkish Airlines via Istanbul to anywhere in Europe, Qatar Airways via Doha, Emirates via Dubai. Book 8-12 weeks in advance for the best fares. Avoid peak seasons (June-August, December) — prices are 30-50% higher. Mid-week flights (Tuesday-Thursday) are 15-20% cheaper than weekend. Consider flying into secondary airports (London Gatwick instead of Heathrow, Paris Orly instead of CDG) for lower fares. HTG Travels can find you the cheapest Europe fares.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Use Skyscanner, Google Flights, Kayak to compare fares",
+          "Cheapest routes: Turkish Airlines via Istanbul, Qatar Airways via Doha",
+          "Book 8-12 weeks in advance for best fares",
+          "Avoid peak seasons: June-August, December (30-50% higher prices)",
+          "Fly mid-week (Tue-Thu): 15-20% cheaper than weekend",
+          "Consider secondary airports: Gatwick, Orly, Bergamo (Milan)",
+          "PIA direct London: Sometimes on sale for PKR 140,000-160,000 return",
+          "Flexibility with dates: +/- 3 days can save 20-30%",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Hostel Accommodation Strategy",
+      },
+      {
+        type: "p",
+        text: "Hostels are the budget traveler's best friend in Europe. A dorm bed in a centrally-located hostel costs EUR 20-35 per night, compared to EUR 80-150 for a budget hotel room. Use Hostelworld, Booking.com, or Agoda to find hostels with high ratings (8.0+). Look for hostels that include breakfast (saves EUR 8-12 per day). Choose hostels near public transport (metro station within 500m). Female-only dorms are available in most hostels for solo female travelers. Bring a padlock for hostel lockers (some hostels charge EUR 2-5 for padlock rental). Pack a sleep sheet or sleep sack for hygiene. Hostels also offer free walking tours, social events, and a kitchen where you can cook your own meals.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Dorm bed cost: EUR 20-35 per night (vs EUR 80-150 hotel)",
+          "Booking platforms: Hostelworld, Booking.com, Agoda",
+          "Look for hostels with rating 8.0+ and 200+ reviews",
+          "Choose hostels with free breakfast (saves EUR 8-12/day)",
+          "Location: Within 500m of metro station",
+          "Female-only dorms: Available in most hostels for solo female travelers",
+          "Bring padlock for lockers (some hostels charge EUR 2-5 for rental)",
+          "Cook your own meals: Use hostel kitchen (saves EUR 15-25/day)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Sample 10-Day Budget Itinerary: Paris-Brussels-Amsterdam",
+      },
+      {
+        type: "p",
+        text: "This 10-day itinerary covers three of Europe's most beautiful cities — Paris, Brussels, and Amsterdam — using budget intercity trains. The route is designed to minimize travel time and maximize sightseeing. Each city gets 3 days, with Day 1 for arrival, Day 10 for departure. The intercity trains (Paris-Brussels 1.5 hours, Brussels-Amsterdam 2 hours) are affordable with advance booking (EUR 35-50 per leg). The itinerary balances iconic paid attractions with free walking tours and free museums. Adapt the itinerary to your interests — swap Brussels for Bruges, or Amsterdam for Rotterdam if you prefer smaller cities.",
+      },
+      {
+        type: "h3",
+        text: "Day 1-3: Paris (The City of Lights)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Day 1: Arrive CDG, take RER B train to city center (EUR 11, 35 min). Check-in at St Christopher's Inn Paris Hostel. Free walking tour of Montmartre (donate EUR 5-10 to guide). Evening: Eiffel Tower photo from Trocadero (free).",
+          "Day 2: Louvre Museum (EUR 17, book online). Walk through Tuileries Garden (free). Lunch at bouillon restaurant (EUR 12-15). Evening: Seine river walk (free).",
+          "Day 3: Notre-Dame Cathedral exterior (free). Sainte-Chapelle (EUR 11.50). Latin Quarter walk (free). Evening: Arc de Triomphe rooftop (EUR 13).",
+          "Paris budget per day: Accommodation EUR 30 + Food EUR 20 + Transport EUR 8 + Attractions EUR 15 = EUR 73 (~PKR 22,500)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Day 4-6: Brussels (Chocolate, Beer, and Beauty)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Day 4: Train Paris to Brussels (EUR 35-50, 1.5 hours, book 8+ weeks ahead). Check-in at Sleep Well Hostel. Grand Place (free). Manneken Pis (free). Belgian waffle lunch (EUR 5).",
+          "Day 5: Royal Palace (free). Magritte Museum (EUR 10). Comic strip walk (free, self-guided). Belgian chocolate tasting (EUR 10-15 for assorted box). Belgian beer evening (EUR 4-7 per beer).",
+          "Day 6: Day trip to Bruges (train EUR 15 return, 1 hour). Historic center walk (free). Canal boat tour (EUR 12). Lunch at bakery (EUR 6-8). Return to Brussels evening.",
+          "Brussels budget per day: Accommodation EUR 28 + Food EUR 18 + Transport EUR 10 + Attractions EUR 12 = EUR 68 (~PKR 21,000)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Day 7-9: Amsterdam (Canals and Culture)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Day 7: Train Brussels to Amsterdam (EUR 35-50, 2 hours). Check-in at Flying Pig Downtown Hostel. Canal walk (free). Anne Frank House (EUR 14, book 2+ weeks ahead).",
+          "Day 8: Rijksmuseum (EUR 20). Vondelpark walk (free). Jordaan neighborhood walk (free). Albert Cuyp Market lunch (EUR 5-8). Evening: Red Light District walk (free, respectful).",
+          "Day 9: Van Gogh Museum (EUR 19, book online). Free walking tour (donate EUR 5-10). Bicycles rental (EUR 10/day) — explore like a local. Evening: Canal cruise (EUR 16).",
+          "Amsterdam budget per day: Accommodation EUR 32 + Food EUR 22 + Transport EUR 8 + Attractions EUR 18 = EUR 80 (~PKR 25,000)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Day 10: Departure",
+      },
+      {
+        type: "ul",
+        items: [
+          "Day 10: Train Amsterdam to Schiphol Airport (EUR 5, 20 min). Check-in 3 hours before flight. Fly Amsterdam to Pakistan (via Dubai/Doha/Istanbul).",
+          "Budget for Day 10: Train EUR 5 + Airport food EUR 15 + Miscellaneous EUR 10 = EUR 30 (~PKR 9,500)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Budget Food Strategy in Europe",
+      },
+      {
+        type: "p",
+        text: "Food is one of the easiest places to save money in Europe. Avoid sit-down restaurants for every meal — a typical restaurant lunch costs EUR 15-25, while a supermarket sandwich costs EUR 3-5. Visit local supermarkets (Carrefour in France, Albert Heijn in Netherlands, Delhaize in Belgium) for fresh bread, cheese, fruits, and ready meals. Many supermarkets offer hot meals (rotisserie chicken, pasta, rice dishes) for EUR 4-7. Bakeries offer fresh pastries and sandwiches for EUR 2-5. For one restaurant meal per day, choose lunch specials (menu du jour in France, dagmenu in Netherlands) — EUR 12-18 for a 3-course meal. Tap water is free in all European restaurants — ask for 'tap water' or 'eau du robinet'.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Supermarket lunch (sandwich + fruit + drink): EUR 5-8",
+          "Supermarket hot meal (rotisserie chicken + rice): EUR 4-7",
+          "Bakery breakfast (croissant + coffee): EUR 3-5",
+          "Lunch special at restaurant (menu du jour): EUR 12-18 for 3 courses",
+          "Street food (doner kebab, falafel, pizza slice): EUR 5-8",
+          "Cook at hostel kitchen: EUR 4-6 per meal",
+          "Tap water: Free in all restaurants (ask specifically for tap water)",
+          "Avoid: Bottled water at restaurants (EUR 4-7 each)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Free and Cheap Attractions",
+      },
+      {
+        type: "p",
+        text: "Europe has countless free attractions that rival paid ones in beauty and cultural significance. Free attractions include: cathedrals (Notre-Dame exterior, Sacre-Coeur, Westminster Abbey exterior), public parks (Tuileries, Luxembourg Gardens, Vondelpark), historic neighborhoods (Montmartre, Latin Quarter, Jordaan), markets (Albert Cuyp, Borough Market), and architectural wonders (Eiffel Tower from Trocadero, Tower Bridge from South Bank). Many museums have free entry days — Louvre free first Sunday of month (October-March), Rijksmuseum free first Sunday morning. Free walking tours operate in every major city — tip the guide EUR 5-10. City tourist cards (Paris Museum Pass, Amsterdam City Card) provide discounted entry to multiple attractions — worth it if you visit 5+ attractions.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Free attractions: Cathedrals, parks, neighborhoods, markets, bridges",
+          "Free museum days: Louvre first Sunday (Oct-Mar), Rijksmuseum first Sunday morning",
+          "Free walking tours: Tip guide EUR 5-10 (Sandemans, Strawberry Tours)",
+          "Free views: Eiffel Tower from Trocadero, Tower Bridge from South Bank",
+          "City tourist cards: Paris Museum Pass (EUR 65/2 days), I Amsterdam City Card",
+          "Student discounts: Bring student ID for 30-50% off most attractions",
+          "EU residents under 26: Free entry to many EU national museums",
+          "Free outdoor concerts: Check local listings for summer concerts",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Public Transport Tips",
+      },
+      {
+        type: "p",
+        text: "European public transport is efficient and affordable with the right passes. In Paris, buy a carnet of 10 metro tickets (EUR 16.90, 25% cheaper than individual tickets). Brussels STIB metro day pass: EUR 7.50. Amsterdam GVB day pass: EUR 8 (24 hours). For intercity travel, book trains 8-12 weeks in advance on operator websites (SNCF for France, SNCB for Belgium, NS for Netherlands) for 30-50% discounts. Avoid Eurail passes unless you travel 5+ days on trains — they cost EUR 250+ and may not pay off for short itineraries. Use Rome2Rio.com to compare transport options (train vs bus vs flight). Avoid taxis — they cost 3-5x more than public transport. Uber is available in major cities.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Paris: Carnet of 10 metro tickets (EUR 16.90, 25% cheaper than individual)",
+          "Brussels: STIB day pass EUR 7.50 (24 hours)",
+          "Amsterdam: GVB day pass EUR 8 (24 hours)",
+          "Intercity trains: Book 8-12 weeks ahead on SNCF, SNCB, NS websites (30-50% off)",
+          "Avoid Eurail pass unless 5+ train days (cost EUR 250+)",
+          "Rome2Rio.com: Compare train vs bus vs flight options",
+          "Avoid taxis: 3-5x more expensive than public transport",
+          "Uber: Available in major cities, cheaper than taxis",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Want a budget-friendly Europe trip from Pakistan? Message HTG Travels on WhatsApp for flight deals and itinerary planning.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-with-infants-toddlers-guide",
+    title: "Umrah With Infants and Toddlers: Complete Guide for Pakistani Parents",
+    category: "Umrah",
+    metaDescription:
+      "Complete guide to performing Umrah with infants and toddlers from Pakistan. Baby-friendly hotels, stroller rules in Haram, formula and food, vaccination requirements, and tips for parents.",
+    keywords: [
+      "Umrah with infant",
+      "Umrah with baby Pakistan",
+      "Umrah with toddler",
+      "baby Umrah guide",
+      "Umrah stroller rules Haram",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Performing Umrah with an infant or toddler is a beautiful way to introduce your child to the sacred sites of Islam, but it requires extensive preparation. Babies and toddlers have unique needs — feeding, sleeping, temperature regulation, hygiene, and safety — that must be balanced with the demands of Umrah rituals. This guide is designed for Pakistani parents planning Umrah with children under 4 years old. We cover everything from choosing baby-friendly hotels near the Haram to navigating Saudi Arabia's stroller policies, managing feeding schedules, packing essentials, handling medical emergencies, and ensuring your child's comfort throughout the spiritual journey. With careful planning, even very young children can complete Umrah safely.",
+      },
+      {
+        type: "h2",
+        text: "Minimum Age and Health Requirements",
+      },
+      {
+        type: "p",
+        text: "There is no minimum age for Umrah — even newborns can perform Umrah with their parents. However, pediatricians recommend waiting until the baby is at least 6 weeks old and has received the first round of vaccinations. For Pakistani infants, the meningitis ACWY vaccine is mandatory (just like adults) — babies can receive this from 2 months of age. The oral polio vaccine is also mandatory for Pakistani infants. Schedule vaccinations at least 4 weeks before travel. If your baby has any health condition (premature birth, heart condition, immune issues), consult a pediatrician before planning Umrah. Avoid traveling with babies under 3 months in summer (June-August) due to extreme heat.",
+      },
+      {
+        type: "ul",
+        items: [
+          "No minimum age for Umrah — even newborns can perform",
+          "Pediatricians recommend: Wait until baby is 6+ weeks old",
+          "Meningitis ACWY vaccine: Mandatory for babies from 2 months old",
+          "Oral polio vaccine: Mandatory for Pakistani infants",
+          "Schedule vaccinations at least 4 weeks before travel",
+          "Consult pediatrician if: Premature birth, heart condition, immune issues",
+          "Avoid summer (Jun-Aug) with babies under 3 months (extreme heat)",
+          "Best age window: 6-18 months (before walking, can be carried easily)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Choosing a Baby-Friendly Hotel",
+      },
+      {
+        type: "p",
+        text: "Hotel selection is critical when traveling with infants. Choose hotels within 300m of the Haram — you will be making multiple trips per day with a baby. Look for hotels that provide cribs/cots (most 4-5 star hotels do, request when booking). Book a room with a small kitchenette if possible — this allows you to prepare baby food and sterilize bottles. Choose hotels with soundproofing — babies can be disturbed by call to prayer (Azan) at 4 AM. Avoid hotels on busy streets with traffic noise. Book a hotel with a bathtub (not just shower) — bathing a baby in a shower is dangerous. HTG Travels can recommend baby-friendly hotels in Makkah and Madinah based on your specific needs.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Distance: Within 300m of Haram (multiple daily trips with baby)",
+          "Crib/cot: Request at booking (most 4-5 star hotels provide free)",
+          "Kitchenette: For preparing baby food and sterilizing bottles",
+          "Soundproofing: Babies disturbed by Azan at 4 AM",
+          "Avoid: Hotels on busy streets with traffic noise",
+          "Bathtub (not just shower): For safe baby bathing",
+          "Room size: Family room with separate sleeping area for baby",
+          "Air conditioning: Must work well — Saudi heat is intense for babies",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Stroller Rules in the Haram",
+      },
+      {
+        type: "p",
+        text: "Strollers are allowed in Masjid al-Haram (Makkah) and Masjid an-Nabawi (Madinah), but with restrictions. During peak hours (Maghrib, Isha, last 10 days of Ramadan), strollers are NOT allowed in the Mataf (Tawaf area). Use a baby carrier (Ergobaby, BabyBjorn) instead during these times. Lightweight foldable strollers are best — they can be folded and carried when needed. Avoid large travel system strollers — they are difficult to maneuver in crowds. Strollers are allowed in the general prayer areas (outside Mataf) at all times. For Tawaf, use a baby carrier — the baby is secure against your body, and your hands are free. For Sa'i, strollers can be used on the ground floor wheelchair lanes.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Strollers allowed in Haram general areas at all times",
+          "Strollers NOT allowed in Mataf (Tawaf area) during peak hours",
+          "Peak hours: Maghrib, Isha, last 10 days of Ramadan",
+          "Use baby carrier (Ergobaby, BabyBjorn) during peak hours",
+          "Best stroller: Lightweight foldable (easy to carry when needed)",
+          "Avoid: Large travel system strollers (difficult in crowds)",
+          "For Tawaf: Use baby carrier (baby secure, hands free)",
+          "For Sa'i: Strollers allowed on ground floor wheelchair lanes",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Feeding Schedule and Formula",
+      },
+      {
+        type: "p",
+        text: "Maintaining your baby's feeding schedule in Saudi Arabia requires preparation. Breastfeeding is the easiest option — no equipment needed, can be done anywhere with a nursing cover. For formula-fed babies, bring enough formula from Pakistan — Saudi formulas (Nan, Similac) are available but may differ slightly in composition. Pack formula in original sealed containers with labels. Sterilize bottles using a portable UV sterilizer (battery-operated, available in Pakistan for PKR 5,000-10,000). For solid food (6+ months), bring baby food pouches from Pakistan (Heinz, Gerber) — Saudi supermarkets carry similar brands but flavors differ. Always carry bottled water (not tap) for formula preparation. Avoid Saudi tap water for babies under 1 year.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Breastfeeding: Easiest — no equipment, can nurse anywhere with cover",
+          "Formula: Bring enough from Pakistan (Saudi formulas differ slightly)",
+          "Pack formula: Original sealed containers with labels",
+          "Sterilize bottles: Portable UV sterilizer (PKR 5,000-10,000, battery-operated)",
+          "Solid food (6+ months): Bring pouches from Pakistan (Heinz, Gerber)",
+          "Water: Use only bottled water for formula preparation",
+          "Avoid: Saudi tap water for babies under 1 year",
+          "Tip: Saudi pharmacies (Nahdi, Aldawaa) carry baby essentials if needed",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Packing List for Baby Umrah",
+      },
+      {
+        type: "p",
+        text: "Packing for a baby Umrah trip requires careful planning — Saudi Arabia has most baby products but specific brands may not be available. Pack enough diapers for the entire trip (Pampers is available in Saudi, but bring extra of your preferred brand). Bring 2-3 changes of clothes per day (Saudi heat causes sweating, and diaper blowouts are common). Pack a baby first aid kit with infant paracetamol (Calpol), thermometer, nasal aspirator, diaper rash cream (Sudocrem), oral rehydration salts (ORS). Bring a baby carrier and a lightweight stroller. Pack baby's favorite comfort items (blanket, pacifier, soft toy) — these help with sleep in a new environment. Bring a foldable changing mat for diaper changes in restrooms.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Diapers: Enough for entire trip + 1 week extra (Pampers available in Saudi)",
+          "Wet wipes: 4-5 packs (Saudi wipes differ in scent)",
+          "Clothes: 2-3 changes per day (sweating, diaper blowouts)",
+          "Baby first aid kit: Calpol, thermometer, nasal aspirator, Sudocrem, ORS",
+          "Baby carrier: Ergobaby or BabyBjorn (for Tawaf, peak hours)",
+          "Lightweight stroller: Foldable, easy to carry",
+          "Comfort items: Favorite blanket, pacifier, soft toy",
+          "Foldable changing mat: For diaper changes in public restrooms",
+          "Feeding essentials: Bottles, formula, baby food pouches, UV sterilizer",
+          "Hat and sunscreen: Baby-safe sunscreen SPF 50+",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Managing Tawaf and Sa'i with a Baby",
+      },
+      {
+        type: "p",
+        text: "Tawaf with a baby is best done using a baby carrier — the baby is secure against your chest or back, and your hands are free for stability. Perform Tawaf on the outer ring of the Mataf (less crowded). Avoid peak hours — perform Tawaf after Fajr (cool, less crowded) or after Dhuhr (moderate crowds). Take breaks every 3-4 rounds (out of 7) — sit, hydrate, feed the baby. For Sa'i, use a stroller on the ground floor wheelchair lanes if your baby prefers sleeping in the stroller. Alternatively, use the baby carrier. Total Sa'i walking distance is 3 km — split into segments if needed. If the baby becomes fussy, pause the ritual — you can resume from where you left off (Saudi religious rulings allow this).",
+      },
+      {
+        type: "ul",
+        items: [
+          "Use baby carrier for Tawaf (baby secure, hands free)",
+          "Perform Tawaf on outer ring of Mataf (less crowded)",
+          "Best time: After Fajr (cool, less crowded) or after Dhuhr",
+          "Avoid peak hours: Maghrib, Isha, last 10 days Ramadan",
+          "Take breaks every 3-4 rounds (out of 7) — sit, hydrate, feed baby",
+          "Sa'i: Stroller on ground floor wheelchair lanes, or baby carrier",
+          "Total Sa'i walking: 3 km — split into segments if needed",
+          "If baby fusses: Pause ritual, resume from where you left off (allowed by Saudi rulings)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Dealing with Heat and Crowds",
+      },
+      {
+        type: "p",
+        text: "Saudi heat can be dangerous for babies, especially under 1 year. Babies cannot regulate body temperature as effectively as adults. Avoid taking babies outdoors between 11 AM and 4 PM (peak heat). Keep the baby hydrated — breastfeed or offer water (if 6+ months) every 30 minutes. Use a sunshade on the stroller. Dress baby in light, breathable cotton clothing (avoid synthetic fabrics). Use a small portable fan (battery-operated, available at Saudi baby stores). Inside the Haram, the air conditioning is strong — bring a light blanket for the baby to prevent chills. Watch for signs of heat exhaustion: excessive fussiness, lethargy, dry mouth, no wet diapers for 3+ hours. If you see these signs, move to a cool area immediately and hydrate.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Avoid outdoor time 11 AM - 4 PM (peak heat)",
+          "Hydrate baby every 30 minutes (breastfeed or water if 6+ months)",
+          "Sunshade on stroller — protect from direct sun",
+          "Dress: Light cotton clothing, avoid synthetic fabrics",
+          "Portable fan: Battery-operated, available at Saudi baby stores (SAR 30-50)",
+          "Inside Haram: Strong AC — bring light blanket for baby",
+          "Heat exhaustion signs: Fussiness, lethargy, dry mouth, no wet diaper 3+ hours",
+          "If heat exhaustion suspected: Move to cool area, hydrate immediately",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Sleep and Schedule Management",
+      },
+      {
+        type: "p",
+        text: "Babies thrive on routine, but Umrah travel disrupts schedules. Try to maintain your baby's sleep schedule as much as possible. The 2-hour time difference between Pakistan and Saudi Arabia (Saudi is 2 hours behind) means your baby may wake up early. Adjust gradually over 2-3 days. Bring white noise app or device — it helps babies sleep through the Azan and crowd noise. Darken the hotel room using blackout curtains (most hotels have them) or bring a portable blackout blind. Co-sleep safely if your baby is used to it. Bring a portable travel crib if your hotel doesn't provide one. Schedule Umrah rituals around your baby's nap times — perform Tawaf during morning nap, Sa'i during afternoon nap.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Maintain baby's sleep schedule as much as possible",
+          "Time difference: Saudi is 2 hours behind Pakistan (baby may wake early)",
+          "Adjust gradually over 2-3 days",
+          "White noise: App or device — helps baby sleep through Azan and crowd noise",
+          "Blackout curtains: Most hotels have them, or bring portable blackout blind",
+          "Co-sleep: Safe if baby is used to it",
+          "Travel crib: Bring if hotel doesn't provide",
+          "Schedule Umrah around naps: Tawaf during morning nap, Sa'i during afternoon nap",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Medical Emergency Preparedness",
+      },
+      {
+        type: "p",
+        text: "Despite all precautions, babies can get sick during Umrah. Know the location of Haram medical centers — there are first aid stations inside both Masjid al-Haram and Masjid an-Nabawi. Save Saudi emergency numbers: 937 for medical emergencies (free ambulance). Major Makkah hospitals with pediatric emergency: King Abdulaziz Hospital, Al-Noor Specialist Hospital. Major Madinah hospitals: King Fahd Hospital, Maternity and Children Hospital. Carry baby's medical summary including vaccinations, allergies, and any medical conditions. Pack infant paracetamol (Calpol) and oral rehydration salts (ORS). If your baby develops high fever (38°C+), persistent vomiting, or signs of dehydration, seek medical attention immediately. HTG Travels can provide a list of pediatric hospitals before travel.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Know location of Haram medical centers (first aid stations in both Harams)",
+          "Saudi emergency: 937 (free ambulance, medical)",
+          "Makkah pediatric hospitals: King Abdulaziz Hospital, Al-Noor Specialist",
+          "Madinah pediatric hospitals: King Fahd Hospital, Maternity and Children Hospital",
+          "Carry: Baby's medical summary (vaccinations, allergies, conditions)",
+          "Pack: Infant paracetamol (Calpol), oral rehydration salts (ORS)",
+          "High fever (38°C+), persistent vomiting, dehydration: Seek medical attention",
+          "Tip: Add Saudi hospital numbers to your phone before travel",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Planning Umrah with your baby? Message HTG Travels on WhatsApp for baby-friendly hotel recommendations and packing guidance.",
+      },
+    ],
+  },
+  {
+    slug: "schengen-visa-refusal-reasons-pakistan",
+    title: "Schengen Visa Refusal Reasons for Pakistani Applicants: How to Avoid Them",
+    category: "Visa",
+    metaDescription:
+      "Complete guide to Schengen visa refusal reasons for Pakistani applicants. Common rejection causes, how to fix weak applications, appeal process, reapplication strategy, and approval tips.",
+    keywords: [
+      "Schengen visa refusal Pakistan",
+      "Schengen visa rejection reasons",
+      "Schengen visa appeal Pakistan",
+      "Schengen visa refused what next",
+      "Schengen visa approval tips Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Schengen visa refusal rates for Pakistani citizens range between 25-40% depending on the embassy and season. A refusal is not the end of your European travel dreams — it's a feedback mechanism that tells you exactly what to fix. This guide analyzes the most common Schengen visa refusal reasons for Pakistani applicants, explains how to address each one, walks through the appeal process, and provides a reapplication strategy that has helped many Pakistani applicants succeed on their second attempt. With the right approach, a previously refused applicant can achieve a 60-70% approval rate on reapplication. The key is understanding why you were refused and addressing every weakness systematically before reapplying.",
+      },
+      {
+        type: "h2",
+        text: "Most Common Schengen Visa Refusal Reasons",
+      },
+      {
+        type: "p",
+        text: "Schengen embassies use standardized refusal codes (Article 32 of the Visa Code) that appear on the refusal letter. The most common reasons for Pakistani applicants are: insufficient financial means (32(1)(a)), inability to justify the purpose of stay (32(1)(b)), no intention to leave the Schengen Area before visa expiry (32(1)(c)), invalid or fake documents submitted (32(1)(d)), and prior Schengen visa overstay (32(1)(e)). The refusal letter will indicate which reason(s) apply to your application. Understanding the specific refusal reason is the first step to fixing your application — request the detailed refusal letter if you only received a generic notice.",
+      },
+      {
+        type: "ul",
+        items: [
+          "32(1)(a): Insufficient financial means to cover the stay",
+          "32(1)(b): Purpose of stay not justified or unclear",
+          "32(1)(c): No intention to leave Schengen Area before visa expiry",
+          "32(1)(d): Invalid, fake, or insufficient documents submitted",
+          "32(1)(e): Prior Schengen visa overstay or violation",
+          "Most common for Pakistanis: 32(1)(c) — intention to leave",
+          "Second most common: 32(1)(a) — insufficient financial means",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Refusal Reason 1: Insufficient Financial Means",
+      },
+      {
+        type: "p",
+        text: "Embassies calculate the required financial means as EUR 100-150 per day of stay (varies by country). A 10-day trip requires EUR 1,000-1,500 in available funds, plus return flight cost and hotel bookings. Pakistani applicants are refused when their bank statements show: balance below EUR 2,000 equivalent, sudden large deposits just before application, inconsistent income that doesn't match stated profession, or undisclosed debts. To fix this: maintain a stable bank balance of at least PKR 600,000-800,000 (EUR 2,000-2,500) for 6+ months before applying. Avoid depositing large sums (PKR 200,000+) in the last 3 months — if necessary, explain the source (property sale, bonus, gift from relative) with supporting documents.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Required: EUR 100-150 per day of stay (10-day trip = EUR 1,000-1,500)",
+          "Bank statement should show: PKR 600,000-800,000 stable balance for 6+ months",
+          "Avoid sudden large deposits (PKR 200,000+) in last 3 months before application",
+          "If large deposit necessary: Explain source (property sale, bonus, gift)",
+          "Provide supporting documents: Sale deed, bonus letter, gift affidavit",
+          "Stable income: Salary deposits should match stated profession",
+          "Disclose debts: Loans, credit card balances (don't hide them)",
+          "Property documents: Add value to your financial profile",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Refusal Reason 2: Purpose of Stay Not Justified",
+      },
+      {
+        type: "p",
+        text: "Embassies refuse applications when the stated purpose doesn't match the documents. Common issues: applying for tourism but only booking hotels in one city (suggests visiting family instead), applying for tourism but having family in the destination country, applying for business but no invitation letter from a real company, or vague itineraries that don't demonstrate genuine tourism intent. To fix this: provide a detailed day-by-day itinerary with specific attractions, restaurants, and transport. If visiting family/friends, declare it and provide a formal invitation letter from your host with their residence permit copy. If business, provide invitation letter from European company, conference registration, or meeting agenda. Honesty is critical — embassies verify everything.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Provide detailed day-by-day itinerary with specific attractions",
+          "If visiting family: Declare it, provide host's invitation + residence permit copy",
+          "If business: Invitation letter from European company, conference registration",
+          "If tourism: Multiple cities in itinerary (not just one city)",
+          "Match purpose to documents: Tourism → tourist itinerary, Business → business documents",
+          "Honesty: Embassies verify hotel bookings, employer letters, invitation letters",
+          "Vague itineraries trigger refusal: 'Visit France for 10 days' is insufficient",
+          "Specific attractions with ticket prices demonstrate genuine tourism intent",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Refusal Reason 3: No Intention to Leave Schengen Area",
+      },
+      {
+        type: "p",
+        text: "This is the most common refusal reason for Pakistani applicants — embassies suspect you intend to overstay or migrate illegally. Strong ties to Pakistan must be demonstrated. Strong ties include: stable employment (3+ years at current job), business ownership (NTN, chamber of commerce), property ownership (house, plot, commercial property), family ties (spouse, children in Pakistan), educational enrollment (university students), and previous international travel with no overstays. The most common weakness: applicants with no property, no stable job, no family in Pakistan, and no international travel history. To fix this: build your profile over 6-12 months — get a stable job, buy property (even a small plot), establish international travel history (visit Thailand, UAE, Singapore first).",
+      },
+      {
+        type: "ul",
+        items: [
+          "Demonstrate stable employment: 3+ years at current job, salary slips, employer letter",
+          "Business ownership: NTN certificate, Chamber of Commerce registration",
+          "Property ownership: House, plot, commercial property (Fard, allotment letter)",
+          "Family ties: Spouse, children in Pakistan (marriage cert, children's birth certs)",
+          "Educational enrollment: University students (enrollment letter, attendance record)",
+          "Previous international travel: No overstays (entry/exit stamps in passport)",
+          "Build profile: Visit Thailand, UAE, Singapore first (easier visas)",
+          "Most common weakness: No property, no stable job, no travel history",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Refusal Reason 4: Invalid or Fake Documents",
+      },
+      {
+        type: "p",
+        text: "Submitting fake or altered documents results in automatic refusal AND a ban from reapplying for 2-5 years. Common fake documents submitted by some Pakistani applicants: forged bank statements, fake employment letters, altered property documents, fake hotel bookings (hotels that don't exist), fake invitation letters. Embassies verify every document — they call banks, employers, hotels, and host families. Even if you get away with fake documents initially, the visa can be revoked at the airport if discrepancies are found. NEVER submit fake documents. If your documents are weak, improve your profile over time rather than risking a multi-year ban. HTG Travels can help verify your documents before submission.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Fake documents result in: Automatic refusal + 2-5 year ban",
+          "Common fake documents: Bank statements, employment letters, hotel bookings, invitations",
+          "Embassies verify EVERY document by calling banks, employers, hotels, hosts",
+          "Visa can be revoked at airport if discrepancies found",
+          "NEVER submit fake documents — improve profile over time instead",
+          "Document verification: HTG Travels can verify documents before submission",
+          "Authentic hotel bookings: Use booking.com with free cancellation",
+          "Authentic employer letter: On company letterhead, with contact number for verification",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Refusal Reason 5: Prior Schengen Visa Overstay",
+      },
+      {
+        type: "p",
+        text: "If you previously overstayed a Schengen visa (even by one day), your new application will likely be refused. Schengen overstays are recorded in the Visa Information System (VIS) database, accessible to all Schengen embassies. Overstays trigger a 3-5 year ban from Schengen visas. If you have a legitimate reason for the overstay (medical emergency, flight cancellation), include proof with your application — medical certificates, airline correspondence. Without proof, the embassy will assume intentional overstay. The only way to overcome a prior overstay is to wait out the ban period (3-5 years) and then apply with an exceptionally strong profile. There is no shortcut.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Overstay triggers: 3-5 year ban from Schengen visas",
+          "Overstays recorded in Visa Information System (VIS) — accessible to all embassies",
+          "Even 1-day overstay counts (flight delays not your fault may be exempt)",
+          "Legitimate overstay reasons: Medical emergency, flight cancellation",
+          "Provide proof: Medical certificates, airline correspondence",
+          "Without proof: Embassy assumes intentional overstay",
+          "Only solution: Wait out 3-5 year ban, apply with exceptionally strong profile",
+          "No shortcuts — appeals rarely succeed for genuine overstays",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What to Do After a Refusal",
+      },
+      {
+        type: "p",
+        text: "After receiving a refusal, you have two options: appeal or reapply. Appeals are rarely successful (success rate 5-10%) and take 6-12 months. Appeals only make sense if you believe the embassy made a factual error — e.g., they claimed you didn't submit a document that you did submit. For most refusals, reapplication is the better path. Wait 3-6 months before reapplying — reapplying immediately with the same documents results in another refusal. Use the waiting period to address every weakness identified in the refusal letter. Reapply with a substantially stronger application. A well-improved reapplication has a 60-70% approval rate.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Two options after refusal: Appeal or reapply",
+          "Appeal success rate: 5-10% (rarely successful)",
+          "Appeal processing time: 6-12 months",
+          "Appeal makes sense only if embassy made factual error",
+          "Reapplication: Better path for most refusals",
+          "Wait 3-6 months before reapplying (immediate reapplication = refusal)",
+          "Use waiting period to address every weakness in refusal letter",
+          "Well-improved reapplication: 60-70% approval rate",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Appeal a Schengen Visa Refusal",
+      },
+      {
+        type: "p",
+        text: "If you choose to appeal, you must submit the appeal within 21 days of receiving the refusal letter (some embassies give 30 days). The appeal must be in the language of the embassy (French for France, German for Germany, etc.) or English. The appeal letter should: address each refusal reason specifically, provide new evidence or clarification, and be polite and professional (not aggressive). Submit the appeal by registered mail or in person at the embassy. There is no appeal fee. Processing time: 6-12 months. If the appeal is rejected, you can appeal to the national court of the Schengen country (lawyer recommended, expensive). For most Pakistani applicants, reapplication is more practical than appeal.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Appeal submission: Within 21-30 days of receiving refusal letter",
+          "Language: Embassy's language (French, German, etc.) or English",
+          "Appeal letter: Address each refusal reason specifically",
+          "Provide new evidence or clarification (not just restating old documents)",
+          "Tone: Polite, professional, NOT aggressive",
+          "Submission: Registered mail or in person at embassy",
+          "Appeal fee: None (free)",
+          "Processing time: 6-12 months",
+          "If appeal rejected: Can appeal to national court (lawyer needed, expensive)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Reapplication Strategy: 5-Step Plan",
+      },
+      {
+        type: "p",
+        text: "If you choose to reapply (recommended for most refusals), follow this 5-step plan. Step 1: Analyze the refusal letter — identify every weakness. Step 2: Wait 3-6 months — use this time to improve your profile. Step 3: Address every weakness systematically — if financial weakness, build bank balance; if travel history, visit easier countries; if purpose unclear, prepare better itinerary. Step 4: Reapply with substantially stronger documents — your new application should look completely different from the refused one. Step 5: Include a cover letter explaining what changed since the previous application. This structured approach has helped many Pakistani applicants succeed on their second attempt.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Step 1: Analyze refusal letter — identify every weakness",
+          "Step 2: Wait 3-6 months before reapplying",
+          "Step 3: Address every weakness — bank balance, travel history, itinerary, employment",
+          "Step 4: Reapply with substantially stronger documents (different from refused application)",
+          "Step 5: Include cover letter explaining what changed since previous application",
+          "Step 6: Consider applying to a different Schengen embassy if profile permits",
+          "Step 7: Use HTG Travels for document review before reapplication",
+          "Expected outcome: 60-70% approval rate on well-improved reapplication",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Pro Tips for Schengen Visa Approval",
+      },
+      {
+        type: "p",
+        text: "Beyond addressing refusal reasons, several strategies improve approval chances. Apply to the embassy of the country where you'll spend the most days (main destination rule). Build travel history before applying — visit Thailand, Malaysia, Singapore, UAE (easier visas for Pakistanis). Maintain stable employment for 3+ years at the same company. Buy property in Pakistan (even a small plot — strong tie). Apply during off-peak season (September-November, January-February) when embassies have lower caseloads. Provide a cover letter explaining every aspect of your application. Use HTG Travels for document preparation — our experience helps avoid common mistakes that lead to refusal. Following these tips can improve your approval rate to 70-80%.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Apply to correct embassy: Main destination rule (most days in that country)",
+          "Build travel history: Thailand, Malaysia, Singapore, UAE first",
+          "Stable employment: 3+ years at same company",
+          "Property ownership: Even small plot is a strong tie",
+          "Off-peak application: September-November, January-February",
+          "Cover letter: Explain every aspect of application",
+          "Use HTG Travels for document review before submission",
+          "Following these tips: Approval rate improves to 70-80%",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Previously refused a Schengen visa? Message HTG Travels on WhatsApp for reapplication guidance and document review.",
+      },
+    ],
+  },
+  {
+    slug: "best-hotels-near-haram-makkah-madinah",
+    title: "Best Hotels Near Haram in Makkah and Madinah: 2026 Guide for Pakistani Pilgrims",
+    category: "Travel",
+    metaDescription:
+      "Complete guide to the best hotels near Haram in Makkah and Madinah. Distance, star ratings, prices, amenities, family rooms, and recommendations for elderly, families, and budget travelers.",
+    keywords: [
+      "best hotels near Haram Makkah",
+      "hotels near Masjid al-Haram",
+      "Madinah hotels near Masjid an-Nabawi",
+      "Clock Tower hotel Makkah",
+      "Umrah hotel booking Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Choosing the right hotel near the Haram is the single most important decision for your Umrah or Hajj trip. The closer your hotel to the Haram, the less walking required — critical for elderly pilgrims, families with children, and anyone performing multiple daily prayers. This 2026 guide covers the best hotels near Masjid al-Haram in Makkah and Masjid an-Nabawi in Madinah, organized by budget category, distance, and pilgrim type. We cover the famous Clock Tower hotels in Makkah, the premium Jabal Omar district, the budget-friendly Aziziyah area, and the closest hotels to the Rawdah in Madinah. All recommendations are based on Pakistani pilgrim reviews and HTG Travels' direct booking experience.",
+      },
+      {
+        type: "h2",
+        text: "Why Hotel Distance from Haram Matters",
+      },
+      {
+        type: "p",
+        text: "Hotel distance from the Haram directly impacts your Umrah experience. A hotel 200m from the Haram means you can return to your room for rest, bathroom breaks, and meals between prayers — a 5-minute walk each way. A hotel 1km away means a 12-minute walk each way, which becomes exhausting when done 5 times daily (60 minutes of walking just for prayers). For elderly pilgrims, every 100m closer to the Haram is worth paying for. For families with young children, proximity allows mid-day naps and easy diaper changes. The closer hotels cost more — but for most pilgrims, the convenience is worth the extra cost. HTG Travels has negotiated rates with most Haram-adjacent hotels.",
+      },
+      {
+        type: "ul",
+        items: [
+          "200m from Haram: 5-minute walk — easy for rest between prayers",
+          "500m from Haram: 8-10 minute walk — manageable for most pilgrims",
+          "1km from Haram: 12-15 minute walk — exhausting for elderly, 5x daily",
+          "2km+ from Haram: Requires taxi or bus — impractical for daily prayers",
+          "Closer hotels cost more but worth it for elderly and families",
+          "Premium pricing: Hotels within 200m command 50-100% premium",
+          "Sweet spot: 300-500m offers good balance of cost and convenience",
+          "Tip: Check exact walking route — some 'close' hotels require uphill walks",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Premium Hotels in Makkah (Within 200m of Haram)",
+      },
+      {
+        type: "p",
+        text: "The most premium hotels in Makkah are in the Clock Tower complex (Abraj Al Bait) — directly adjacent to Masjid al-Haram. These hotels offer direct access to the Haram via elevated walkways, no street crossing required. The complex houses multiple hotels at different price points, all within 100m of the King Fahd Gate. The Fairmont Makkah Clock Tower is the flagship — 5-star luxury with Haram views from every room. Raffles Makkah Palace is another premium option. Swissôtel Al Maqam offers slightly more affordable 5-star comfort. Conrad Makkah Jabal Omar (500m from Haram) is also excellent. These hotels range from SAR 1,500-5,000+ per night depending on season.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Fairmont Makkah Clock Tower: 5-star ultra-luxury, Haram views, SAR 2,500-5,000/night",
+          "Raffles Makkah Palace: 5-star luxury, all suites, SAR 2,000-4,500/night",
+          "Swissôtel Al Maqam: 5-star, Haram views, SAR 1,500-3,500/night",
+          "Conrad Makkah Jabal Omar: 5-star, 500m from Haram, SAR 1,200-2,800/night",
+          "Mövenpick Hotel & Residences: 4-5 star, 600m from Haram, SAR 900-2,200/night",
+          "All Clock Tower hotels: Direct Haram access via elevated walkway (no street crossing)",
+          "Tip: Book 6+ months in advance for Ramadan — these hotels sell out fast",
+          "Best for: Honeymooners, business pilgrims, special occasions",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Mid-Range Hotels in Makkah (300-600m from Haram)",
+      },
+      {
+        type: "p",
+        text: "Mid-range hotels offer the best balance of cost and proximity for most Pakistani pilgrims. Located 300-600m from the Haram, these hotels are a 5-10 minute walk to the King Fahd Gate or Ajyad Gate. Most are 3-4 star properties with clean rooms, working elevators, and included breakfast. Prices range from SAR 400-1,200 per night depending on season. The Al Shohada Hotel (Swissôtel-affiliated) is excellent value at 400m from Haram. Makkah Hotel (formerly InterContinental) is a solid 4-star choice. Hilton Suites Makkah offers spacious family suites. Al Marwa Rayhaan by Rotana is a premium 5-star at mid-range distance. Book these 2-3 months in advance for best rates.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Al Shohada Hotel: 4-star, 400m from Haram, SAR 500-1,200/night",
+          "Makkah Hotel: 4-star (formerly InterContinental), 500m from Haram, SAR 600-1,500/night",
+          "Hilton Suites Makkah: 4-star, family suites, 600m from Haram, SAR 700-1,800/night",
+          "Al Marwa Rayhaan by Rotana: 5-star, 350m from Haram, SAR 800-2,000/night",
+          "Pullman Makkah Zam Zam: 5-star, 200m from Haram, SAR 800-2,000/night",
+          "Elaf Al Mashaer Hotel: 4-star, 700m from Haram, SAR 400-900/night",
+          "Best value: Al Shohada and Elaf Al Mashaer for budget-conscious pilgrims",
+          "Best for families: Hilton Suites (large family suites available)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Budget Hotels in Makkah (700m-1.5km from Haram)",
+      },
+      {
+        type: "p",
+        text: "Budget hotels in Makkah are located 700m-1.5km from the Haram — primarily in the Aziziyah and Awali districts. These are 2-3 star properties with basic amenities, ideal for budget-conscious pilgrims willing to walk or take shuttle buses. Prices range from SAR 200-500 per night. Many hotels offer free shuttle buses to the Haram during prayer times. Look for hotels near the Ajyad Gate or Bab-e-Umrah for shorter walks. Popular budget chains include Emaar Hotels and Makkah Grand Hotel. Avoid the absolute cheapest hotels (under SAR 200/night) — they often have cleanliness issues, broken AC, and unreliable elevators. HTG Travels can recommend vetted budget options.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Aziziyah district: 1-1.5km from Haram, budget options SAR 200-400/night",
+          "Awali district: 1.5-2km from Haram, cheapest options SAR 150-300/night",
+          "Look for: Free shuttle buses to Haram during prayer times",
+          "Popular budget chains: Emaar Hotels, Makkah Grand Hotel",
+          "Avoid: Hotels under SAR 200/night (cleanliness, AC, elevator issues)",
+          "Hotel recommendations: HTG Travels has vetted budget options",
+          "Best budget hotel area: Near Ajyad Gate (shorter walk to Haram)",
+          "Tip: Walk to Haram for Fajr (cool morning), shuttle for afternoon prayers",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Premium Hotels in Madinah (Within 200m of Masjid an-Nabawi)",
+      },
+      {
+        type: "p",
+        text: "Madinah's premium hotels are located along the Central Area (Al Manakhah) directly adjacent to Masjid an-Nabawi. These hotels are within 100m of the mosque's gates — many offer direct views of the Green Dome. The Oberoi Madinah is the flagship luxury hotel, offering 5-star comfort with Haram views. Anwar Al Madinah Mövenpick is the largest hotel in Madinah with excellent facilities. Dar Al Taqwa Hotel is a premium 5-star directly across from Bab-e-Salam gate. Madinah Hilton is a 5-star 200m from the Haram. These premium hotels range from SAR 1,000-3,500 per night. Book 6+ months in advance for Ramadan, as Madinah gets extremely crowded.",
+      },
+      {
+        type: "ul",
+        items: [
+          "The Oberoi Madinah: 5-star ultra-luxury, Green Dome views, SAR 2,000-3,500/night",
+          "Anwar Al Madinah Mövenpick: 5-star, 100m from Haram, SAR 1,200-2,500/night",
+          "Dar Al Taqwa Hotel: 5-star, opposite Bab-e-Salam, SAR 1,500-3,000/night",
+          "Madinah Hilton: 5-star, 200m from Haram, SAR 1,200-2,500/night",
+          "Mövenpick Al Madinah: 4-5 star, 150m from Haram, SAR 900-2,000/night",
+          "Al Eiman Taibah Hotel: 4-star, 100m from Haram, SAR 600-1,500/night",
+          "Best view: Oberoi Madinah (Green Dome views from premium rooms)",
+          "Best for families: Anwar Al Madinah Mövenpick (large rooms, family suites)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Mid-Range and Budget Hotels in Madinah",
+      },
+      {
+        type: "p",
+        text: "Mid-range Madinah hotels are 300-800m from Masjid an-Nabawi — a 5-12 minute walk. Budget options are 1-2km away, requiring shuttle or taxi. Mid-range hotels include Al Eiman Royal (350m, SAR 500-1,200/night), Al Eiman Saver (400m, SAR 400-900/night), and Madinah Marriott (600m, SAR 700-1,500/night). Budget options include Al Andalus Suites (1km, SAR 300-600/night) and various hotels in the Awali area (1.5-2km, SAR 200-400/night). Many budget hotels offer free shuttle buses to Masjid an-Nabawi during prayer times. For Madinah, the walk to the Haram is generally flatter than Makkah, making longer distances more manageable for elderly pilgrims.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Al Eiman Royal: 4-star, 350m from Haram, SAR 500-1,200/night",
+          "Al Eiman Saver: 3-star, 400m from Haram, SAR 400-900/night",
+          "Madinah Marriott: 4-star, 600m from Haram, SAR 700-1,500/night",
+          "Al Andalus Suites: 3-star, 1km from Haram, SAR 300-600/night",
+          "Awali area hotels: 1.5-2km from Haram, SAR 200-400/night",
+          "Many budget hotels: Free shuttle to Masjid an-Nabawi during prayers",
+          "Madinah walk to Haram: Flatter than Makkah, more manageable for elderly",
+          "Best value: Al Eiman Saver (good quality at mid-range distance)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Hotels by Pilgrim Type",
+      },
+      {
+        type: "p",
+        text: "Different pilgrim types have different hotel needs. For elderly pilgrims, proximity (within 200m) is non-negotiable — book Clock Tower hotels in Makkah and Dar Al Taqwa or Oberoi in Madinah. For families with young children, look for hotels with family suites and connecting rooms — Hilton Suites Makkah and Anwar Al Madinah Mövenpick are excellent. For budget pilgrims, mid-range hotels 500-700m away offer the best value — Al Shohada in Makkah, Al Eiman Saver in Madinah. For honeymooners or special occasions, premium Haram-view rooms are worth splurging — Fairmont Makkah, Oberoi Madinah. For groups, look for hotels with large dining areas and multiple elevators.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Elderly pilgrims: Clock Tower hotels (Makkah), Dar Al Taqwa (Madinah) — within 200m",
+          "Families with children: Hilton Suites Makkah, Anwar Al Madinah Mövenpick — family suites",
+          "Budget pilgrims: Al Shohada Makkah, Al Eiman Saver Madinah — 500-700m, best value",
+          "Honeymooners: Fairmont Makkah, Oberoi Madinah — Haram views, luxury",
+          "Groups: Hotels with large dining areas, multiple elevators (HTG Travels can arrange)",
+          "Female travelers: Hotels with female-only floors (some Mövenpick properties)",
+          "Accessible rooms: Conrad Makkah, Anwar Al Madinah Mövenpick (wheelchair accessible)",
+          "Tip: HTG Travels tailors hotel recommendations to your specific pilgrim profile",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Hotel Booking Tips for Pakistani Pilgrims",
+      },
+      {
+        type: "p",
+        text: "Booking the right hotel requires strategy. Book 4-6 months in advance for peak seasons (Ramadan, December) — last-minute bookings during these times are 2-3x more expensive. Book 2-3 months in advance for shoulder seasons (April-May, October-November). For off-season (July-August), book 2-4 weeks in advance for last-minute deals. Always confirm the hotel's exact distance from the Haram before booking — some hotels claim 'walking distance' when they're actually 2km away. Ask HTG Travels for verified distance information. Pay attention to hotel star rating — 4-star and above have reliable AC, elevators, and cleanliness. Read reviews on TripAdvisor and Google — focus on reviews from Pakistani travelers.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Peak season (Ramadan, December): Book 4-6 months in advance",
+          "Shoulder season (Apr-May, Oct-Nov): Book 2-3 months in advance",
+          "Off-season (Jul-Aug): Book 2-4 weeks in advance for last-minute deals",
+          "Confirm exact distance from Haram — some hotels claim 'walking distance' misleadingly",
+          "Use HTG Travels for verified distance information",
+          "Star rating: 4+ stars have reliable AC, elevators, cleanliness",
+          "Read reviews: TripAdvisor, Google — focus on Pakistani traveler reviews",
+          "Tip: Ask for room with Haram view (premium, but worth it for spiritual experience)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What to Check Before Booking",
+      },
+      {
+        type: "p",
+        text: "Before confirming your hotel booking, verify several critical details. Check the hotel's exact location on Google Maps — measure walking distance to the Haram's nearest gate. Confirm whether breakfast is included (Saudi hotel breakfasts are substantial and save PKR 1,500-2,500 per day per person). Check if the hotel has working elevators (some older hotels have unreliable elevators). Confirm air conditioning in rooms — this is non-negotiable in Saudi heat. Ask about the bathroom setup (bathtub vs shower — bathtubs better for families with children). Check if the hotel has an in-house restaurant for dinner (saves walking to restaurants after Isha). Verify the cancellation policy — life happens, and flexible cancellation is worth a small premium.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Check Google Maps: Measure walking distance to nearest Haram gate",
+          "Breakfast included: Saves PKR 1,500-2,500/day per person",
+          "Working elevators: Critical — some older hotels have unreliable elevators",
+          "Air conditioning: Non-negotiable in Saudi heat (verify in reviews)",
+          "Bathroom setup: Bathtub vs shower (bathtub better for families with children)",
+          "In-house restaurant: For dinner — saves walking after Isha prayer",
+          "Cancellation policy: Flexible cancellation worth small premium",
+          "Tip: Request quiet room (away from elevators and main roads)",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Looking for the best hotel near Haram for your Umrah? Message HTG Travels on WhatsApp for personalized recommendations and discounted rates.",
+      },
+    ],
+  },
 ];
