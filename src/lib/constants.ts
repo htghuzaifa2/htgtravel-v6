@@ -23,7 +23,7 @@ export const NAV_ITEMS = [
   { label: "Umrah", href: "/umrah" },
   { label: "Insurance", href: "/insurance" },
   { label: "Destinations", href: "/destinations" },
-  { label: "Corporate", href: "/corporate" },
+  { label: "Blog", href: "/blog" },
   { label: "About", href: "/about" },
   { label: "Contact", href: "/contact" },
 ] as const;
@@ -70,6 +70,7 @@ export const FOOTER_LINKS = {
     { label: "Umrah & Hajj Packages", href: "/umrah" },
   ],
   resources: [
+    { label: "Blog & Guides", href: "/blog" },
     { label: "About HTG Travels", href: "/about" },
     { label: "FAQ", href: "/faq" },
     { label: "Travel Destinations", href: "/destinations" },

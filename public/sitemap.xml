@@ -61,3 +61,39 @@
     <priority>0.3</priority>
   </url>
 </urlset>
+  <url>
+    <loc>https://htg.com.pk/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/uk-visitor-visa-guide-pakistan/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/schengen-visa-checklist-pakistan/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/umrah-packing-list-complete-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/cheap-flights-from-pakistan/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/uae-tourist-visa-30-vs-60-days/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://htg.com.pk/blog/ramadan-umrah-planning-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
