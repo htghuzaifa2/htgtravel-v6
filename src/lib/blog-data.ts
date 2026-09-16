@@ -7625,4 +7625,576 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "dubai-transit-visa-guide-pakistan",
+    title: "Dubai Transit Visa: Free 96-Hour Visa for Layovers",
+    category: "Visa",
+    metaDescription:
+      "Complete Dubai transit visa guide for Pakistanis. How to get a free 96-hour transit visa for Dubai layovers, eligibility, how to apply through airlines, and what to do during your stopover.",
+    keywords: [
+      "Dubai transit visa",
+      "UAE transit visa Pakistan",
+      "96 hour visa Dubai",
+      "Dubai layover visa",
+      "free transit visa Dubai",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "If you are flying through Dubai on a connecting flight, you can get a free 96-hour transit visa to explore the city during your layover. This is one of the best travel hacks for Pakistani travelers flying Emirates or flydubai. This guide covers everything you need to know about the Dubai transit visa.",
+      },
+      {
+        type: "h2",
+        text: "What is a Dubai Transit Visa?",
+      },
+      {
+        type: "p",
+        text: "A transit visa allows you to leave the airport and enter Dubai for up to 96 hours (4 days) during a layover. It is available for Pakistani citizens and is FREE when arranged through Emirates or flydubai.",
+      },
+      {
+        type: "h2",
+        text: "Eligibility",
+      },
+      {
+        type: "ul",
+        items: [
+          "You must be flying Emirates or flydubai (transit visa is arranged by the airline)",
+          "Your layover must be between 8-96 hours",
+          "You must have a confirmed onward ticket to a third destination (not back to Pakistan)",
+          "Your passport must be valid for 6+ months",
+          "Example: Lahore to Dubai (layover 48 hours) to London — eligible for transit visa",
+          "Example: Lahore to Dubai to Lahore — NOT eligible (must continue to a third country)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Apply",
+      },
+      {
+        type: "ul",
+        items: [
+          "When booking your Emirates or flydubai flight, select the transit visa option during checkout",
+          "Or contact Emirates/flydubai customer service after booking to request transit visa",
+          "Upload passport scan and photo through the airline portal",
+          "Processing: 24-72 hours",
+          "Cost: FREE (Emirates and flydubai absorb the visa fee for transit passengers)",
+          "The visa is issued as an eVisa PDF — print it and carry it with you",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What to Do During a Dubai Layover (48-96 Hours)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visit Burj Khalifa (book tickets online for sunset slot)",
+          "Dubai Mall (aquarium, fountain show, shopping)",
+          "Desert safari (4-6 hours, includes dune bashing, camel ride, BBQ dinner)",
+          "Dubai Marina walk and dinner cruise",
+          "Old Dubai: Gold Souk, Spice Souk, Dubai Creek abra ride (AED 1)",
+          "Jumeirah Beach and Burj Al Arab photo stop",
+          "Mall of the Emirates (indoor ski slope)",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Have a Dubai layover? Message HTG Travels on WhatsApp for transit visa and stopover packages.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-during-summer-survival-guide",
+    title: "Umrah in Summer: Survival Guide for Hot Weather Pilgrimage",
+    category: "Umrah",
+    metaDescription:
+      "How to perform Umrah during summer (May-September) when temperatures reach 45-48°C. Heat survival tips, best times for Tawaf, hydration strategies, and how to avoid heat exhaustion.",
+    keywords: [
+      "Umrah in summer",
+      "Umrah hot weather",
+      "summer Umrah guide",
+      "Umrah heat survival",
+      "Makkah temperature Umrah",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Performing Umrah during summer (May-September) is challenging due to extreme heat (45-48°C in Makkah). However, it is also the cheapest time to go and the least crowded. If you must travel during summer, this survival guide will help you stay safe and comfortable.",
+      },
+      {
+        type: "h2",
+        text: "Why Summer Umrah is Different",
+      },
+      {
+        type: "ul",
+        items: [
+          "Temperatures: 40-48°C during the day, 30-35°C at night",
+          "Package prices: 30-50% cheaper than winter and Ramadan",
+          "Crowds: Much smaller — easier Tawaf, shorter queues, better hotel availability",
+          "Daylight: Long days (Fajr at 5 AM, Maghrib at 7 PM) — more time for worship",
+          "Risk: Heat exhaustion, dehydration, and heatstroke if not careful",
+        ],
+      },
+      {
+        type: "h2",
+        text: "10 Summer Umrah Survival Tips",
+      },
+      {
+        type: "ul",
+        items: [
+          "Perform Tawaf between 2-5 AM (coolest time, fewest people, safest)",
+          "Alternatively, perform Tawaf after Isha (8-10 PM) when it cools down",
+          "NEVER perform Tawaf between 11 AM - 4 PM — this is peak heat, dangerous",
+          "Drink 4-5 liters of water per day (carry a 1-liter bottle, refill at Zamzam stations)",
+          "Carry ORS packets — mix with water if you feel dizzy or excessively sweaty",
+          "Wear a hat or carry an umbrella when walking outside the Haram",
+          "Use the Haram's air-conditioned areas during peak heat hours",
+          "Eat light meals — heavy food in heat causes sluggishness",
+          "Wear loose, light-colored clothing (Ihram is already ideal — white reflects heat)",
+          "If you feel dizzy, nauseous, or stop sweating: STOP, sit in AC, drink cold water, seek medical help",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Signs of Heat Exhaustion (Seek Help Immediately)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Dizziness or lightheadedness",
+          "Excessive sweating followed by stopping of sweat",
+          "Headache",
+          "Nausea or vomiting",
+          "Rapid pulse",
+          "Muscle cramps",
+          "Pale, clammy skin",
+          "If you experience these: Sit in AC immediately, drink cold water with ORS, and if symptoms persist, go to the Haram medical center (free treatment available)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Times for Each Activity in Summer",
+      },
+      {
+        type: "ul",
+        items: [
+          "Tawaf: 2-5 AM (Fajr) or 9-11 PM (after Isha)",
+          "Sa'i: Same times as Tawaf (Sa'i area is air-conditioned, so slightly safer)",
+          "Ziyarat: 6-8 AM (early morning) or 5-7 PM (sunset)",
+          "Prayers: Inside the Haram (air-conditioned, safe at any time)",
+          "Rest: 11 AM - 4 PM (stay in air-conditioned hotel room)",
+          "Shopping: Malls are air-conditioned (safe any time)",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Planning summer Umrah? Message HTG Travels on WhatsApp for the cheapest summer packages.",
+      },
+    ],
+  },
+  {
+    slug: "us-visa-interview-preparation-guide",
+    title: "US Visa Interview Preparation: Complete Guide for Pakistanis",
+    category: "Visa",
+    metaDescription:
+      "How to prepare for your US visa interview from Pakistan. What to wear, what to bring, most common questions, how to answer, and the #1 secret to getting approved. Complete 2026 guide.",
+    keywords: [
+      "US visa interview Pakistan",
+      "US visa interview preparation",
+      "US visa interview questions",
+      "American visa interview tips",
+      "US embassy Islamabad interview",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "The US visa interview is the most critical part of the B1/B2 visa application process. It lasts only 2-5 minutes, but those minutes determine whether you get approved or refused. This guide covers everything you need to walk into the US Embassy in Islamabad or Consulate in Karachi with confidence.",
+      },
+      {
+        type: "h2",
+        text: "What to Wear to the Interview",
+      },
+      {
+        type: "ul",
+        items: [
+          "Dress formally — suit or formal shirt/trousers for men, shalwar kameez or formal dress for women",
+          "Look neat and professional — first impressions matter",
+          "Avoid casual clothes (jeans, t-shirts, sneakers, slippers)",
+          "Avoid excessive jewelry or flashy accessories",
+          "Ensure your appearance matches your stated profession (if you say you are a businessman, dress like one)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What to Bring",
+      },
+      {
+        type: "ul",
+        items: [
+          "Passport (current + any old passports with previous visas)",
+          "DS-160 confirmation page with barcode",
+          "Appointment confirmation letter (printed)",
+          "Visa fee receipt (printed)",
+          "One passport photo (2x2 inch, white background, taken within last 6 months)",
+          "Supporting documents: bank statements, employment letter, property papers, marriage/birth certificates",
+          "Phone is NOT allowed inside the embassy — leave it in your car or with a companion",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Most Common Interview Questions and Best Answers",
+      },
+      {
+        type: "p",
+        text: "Here are the most frequently asked questions and how to answer them:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Q: Why do you want to go to the US? A: Be specific — tourism (name cities you will visit), family visit (name who), business meeting (name company). Never say 'just to visit.'",
+          "Q: How long will you stay? A: State exact dates matching your leave application. '2 weeks, from June 1 to June 15.'",
+          "Q: Who is paying for your trip? A: 'I am' (if self-funded) or 'My son/brother/employer' (if sponsored). Have proof ready.",
+          "Q: What do you do? A: State your job title, company name, and monthly salary confidently. 'I am a marketing manager at ABC Company, earning PKR 200,000 per month.'",
+          "Q: Have you traveled before? A: List countries visited. 'Yes, I have been to UAE, Saudi Arabia, and Turkey.' Show old passport stamps.",
+          "Q: Do you have family in the US? A: Be honest. If yes, state their legal status (green card, citizen, student). Lying = permanent ban.",
+          "Q: Will you come back? A: Emphasize ties — 'I have my job, my family, my property in Pakistan. I must return by [date] because my leave ends then.'",
+        ],
+      },
+      {
+        type: "h2",
+        text: "The #1 Secret to US Visa Approval",
+      },
+      {
+        type: "p",
+        text: "The consul officer's job is to determine if you have 'strong ties' to Pakistan that compel you to return. The secret is: do not just SAY you will return — SHOW it with documents. Bring property papers, employment letter with leave approval, children's school enrollment, business registration, and previous travel history. Physical evidence is more convincing than verbal promises.",
+      },
+      {
+        type: "h2",
+        text: "What NOT to Do at the Interview",
+      },
+      {
+        type: "ul",
+        items: [
+          "Do not memorize scripted answers — sound natural and conversational",
+          "Do not over-explain — answer in 1-2 sentences, then stop",
+          "Do not bring documents the consul did not ask for (but have them ready)",
+          "Do not argue with the consul — be respectful even if refused",
+          "Do not lie about anything — ever. A single lie = permanent ineligibility",
+          "Do not bring a phone or electronic device — they are banned in the embassy",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Preparing for a US visa interview? Message HTG Travels on WhatsApp for expert guidance.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-etiquette-guide-makkah-madinah",
+    title: "Umrah Etiquette: How to Behave in Makkah and Madinah",
+    category: "Umrah",
+    metaDescription:
+      "Complete guide to Umrah etiquette and behavior in the holy cities. How to act in the Haram, mosque etiquette, interacting with other pilgrims, and cultural tips for Pakistani pilgrims.",
+    keywords: [
+      "Umrah etiquette",
+      "Haram etiquette",
+      "behavior in Makkah",
+      "mosque etiquette Islam",
+      "Umrah manners guide",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Performing Umrah is not just about completing the rituals — it is also about how you behave in the holiest places on Earth. Your manners, patience, and respect for other pilgrims are part of your worship. This guide covers the proper etiquette for pilgrims in Makkah and Madinah.",
+      },
+      {
+        type: "h2",
+        text: "Etiquette Inside the Haram (Makkah and Madinah)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Enter with your right foot and recite the prescribed dua for entering the mosque",
+          "Keep your voice low — the Haram is a place of worship, not a social gathering",
+          "Do NOT push or shove — even in crowded areas, be patient and gentle",
+          "Do NOT reserve seats by placing items and leaving — others need the space",
+          "Do NOT walk in front of someone who is praying (cross behind them, not in front)",
+          "Do NOT take photos of other pilgrims without permission (especially women)",
+          "Do NOT bring food or drinks inside the prayer area (water/Zamzam is OK)",
+          "Turn off your phone or put it on silent — ringing phones disturb worshippers",
+          "Do NOT use the Haram floor as a sleeping area during non-prayer times — use designated rest areas",
+          "Cover your mouth when coughing or sneezing",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tawaf Etiquette",
+      },
+      {
+        type: "ul",
+        items: [
+          "Walk calmly and respectfully — do not run (except the Sunnah of ramal in first 3 circuits for men)",
+          "Do NOT push to get closer to the Kaabah — the outer circles are equally valid",
+          "Do NOT stop in the middle of Tawaf to take photos — wait until after completion",
+          "Do NOT touch the Kaabah walls or the Black Stone forcefully — if you cannot reach, pointing is sufficient",
+          "Keep your Ihram clothing properly adjusted — do not let it drag on the floor",
+          "Make dua throughout Tawaf — this is the best time for supplication",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Interacting with Other Pilgrims",
+      },
+      {
+        type: "ul",
+        items: [
+          "Smile and say 'Salam' to fellow pilgrims — they are your brothers and sisters in faith",
+          "Help elderly pilgrims — offer your seat, help them find their way, push their wheelchair",
+          "Be patient with crowds — everyone is here for the same reason; do not lose your temper",
+          "Respect different cultures — pilgrims come from 180+ countries; customs vary",
+          "Do NOT stare at women or take photos of them — this is strictly prohibited",
+          "Share the Zamzam water stations — do not hog the area",
+          "Keep children close and quiet — do not let them run around or disturb worshippers",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Etiquette at the Prophet's Mosque (Madinah)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Send abundant salutations (Salawat/Durood) upon the Prophet (PBUH)",
+          "At the Prophet's grave: Be respectful, do not raise your voice, do not touch or kiss the grille",
+          "Do NOT face the grave while praying — face the Qibla (Kaabah direction) like the Prophet taught",
+          "Visit the Rawdah only with a permit (via Nusuk app) and respect the time slot",
+          "In the Rawdah: Keep conversation minimal — it is described as 'a garden from the gardens of Paradise'",
+          "Pray 2 rakats of Tahajjud/Tahiyyatul Masjid upon entering",
+        ],
+      },
+      {
+        type: "h2",
+        text: "General Behavior Tips",
+      },
+      {
+        type: "ul",
+        items: [
+          "Be patient with hotel staff, drivers, and shopkeepers — they serve millions of pilgrims",
+          "Bargain respectfully in markets — it is expected, but do not be aggressive",
+          "Do NOT litter — use trash bins (they are everywhere in the Haram area)",
+          "Dress modestly at all times — you are in the holiest cities on Earth",
+          "Avoid arguments and foul language — Ihram prohibits arguing",
+          "Be generous — give charity to the poor you see near the Haram",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Questions about Umrah etiquette? Message HTG Travels on WhatsApp for guidance.",
+      },
+    ],
+  },
+  {
+    slug: "pakistan-to-jeddah-flight-guide",
+    title: "Pakistan to Jeddah: Complete Flight Guide for Umrah and Tourism",
+    category: "Flights",
+    metaDescription:
+      "Complete flight guide from Pakistan to Jeddah. Airlines, direct vs connecting flights, fares, best booking times, baggage for Umrah, and tips for Jeddah airport arrivals.",
+    keywords: [
+      "Pakistan to Jeddah flights",
+      "Jeddah flight tickets Pakistan",
+      "flights to Saudi Arabia Pakistan",
+      "Umrah flight guide",
+      "cheap Jeddah flights",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Jeddah is the main gateway to Makkah for Umrah and Hajj pilgrims, and also a growing tourist destination itself. This guide covers everything Pakistani travelers need to know about flying to Jeddah — from choosing the right airline to navigating Jeddah airport.",
+      },
+      {
+        type: "h2",
+        text: "Airlines Flying Pakistan to Jeddah",
+      },
+      {
+        type: "ul",
+        items: [
+          "PIA: Direct from Lahore, Islamabad, Karachi, Sialkot, Multan. Flight time: 4-6 hours. Fares: PKR 55,000-90,000 round-trip.",
+          "Saudia: Direct from Lahore, Islamabad, Karachi. Flight time: 4-5 hours. Fares: PKR 50,000-85,000. Generous baggage (2x25kg + Zamzam allowance).",
+          "flydubai: Via Dubai. Total: 7-8 hours. Fares: PKR 60,000-100,000.",
+          "Air Arabia: Via Sharjah. Total: 7-8 hours. Fares: PKR 55,000-90,000. Budget option.",
+          "Qatar Airways: Via Doha. Total: 8-9 hours. Fares: PKR 65,000-110,000. Premium service.",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Time to Book Jeddah Flights",
+      },
+      {
+        type: "ul",
+        items: [
+          "Off-season (November-February): Cheapest fares, cool weather in Saudi",
+          "Ramadan: Most expensive — book 6+ months in advance",
+          "Hajj season (May-June): Extremely expensive, special Hajj flights only",
+          "Summer (June-August): Moderate prices, but extremely hot in Saudi",
+          "Book 4-6 weeks ahead for best fares (2-3 weeks for domestic routes to Jeddah)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Baggage Allowance for Umrah Flights",
+      },
+      {
+        type: "ul",
+        items: [
+          "PIA: 25-30kg checked + 7kg carry-on + 10kg Zamzam on return (Umrah passengers)",
+          "Saudia: 25kg checked + 7kg carry-on + 10kg Zamzam free on return (best for Umrah)",
+          "flydubai: 20-25kg checked + 7kg carry-on + 5kg Zamzam (depending on fare type)",
+          "Tip: Saudia offers the best Zamzam allowance — 10kg free on the return flight",
+          "Pack light on the way there — you will need space for Zamzam and gifts on the return",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Jeddah Airport Arrival Guide",
+      },
+      {
+        type: "ul",
+        items: [
+          "King Abdulaziz International Airport (JED): New terminal, modern, efficient",
+          "Immigration: Have passport, visa/eVisa printout, and vaccination certificate ready",
+          "Umrah passengers: There is a special Umrah immigration lane (faster)",
+          "After immigration: Collect luggage, go through customs (random bag checks)",
+          "Transport from airport: Pre-booked transfer (HTG Travels arranges this) or taxi (SAR 100-200 to Makkah)",
+          "Distance: Jeddah Airport to Makkah = 90km, 60-90 minutes by road",
+          "SIM card: STC, Mobily, Zain kiosks available at arrivals (SAR 30-50 for tourist SIM)",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Flying to Jeddah for Umrah? Message HTG Travels on WhatsApp for the best flight + hotel packages.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-women-guide-complete",
+    title: "Umrah for Women: Complete Guide for Female Pilgrims from Pakistan",
+    category: "Umrah",
+    metaDescription:
+      "Complete Umrah guide for women. Ihram rules for women, Mahram requirements, what to wear, safety tips, and practical advice for female pilgrims from Pakistan performing Umrah.",
+    keywords: [
+      "Umrah for women",
+      "Umrah women guide Pakistan",
+      "Mahram requirement Umrah",
+      "women Ihram rules",
+      "female pilgrim guide",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Women face unique considerations when performing Umrah — from Ihram rules to Mahram requirements, safety concerns to menstrual issues. This guide addresses everything female pilgrims from Pakistan need to know for a comfortable and spiritually fulfilling Umrah journey.",
+      },
+      {
+        type: "h2",
+        text: "Mahram Requirement",
+      },
+      {
+        type: "p",
+        text: "Saudi Arabia requires women under 45 to travel with a Mahram (male guardian — husband, father, brother, son, uncle, or grandfather) for Umrah. Women 45 and above may travel in organized groups without a Mahram (subject to current Saudi regulations — check with HTG Travels for the latest rules).",
+      },
+      {
+        type: "ul",
+        items: [
+          "Mahram must be a blood relative or husband (not a cousin or friend)",
+          "Mahram must also have a valid Umrah visa/eVisa",
+          "Women 45+ traveling in groups: Need group leader authorization and NOC from family",
+          "Always check current rules with HTG Travels before booking — Saudi regulations change frequently",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Ihram Rules for Women",
+      },
+      {
+        type: "ul",
+        items: [
+          "Women's Ihram: Wear modest, loose-fitting clothing (any color — not restricted to white)",
+          "Abaya is recommended but not mandatory — any loose dress that covers the body is acceptable",
+          "Face: Do NOT cover the face with niqab/burqa during Ihram (this is a specific prohibition for women in Ihram)",
+          "Hands: Do NOT wear gloves",
+          "Hair: Do NOT cover the head with a face veil, but hijab/headscarf IS required (normal hijab is fine)",
+          "Footwear: Wear comfortable shoes or sandals (no restriction on covering feet for women)",
+          "Perfume: Not allowed during Ihram (same as men)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What Women Should Pack for Umrah",
+      },
+      {
+        type: "ul",
+        items: [
+          "3-4 sets of loose abayas or salwar kameez (dark colors show less dirt)",
+          "Extra hijabs/scarves (they get sweaty and dusty)",
+          "Comfortable closed shoes or sneakers (for long walks in the Haram)",
+          "Socks (marble floors can be cold and slippery)",
+          "Unscented personal care products (unscented soap, shampoo, deodorant)",
+          "Sanitary products (even if not expecting your period — stress can change cycles)",
+          "Pain relievers (paracetamol/ibuprofen for cramps or headaches)",
+          "Small prayer mat (for praying in non-Haram areas)",
+          "Tissues and wet wipes (not all restrooms provide them)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Menstruation During Umrah",
+      },
+      {
+        type: "p",
+        text: "If a woman gets her period during Umrah, she cannot perform Tawaf (circumambulating the Kaabah requires purity). Here is what to do:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Wait until your period ends, perform ghusl (purification bath), then perform Tawaf",
+          "You can still perform Sa'i (walking between Safa and Marwah) — it does not require purity",
+          "You can still enter the Haram, pray (when pure), make duas, and read Quran (from memory or app)",
+          "If your period does not end before your departure: Consult a scholar — some allow completing Tawaf later with a sacrifice (damm)",
+          "Carry menstrual products and plan for this possibility — it is common among female pilgrims",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Safety Tips for Female Pilgrims",
+      },
+      {
+        type: "ul",
+        items: [
+          "Stay with your Mahram or group at all times — the Haram is extremely crowded",
+          "If separated from your group: Go to the designated meeting point (agree on one before entering the Haram)",
+          "Save emergency contacts on your phone (Mahram, group leader, HTG Travels coordinator)",
+          "Carry a card with your name, passport number, hotel name, and emergency contact (in case your phone dies)",
+          "Use women-only prayer areas if you feel more comfortable (they exist in both Harams)",
+          "Trust your instincts — if a situation feels uncomfortable, walk away",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Women-Only Areas in the Haram",
+      },
+      {
+        type: "ul",
+        items: [
+          "Both Masjid al-Haram and Masjid an-Nabawi have designated women's prayer areas",
+          "Women's sections are clearly marked with signage",
+          "These areas are staffed by female guards who can assist with directions",
+          "The women's section in the Rawdah (Madinah) requires a Nusuk permit — same as men",
+          "Women can pray in the general area as well — the women's section is optional, not mandatory",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Planning Umrah as a woman? Message HTG Travels on WhatsApp for female-specific guidance.",
+      },
+    ],
+  },
 ];
