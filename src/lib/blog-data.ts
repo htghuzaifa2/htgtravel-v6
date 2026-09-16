@@ -5128,4 +5128,713 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "kuwait-bahrain-visa-guide-pakistan",
+    title: "Kuwait and Bahrain Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete Kuwait and Bahrain visa guide for Pakistanis. eVisa process, requirements, fees, processing times, and top attractions in Kuwait City and Manama. Updated for 2026.",
+    keywords: [
+      "Kuwait visa Pakistan",
+      "Bahrain visa Pakistan",
+      "Kuwait eVisa",
+      "Bahrain eVisa",
+      "Gulf visa Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Kuwait and Bahrain are two Gulf destinations that Pakistani travelers often overlook. Both offer eVisa options, rich cultural experiences, and fewer crowds than Dubai. This guide covers the visa process, requirements, and attractions for both countries.",
+      },
+      {
+        type: "h2",
+        text: "Kuwait Visa for Pakistanis",
+      },
+      {
+        type: "ul",
+        items: [
+          "Tourist eVisa: Available through Kuwait eVisa portal. Valid for 30 days, single entry.",
+          "Fee: KWD 3 (approximately PKR 2,700)",
+          "Processing: 24-72 hours",
+          "Requirements: Passport scan (6+ months validity), photo, return ticket, hotel booking",
+          "Note: Kuwait eVisa approval for Pakistanis is not guaranteed — some applications get rejected without explanation",
+          "Alternative: Sponsor visa through a Kuwaiti resident/company (more reliable)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Bahrain Visa for Pakistanis",
+      },
+      {
+        type: "ul",
+        items: [
+          "Tourist eVisa: Available through Bahrain eVisa portal (evisa.gov.bh)",
+          "Fee: BHD 29 (approximately PKR 16,000) including processing fee",
+          "Processing: 24-72 hours",
+          "Validity: 14-90 days depending on visa type (multiple entry available)",
+          "Requirements: Passport scan, photo, return ticket, hotel booking, bank statement (3 months)",
+          "Bahrain eVisa is easier to get approved than Kuwait for Pakistani citizens",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Attractions: Kuwait City",
+      },
+      {
+        type: "ul",
+        items: [
+          "Kuwait Towers — iconic landmark, observation deck, restaurant",
+          "Grand Mosque — largest mosque in Kuwait, free guided tours",
+          "Souq Al-Mubarakiya — traditional market, spices, gold, food",
+          "Kuwait National Museum — Kuwaiti heritage and Islamic art",
+          "Al Shaheed Park — largest urban park, museums, walking trails",
+          "The Avenues Mall — largest shopping mall in Kuwait",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Attractions: Bahrain",
+      },
+      {
+        type: "ul",
+        items: [
+          "Bahrain National Museum — 5,000 years of Bahraini history",
+          "Al Fateh Grand Mosque — largest mosque in Bahrain, free entry",
+          "Bahrain Fort (Qalat al-Bahrain) — UNESCO World Heritage Site",
+          "Tree of Life — 400-year-old tree in the desert with no water source",
+          "Manama Souq — traditional market, spices, textiles, pearls",
+          "Bahrain International Circuit — F1 racing track, tours available",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels processes Kuwait and Bahrain visas on WhatsApp. Message us with your travel plans.",
+      },
+      {
+        type: "quote",
+        text: "Need a Kuwait or Bahrain visa? Message HTG Travels on WhatsApp.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-for-elderly-pilgrims-guide",
+    title: "Umrah for Elderly Pilgrims: Complete Accessibility Guide",
+    category: "Umrah",
+    metaDescription:
+      "Umrah for elderly pilgrims from Pakistan. Accessibility tips, wheelchair services, best hotels, health precautions, and how to make the journey comfortable for senior citizens.",
+    keywords: [
+      "Umrah for elderly",
+      "Umrah wheelchair",
+      "elderly Umrah guide",
+      "Umrah for seniors Pakistan",
+      "accessible Umrah",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Performing Umrah in old age is a deeply cherished goal for many Pakistani Muslims. While the physical demands of Umrah can be challenging for elderly pilgrims, with proper planning and the right support, seniors can perform all rituals comfortably and safely. This guide covers everything elderly pilgrims and their families need to know.",
+      },
+      {
+        type: "h2",
+        text: "Wheelchair Services at the Haram",
+      },
+      {
+        type: "p",
+        text: "Both Masjid al-Haram (Makkah) and Masjid an-Nabawi (Madinah) provide free wheelchair services for elderly and disabled pilgrims:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Free wheelchairs available at all Haram entrances (deposit may be required, refundable)",
+          "Wheelchair pushers/attendants can be hired for SAR 50-100 per Tawaf session",
+          "Electric scooters available in some areas for pilgrims who cannot walk long distances",
+          "Special lanes for wheelchair users during Tawaf (outer circles of the Mataf)",
+          "Wheelchair-accessible entrances and prayer areas throughout both mosques",
+          "Escalators and elevators have priority access for elderly and wheelchair users",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Choosing the Right Hotel for Elderly Pilgrims",
+      },
+      {
+        type: "ul",
+        items: [
+          "Stay within 150m of the Haram — minimize walking for elderly pilgrims",
+          "Choose hotels with elevator capacity (small 3-star hotels have tiny, slow elevators)",
+          "Request ground floor or lower floors in case of elevator breakdowns",
+          "Ensure the hotel has wheelchair-accessible rooms and bathrooms",
+          "Book hotels with buffet breakfast included (elderly pilgrims may not want to walk to restaurants)",
+          "Consider 4-star or 5-star hotels for better comfort, cleaner facilities, and medical assistance availability",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Health Precautions for Elderly Pilgrims",
+      },
+      {
+        type: "ul",
+        items: [
+          "Get a full medical check-up 1-2 months before travel",
+          "Carry all prescription medications in original packaging with prescriptions",
+          "Get the meningitis ACWY vaccine at least 10 days before travel (mandatory)",
+          "Carry a medical info card: blood type, allergies, emergency contacts, doctor's phone number",
+          "Avoid performing Tawaf during peak heat hours (11 AM - 4 PM) — go early morning or at night",
+          "Stay hydrated — carry a water bottle at all times, drink Zamzam water regularly",
+          "Wear comfortable, supportive shoes with good grip (marble floors are slippery)",
+          "Use a walking stick or cane if needed — it is permitted in the Haram",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Time for Elderly Pilgrims to Perform Umrah",
+      },
+      {
+        type: "p",
+        text: "Weather is critical for elderly pilgrims:",
+      },
+      {
+        type: "ul",
+        items: [
+          "BEST: November-February (20-28°C) — comfortable for walking and outdoor Ziyarat",
+          "GOOD: March-April and October (25-35°C) — manageable with precautions",
+          "AVOID: May-September (40-48°C) — dangerous for elderly, heat stroke risk",
+          "Ramadan: Beautiful experience but physically demanding (fasting + crowds)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tips for Family Members Accompanying Elderly Pilgrims",
+      },
+      {
+        type: "ul",
+        items: [
+          "Be patient — elderly pilgrims may walk slowly and need frequent rest breaks",
+          "Use a wheelchair even if they can walk — it conserves energy for prayers",
+          "Pack a small bag for them: water, snacks, medication, prayer mat, tissues",
+          "Stay together at all times — the Haram is crowded and easy to get separated",
+          "Perform Tawaf at night (after Isha) when it is cooler and less crowded",
+          "Consider hiring a wheelchair pusher so you can focus on your own prayers",
+          "Take photos and videos — these are memories the elderly will treasure forever",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book an Elderly-Friendly Umrah Package",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers special elderly-friendly Umrah packages with close-proximity hotels, wheelchair arrangements, dedicated coordinators, and medical assistance. Message us on WhatsApp to plan a comfortable Umrah for your elderly family members.",
+      },
+      {
+        type: "quote",
+        text: "Planning Umrah for elderly parents? Message HTG Travels on WhatsApp for accessible packages.",
+      },
+    ],
+  },
+  {
+    slug: "flight-date-change-guide-pakistan",
+    title: "Flight Date Change Guide: How to Reschedule Your Flight from Pakistan",
+    category: "Flights",
+    metaDescription:
+      "How to change your flight date from Pakistan. Airline policies, change fees, process for domestic and international flights, and tips for avoiding fees. Complete guide for 2026.",
+    keywords: [
+      "flight date change Pakistan",
+      "change flight ticket",
+      "reschedule flight",
+      "flight change fee",
+      "modify flight booking",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Plans change, and sometimes you need to reschedule your flight. Whether it is a visa delay, a family emergency, or a schedule conflict, changing your flight date is possible — but the process and fees vary by airline. This guide explains how to change flight dates from Pakistan, what it costs, and how to minimize fees.",
+      },
+      {
+        type: "h2",
+        text: "Can You Change Your Flight Date?",
+      },
+      {
+        type: "p",
+        text: "Yes, most airlines allow date changes. However, it depends on your ticket type:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Flexible/refundable tickets: Free date changes (you only pay fare difference if any)",
+          "Standard tickets: Date change allowed with a fee + fare difference",
+          "Promotional/budget tickets: Date changes often not allowed (or very expensive)",
+          "Non-refundable tickets: Date changes usually allowed with a fee",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Flight Change Fees by Airline (Pakistan)",
+      },
+      {
+        type: "ul",
+        items: [
+          "PIA: PKR 2,000-5,000 domestic, USD 50-100 international + fare difference",
+          "AirSial: PKR 1,500-3,000 domestic + fare difference",
+          "Fly Jinnah: PKR 2,000-4,000 domestic + fare difference",
+          "Serene Air: PKR 2,000-5,000 domestic + fare difference",
+          "Emirates: USD 75-200 change fee + fare difference",
+          "Qatar Airways: USD 100-250 change fee + fare difference",
+          "Turkish Airlines: USD 100-200 change fee + fare difference",
+          "flydubai: AED 200-500 change fee + fare difference",
+          "Saudia: SAR 100-300 change fee + fare difference",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Change Your Flight Date",
+      },
+      {
+        type: "h3",
+        text: "Option 1: Through HTG Travels (Easiest)",
+      },
+      {
+        type: "p",
+        text: "If you booked through us, just message us on WhatsApp with your new preferred date. We check availability, calculate the change fee + fare difference, and process the change. You receive the updated e-ticket within minutes. No need to call the airline or navigate their website.",
+      },
+      {
+        type: "h3",
+        text: "Option 2: Through the Airline Website",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visit the airline website and go to 'Manage Booking' or 'My Trips'",
+          "Enter your booking reference (PNR) and last name",
+          "Select 'Change Flight' or 'Modify Booking'",
+          "Choose your new date and flight",
+          "Pay the change fee + fare difference online",
+          "Receive updated e-ticket by email",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Option 3: Call the Airline",
+      },
+      {
+        type: "ul",
+        items: [
+          "Call the airline's local Pakistan office or helpline",
+          "Provide your booking reference and passenger details",
+          "Request the date change and pay over the phone (if supported)",
+          "Some airlines require visiting their office in person for changes",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tips for Avoiding Change Fees",
+      },
+      {
+        type: "ul",
+        items: [
+          "Book flexible/refundable fares if your travel dates might change",
+          "Change within 24 hours of booking — many airlines allow free changes within 24 hours",
+          "Change early — the closer to departure, the higher the fare difference",
+          "Travel insurance with trip cancellation coverage can reimburse change fees for covered reasons",
+          "If the airline changes or cancels your flight, you can change for free",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Change Your Flight with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels handles flight date changes for all our clients on WhatsApp. Just send us your booking reference and new preferred date — we handle the rest, including finding the cheapest alternative. Message us to change your flight date.",
+      },
+      {
+        type: "quote",
+        text: "Need to change your flight date? Message HTG Travels on WhatsApp — we handle it fast.",
+      },
+    ],
+  },
+  {
+    slug: "saudi-arabia-travel-guide-pakistanis",
+    title: "Saudi Arabia Travel Guide: Beyond Umrah for Pakistani Tourists",
+    category: "Travel",
+    metaDescription:
+      "Saudi Arabia tourist guide for Pakistanis beyond Umrah. Visit Riyadh, Jeddah, AlUla, NEOM, and the Red Sea. Top attractions, eVisa process, and what to see in Saudi Arabia in 2026.",
+    keywords: [
+      "Saudi Arabia tourism",
+      "Saudi tourist visa Pakistan",
+      "Riyadh travel guide",
+      "AlUla Saudi Arabia",
+      "Saudi tourist destinations",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Saudi Arabia has opened its doors to tourism, and Pakistani travelers can now explore the Kingdom beyond Umrah. From the futuristic city of NEOM to the ancient ruins of AlUla, Saudi Arabia offers unique experiences that most tourists have never seen. This guide covers the top tourist destinations and how to visit them.",
+      },
+      {
+        type: "h2",
+        text: "Getting a Saudi Tourist eVisa",
+      },
+      {
+        type: "p",
+        text: "The Saudi tourist eVisa allows Pakistani citizens to visit Saudi Arabia for tourism (and Umrah). The eVisa is valid for 1 year, allows multiple entries, and permits stays of up to 90 days per visit. Cost: SAR 480 (approximately PKR 36,000) including insurance. Processing: 24-48 hours. HTG Travels can process your eVisa on WhatsApp.",
+      },
+      {
+        type: "h2",
+        text: "Top Tourist Destinations in Saudi Arabia",
+      },
+      {
+        type: "h3",
+        text: "1. Riyadh (3-4 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Kingdom Centre Tower — iconic skyscraper, sky bridge, mall",
+          "Masmak Fortress — 19th-century mud-brick fort, Saudi unification history",
+          "National Museum of Saudi Arabia — comprehensive Saudi heritage",
+          "Diriyah (At-Turaif) — UNESCO World Heritage, original Saudi capital",
+          "Boulevard Riyadh City — entertainment district, restaurants, shows",
+          "Edge of the World — dramatic cliff hiking (90km from Riyadh)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "2. Jeddah (2-3 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Al-Balad (Old Jeddah) — UNESCO World Heritage, historic coral houses",
+          "Jeddah Corniche — 30km waterfront, Red Sea views",
+          "King Fahd Fountain — tallest fountain in the world (312m)",
+          "Floating Mosque — stunning mosque on the Red Sea",
+          "Al Shallal Theme Park — amusement park on the Corniche",
+          "Red Sea diving — coral reefs, snorkeling, diving trips",
+        ],
+      },
+      {
+        type: "h3",
+        text: "3. AlUla (2-3 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Hegra (Madain Saleh) — UNESCO World Heritage, Nabataean tombs (like Petra)",
+          "Elephant Rock — natural rock formation shaped like an elephant",
+          "Maraya Concert Hall — mirrored building, world's largest mirror structure",
+          "AlUla Old Town — ancient mud-brick village",
+          "Hot air balloon rides — stunning desert views from above",
+        ],
+      },
+      {
+        type: "h3",
+        text: "4. Abha and Asir Mountains (2-3 days)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Asir National Park — mountains, hiking, cooler climate",
+          "Habala Village — clifftop village accessible by cable car",
+          "Al-Soudah — highest peak in Saudi Arabia (3,000m)",
+          "Rijal Alma village — traditional stone houses, cultural heritage",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Cultural Tips for Visiting Saudi Arabia",
+      },
+      {
+        type: "ul",
+        items: [
+          "Dress modestly — men: long trousers and shirts; women: abaya recommended (not always mandatory now)",
+          "Prayer times: Shops and restaurants close during prayers (5-20 minutes each, 5 times a day)",
+          "Photography: Ask permission before photographing people, especially women",
+          "Alcohol: Strictly prohibited — do not attempt to bring any into the country",
+          "Public behavior: No public displays of affection, loud behavior, or swearing",
+          "Friday: Weekend starts Friday afternoon — plan accordingly",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Saudi Arabia Trip with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers Saudi eVisa processing and complete tourism packages for Riyadh, Jeddah, AlUla, and Abha. Message us on WhatsApp with your interests and dates.",
+      },
+      {
+        type: "quote",
+        text: "Want to explore Saudi Arabia beyond Umrah? Message HTG Travels on WhatsApp.",
+      },
+    ],
+  },
+  {
+    slug: "travel-document-checklist-pakistanis",
+    title: "Travel Document Checklist: What Every Pakistani Traveler Needs",
+    category: "Travel",
+    metaDescription:
+      "Complete travel document checklist for Pakistani citizens. Passport, visa, insurance, tickets, hotel bookings, and all documents you need for international travel. Never forget a document again.",
+    keywords: [
+      "travel document checklist Pakistan",
+      "travel documents for Pakistanis",
+      "what to carry when traveling abroad",
+      "international travel checklist",
+      "travel papers Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Forgetting a critical travel document can ruin your trip before it even begins. Pakistani travelers need specific documents for international travel, and the requirements vary by destination. This checklist covers every document you need, organized by category, so you never forget anything.",
+      },
+      {
+        type: "h2",
+        text: "Essential Documents (Required for ALL International Travel)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Valid passport (minimum 6 months validity beyond return date, 2+ blank pages)",
+          "Valid visa for your destination (or visa-on-arrival eligibility proof)",
+          "Return flight ticket (printed copy + digital copy on phone)",
+          "Hotel booking confirmations (printed copies for each night of stay)",
+          "Travel insurance certificate (printed copy — especially for Schengen/Europe)",
+          "CNIC (original — required at Pakistani airport check-in)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Financial Documents",
+      },
+      {
+        type: "ul",
+        items: [
+          "Credit card (notify your bank of international travel before departure)",
+          "Debit card (check if it works internationally)",
+          "Travel card (HBL, Meezan, Standard Chartered — better exchange rates)",
+          "Cash in USD or local currency (PKR 20,000-50,000 equivalent for emergencies)",
+          "Bank statements (last 6 months, printed — in case immigration asks)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Health Documents",
+      },
+      {
+        type: "ul",
+        items: [
+          "Vaccination certificate (yellow fever for Africa/South America, meningitis for Hajj/Umrah)",
+          "Medical fitness certificate (required for some visa applications)",
+          "Prescription medications in original packaging with prescriptions",
+          "Medical info card: blood type, allergies, conditions, emergency contacts",
+          "Travel insurance policy (covers medical emergencies abroad)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Technology and Communication",
+      },
+      {
+        type: "ul",
+        items: [
+          "Phone with international roaming activated (check Jazz/Telenor/Zong packages)",
+          "Universal travel adapter (Saudi uses Type G/F, US uses Type A/B, Europe uses Type C/F)",
+          "Power bank (10,000mAh+ for long flights and airport waits)",
+          "Headphones/earbuds (for flights and airport entertainment)",
+          "Downloaded offline maps (Google Maps offline mode) and translation apps",
+          "VPN app installed (some apps/websites are geo-restricted)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Document Copies Strategy",
+      },
+      {
+        type: "p",
+        text: "Never carry all copies in one place. Use this strategy:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Originals: In your carry-on bag or money belt (NEVER in checked luggage)",
+          "Photocopy set 1: In your checked luggage",
+          "Photocopy set 2: In your travel companion's bag",
+          "Photocopy set 3: Left with a family member in Pakistan",
+          "Digital copies: Photos on your phone + cloud storage (Google Drive/iCloud)",
+          "Email copies: Email yourself PDFs of passport, visa, insurance, tickets",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Destination-Specific Documents",
+      },
+      {
+        type: "h3",
+        text: "For Umrah/Hajj",
+      },
+      {
+        type: "ul",
+        items: [
+          "Umrah visa or Saudi eVisa (printed copy)",
+          "Vaccination certificate (meningitis ACWY — mandatory)",
+          "Hotel booking in Makkah and Madinah (printed)",
+          "Nusuk permit (screenshot/downloaded on phone for Rawdah visit)",
+          "Moallim contact details (if using a package)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "For Schengen/Europe",
+      },
+      {
+        type: "ul",
+        items: [
+          "Schengen visa (original, pasted in passport)",
+          "Travel insurance certificate (minimum €30,000 coverage, printed)",
+          "Detailed travel itinerary (day-by-day with hotel addresses)",
+          "Bank statements (6 months, stamped)",
+          "Sponsor letter (if someone else is funding your trip)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Get Travel Document Help from HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels helps you prepare all travel documents: visa applications, flight bookings, hotel reservations, travel insurance, and itineraries. We review your documents before you travel to ensure everything is in order. Message us on WhatsApp for document preparation help.",
+      },
+      {
+        type: "quote",
+        text: "Need help organizing your travel documents? Message HTG Travels on WhatsApp.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-ramadan-2026-complete-guide",
+    title: "Umrah in Ramadan 2026: Complete Planning Guide",
+    category: "Umrah",
+    metaDescription:
+      "Complete guide to Umrah in Ramadan 2026 from Pakistan. Best dates, package prices, hotel booking tips, Nusuk permits, Laylatul Qadr planning, and how to maximize your spiritual journey.",
+    keywords: [
+      "Umrah Ramadan 2026",
+      "Ramadan Umrah package",
+      "Laylatul Qadr Umrah",
+      "Ramadan Umrah guide Pakistan",
+      "Umrah in Ramadan tips",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Ramadan 2026 is expected to begin around February 18, 2026. Performing Umrah during Ramadan is the most spiritually rewarding time, as the Prophet (PBUH) said its reward equals Hajj in his company. But it also means the highest prices, largest crowds, and most intense planning. This guide covers everything you need for Ramadan Umrah 2026.",
+      },
+      {
+        type: "h2",
+        text: "Ramadan 2026 Expected Dates",
+      },
+      {
+        type: "ul",
+        items: [
+          "Ramadan start: ~February 18, 2026 (subject to moon sighting)",
+          "Ramadan end: ~March 19, 2026",
+          "Laylatul Qadr (last 10 nights): ~March 9-19, 2026",
+          "Eid al-Fitr: ~March 20, 2026",
+          "Best Umrah window: First 10 days (Feb 18-28) — moderate crowds, lower prices",
+          "Peak demand: Last 10 nights (Mar 9-19) — highest prices, largest crowds",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Ramadan Umrah Package Prices (Estimated 2026)",
+      },
+      {
+        type: "ul",
+        items: [
+          "First 10 days (Feb 18-28): Economy PKR 250,000-350,000, Premium PKR 400,000-550,000",
+          "Middle 10 days (Feb 28-Mar 9): Economy PKR 300,000-400,000, Premium PKR 500,000-700,000",
+          "Last 10 days (Mar 9-19): Economy PKR 400,000-550,000, Premium PKR 700,000-1,200,000",
+          "Last 5 nights only (Mar 14-19): Premium PKR 900,000-1,500,000 (extremely limited)",
+          "Full 30 days: Economy PKR 600,000-800,000, Premium PKR 1,000,000-1,500,000",
+        ],
+      },
+      {
+        type: "h2",
+        text: "When to Book Ramadan Umrah",
+      },
+      {
+        type: "ul",
+        items: [
+          "Last 10 nights: Book 6-8 months in advance (by August 2025) — hotels sell out fast",
+          "Middle 10 days: Book 3-4 months in advance (by November 2025)",
+          "First 10 days: Book 2-3 months in advance (by December 2025)",
+          "Flights: Book immediately after deciding — Ramadan flights from Pakistan sell out",
+          "Nusuk permits: Book as early as possible — Rawdah slots during Ramadan fill in seconds",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What Makes Ramadan Umrah Special",
+      },
+      {
+        type: "ul",
+        items: [
+          "Taraweeh prayers in Masjid al-Haram — imams recite the entire Quran during the month",
+          "Iftar in the Haram courtyard — millions breaking fast together, meals provided free",
+          "Laylatul Qadr — the Night of Power, better than 1,000 months of worship",
+          "Khatm-e-Quran — completion of the Quran during Taraweeh (usually night 27 or 29)",
+          "Atmosphere of unity — Muslims from every country gathered in worship",
+          "Suhoor in Haram — pre-dawn meal in the mosque, a unique spiritual experience",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Fasting Tips During Umrah in Ramadan",
+      },
+      {
+        type: "ul",
+        items: [
+          "Perform Tawaf after Fajr (coolest time, less crowded) or after Maghrib (break fast after)",
+          "Carry dates and water for Iftar — the Haram provides meals but having your own is convenient",
+          "Drink plenty of water between Maghrib and Fajr — stay hydrated",
+          "Avoid walking long distances during peak heat hours (11 AM - 4 PM)",
+          "Break your fast slowly — dates, water, then light food, then prayers, then full meal",
+          "Conserve energy — sit during Taraweeh if standing is difficult (it is allowed)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Nusuk Permits During Ramadan",
+      },
+      {
+        type: "p",
+        text: "Rawdah Mubarak permits during Ramadan are extremely difficult to get. New slots are released at midnight Saudi time (2 AM Pakistan time) and fill within 30-60 seconds. Tips:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Have your Nusuk account set up and verified BEFORE Ramadan starts",
+          "Pre-fill passport and visa details in your profile",
+          "Be online at 2 AM Pakistan time when slots drop",
+          "Book for weekdays — weekend slots fill instantly",
+          "HTG Travels arranges Nusuk permits for all our Ramadan Umrah clients",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Ramadan 2026 Umrah Package",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers dedicated Ramadan Umrah packages with Haram-facing hotels, Nusuk permit arrangements, dedicated WhatsApp coordinators, and Ramadan-specific Ziyarat. We lock airline rates 6 months in advance for the best prices. Message us on WhatsApp to start planning.",
+      },
+      {
+        type: "quote",
+        text: "Planning Ramadan 2026 Umrah? Message HTG Travels on WhatsApp — book early for best rates.",
+      },
+    ],
+  },
 ];
