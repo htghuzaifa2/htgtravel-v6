@@ -5837,4 +5837,617 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "turkey-evisa-guide-pakistan",
+    title: "Turkey eVisa Guide: How to Visit Istanbul from Pakistan",
+    category: "Visa",
+    metaDescription:
+      "Complete Turkey eVisa guide for Pakistanis. How to apply, eligibility with Schengen/UK/US visa, sticker visa process, fees, and step-by-step application. Updated for 2026.",
+    keywords: [
+      "Turkey visa Pakistan",
+      "Turkey eVisa",
+      "Istanbul visa Pakistan",
+      "Turkish visa requirements",
+      "Turkey tourist visa process",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Turkey is one of the most popular tourist destinations for Pakistanis, offering Ottoman history, stunning landscapes, and incredible food. Getting a Turkey visa depends on whether you hold a valid Schengen, US, or UK visa. This guide covers both the eVisa and sticker visa processes.",
+      },
+      {
+        type: "h2",
+        text: "Turkey eVisa (If You Have Schengen/UK/US Visa)",
+      },
+      {
+        type: "p",
+        text: "If you hold a valid Schengen, US, or UK visa (used at least once), you can get a Turkey eVisa online in 30 minutes:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Visit evisa.gov.tr (official Turkish eVisa portal)",
+          "Select Pakistan as your country of travel document",
+          "Enter your Schengen/US/UK visa details (visa number, issue date, expiry)",
+          "Pay the fee: USD 43.50 (approximately PKR 12,000)",
+          "Download your eVisa as a PDF instantly",
+          "Validity: 180 days from issue, single entry, 30-day stay",
+          "Processing: Instant (if eligible)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Turkey Sticker Visa (If You Do NOT Have Schengen/UK/US Visa)",
+      },
+      {
+        type: "p",
+        text: "If you do not hold a valid Schengen, US, or UK visa, you must apply for a sticker visa through the Turkish embassy:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Apply at: Turkish Embassy in Islamabad or Consulate in Karachi",
+          "Processing: 10-15 working days",
+          "Fee: USD 43 (approximately PKR 12,000) for single-entry tourist visa",
+          "Validity: 180 days, 30-day stay",
+          "Documents: Passport, application form, photos, bank statements (6 months), employment letter, hotel booking, return ticket, travel insurance",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How HTG Travels Can Help",
+      },
+      {
+        type: "p",
+        text: "HTG Travels processes Turkey eVisas (if you are eligible) and helps prepare sticker visa applications. Message us on WhatsApp to start your Turkey visa process.",
+      },
+      {
+        type: "quote",
+        text: "Want to visit Turkey? Message HTG Travels on WhatsApp for visa assistance.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-ihram-rules-guide",
+    title: "Ihram Rules Complete Guide: What to Do and What to Avoid",
+    category: "Umrah",
+    metaDescription:
+      "Complete Ihram rules guide for Umrah. What is prohibited in Ihram, how to enter Ihram, what to wear, and penalties for violations. Essential guide for every Pakistani pilgrim.",
+    keywords: [
+      "Ihram rules",
+      "what is prohibited in Ihram",
+      "Umrah Ihram guide",
+      "Ihram restrictions",
+      "Ihram dos and don'ts",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Ihram is the sacred state a pilgrim enters before performing Umrah or Hajj. It involves wearing specific clothing and following a set of rules. Violating these rules intentionally requires a penalty (fidyah or damm). This guide covers all Ihram rules every Pakistani pilgrim must know.",
+      },
+      {
+        type: "h2",
+        text: "How to Enter Ihram",
+      },
+      {
+        type: "p",
+        text: "Ihram is entered at specific boundary points called Miqat:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Perform ghusl (purification bath) and wear clean clothes before reaching Miqat",
+          "For men: Wear two unstitched white cloths (izar around waist, rida over shoulders)",
+          "For women: Wear modest, loose-fitting clothing (any color, face and hands visible)",
+          "Apply perfume BEFORE entering Ihram (not after)",
+          "Pray 2 rakats of Ihram prayer (if not in prohibited prayer times)",
+          "Make the intention (niyyah) for Umrah: 'Labbayka Allahumma Umrah'",
+          "Recite the Talbiyah: 'Labbayka Allahumma Labbayk, Labbayka la shareeka laka labbayk...'",
+          "From this moment, all Ihram restrictions apply until you complete Umrah and trim/shave your hair",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What is PROHIBITED During Ihram (For Both Men and Women)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Using perfume or scented products (soap, shampoo, lotion, deodorant)",
+          "Cutting, trimming, or removing hair from any part of the body",
+          "Clipping or filing nails",
+          "Covering the face (for women — niqab must be removed in Ihram)",
+          "Covering the head (for men — no hats, caps, or turbans)",
+          "Wearing stitched clothing that follows the shape of the body (for men)",
+          "Hunting or killing animals (except dangerous ones like snakes/scorpions)",
+          "Arguing, fighting, or using foul language",
+          "Engaging in intimate relations or marriage proposals",
+          "Wearing gloves or socks that cover the ankles (for men)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What is ALLOWED During Ihram",
+      },
+      {
+        type: "ul",
+        items: [
+          "Taking a shower or bath (with unscented soap)",
+          "Using sunscreen (unscented)",
+          "Wearing a belt or pouch to hold valuables",
+          "Wearing sandals or slippers (that do not cover the ankles for men)",
+          "Wearing a watch, rings, or eyeglasses",
+          "Using a phone, camera, and electronics",
+          "Carrying an umbrella for shade (for men, it should not touch the head directly)",
+          "Using Vaseline or unscented cream to prevent chafing",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Penalties for Violating Ihram Rules",
+      },
+      {
+        type: "p",
+        text: "If a pilgrim violates an Ihram rule, a penalty (fidyah) is required:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Using perfume or scented products: Slaughter a sheep or fast 3 days or feed 6 poor people",
+          "Cutting hair or nails: Feed 6 poor people or fast 3 days or slaughter a sheep",
+          "Wearing stitched clothing (men): Same penalty as above",
+          "Covering head/face: Same penalty as above",
+          "Hunting: Must slaughter an equivalent animal and distribute the meat to the poor",
+          "Intimate relations: Invalidates Umrah (must be repeated) AND requires a sacrifice",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Exiting Ihram (After Umrah)",
+      },
+      {
+        type: "p",
+        text: "Ihram ends when you complete the following:",
+      },
+      {
+        type: "ul",
+        items: [
+          "1. Completed Tawaf (7 rounds around the Kaabah)",
+          "2. Completed Sa'i (7 trips between Safa and Marwah)",
+          "3. Shaved (halq) or trimmed (taqsir) your hair",
+          "After halq/taqsir, all Ihram restrictions are lifted — you can use perfume, cut nails, wear regular clothes, etc.",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Questions about Ihram? Message HTG Travels on WhatsApp for guidance.",
+      },
+    ],
+  },
+  {
+    slug: "singapore-visa-guide-pakistan",
+    title: "Singapore Tourist Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete Singapore visa guide for Pakistanis. Application process, requirements, fees, processing time, and top attractions including Gardens by the Bay, Sentosa, and Marina Bay Sands.",
+    keywords: [
+      "Singapore visa Pakistan",
+      "Singapore tourist visa",
+      "Singapore visa requirements",
+      "Marina Bay Sands visa",
+      "Singapore trip from Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Singapore is a clean, safe, and efficient city-state that offers world-class attractions, amazing food, and a blend of cultures. For Pakistani travelers, the visa process is straightforward but requires some preparation. This guide covers everything you need to visit Singapore.",
+      },
+      {
+        type: "h2",
+        text: "Singapore Visa for Pakistanis",
+      },
+      {
+        type: "p",
+        text: "Pakistani citizens need a visa to visit Singapore. The process involves:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Apply through an authorized visa agent (HTG Travels can assist)",
+          "Or apply through a Singapore citizen/PR sponsor (via the Singapore immigration portal)",
+          "Processing: 3-5 working days",
+          "Fee: SGD 30 (approximately PKR 6,500) + agent fee",
+          "Validity: 35 days to 2 years (varies), multiple or single entry",
+          "Stay: 30 days per visit",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Requirements",
+      },
+      {
+        type: "ul",
+        items: [
+          "Passport bio page scan (valid 6+ months)",
+          "Passport-size photo (white background, 400x514 pixels)",
+          "Bank statement (last 3 months, minimum SGD 1,500 equivalent)",
+          "Return flight ticket",
+          "Hotel booking confirmation",
+          "CNIC copy",
+          "Employment letter or business registration",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Attractions in Singapore",
+      },
+      {
+        type: "ul",
+        items: [
+          "Gardens by the Bay — Supertree Grove, Cloud Forest, Flower Dome",
+          "Marina Bay Sands — observation deck, infinity pool (hotel guests only)",
+          "Sentosa Island — Universal Studios, S.E.A. Aquarium, beach",
+          "Merlion Park — iconic Singapore landmark",
+          "Singapore Zoo — world's best rainforest zoo",
+          "Chinatown — temples, food, shopping",
+          "Little India — Indian culture, food, temples",
+          "Orchard Road — 2.2km shopping street",
+          "Hawker Centers — world-famous street food (all halal options available)",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Want to visit Singapore? Message HTG Travels on WhatsApp for visa assistance.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-cost-breakdown-pakistan",
+    title: "Umrah Cost Breakdown: What Are You Actually Paying For?",
+    category: "Umrah",
+    metaDescription:
+      "Detailed Umrah cost breakdown from Pakistan. Flight, visa, hotel, transport, food, and hidden costs explained. Know exactly where your money goes and how to save on your Umrah trip.",
+    keywords: [
+      "Umrah cost Pakistan",
+      "Umrah package price breakdown",
+      "how much does Umrah cost",
+      "Umrah expenses",
+      "Umrah budget guide",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "When you see an Umrah package advertised at PKR 150,000 or PKR 500,000, what are you actually paying for? This guide breaks down every component of an Umrah package from Pakistan, so you know exactly where your money goes and can make informed decisions.",
+      },
+      {
+        type: "h2",
+        text: "Umrah Package Cost Components",
+      },
+      {
+        type: "h3",
+        text: "1. Flights (40-50% of total cost)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Sialkot to Jeddah (PIA/Saudia): PKR 45,000-70,000 round-trip",
+          "Lahore to Jeddah (PIA/Saudia/Saudia): PKR 50,000-75,000 round-trip",
+          "Islamabad to Jeddah: PKR 55,000-80,000 round-trip",
+          "Karachi to Jeddah: PKR 45,000-65,000 round-trip",
+          "Peak season (Ramadan, school holidays): prices double",
+          "Off-season (November-February): cheapest fares",
+        ],
+      },
+      {
+        type: "h3",
+        text: "2. Visa and Insurance (5-8% of total cost)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Umrah visa: SAR 200-300 (PKR 15,000-22,000) including mandatory insurance",
+          "Saudi eVisa: SAR 480 (PKR 36,000) including insurance",
+          "Meningitis vaccination: PKR 2,000-4,000 (if not already done)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "3. Hotels (25-35% of total cost)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Makkah 3-star (shuttle to Haram): PKR 4,000-8,000 per night",
+          "Makkah 4-star (walking distance): PKR 12,000-25,000 per night",
+          "Makkah 5-star (Clock Tower, 0m): PKR 30,000-80,000 per night",
+          "Madinah hotels: 20-30% cheaper than equivalent Makkah hotels",
+          "Shared rooms (quad sharing) reduce per-person cost by 40-50%",
+        ],
+      },
+      {
+        type: "h3",
+        text: "4. Transport (5-10% of total cost)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Airport transfers (Jeddah to Makkah): SAR 50-150 (PKR 4,000-11,000)",
+          "Makkah to Madinah transport: SAR 100-300 (PKR 8,000-22,000)",
+          "Haramain Bullet Train: SAR 50-150 per person",
+          "Ziyarat tour (Makkah): SAR 50-100 per person",
+          "Ziyarat tour (Madinah): SAR 50-100 per person",
+        ],
+      },
+      {
+        type: "h3",
+        text: "5. Food (5-10% of total cost)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Hotel buffet breakfast: Often included in package",
+          "Buffet dinner: SAR 30-80 per person (PKR 2,300-6,000)",
+          "Local restaurants: SAR 15-30 per meal (PKR 1,100-2,300)",
+          "Fast food (KFC, AlBaik): SAR 15-25 per meal",
+        ],
+      },
+      {
+        type: "h3",
+        text: "6. Other Costs (3-5% of total cost)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Ihram clothing: PKR 1,500-3,000 (or buy in Makkah)",
+          "Zamzam water container: SAR 10-20 (PKR 800-1,500)",
+          "Gifts/souvenirs: Variable (set a budget)",
+          "Nusuk permit: Free (but arranging it through an agent may cost PKR 2,000-5,000)",
+          "Tips for guides/drivers: SAR 50-100 total",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Example: 10-Day Economy Package Breakdown (PKR 150,000-180,000)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Flights (round-trip): PKR 55,000",
+          "Visa + insurance: PKR 18,000",
+          "Hotels (shared quad, 3-star, 9 nights): PKR 45,000",
+          "Transport (airport, intercity, Ziyarat): PKR 15,000",
+          "Food (breakfasts + some dinners): PKR 12,000",
+          "Agent service + coordination: PKR 10,000",
+          "Total: ~PKR 155,000",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Want a transparent Umrah cost breakdown? Message HTG Travels on WhatsApp.",
+      },
+    ],
+  },
+  {
+    slug: "pakistan-northern-areas-flight-guide",
+    title: "Pakistan Northern Areas Flight Guide: Skardu, Gilgit, and More",
+    category: "Flights",
+    metaDescription:
+      "Complete guide to flying to Pakistan's northern areas. Skardu and Gilgit flights, best time to visit, airlines, fares, and tips for exploring the most beautiful mountains in the world.",
+    keywords: [
+      "Skardu flights Pakistan",
+      "Gilgit flights",
+      "northern Pakistan flights",
+      "Skardu air tickets",
+      "Gilgit Baltistan travel",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Pakistan's northern areas — Gilgit-Baltistan — contain some of the world's most spectacular mountain scenery, including 5 of the 14 peaks above 8,000 meters (K2, Nanga Parbat, Broad Peak, Gasherbrum I and II). Flying to Skardu or Gilgit is the fastest way to access these mountains, and the flight itself is one of the most scenic in the world. This guide covers everything you need to know.",
+      },
+      {
+        type: "h2",
+        text: "Flights to Skardu and Gilgit",
+      },
+      {
+        type: "p",
+        text: "Only PIA operates scheduled flights to Skardu and Gilgit:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Route: Islamabad to Skardu — flight time: 1 hour",
+          "Route: Islamabad to Gilgit — flight time: 1 hour",
+          "Frequency: Daily (weather permitting), sometimes 2 flights per day in peak season",
+          "Fares: PKR 15,000-28,000 one-way (book 2-4 weeks ahead)",
+          "Season: May-September only (flights cancelled in winter due to weather)",
+          "Aircraft: ATR (turboprop) — smaller planes, scenic views guaranteed",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Weather and Cancellations",
+      },
+      {
+        type: "p",
+        text: "Flights to Skardu and Gilgit are heavily weather-dependent. Cancellations are common, especially in monsoon season (July-August). Tips:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Book morning flights (7-9 AM) — less likely to be cancelled than afternoon flights",
+          "Keep 1-2 buffer days in your itinerary for flight delays",
+          "Have a backup plan: Karakoram Highway road trip (Islamabad to Gilgit: 12-15 hours by car)",
+          "Do not book non-refundable hotels — use free-cancellation bookings",
+          "Check weather forecasts 24 hours before your flight",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Top Destinations in Gilgit-Baltistan",
+      },
+      {
+        type: "ul",
+        items: [
+          "Hunza Valley — Karimabad, Baltit Fort, Eagle's Nest viewpoint, Passu Cones",
+          "Skardu — Shangrila Resort, Shigar Fort, Deosai National Park, K2 base camp trek start",
+          "Fairy Meadows — base camp for Nanga Parbat, jeep + 3-hour hike",
+          "Naran and Kaghan Valley — Saif-ul-Malook Lake, Babusar Pass (accessible from Islamabad)",
+          "Karakoram Highway — one of the world's highest paved roads, stunning scenery",
+          "Khunjerab Pass — Pakistan-China border, highest paved international border crossing (4,693m)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Northern Areas Flights with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels books Skardu and Gilgit flights with PIA. We also arrange complete northern Pakistan packages including hotels, jeep rentals, and guided tours. Message us on WhatsApp to plan your northern Pakistan adventure.",
+      },
+      {
+        type: "quote",
+        text: "Want to explore northern Pakistan? Message HTG Travels on WhatsApp for flight + hotel packages.",
+      },
+    ],
+  },
+  {
+    slug: "umrah-tawaf-sai-step-by-step",
+    title: "Tawaf and Sa'i: Step-by-Step Guide for First-Time Pilgrims",
+    category: "Umrah",
+    metaDescription:
+      "Complete step-by-step guide to Tawaf and Sa'i during Umrah. How to perform each ritual, what to recite, where to start, and practical tips for first-time pilgrims from Pakistan.",
+    keywords: [
+      "Tawaf guide",
+      "Sa'i Umrah",
+      "how to perform Tawaf",
+      "Umrah rituals step by step",
+      "Tawaf and Sa'i instructions",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Tawaf and Sa'i are the two main physical rituals of Umrah. If you are performing Umrah for the first time, this step-by-step guide will walk you through each ritual, what to recite, and practical tips to perform them correctly.",
+      },
+      {
+        type: "h2",
+        text: "Part 1: Tawaf (Circling the Kaabah)",
+      },
+      {
+        type: "p",
+        text: "Tawaf means walking 7 times counter-clockwise around the Kaabah. Here is how to perform it:",
+      },
+      {
+        type: "h3",
+        text: "Before Starting Tawaf",
+      },
+      {
+        type: "ul",
+        items: [
+          "Ensure you are in Ihram (for Umrah Tawaf)",
+          "Perform wudu (ablution) — must be in a state of purity",
+          "Make the intention (niyyah) for Tawaf",
+          "For men: Uncover the right shoulder (idtiba) — pass the rida under the right arm and over the left shoulder",
+        ],
+      },
+      {
+        type: "h3",
+        text: "Starting Point: The Black Stone (Hajr al-Aswad)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Go to the corner of the Kaabah where the Black Stone is located (look for the green light on the wall)",
+          "Face the Kaabah, raise your right hand toward the Black Stone, and say: 'Bismillahi Allahu Akbar, Allahumma imanan bika wa tasdiqan bikitabika wa wafa'an bi'ahdika wattiba'an lisunnati nabiyyika'",
+          "If you can touch or kiss the Black Stone, do so. If not (usually too crowded), pointing is sufficient.",
+        ],
+      },
+      {
+        type: "h3",
+        text: "The 7 Circuits",
+      },
+      {
+        type: "ul",
+        items: [
+          "Walk counter-clockwise (Kaabah on your left side)",
+          "Round 1-3 (men only): Walk briskly in the first 3 circuits (ramal) — this is Sunnah",
+          "Rounds 4-7: Walk at normal pace",
+          "Yamani Corner: Each time you pass the Yemeni Corner (before the Black Stone), touch it with your right hand if possible and say: 'Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina adhaban-nar'",
+          "Between Yamani Corner and Black Stone: Recite: 'Rabbana atina fid-dunya hasanatan...'",
+          "Complete 7 full circuits, ending back at the Black Stone",
+        ],
+      },
+      {
+        type: "h3",
+        text: "After Tawaf",
+      },
+      {
+        type: "ul",
+        items: [
+          "Cover your right shoulder again (men)",
+          "Pray 2 rakats behind Maqam Ibrahim (the Station of Abraham) — if crowded, pray anywhere in the Haram",
+          "Recite Surah Al-Kafirun in the first rakat and Surah Al-Ikhlas in the second (Sunnah)",
+          "Drink Zamzam water (available throughout the Haram)",
+          "Go to the Multazam (between the door of the Kaabah and the Black Stone) and make dua — this is a place where duas are accepted",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Part 2: Sa'i (Walking Between Safa and Marwah)",
+      },
+      {
+        type: "p",
+        text: "Sa'i commemorates the search for water by Hajar (Abraham's wife) for her infant son Ismail. It involves walking 7 times between the hills of Safa and Marwah (now inside the Haram as an enclosed area).",
+      },
+      {
+        type: "h3",
+        text: "Starting Sa'i",
+      },
+      {
+        type: "p",
+        text: "Go to the hill of Safa (inside the Mas'a/Sa'i area) and face the Kaabah.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Recite: 'Innas-Safa wal-Marwata min sha'airillah' (Indeed, Safa and Marwah are among the symbols of Allah)",
+          "Make dua facing the Kaabah, raise your hands",
+          "Walk from Safa toward Marwah",
+        ],
+      },
+      {
+        type: "h3",
+        text: "The 7 Trips",
+      },
+      {
+        type: "ul",
+        items: [
+          "Safa to Marwah = 1 trip",
+          "Marwah back to Safa = 2nd trip",
+          "Continue until you complete 7 trips (ending at Marwah)",
+          "Between the green lights (men only): Run/jog briskly between the two green fluorescent markers — this commemorates Hajar's running",
+          "Women: Walk at normal pace throughout (do not run)",
+          "Make dua and recite Quran throughout the walk",
+        ],
+      },
+      {
+        type: "h3",
+        text: "After Sa'i",
+      },
+      {
+        type: "ul",
+        items: [
+          "After completing 7 trips at Marwah, your Umrah is almost complete",
+          "Men: Shave your head (halq) — preferred, or trim at least 1cm from all hair (taqsir)",
+          "Women: Cut a small portion of hair (1-2cm) — do not shave",
+          "After halq/taqsir, Ihram is exited — all restrictions are lifted",
+          "Your Umrah is now complete! May Allah accept it.",
+        ],
+      },
+      {
+        type: "quote",
+        text: "First time performing Umrah? Message HTG Travels on WhatsApp for step-by-step guidance.",
+      },
+    ],
+  },
 ];
