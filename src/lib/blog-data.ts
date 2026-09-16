@@ -1886,4 +1886,930 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "usa-b1-b2-visa-guide-pakistan",
+    title: "USA B1/B2 Visitor Visa Guide for Pakistani Citizens",
+    category: "Visa",
+    metaDescription:
+      "Complete USA B1/B2 visitor visa guide for Pakistani citizens. DS-160 form, document checklist, interview tips, fee structure, and how to avoid common rejection reasons in 2026.",
+    keywords: [
+      "USA visa Pakistan",
+      "US B1 B2 visa",
+      "American visa from Pakistan",
+      "US visa interview Pakistan",
+      "US visitor visa requirements",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "The United States B1/B2 visitor visa allows Pakistani citizens to travel to the USA for tourism, business meetings, medical treatment, or visiting family. The process is detailed but entirely manageable with the right preparation. This guide covers everything from the DS-160 form to the visa interview, with specific advice for Pakistani applicants in 2026.",
+      },
+      {
+        type: "h2",
+        text: "What is a B1/B2 Visa?",
+      },
+      {
+        type: "p",
+        text: "The B1/B2 is a combined visa that covers both business (B1) and tourism/medical (B2) travel. It is typically valid for 5-10 years with multiple entries, allowing stays of up to 6 months per visit. Pakistani citizens are usually issued a 5-year multiple-entry visa.",
+      },
+      {
+        type: "h2",
+        text: "Step-by-Step USA Visa Application Process",
+      },
+      {
+        type: "h3",
+        text: "Step 1: Complete the DS-160 Form",
+      },
+      {
+        type: "p",
+        text: "The DS-160 is the online non-immigrant visa application form. It is extensive — expect to spend 60-90 minutes completing it. You will need: passport details, travel plans, employment history, education history, family information, previous US travel history, and social media handles (last 5 years). Save your application ID so you can return if needed. Be 100% honest — any discrepancy discovered during the interview can result in permanent ineligibility.",
+      },
+      {
+        type: "h3",
+        text: "Step 2: Pay the Visa Fee",
+      },
+      {
+        type: "p",
+        text: "The US visa fee for B1/B2 is USD 185 (approximately PKR 51,000-52,000). Payment is made through the US Embassy's payment portal using a credit/debit card or bank transfer. Keep the receipt — you will need the receipt number to book your interview.",
+      },
+      {
+        type: "h3",
+        text: "Step 3: Book Your Interview Appointment",
+      },
+      {
+        type: "p",
+        text: "After paying the fee, schedule your interview at the US Embassy in Islamabad or US Consulate in Karachi. Wait times for interview appointments vary — currently 6-12 months for Pakistani applicants. Book as early as possible. You can check current wait times on the US Department of State website.",
+      },
+      {
+        type: "h3",
+        text: "Step 4: Attend the Visa Interview",
+      },
+      {
+        type: "p",
+        text: "Arrive at the embassy 30 minutes before your appointment. Bring: passport, DS-160 confirmation page, appointment confirmation, fee receipt, and supporting documents. The interview itself lasts 2-5 minutes. The consul officer will ask about your travel purpose, ties to Pakistan, financial situation, and previous travel history. Answer honestly and concisely.",
+      },
+      {
+        type: "h2",
+        text: "Documents to Bring to the Interview",
+      },
+      {
+        type: "ul",
+        items: [
+          "Current passport (valid 6+ months beyond intended travel)",
+          "DS-160 confirmation page with barcode",
+          "Appointment confirmation printout",
+          "Visa fee receipt",
+          "One passport-size photograph (2x2 inches, white background, taken within last 6 months)",
+          "Bank statements (6 months, showing consistent income)",
+          "Employment letter or business registration documents",
+          "Property ownership documents",
+          "Family registration certificate (showing dependents in Pakistan)",
+          "Previous travel history (old passports, visa copies)",
+          "Invitation letter from US host (if visiting family/friends)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Common USA Visa Interview Questions",
+      },
+      {
+        type: "ul",
+        items: [
+          "Why do you want to visit the United States?",
+          "How long do you plan to stay?",
+          "Who is paying for your trip?",
+          "What do you do for a living? How much do you earn?",
+          "Do you have family in the United States?",
+          "Have you traveled internationally before?",
+          "Do you have children? Who will take care of them while you are away?",
+          "What guarantee do you have that you will return to Pakistan?",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Why Pakistani Applicants Get Refused (214(b))",
+      },
+      {
+        type: "p",
+        text: "Section 214(b) of the US Immigration and Nationality Act presumes all visa applicants intend to immigrate. You must prove you have strong ties to Pakistan that compel you to return. Common refusal reasons include:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Weak employment ties (recently changed jobs, low income)",
+          "No property or significant assets in Pakistan",
+          "Immediate family members already in the US (especially if they overstayed)",
+          "Limited or no international travel history",
+          "Vague or inconsistent answers during the interview",
+          "Insufficient funds for the stated trip duration",
+          "Young, unmarried applicants with no dependents (higher perceived flight risk)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How HTG Travels Helps with US Visa Prep",
+      },
+      {
+        type: "p",
+        text: "While we cannot attend the interview for you, HTG Travels helps you prepare: document review, DS-160 form guidance, interview question practice, cover letter drafting, and financial documentation advice. We have helped Pakistani citizens prepare successful US visa applications. Message us on WhatsApp to start your preparation.",
+      },
+      {
+        type: "quote",
+        text: "Preparing for a US visa interview? Message HTG Travels on WhatsApp for expert guidance.",
+      },
+    ],
+  },
+  {
+    slug: "group-travel-booking-guide",
+    title: "Group Travel Booking Guide: Save Money on Group Flights",
+    category: "Flights",
+    metaDescription:
+      "How to book group flights and save money. Minimum group size, group fare discounts, booking process, and tips for organizing family and corporate group travel from Pakistan.",
+    keywords: [
+      "group flight booking",
+      "group travel discounts",
+      "group airfare Pakistan",
+      "family group booking",
+      "corporate group travel",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Traveling as a group — whether for a family wedding, corporate retreat, school trip, or Umrah pilgrimage — can save you significant money on flights. Airlines offer special group fares that are 10-25% cheaper than individual bookings. This guide explains how group bookings work and how to get the best deals from Pakistan.",
+      },
+      {
+        type: "h2",
+        text: "What Counts as a Group Booking?",
+      },
+      {
+        type: "p",
+        text: "Most airlines consider 10 or more passengers traveling together on the same flight as a group. Some airlines set the minimum at 15 passengers. Group bookings are handled separately from individual bookings and come with special fares, flexible payment terms, and name-change allowances.",
+      },
+      {
+        type: "h2",
+        text: "Benefits of Group Flight Booking",
+      },
+      {
+        type: "ul",
+        items: [
+          "Discounted fares — 10-25% cheaper than individual tickets",
+          "Flexible payment — pay 25% deposit to hold seats, balance 2-3 weeks before travel",
+          "Name changes allowed — swap passengers without penalty (usually 1-2 free changes)",
+          "Dedicated check-in counter at the airport (for large groups)",
+          "Seat allocation — request seats together for the entire group",
+          "Baggage allowance — sometimes higher than standard for groups",
+          "One invoice for the entire group (easier for corporate billing)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How to Book Group Flights from Pakistan",
+      },
+      {
+        type: "p",
+        text: "Group bookings cannot be made through airline websites — you must go through a travel agent or the airline's group booking department. Here is the process:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Contact HTG Travels with your route, dates, and number of passengers",
+          "We request group fares from multiple airlines (PIA, Emirates, Qatar, Saudia, etc.)",
+          "Airlines respond within 24-48 hours with a group fare quote",
+          "We share the quotes with you — you pick the best option",
+          "Pay 25% deposit to hold the seats (non-refundable in most cases)",
+          "Submit passenger names 2-3 weeks before travel (with passport details)",
+          "Pay the remaining 75% balance and receive e-tickets",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Airlines for Group Travel from Pakistan",
+      },
+      {
+        type: "ul",
+        items: [
+          "PIA — Best for domestic group travel and Saudi Arabia routes",
+          "Saudia — Best for Umrah/Hajj groups (generous baggage for groups)",
+          "Emirates — Best for international groups to Europe/US (via Dubai)",
+          "Qatar Airways — Competitive group fares, good for corporate travel",
+          "flydubai — Budget-friendly for UAE-bound groups",
+          "Turkish Airlines — Best for Europe-bound groups (generous baggage)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Tips for Organizing Group Travel",
+      },
+      {
+        type: "ul",
+        items: [
+          "Book 6-8 weeks in advance — group fares get more expensive closer to departure",
+          "Designate one group leader — all communication goes through one person",
+          "Collect all passport copies early — name submission deadline is strict",
+          "Be flexible with dates — shifting by 1-2 days can save 15-20% on group fares",
+          "Consider off-peak travel — weekday flights are cheaper for groups",
+          "Arrange ground transport at the destination in advance (buses, vans)",
+          "For Umrah groups: book hotels and Nusuk permits as a group for better rates",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Group Flight with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels specializes in group flight bookings from Pakistan. Whether it is 10 family members for a wedding or 50 corporate employees for a retreat, we handle everything — multi-airline quotes, seat allocation, special meal requests, and group check-in. Message us on WhatsApp with your group size, route, and dates.",
+      },
+      {
+        type: "quote",
+        text: "Traveling with 10+ people? Message HTG Travels on WhatsApp for group fare quotes.",
+      },
+    ],
+  },
+  {
+    slug: "travel-safety-tips-pakistanis-abroad",
+    title: "Travel Safety Tips for Pakistanis Traveling Abroad",
+    category: "Travel",
+    metaDescription:
+      "Essential safety tips for Pakistani citizens traveling abroad. Document safety, money security, emergency contacts, cultural awareness, and how to handle emergencies while traveling internationally.",
+    keywords: [
+      "travel safety tips Pakistanis",
+      "safe travel abroad",
+      "travel security tips",
+      "Pakistani traveler safety",
+      "international travel safety guide",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Traveling abroad as a Pakistani citizen comes with unique considerations. From document safety to cultural awareness, this guide covers practical tips to keep you safe and stress-free during your international travels. Whether it is your first trip abroad or your fiftieth, these tips will help you travel smarter.",
+      },
+      {
+        type: "h2",
+        text: "1. Protect Your Passport and Documents",
+      },
+      {
+        type: "p",
+        text: "Your passport is your most valuable possession abroad. Losing it can ruin your trip and take weeks to resolve. Follow these document safety rules:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Carry your passport in a secure, zippered pocket or money belt — never in a back pocket",
+          "Take photos of your passport, visa, and travel insurance — store them in cloud storage (Google Drive, iCloud)",
+          "Leave one set of photocopies with a family member in Pakistan",
+          "Carry 2-3 physical photocopies in separate bags",
+          "Register with the Pakistani embassy in your destination country (through their website)",
+          "Never hand your passport to anyone except immigration or hotel check-in staff",
+        ],
+      },
+      {
+        type: "h2",
+        text: "2. Money and Financial Safety",
+      },
+      {
+        type: "ul",
+        items: [
+          "Carry 2-3 payment methods: credit card, debit card, and some cash (USD or local currency)",
+          "Notify your bank before traveling so they do not block international transactions",
+          "Use a travel card (HBL, Meezan, Standard Chartered) for better exchange rates",
+          "Keep cash in multiple places (wallet, bag, hotel safe) — never all in one place",
+          "Use ATMs inside banks or malls — avoid street ATMs (skimming risk)",
+          "Carry small denomination cash for taxis, tips, and small purchases",
+          "Keep emergency cash (USD 100-200) hidden separately for emergencies",
+        ],
+      },
+      {
+        type: "h2",
+        text: "3. Emergency Contacts and Communication",
+      },
+      {
+        type: "ul",
+        items: [
+          "Save the Pakistani embassy/consulate phone number for your destination country",
+          "Install a VPN on your phone before traveling (some apps are geo-restricted)",
+          "Buy a local SIM card or activate international roaming (check Jazz/Telenor/Zong packages)",
+          "Share your daily itinerary with family back home",
+          "Keep WhatsApp installed — it works on WiFi even without cellular data",
+          "Save emergency numbers: 911 (US/Canada), 999 (UK), 112 (Europe/EU), 999 (UAE)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "4. Health and Medical Safety",
+      },
+      {
+        type: "ul",
+        items: [
+          "Carry essential medications in original packaging with prescriptions",
+          "Get required vaccinations before travel (check destination requirements 4-6 weeks ahead)",
+          "Drink only bottled or filtered water (avoid tap water in most countries)",
+          "Eat at busy restaurants — high turnover means fresher food",
+          "Carry ORS packets, paracetamol, anti-diarrheal, and antihistamines",
+          "Know your blood type and any allergies — carry a medical info card",
+          "Get travel insurance — medical emergencies abroad can cost PKR 500,000+",
+        ],
+      },
+      {
+        type: "h2",
+        text: "5. Cultural Awareness and Respect",
+      },
+      {
+        type: "p",
+        text: "As a Pakistani traveler, you represent your country. Cultural awareness keeps you safe and welcomed:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Research local customs before traveling — dress codes, greetings, tipping culture",
+          "Dress modestly, especially in religious sites (cover shoulders and knees)",
+          "Learn basic phrases in the local language (hello, thank you, please, help)",
+          "Respect photography rules — ask permission before photographing people or religious sites",
+          "Avoid political discussions and sensitive topics in public",
+          "Follow local laws strictly — drug offenses can carry severe penalties abroad",
+        ],
+      },
+      {
+        type: "h2",
+        text: "6. Airport and Transit Safety",
+      },
+      {
+        type: "ul",
+        items: [
+          "Arrive 3 hours before international flights (4 hours for US flights)",
+          "Keep valuables in carry-on, not checked baggage",
+          "Never agree to carry packages for strangers (drug smuggling risk)",
+          "Lock your checked bags with TSA-approved locks",
+          "Keep your boarding pass and passport accessible but secure during transit",
+          "Stay in the transit area during layovers — do not leave the airport without a transit visa",
+        ],
+      },
+      {
+        type: "h2",
+        text: "7. What to Do in an Emergency",
+      },
+      {
+        type: "p",
+        text: "If you face an emergency abroad:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Lost passport: Contact the nearest Pakistani embassy/consulate immediately — they can issue an emergency travel document",
+          "Medical emergency: Call local emergency number, use your travel insurance, contact HTG Travels for assistance",
+          "Lost card: Call your bank's international helpline immediately to block and replace",
+          "Legal trouble: Contact the Pakistani embassy — they can provide a list of local lawyers",
+          "Natural disaster: Follow local authority instructions, contact family and embassy to confirm safety",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Travel Safe with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels provides travel insurance, emergency assistance, and 24/7 WhatsApp support for all our clients. Whether you need a replacement e-ticket, hotel change, or emergency guidance, we are one message away. Travel with peace of mind — book with HTG Travels.",
+      },
+      {
+        type: "quote",
+        text: "Traveling abroad? Message HTG Travels on WhatsApp for travel insurance and 24/7 support.",
+      },
+    ],
+  },
+  {
+    slug: "winter-umrah-packages-guide",
+    title: "Winter Umrah: Why December is the Best Time to Go",
+    category: "Umrah",
+    metaDescription:
+      "Why winter is the best time for Umrah from Pakistan. Cooler weather, lower prices, fewer crowds, kids-stay-free hotel deals, and comfortable Tawaf conditions. Complete December Umrah guide.",
+    keywords: [
+      "winter Umrah packages",
+      "December Umrah",
+      "best time for Umrah",
+      "Umrah in winter",
+      "cool weather Umrah",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "If you are planning Umrah from Pakistan, winter (December-February) is arguably the best time to go. The weather in Makkah and Madinah is pleasant, prices are lower than Ramadan, crowds are smaller, and many hotels offer kids-stay-free promotions. This guide explains why winter Umrah is the smart choice and how to plan it.",
+      },
+      {
+        type: "h2",
+        text: "Why Winter is the Best Time for Umrah",
+      },
+      {
+        type: "h3",
+        text: "1. Pleasant Weather (20-28°C)",
+      },
+      {
+        type: "p",
+        text: "Makkah and Madinah are extremely hot from May to September (40-48°C). Walking around the Haram, performing Tawaf, and doing Ziyarat in that heat is physically exhausting and risky for elderly pilgrims and children. In winter (December-February), temperatures drop to a comfortable 20-28°C — perfect for long walks, outdoor Ziyarat, and standing in the Mataf without overheating.",
+      },
+      {
+        type: "h3",
+        text: "2. Lower Prices",
+      },
+      {
+        type: "p",
+        text: "Umrah package prices in winter are 30-50% cheaper than Ramadan and peak summer. Hotels reduce their rates, airlines offer off-season fares, and transport costs are lower. A 10-day Premium Umrah package that costs PKR 350,000 in Ramadan can be booked for PKR 180,000-220,000 in December.",
+      },
+      {
+        type: "h3",
+        text: "3. Fewer Crowds",
+      },
+      {
+        type: "p",
+        text: "Winter is off-peak season. The Haram is less crowded, meaning shorter queues for Tawaf, easier access to the Mataf, faster Nusuk permit processing for Rawdah visits, and better availability at walking-distance hotels. You can pray in the front rows without arriving 2 hours early.",
+      },
+      {
+        type: "h3",
+        text: "4. Kids-Stay-Free Hotel Deals",
+      },
+      {
+        type: "p",
+        text: "Many hotels near the Haram offer winter promotions where children under 6 or 12 stay free with their parents. This can save PKR 30,000-50,000 per child on a 10-day package. Some hotels also include free buffet breakfast for children during winter promotions.",
+      },
+      {
+        type: "h3",
+        text: "5. Comfortable Ziyarat",
+      },
+      {
+        type: "p",
+        text: "Ziyarat (visiting historical Islamic sites in Makkah and Madinah) involves outdoor walking and bus travel. In summer, this is brutal — 45°C heat with no shade at sites like Jabal al-Nour (Cave of Hira). In winter, Ziyarat is a pleasant experience — cool breeze, comfortable walking, and the option to visit Taif (mountain city, even cooler) as a day trip.",
+      },
+      {
+        type: "h2",
+        text: "Winter Umrah Package Prices (December 2026 - February 2027)",
+      },
+      {
+        type: "ul",
+        items: [
+          "Economy (3-star, shuttle to Haram): PKR 150,000-180,000 per person (10 days)",
+          "Premium (4-star, walking distance): PKR 200,000-250,000 per person (10 days)",
+          "VIP (5-star, Clock Tower): PKR 350,000-450,000 per person (10 days)",
+          "Family Package (2 adults + 2 kids): PKR 500,000-650,000 total (10 days, economy)",
+          "Group Package (5+ pilgrims): 10-15% additional discount on above rates",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What to Pack for Winter Umrah",
+      },
+      {
+        type: "p",
+        text: "Winter in Saudi Arabia is mild but evenings can be cool (12-15°C in Madinah). Pack:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Light jacket or sweater for evenings (Madinah gets cool)",
+          "Standard Ihram clothing (no special winter Ihram needed)",
+          "Comfortable walking shoes (you will walk more in pleasant weather)",
+          "Sunscreen (UV is still strong, even in winter)",
+          "Socks (marble floors can be cold in the morning)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Best Winter Dates for Umrah",
+      },
+      {
+        type: "ul",
+        items: [
+          "Early December (before Christmas): lowest prices, smallest crowds",
+          "Late December (Christmas/New Year): slightly higher prices, still good weather",
+          "January: best weather of the year, moderate prices",
+          "February: warming up slightly, still comfortable, good availability",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Your Winter Umrah Package",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers special winter Umrah packages with kids-stay-free hotel deals, discounted group rates, and comfortable walking-distance accommodations. Book by October-November for the best December-February rates. Message us on WhatsApp to reserve your winter Umrah package.",
+      },
+      {
+        type: "quote",
+        text: "Planning winter Umrah? Message HTG Travels on WhatsApp for the best December rates.",
+      },
+    ],
+  },
+  {
+    slug: "flight-cancellation-insurance-guide",
+    title: "Flight Cancellation Insurance: Is It Worth It?",
+    category: "Insurance",
+    metaDescription:
+      "Should you buy flight cancellation insurance? What it covers, how much it costs, when to buy it, and real scenarios where it saves you money. Complete guide for Pakistani travelers.",
+    keywords: [
+      "flight cancellation insurance",
+      "travel insurance Pakistan",
+      "flight delay compensation",
+      "cancel flight insurance",
+      "travel protection Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Flight cancellations and delays cost travelers billions of rupees every year. But is cancellation insurance actually worth the extra cost? This guide breaks down what flight cancellation insurance covers, how much it costs, and real scenarios where it pays for itself — specifically for Pakistani travelers booking international flights.",
+      },
+      {
+        type: "h2",
+        text: "What Does Flight Cancellation Insurance Cover?",
+      },
+      {
+        type: "p",
+        text: "Flight cancellation insurance (often part of comprehensive travel insurance) reimburses you for non-refundable travel costs if you need to cancel your trip for covered reasons. Coverage typically includes:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Trip cancellation: Reimbursement for non-refundable flight tickets, hotel bookings, and tour deposits if you cancel before departure",
+          "Trip interruption: Reimbursement for unused portions of your trip if you must cut it short",
+          "Flight delay: Compensation for meals, hotel, and alternative transport if your flight is delayed 6+ hours",
+          "Flight cancellation by airline: Reimbursement for additional costs (hotel, meals) if the airline cancels and does not provide alternatives",
+          "Missed connection: Coverage for rebooking fees if a delayed flight causes you to miss a connecting flight",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What Reasons Are Covered?",
+      },
+      {
+        type: "p",
+        text: "Insurance does not cover cancellations for any reason — only specific covered events. Common covered reasons include:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Sickness, injury, or death of the traveler, traveling companion, or immediate family member (requires medical certificate)",
+          "Natural disasters at the destination (earthquakes, floods, hurricanes)",
+          "Terrorist incidents at the destination",
+          "Jury duty or court-ordered appearance",
+          "Job loss (if employed for 1+ year at the same company)",
+          "Military deployment",
+          "Travel provider bankruptcy (if the airline goes bankrupt)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What is NOT Covered?",
+      },
+      {
+        type: "ul",
+        items: [
+          "Changing your mind or deciding not to travel",
+          "Pre-existing medical conditions (unless disclosed and approved)",
+          "Pregnancy complications (after a certain week, varies by policy)",
+          "Self-inflicted injury or substance abuse",
+          "War or civil unrest (unless specifically covered)",
+          "Traveling against government travel advisories",
+          "Canceling because you found a cheaper flight",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How Much Does Flight Cancellation Insurance Cost?",
+      },
+      {
+        type: "p",
+        text: "Flight cancellation insurance typically costs 4-8% of your total trip cost. Examples for Pakistani travelers:",
+      },
+      {
+        type: "ul",
+        items: [
+          "PKR 200,000 trip to Dubai: insurance cost PKR 8,000-16,000",
+          "PKR 500,000 trip to UK/Europe: insurance cost PKR 20,000-40,000",
+          "PKR 250,000 Umrah package: insurance cost PKR 10,000-20,000",
+          "PKR 800,000 family trip to USA: insurance cost PKR 32,000-64,000",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Real Scenarios: When Insurance Saved the Day",
+      },
+      {
+        type: "h3",
+        text: "Scenario 1: Medical Emergency Before Travel",
+      },
+      {
+        type: "p",
+        text: "A family booked PKR 400,000 in flights and hotels for a Dubai trip. Two days before departure, the father was hospitalized for an emergency appendectomy. Without insurance, they would lose the entire PKR 400,000. With cancellation insurance (PKR 16,000), they recovered the full amount after submitting the medical certificate.",
+      },
+      {
+        type: "h3",
+        text: "Scenario 2: Flight Delayed 14 Hours",
+      },
+      {
+        type: "p",
+        text: "A business traveler's PIA flight from Lahore to London was delayed 14 hours due to technical issues. He missed a pre-paid hotel night (PKR 18,000) and had to buy meals at the airport. Travel insurance reimbursed the hotel night, meals, and a lounge pass — total claim PKR 25,000 (insurance cost: PKR 12,000).",
+      },
+      {
+        type: "h2",
+        text: "When Should You Buy Cancellation Insurance?",
+      },
+      {
+        type: "ul",
+        items: [
+          "Always — if your trip cost is PKR 100,000+ (the insurance cost is small relative to the trip value)",
+          "Especially — if booking non-refundable flights and hotels (most budget fares are non-refundable)",
+          "Especially — if traveling with elderly family members or young children (higher medical risk)",
+          "Especially — if traveling during winter (flight delays are more common)",
+          "Especially — for Umrah/Hajj trips (group cancellations happen, individual cancellation protection helps)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Get Flight Cancellation Insurance with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels offers comprehensive travel insurance including flight cancellation coverage. We work with Jubilee, IGI, AXA, and Europ Assistance. Policies are issued within 2-4 hours on WhatsApp. Message us your trip details and we will recommend the best insurance plan for your needs.",
+      },
+      {
+        type: "quote",
+        text: "Want travel protection? Message HTG Travels on WhatsApp — policies issued in 2-4 hours.",
+      },
+    ],
+  },
+  {
+    slug: "hotel-booking-guide-pakistan",
+    title: "Hotel Booking Guide: How to Find the Best Hotels Worldwide",
+    category: "Travel",
+    metaDescription:
+      "How to find and book the best hotels worldwide from Pakistan. Tips for choosing hotels, getting the best rates, avoiding booking mistakes, and what to check before confirming your hotel reservation.",
+    keywords: [
+      "hotel booking guide",
+      "how to book hotels",
+      "best hotel rates",
+      "hotel booking tips Pakistan",
+      "find cheap hotels",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Finding the right hotel at the right price can make or break your trip. With hundreds of booking sites and thousands of hotels, it is easy to overpay or end up in a disappointing property. This guide shares practical tips for finding the best hotels worldwide — whether you are booking a budget stay in Bangkok or a 5-star Haram-view room in Makkah.",
+      },
+      {
+        type: "h2",
+        text: "Step 1: Define Your Priorities",
+      },
+      {
+        type: "p",
+        text: "Before searching, know what matters most to you. Ranking your priorities helps you filter quickly:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Location (walking distance to attractions, near airport, city center)",
+          "Budget (how much per night can you afford?)",
+          "Room type (single, double, family, suite with kitchen)",
+          "Amenities (WiFi, breakfast, pool, gym, shuttle, parking)",
+          "Reviews (what do previous guests say?)",
+          "Cancellation policy (free cancellation vs non-refundable)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Step 2: Compare Prices Across Multiple Platforms",
+      },
+      {
+        type: "p",
+        text: "Never book the first price you see. The same hotel can have different rates on different platforms. Check:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Booking.com — largest inventory, good for Europe and Asia, free cancellation options",
+          "Agoda — best for Asia (especially Southeast Asia), often cheaper than Booking.com",
+          "Hotels.com — 10th night free loyalty program",
+          "Expedia — good for flight + hotel packages",
+          "Direct hotel website — sometimes offers price-match guarantees and perks (free WiFi, late checkout)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Step 3: Read Reviews Carefully",
+      },
+      {
+        type: "p",
+        text: "Reviews are your best window into what a hotel is actually like. But not all reviews are equal. Here is how to read them smartly:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Focus on recent reviews (last 3-6 months) — management and quality change over time",
+          "Filter by traveler type (families, solo, business) to find reviews relevant to your trip",
+          "Look for patterns, not one-off complaints — if 10 people mention dirty rooms, that is a pattern",
+          "Check negative reviews for issues that matter to you (noise, WiFi, cleanliness, location)",
+          "Ignore reviews that complain about things the hotel cannot control (weather, flight delays)",
+          "Look for management responses — hotels that respond to reviews care about guest satisfaction",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Step 4: Check the Location on Google Maps",
+      },
+      {
+        type: "p",
+        text: "A hotel might claim to be 'city center' but actually be 3km from anything. Always check the exact location on Google Maps:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Is it walking distance to attractions, restaurants, and public transport?",
+          "Is the neighborhood safe? (Check Google Street View)",
+          "Is there a metro/bus station nearby?",
+          "How far is it from the airport? (Check taxi cost and time)",
+          "For Umrah: how many meters from the Haram? (Ask for exact distance, not 'walking distance')",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Step 5: Understand Cancellation Policies",
+      },
+      {
+        type: "p",
+        text: "Hotel cancellation policies can cost you money if you do not read them carefully:",
+      },
+      {
+        type: "ul",
+        items: [
+          "Free cancellation: Cancel up to 24-48 hours before check-in with full refund (best option)",
+          "Non-refundable: No refund for any cancellation — cheaper but risky",
+          "Partial refund: Some amount refunded depending on how early you cancel",
+          "Pre-payment: Full amount charged at booking (even for free cancellation rooms)",
+          "Pay at hotel: No charge until you check in (most flexible, slightly higher rate)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Common Hotel Booking Mistakes to Avoid",
+      },
+      {
+        type: "ul",
+        items: [
+          "Booking non-refundable rates for visa applications — if visa is rejected, you lose the money",
+          "Not checking check-in/check-out times — early arrival or late departure may cost extra",
+          "Ignoring resort fees — some hotels charge mandatory daily fees (USD 20-50) not shown in the rate",
+          "Booking without confirming room type — 'double room' can mean one bed or two; check bed configuration",
+          "Not saving confirmation emails — you need the booking reference for check-in and disputes",
+          "Using fake hotel bookings for visa applications — embassies verify reservations; use real refundable bookings",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Book Hotels with HTG Travels",
+      },
+      {
+        type: "p",
+        text: "HTG Travels books hotels worldwide with verified reservations, competitive rates, and proper booking confirmations suitable for visa applications. We also arrange Haram-view hotels in Makkah, walking-distance hotels in Madinah, and corporate hotel rates for businesses. Message us on WhatsApp with your destination, dates, and budget.",
+      },
+      {
+        type: "quote",
+        text: "Need hotel bookings? Message HTG Travels on WhatsApp — verified reservations at the best rates.",
+      },
+    ],
+  },
+  {
+    slug: "student-visa-guide-pakistan",
+    title: "Student Visa Guide: Studying Abroad from Pakistan",
+    category: "Visa",
+    metaDescription:
+      "Complete guide to student visas for Pakistani students. Top destinations, requirements, financial proof, and step-by-step application process for studying in UK, USA, Canada, Australia, and Germany.",
+    keywords: [
+      "student visa Pakistan",
+      "study abroad Pakistan",
+      "student visa requirements",
+      "UK student visa Pakistan",
+      "USA student visa Pakistan",
+    ],
+    content: [
+      {
+        type: "p",
+        text: "Studying abroad is a life-changing decision for Pakistani students. Whether you want to study engineering in Germany, business in the UK, computer science in the USA, or healthcare in Australia — the student visa is your gateway. This guide covers the top destinations, requirements, and application process for Pakistani students in 2026.",
+      },
+      {
+        type: "h2",
+        text: "Top Study Abroad Destinations for Pakistanis",
+      },
+      {
+        type: "h3",
+        text: "1. United Kingdom (Student Visa)",
+      },
+      {
+        type: "p",
+        text: "The UK is one of the most popular destinations for Pakistani students. The Student Visa (formerly Tier 4) allows you to study at a UK university and work 20 hours/week during term time. Post-study work visa allows 2 years of work after graduation.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Requirements: University offer letter, English proficiency (IELTS 6.0-7.0), financial proof (PKR 4,000,000+ for tuition + living)",
+          "Processing time: 3-4 weeks",
+          "Visa fee: GBP 490 (approximately PKR 175,000)",
+          "Post-study work: 2-year Graduate Route visa available after graduation",
+        ],
+      },
+      {
+        type: "h3",
+        text: "2. United States (F-1 Visa)",
+      },
+      {
+        type: "p",
+        text: "The USA has the world's top universities and the most flexible post-study work options (OPT and STEM OPT). However, the F-1 visa interview is rigorous and acceptance rates for Pakistani students vary.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Requirements: University I-20 form, SEVIS fee payment, financial proof (PKR 5,000,000-10,000,000), strong ties to Pakistan",
+          "Processing time: Interview wait 6-12 months, decision usually same day",
+          "Visa fee: USD 185 + SEVIS fee USD 350",
+          "Post-study work: OPT (12 months) + STEM OPT extension (24 months for STEM fields)",
+        ],
+      },
+      {
+        type: "h3",
+        text: "3. Germany (Student Visa — Free Tuition!)",
+      },
+      {
+        type: "p",
+        text: "Germany offers FREE tuition at public universities for international students (including Pakistanis). You only pay a semester fee of EUR 150-300. This makes Germany the most affordable study destination for Pakistanis.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Requirements: University admission letter, blocked account (EUR 11,208/year living expenses), health insurance",
+          "Processing time: 6-12 weeks",
+          "Visa fee: EUR 75 (approximately PKR 23,000)",
+          "Post-study work: 18-month job seeker visa after graduation",
+        ],
+      },
+      {
+        type: "h3",
+        text: "4. Canada (Study Permit)",
+      },
+      {
+        type: "p",
+        text: "Canada is the most immigration-friendly destination for Pakistani students. The Post-Graduation Work Permit (PGWP) allows up to 3 years of work after graduation, making it a pathway to permanent residency.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Requirements: Letter of acceptance from a DLI (Designated Learning Institution), financial proof (GIC CAD 20,635 + tuition), medical exam, biometrics",
+          "Processing time: 4-8 weeks (via Student Direct Stream)",
+          "Visa fee: CAD 150 + biometrics CAD 85",
+          "Post-study work: Up to 3-year PGWP, pathway to PR via Express Entry",
+        ],
+      },
+      {
+        type: "h3",
+        text: "5. Australia (Student Visa 500)",
+      },
+      {
+        type: "p",
+        text: "Australia offers high-quality education, part-time work rights (48 hours/fortnight), and a post-study work visa (2-4 years depending on qualification).",
+      },
+      {
+        type: "ul",
+        items: [
+          "Requirements: CoE (Confirmation of Enrolment), financial proof (AUD 24,505/year), English proficiency, GTE letter",
+          "Processing time: 4-8 weeks",
+          "Visa fee: AUD 710 (approximately PKR 130,000)",
+          "Post-study work: 2-4 years Temporary Graduate visa (485)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Financial Requirements: How Much Money Do You Need?",
+      },
+      {
+        type: "p",
+        text: "Financial proof is the most critical part of a student visa application. You must show you can pay for tuition AND living expenses without working. Approximate financial requirements:",
+      },
+      {
+        type: "ul",
+        items: [
+          "UK: PKR 4,000,000-6,000,000 (tuition + 9 months living costs)",
+          "USA: PKR 5,000,000-10,000,000 (tuition + 1 year living costs)",
+          "Germany: PKR 1,000,000 (blocked account for 1 year living expenses — tuition is free)",
+          "Canada: PKR 3,500,000-5,000,000 (GIC + first year tuition)",
+          "Australia: PKR 4,500,000-7,000,000 (tuition + living costs)",
+        ],
+      },
+      {
+        type: "h2",
+        text: "How HTG Travels Helps Student Visa Applicants",
+      },
+      {
+        type: "p",
+        text: "HTG Travels assists Pakistani students with: visa document preparation, financial documentation review, travel booking (flights + hotels) for visa interviews, travel insurance for the visa application, and flight booking after visa approval. While we are not an education consultant (we do not help with university applications), we handle all the travel and visa-document logistics. Message us on WhatsApp for help with your student visa travel needs.",
+      },
+      {
+        type: "quote",
+        text: "Got your university offer? Message HTG Travels on WhatsApp for visa travel support.",
+      },
+    ],
+  },
 ];
