@@ -12,14 +12,17 @@ export function BlogList() {
 
   const filteredPosts = useMemo(() => {
     const query = searchQuery.toLowerCase().trim();
-    if (!query) return BLOG_POSTS;
-    return BLOG_POSTS.filter(
-      (post) =>
-        post.title.toLowerCase().includes(query) ||
-        post.category.toLowerCase().includes(query) ||
-        post.keywords.some((kw) => kw.toLowerCase().includes(query)) ||
-        post.metaDescription.toLowerCase().includes(query)
-    );
+    const base = query
+      ? BLOG_POSTS.filter(
+          (post) =>
+            post.title.toLowerCase().includes(query) ||
+            post.category.toLowerCase().includes(query) ||
+            post.keywords.some((kw) => kw.toLowerCase().includes(query)) ||
+            post.metaDescription.toLowerCase().includes(query)
+        )
+      : [...BLOG_POSTS];
+    // Sort by ID descending (newest/highest ID first)
+    return base.sort((a, b) => b.id - a.id);
   }, [searchQuery]);
 
   const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);

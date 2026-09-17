@@ -43,12 +43,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   }
 
   // Get related posts — same category first, then different category, no repeats
+  // Sort by ID descending (newest first)
   const sameCategory = BLOG_POSTS.filter(
     (p) => p.slug !== post.slug && p.category === post.category
-  );
+  ).sort((a, b) => b.id - a.id);
   const otherCategory = BLOG_POSTS.filter(
     (p) => p.slug !== post.slug && p.category !== post.category
-  );
+  ).sort((a, b) => b.id - a.id);
   const relatedPosts = [...sameCategory, ...otherCategory].slice(0, 4);
 
   return (
