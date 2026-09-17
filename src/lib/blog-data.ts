@@ -1,4 +1,5 @@
 export type BlogPost = {
+  id: number;
   slug: string;
   title: string;
   category: string;
@@ -14,7 +15,8 @@ export type BlogBlock =
   | { type: "h3"; text: string }
   | { type: "quote"; text: string };
 
-export const BLOG_POSTS: BlogPost[] = [
+// Auto-generate IDs for all posts at runtime
+export const BLOG_POSTS: BlogPost[] = ([
   {
     slug: "uk-visitor-visa-guide-pakistan",
     title: "UK Visitor Visa Guide for Pakistani Citizens",
@@ -30616,4 +30618,4 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
-];
+].map((post, index) => ({ ...post, id: index + 1 }))) as BlogPost[];

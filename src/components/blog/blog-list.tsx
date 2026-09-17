@@ -3,9 +3,8 @@
 import { useState, useMemo } from "react";
 import { Search, ArrowLeft, ArrowRight } from "lucide-react";
 import { BLOG_POSTS } from "@/lib/blog-data";
-import { FadeIn, Stagger, StaggerItem } from "@/components/animations";
 
-const POSTS_PER_PAGE = 10;
+const POSTS_PER_PAGE = 12;
 
 export function BlogList() {
   const [searchQuery, setSearchQuery] = useState("");
@@ -14,11 +13,12 @@ export function BlogList() {
   const filteredPosts = useMemo(() => {
     const query = searchQuery.toLowerCase().trim();
     if (!query) return BLOG_POSTS;
-    return BLOG_POSTS.filter((post) =>
-      post.title.toLowerCase().includes(query) ||
-      post.category.toLowerCase().includes(query) ||
-      post.keywords.some((kw) => kw.toLowerCase().includes(query)) ||
-      post.metaDescription.toLowerCase().includes(query)
+    return BLOG_POSTS.filter(
+      (post) =>
+        post.title.toLowerCase().includes(query) ||
+        post.category.toLowerCase().includes(query) ||
+        post.keywords.some((kw) => kw.toLowerCase().includes(query)) ||
+        post.metaDescription.toLowerCase().includes(query)
     );
   }, [searchQuery]);
 
@@ -48,7 +48,8 @@ export function BlogList() {
 
   return (
     <>
-      <FadeIn className="mb-10 max-w-2xl mx-auto">
+      {/* Search */}
+      <div className="mb-10 max-w-2xl mx-auto">
         <div className="relative">
           <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground pointer-events-none" />
           <input
@@ -68,8 +69,9 @@ export function BlogList() {
             </button>
           )}
         </div>
-      </FadeIn>
+      </div>
 
+      {/* Count */}
       <div className="mb-6 text-center">
         <p className="text-sm text-muted-foreground">
           {searchQuery
@@ -78,37 +80,65 @@ export function BlogList() {
         </p>
       </div>
 
+      {/* Blog Grid */}
       <div id="blog-grid">
         {currentPosts.length > 0 ? (
-          <Stagger className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {currentPosts.map((post, i) => (
-              <StaggerItem key={post.slug} index={i}>
-                <a
-                  href={`/blog/${post.slug}/`}
-                  className="group glass rounded-2xl p-8 h-full flex flex-col justify-between glow-border relative overflow-hidden block"
-                >
-                  <span className="inline-flex self-start items-center rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal mb-4">
-                    {post.category}
-                  </span>
-                  <h3 className="font-heading text-xl font-bold text-foreground leading-snug group-hover:text-teal transition-colors">
-                    {post.title}
-                  </h3>
-                  <span className="mt-6 inline-flex items-center gap-1 text-sm font-semibold text-teal group-hover:text-gold transition-colors">
-                    Read Guide
-                    <svg className="h-4 w-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                    </svg>
-                  </span>
-                </a>
-              </StaggerItem>
+              <a
+                key={post.slug}
+                href={`/blog/${post.slug}/`}
+                className="group glass rounded-2xl p-6 h-full flex flex-col justify-between relative overflow-hidden hover:shadow-lg transition-shadow duration-300 border border-border/30"
+              >
+                {/* Blog ID badge */}
+                <span className="absolute top-4 right-4 text-xs font-mono font-bold text-muted-foreground/40 group-hover:text-teal/60 transition-colors">
+                  #{String(post.id).padStart(3, "0")}
+                </span>
+
+                {/* Category badge */}
+                <span className="inline-flex self-start items-center rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal mb-4">
+                  {post.category}
+                </span>
+
+                {/* Title */}
+                <h3 className="font-heading text-lg font-bold text-foreground leading-snug group-hover:text-teal transition-colors mb-4">
+                  {post.title}
+                </h3>
+
+                {/* Meta description preview */}
+                <p className="text-sm text-muted-foreground line-clamp-2 mb-4 flex-1">
+                  {post.metaDescription}
+                </p>
+
+                {/* Read more */}
+                <span className="inline-flex items-center gap-1 text-sm font-semibold text-teal group-hover:text-gold transition-colors">
+                  Read Guide
+                  <svg
+                    className="h-4 w-4 group-hover:translate-x-1 transition-transform"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M17 8l4 4m0 0l-4 4m4-4H3"
+                    />
+                  </svg>
+                </span>
+              </a>
             ))}
-          </Stagger>
+          </div>
         ) : (
           <div className="text-center py-20">
             <Search className="h-12 w-12 text-muted-foreground/30 mx-auto mb-4" />
-            <p className="text-lg font-medium text-foreground mb-2">No guides found</p>
+            <p className="text-lg font-medium text-foreground mb-2">
+              No guides found
+            </p>
             <p className="text-sm text-muted-foreground mb-6">
-              No guides match &quot;{searchQuery}&quot;. Try a different search term.
+              No guides match &quot;{searchQuery}&quot;. Try a different search
+              term.
             </p>
             <button
               onClick={() => handleSearchChange("")}
@@ -120,8 +150,9 @@ export function BlogList() {
         )}
       </div>
 
+      {/* Pagination */}
       {totalPages > 1 && (
-        <div className="mt-12 flex items-center justify-center gap-2">
+        <div className="mt-12 flex items-center justify-center gap-2 flex-wrap">
           <button
             onClick={() => goToPage(Math.max(1, currentPage - 1))}
             disabled={currentPage === 1}
@@ -131,19 +162,39 @@ export function BlogList() {
             Prev
           </button>
 
-          {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
-            <button
-              key={page}
-              onClick={() => goToPage(page)}
-              className={`inline-flex items-center justify-center h-10 w-10 rounded-full text-sm font-semibold transition-all ${
-                currentPage === page
-                  ? "bg-gold text-navy shadow-md"
-                  : "border border-border bg-card text-foreground hover:bg-muted"
-              }`}
-            >
-              {page}
-            </button>
-          ))}
+          {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => {
+            // Show only nearby pages + first/last
+            if (
+              page === 1 ||
+              page === totalPages ||
+              (page >= currentPage - 1 && page <= currentPage + 1)
+            ) {
+              return (
+                <button
+                  key={page}
+                  onClick={() => goToPage(page)}
+                  className={`inline-flex items-center justify-center h-10 w-10 rounded-full text-sm font-semibold transition-all ${
+                    currentPage === page
+                      ? "bg-gold text-navy shadow-md"
+                      : "border border-border bg-card text-foreground hover:bg-muted"
+                  }`}
+                >
+                  {page}
+                </button>
+              );
+            }
+            if (
+              (page === currentPage - 2 && page > 1) ||
+              (page === currentPage + 2 && page < totalPages)
+            ) {
+              return (
+                <span key={page} className="text-muted-foreground px-1">
+                  …
+                </span>
+              );
+            }
+            return null;
+          })}
 
           <button
             onClick={() => goToPage(Math.min(totalPages, currentPage + 1))}

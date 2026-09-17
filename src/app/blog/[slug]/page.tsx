@@ -36,11 +36,20 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       <div className="min-h-screen flex items-center justify-center bg-background">
         <div className="text-center">
           <h1 className="font-heading text-4xl font-bold text-foreground mb-4">Post Not Found</h1>
-          <Link href="/blog" className="text-teal hover:text-gold transition-colors">&larr; Back to Blog</Link>
+          <Link href="/blog/" className="text-teal hover:text-gold transition-colors">&larr; Back to Blog</Link>
         </div>
       </div>
     );
   }
+
+  // Get related posts — same category first, then different category, no repeats
+  const sameCategory = BLOG_POSTS.filter(
+    (p) => p.slug !== post.slug && p.category === post.category
+  );
+  const otherCategory = BLOG_POSTS.filter(
+    (p) => p.slug !== post.slug && p.category !== post.category
+  );
+  const relatedPosts = [...sameCategory, ...otherCategory].slice(0, 4);
 
   return (
     <>
@@ -53,15 +62,23 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         />
         <div className="relative mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
           <Link
-            href="/blog"
+            href="/blog/"
             className="inline-flex items-center gap-1.5 text-sm font-medium text-on-navy-muted hover:text-white transition-colors mb-4"
           >
             <ArrowLeft className="h-4 w-4" />
             Back to Blog
           </Link>
-          <span className="inline-flex items-center rounded-full bg-gold/10 border border-gold/20 px-3 py-1.5 text-xs font-semibold text-gold mb-4">
-            {post.category}
-          </span>
+
+          {/* Blog ID + Category badges */}
+          <div className="flex items-center gap-3 mb-4">
+            <span className="inline-flex items-center rounded-full bg-white/10 border border-white/20 px-2.5 py-1 text-xs font-mono font-bold text-white/70">
+              #{String(post.id).padStart(3, "0")}
+            </span>
+            <span className="inline-flex items-center rounded-full bg-gold/10 border border-gold/20 px-3 py-1.5 text-xs font-semibold text-gold">
+              {post.category}
+            </span>
+          </div>
+
           <h1 className="font-heading font-bold text-white leading-tight text-3xl sm:text-4xl md:text-[40px] break-words">
             {post.title}
           </h1>
@@ -75,7 +92,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             {post.content.map((block, i) => {
               if (block.type === "h2") {
                 return (
-                  <h2 key={i} className="font-heading text-2xl font-bold text-foreground mt-10 mb-4">
+                  <h2 key={i} className="font-heading text-2xl font-bold text-foreground mt-10 mb-4 scroll-mt-20">
                     {block.text}
                   </h2>
                 );
@@ -151,27 +168,41 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             </div>
           </div>
 
-          {/* Related Posts */}
+          {/* Related Posts — no repeats, same category first */}
           <div className="mt-12">
             <h2 className="font-heading text-lg font-bold text-foreground mb-4">More Guides</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              {BLOG_POSTS.filter((p) => p.slug !== post.slug)
-                .slice(0, 4)
-                .map((related) => (
-                  <Link
-                    key={related.slug}
-                    href={`/blog/${related.slug}/`}
-                    className="group glass rounded-xl p-5 hover:shadow-htg-lg transition-shadow"
-                  >
-                    <span className="inline-flex items-center rounded-full bg-teal/10 px-2 py-0.5 text-[10px] font-semibold text-teal mb-2">
+              {relatedPosts.map((related) => (
+                <Link
+                  key={related.slug}
+                  href={`/blog/${related.slug}/`}
+                  className="group glass rounded-xl p-5 hover:shadow-lg transition-all border border-border/30"
+                >
+                  <div className="flex items-center gap-2 mb-2">
+                    <span className="text-xs font-mono font-bold text-muted-foreground/40">
+                      #{String(related.id).padStart(3, "0")}
+                    </span>
+                    <span className="inline-flex items-center rounded-full bg-teal/10 px-2 py-0.5 text-[10px] font-semibold text-teal">
                       {related.category}
                     </span>
-                    <h3 className="font-heading text-sm font-semibold text-foreground group-hover:text-teal transition-colors leading-snug">
-                      {related.title}
-                    </h3>
-                  </Link>
-                ))}
+                  </div>
+                  <h3 className="font-heading text-sm font-semibold text-foreground group-hover:text-teal transition-colors leading-snug">
+                    {related.title}
+                  </h3>
+                </Link>
+              ))}
             </div>
+          </div>
+
+          {/* Back to Blog button */}
+          <div className="mt-8 text-center">
+            <Link
+              href="/blog/"
+              className="inline-flex items-center gap-2 text-sm font-semibold text-teal hover:text-gold transition-colors"
+            >
+              <ArrowLeft className="h-4 w-4" />
+              View All Guides ({BLOG_POSTS.length} total)
+            </Link>
           </div>
         </div>
       </article>
