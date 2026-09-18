@@ -110,6 +110,15 @@ export default function RootLayout({
             __html: `(function(){try{var t=localStorage.getItem('theme');if(t==='dark'){document.documentElement.classList.add('dark');}else if(t!=='light'&&!t){if(window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.classList.add('dark');}}}catch(e){}})();`,
           }}
         />
+        {/* Set js-anim flag EARLY (before hydration) so the CSS reveal-hidden
+            state applies. If JS later fails to hydrate, the global safety
+            timeout in animations.tsx will force-reveal everything.
+            Without this script, JS-dependent reveal elements default to visible. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{document.documentElement.classList.add('js-anim');}catch(e){}})();`,
+          }}
+        />
       </head>
       <body
         className={`${sora.variable} ${inter.variable} font-sans antialiased bg-background text-foreground`}

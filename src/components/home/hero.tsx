@@ -2,12 +2,12 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { motion } from "framer-motion";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Input } from "@/components/ui/input";
 import { Send, CheckCircle2, Plane, FileCheck, ArrowRight } from "lucide-react";
 import { openWhatsApp, flightInquiry, visaInquiry } from "@/lib/whatsapp";
+import { FadeIn } from "@/components/animations";
 
 const PAKISTANI_AIRPORTS = [
   "Sialkot (SKT)",
@@ -91,100 +91,83 @@ export function Hero() {
     <section className="relative overflow-hidden bg-background topo-bg">
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16 lg:py-24 z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
-          {/* Left Column */}
-          <motion.div
-            initial="hidden"
-            animate="visible"
-            variants={{
-              hidden: {},
-              visible: { transition: { staggerChildren: 0.12, delayChildren: 0.1 } },
-            }}
-          >
-            <motion.span
-              variants={{ hidden: { opacity: 0, y: 12 }, visible: { opacity: 1, y: 0 } }}
-              transition={{ duration: 0.5 }}
-              className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal pill-modern"
-            >
-              <Send className="h-3 w-3" />
-              Pakistan&apos;s Trusted Travel Desk
-            </motion.span>
-            <motion.h1
-              variants={{ hidden: { opacity: 0, y: 24 }, visible: { opacity: 1, y: 0 } }}
-              transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
-              className="mt-5 font-heading font-bold text-foreground leading-[1.1] text-4xl sm:text-5xl md:text-6xl lg:text-[56px] break-words"
-            >
-              Fly From Pakistan.{" "}
-              <span className="text-gradient">Land Anywhere.</span>{" "}
-              Visa Help Without the Guesswork.
-            </motion.h1>
-            <motion.p
-              variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
-              transition={{ duration: 0.55 }}
-              className="mt-6 text-base md:text-lg text-muted-foreground leading-relaxed max-w-xl break-words"
-            >
-              HTG Travels compares live airline fares and prepares your visa file step by step — all through WhatsApp. No confusing price lists. No waiting rooms. Just answers in minutes.
-            </motion.p>
-
-            <motion.div
-              variants={{ hidden: { opacity: 0, y: 16 }, visible: { opacity: 1, y: 0 } }}
-              transition={{ duration: 0.5 }}
-              className="mt-8 flex flex-wrap gap-3"
-            >
-              <button
-                onClick={() => setTab("flight")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
+          {/* Left Column — defensive: plain JSX, no framer-motion entrance animation.
+              Content is visible by default; entrance reveal is handled by the
+              defensive CSS `.reveal` system (scoped to html.js-anim). */}
+          <FadeIn>
+            <div>
+              <span
+                className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-teal pill-modern"
               >
-                <Plane className="h-4 w-4" />
-                Request Flight Fare
-              </button>
-              <button
-                onClick={() => setTab("visa")}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent border-2 border-foreground/30 text-foreground px-6 py-3 text-sm font-semibold hover:bg-foreground/10 hover:border-foreground/60 hover:-translate-y-0.5 backdrop-blur-sm active:scale-95 transition-all duration-300 ease-out"
+                <Send className="h-3 w-3" />
+                Pakistan&apos;s Trusted Travel Desk
+              </span>
+              <h1
+                className="mt-5 font-heading font-bold text-foreground leading-[1.1] text-4xl sm:text-5xl md:text-6xl lg:text-[56px] break-words"
               >
-                <FileCheck className="h-4 w-4" />
-                Ask Visa Expert
-              </button>
-            </motion.div>
-
-            <motion.div
-              variants={{ hidden: { opacity: 0 }, visible: { opacity: 1 } }}
-              transition={{ duration: 0.6, delay: 0.2 }}
-              className="mt-8 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground"
-            >
-              <span className="inline-flex items-center gap-1.5">
-                <CheckCircle2 className="h-4 w-4 text-teal" />
-                Authorized ticketing for 20+ airlines
-              </span>
-              <span className="inline-flex items-center gap-1.5">
-                <CheckCircle2 className="h-4 w-4 text-teal" />
-                24/7 WhatsApp support
-              </span>
-              <span className="inline-flex items-center gap-1.5">
-                <CheckCircle2 className="h-4 w-4 text-teal" />
-                Pakistan-wide service
-              </span>
-            </motion.div>
-
-            <motion.div
-              variants={{ hidden: { opacity: 0, y: 12 }, visible: { opacity: 1, y: 0 } }}
-              transition={{ duration: 0.5, delay: 0.3 }}
-            >
-              <Link
-                href="/destinations"
-                className="mt-8 inline-flex items-center gap-1.5 text-sm font-semibold text-teal hover:text-gold transition-colors group"
+                Fly From Pakistan.{" "}
+                <span className="text-gradient">Land Anywhere.</span>{" "}
+                Visa Help Without the Guesswork.
+              </h1>
+              <p
+                className="mt-6 text-base md:text-lg text-muted-foreground leading-relaxed max-w-xl break-words"
               >
-                Browse all flight routes
-                <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
-              </Link>
-            </motion.div>
-          </motion.div>
+                HTG Travels compares live airline fares and prepares your visa file step by step — all through WhatsApp. No confusing price lists. No waiting rooms. Just answers in minutes.
+              </p>
 
-          {/* Right Column — Quote Card */}
-          <motion.div
-            initial={{ opacity: 0, scale: 0.96, y: 20 }}
-            animate={{ opacity: 1, scale: 1, y: 0 }}
-            transition={{ duration: 0.7, delay: 0.4, ease: [0.22, 1, 0.36, 1] }}
-          >
+              <div
+                className="mt-8 flex flex-wrap gap-3"
+              >
+                <button
+                  onClick={() => setTab("flight")}
+                  className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
+                >
+                  <Plane className="h-4 w-4" />
+                  Request Flight Fare
+                </button>
+                <button
+                  onClick={() => setTab("visa")}
+                  className="inline-flex items-center justify-center gap-2 rounded-full bg-transparent border-2 border-foreground/30 text-foreground px-6 py-3 text-sm font-semibold hover:bg-foreground/10 hover:border-foreground/60 hover:-translate-y-0.5 backdrop-blur-sm active:scale-95 transition-all duration-300 ease-out"
+                >
+                  <FileCheck className="h-4 w-4" />
+                  Ask Visa Expert
+                </button>
+              </div>
+
+              <div
+                className="mt-8 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground"
+              >
+                <span className="inline-flex items-center gap-1.5">
+                  <CheckCircle2 className="h-4 w-4 text-teal" />
+                  Authorized ticketing for 20+ airlines
+                </span>
+                <span className="inline-flex items-center gap-1.5">
+                  <CheckCircle2 className="h-4 w-4 text-teal" />
+                  24/7 WhatsApp support
+                </span>
+                <span className="inline-flex items-center gap-1.5">
+                  <CheckCircle2 className="h-4 w-4 text-teal" />
+                  Pakistan-wide service
+                </span>
+              </div>
+
+              <div>
+                <Link
+                  href="/destinations"
+                  className="mt-8 inline-flex items-center gap-1.5 text-sm font-semibold text-teal hover:text-gold transition-colors group"
+                >
+                  Browse all flight routes
+                  <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
+                </Link>
+              </div>
+            </div>
+          </FadeIn>
+
+          {/* Right Column — Quote Card.
+              Defensive: removed framer-motion entrance animation (was causing
+              the card to stay at opacity:0 if hydration failed). Card is now
+              visible immediately; entrance reveal handled by FadeIn. */}
+          <FadeIn delay={150}>
             <div className="glass rounded-3xl p-6 sm:p-8 min-h-[540px] flex flex-col">
               <Tabs value={tab} onValueChange={(v) => setTab(v as "flight" | "visa")} className="flex-1 flex flex-col">
                 <TabsList className="grid w-full grid-cols-2 mb-6 bg-foreground/5 rounded-xl p-1 h-12 backdrop-blur-sm">
@@ -355,7 +338,7 @@ export function Hero() {
                 </TabsContent>
               </Tabs>
             </div>
-          </motion.div>
+          </FadeIn>
         </div>
       </div>
     </section>

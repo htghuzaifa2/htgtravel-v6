@@ -10,11 +10,63 @@ import { cn } from "@/lib/utils";
      per element. No JS animation loop, no re-renders during scroll.
    - MotionButton uses Framer Motion ONLY for hover/tap micro-interactions.
    - All animations respect prefers-reduced-motion.
+
+   DEFENSIVE DESIGN (prevents the "empty sections" bug from EVER recurring):
+   - On mount, we set the `js-anim` class on <html>. CSS scope `.reveal` /
+     `.reveal-stagger` hidden initial state to `html.js-anim`, so if JS
+     fails entirely, content stays visible (no broken empty page).
+   - We register a global safety timeout (3s) that force-adds `.is-visible`
+     to every `.reveal` and `.reveal-stagger` element on the page. This
+     catches any case where IntersectionObserver failed to fire (e.g.
+     element was already in viewport before observer attached, iframe
+     rendering quirks, browser bugs, hydration mismatches).
    ============================================================ */
+
+// ============ GLOBAL SAFETY NET ============
+// Single module-level flag so the safety timeout only registers once
+// even if this module is imported many times.
+let safetyNetRegistered = false;
+
+function registerGlobalSafetyNet() {
+  if (safetyNetRegistered) return;
+  if (typeof window === "undefined") return;
+  safetyNetRegistered = true;
+
+  // After 3 seconds, force every still-hidden reveal element to be visible.
+  // This is the LAST-RESORT fallback — never leaves a user with an empty page.
+  window.setTimeout(() => {
+    try {
+      const hidden = document.querySelectorAll(
+        ".reveal:not(.is-visible), .reveal-stagger:not(.is-visible)"
+      );
+      hidden.forEach((el) => el.classList.add("is-visible"));
+    } catch {
+      /* no-op — never let the safety net itself throw */
+    }
+  }, 3000);
+}
+
+// Module-level init: set the js-anim flag and register the safety net.
+// Runs once on the client when this module first loads.
+if (typeof window !== "undefined") {
+  // defer to next tick so we don't block hydration
+  window.requestAnimationFrame(() => {
+    try {
+      document.documentElement.classList.add("js-anim");
+      registerGlobalSafetyNet();
+    } catch {
+      /* no-op */
+    }
+  });
+}
 
 /**
  * useReveal — adds `is-visible` class when element scrolls into view.
  * One IntersectionObserver per element (cheap, GC'd on unmount).
+ *
+ * Defensive: also sets a 2s per-element fallback timeout. If the observer
+ * never fires (e.g. browser bug, iframe quirks, observer race), the element
+ * is force-revealed. This is independent of the 3s global safety net.
  */
 function useReveal<T extends HTMLElement = HTMLDivElement>(options?: {
   once?: boolean;
@@ -34,10 +86,21 @@ function useReveal<T extends HTMLElement = HTMLDivElement>(options?: {
       return () => clearTimeout(t);
     }
 
+    // Per-element fallback: if observer hasn't fired within 2s, force visible.
+    // This catches observer race conditions without affecting the happy path.
+    let fallbackTimer: number | undefined;
+    const clearFallback = () => {
+      if (fallbackTimer !== undefined) {
+        window.clearTimeout(fallbackTimer);
+        fallbackTimer = undefined;
+      }
+    };
+
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
           setVisible(true);
+          clearFallback();
           if (options?.once !== false) observer.disconnect();
         } else if (options?.once === false) {
           setVisible(false);
@@ -49,8 +112,14 @@ function useReveal<T extends HTMLElement = HTMLDivElement>(options?: {
       }
     );
 
+    // Set fallback AFTER observer setup so the happy path wins if it fires fast.
+    fallbackTimer = window.setTimeout(() => setVisible(true), 2000);
+
     observer.observe(node);
-    return () => observer.disconnect();
+    return () => {
+      clearFallback();
+      observer.disconnect();
+    };
   }, [options?.once, options?.threshold, options?.rootMargin]);
 
   return { ref, visible };

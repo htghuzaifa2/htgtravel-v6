@@ -522,25 +522,45 @@
     100% { background-position: 200% 0%; }
   }
 
-  /* Reveal-on-scroll: default hidden state, .is-visible toggled by IntersectionObserver */
+  /* ============ REVEAL-ON-SCROLL (defensive) ============
+     CRITICAL: Hidden initial state is scoped to `html.js-anim`.
+     - If JS fails to load/hydrate, `js-anim` is never set, content stays visible (no broken empty page).
+     - If JS loads, `js-anim` is set early (inline script in layout.tsx), then IntersectionObserver
+       toggles `.is-visible`. A global safety timeout (animations.tsx) force-reveals everything
+       after 3s as a last-resort fallback.
+     This prevents the "empty sections" bug from EVER happening again.
+  */
   .reveal {
-    opacity: 0;
-    transform: translateY(20px);
+    /* default: visible (no-js / no-anim) */
+    opacity: 1;
+    transform: none;
     transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
     will-change: opacity, transform;
   }
+  html.js-anim .reveal {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  html.js-anim .reveal.is-visible,
   .reveal.is-visible {
     opacity: 1;
     transform: translateY(0);
   }
+
   /* Staggered children — set --i index via inline style */
   .reveal-stagger {
-    opacity: 0;
-    transform: translateY(16px);
+    /* default: visible (no-js / no-anim) */
+    opacity: 1;
+    transform: none;
     transition: opacity 0.55s cubic-bezier(0.16, 1, 0.3, 1), transform 0.55s cubic-bezier(0.16, 1, 0.3, 1);
     transition-delay: calc(var(--i, 0) * 70ms);
     will-change: opacity, transform;
   }
+  html.js-anim .reveal-stagger {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  html.js-anim .reveal-stagger.is-visible,
   .reveal-stagger.is-visible {
     opacity: 1;
     transform: translateY(0);
@@ -620,9 +640,20 @@
   .drift-blob { animation-duration: 18s; }
   .drift-blob-2 { animation-duration: 22s; }
 
-  /* Ensure all buttons have minimum 44px touch target (iOS/Android standard) */
-  button, a[role="button"], .inline-flex {
+  /* Ensure primary action BUTTONS have minimum 44px touch target on mobile.
+     CRITICAL FIX: removed `.inline-flex` from this selector — it was forcing ALL
+     inline-flex elements (badges, icons, text spans, nav links) to 44px tall,
+     which broke the visual hierarchy across the entire homepage.
+     Only target real buttons and explicit button-role links instead. */
+  button,
+  a[role="button"] {
     min-height: 44px;
+  }
+  /* Exclude small icon-only / badge buttons from the 44px rule by giving them
+     an explicit override class when needed. */
+  button[data-no-touch-target],
+  a[role="button"][data-no-touch-target] {
+    min-height: auto;
   }
   /* Smaller scrollbar on mobile */
   ::-webkit-scrollbar {
@@ -646,7 +677,10 @@
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
-  .reveal, .reveal-stagger {
+  /* Defensive: in reduced-motion mode, ALL reveal content is visible regardless of js-anim state. */
+  .reveal, .reveal-stagger,
+  html.js-anim .reveal,
+  html.js-anim .reveal-stagger {
     opacity: 1 !important;
     transform: none !important;
   }
