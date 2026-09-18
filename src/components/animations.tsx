@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState, type ReactNode } from "react";
+import { createContext, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { motion, useReducedMotion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
@@ -84,8 +84,14 @@ export function FadeIn({
 
 /**
  * Stagger — container that reveals children in sequence using CSS transitions.
- * Children should be <StaggerItem>.
+ * Children should be <StaggerItem>. Uses React Context to pass `visible`
+ * and `index` state to descendant <StaggerItem>s WITHOUT double-wrapping.
  */
+const StaggerContext = createContext<{ visible: boolean; registerIndex: () => number }>({
+  visible: false,
+  registerIndex: () => 0,
+});
+
 export function Stagger({
   children,
   className,
@@ -96,36 +102,47 @@ export function Stagger({
   staggerMs?: number;
 }) {
   const { ref, visible } = useReveal<HTMLDivElement>({ once: true });
-  // Inject --i CSS variable on each direct child for staggered delay
+  // Counter that increments for each StaggerItem that registers, giving
+  // each child a unique stagger index without relying on array position.
+  const indexCounter = useRef(0);
+
+  const ctx = useMemo(
+    () => ({
+      visible,
+      registerIndex: () => indexCounter.current++,
+    }),
+    [visible]
+  );
+
   return (
-    <div ref={ref} className={className}>
-      {Array.isArray(children)
-        ? children.map((child, i) => (
-            <StaggerItem key={i} index={i} staggerMs={staggerMs} visible={visible}>
-              {child}
-            </StaggerItem>
-          ))
-        : children}
-    </div>
+    <StaggerContext.Provider value={ctx}>
+      <div ref={ref} className={className}>
+        {children}
+      </div>
+    </StaggerContext.Provider>
   );
 }
 
 /**
  * StaggerItem — must be used inside <Stagger>.
+ * Self-registers with the parent <Stagger> via context to get its stagger
+ * index and visibility state. No double-wrapping.
  */
 export function StaggerItem({
   children,
   className,
-  index = 0,
+  index: indexProp,
   staggerMs = 60,
-  visible = false,
 }: {
   children: ReactNode;
   className?: string;
   index?: number;
   staggerMs?: number;
-  visible?: boolean;
 }) {
+  const { visible, registerIndex } = useContext(StaggerContext);
+  const [autoIndex] = useState(() => registerIndex());
+  const index = indexProp ?? autoIndex;
+
   return (
     <div
       className={cn("reveal-stagger", visible && "is-visible", className)}

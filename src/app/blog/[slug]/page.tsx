@@ -72,8 +72,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
           {/* Blog ID + Category badges */}
           <div className="flex items-center gap-3 mb-4">
-            <span className="inline-flex items-center rounded-full bg-white/10 border border-white/20 px-2.5 py-1 text-xs font-mono font-bold text-white/70">
-              #{String(post.id).padStart(3, "0")}
+            <span className="inline-flex items-center rounded-full bg-white/10 border border-white/20 px-3 py-1.5 text-xs font-mono font-bold text-white/80">
+              ID: {String(post.id).padStart(3, "0")}
             </span>
             <span className="inline-flex items-center rounded-full bg-gold/10 border border-gold/20 px-3 py-1.5 text-xs font-semibold text-gold">
               {post.category}
@@ -180,8 +180,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                   className="group glass rounded-xl p-5 hover:shadow-lg transition-all border border-border/30"
                 >
                   <div className="flex items-center gap-2 mb-2">
-                    <span className="text-xs font-mono font-bold text-muted-foreground/40">
-                      #{String(related.id).padStart(3, "0")}
+                    <span className="text-xs font-mono font-bold text-muted-foreground/60">
+                      ID: {String(related.id).padStart(3, "0")}
                     </span>
                     <span className="inline-flex items-center rounded-full bg-teal/10 px-2 py-0.5 text-[10px] font-semibold text-teal">
                       {related.category}

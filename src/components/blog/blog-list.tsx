@@ -13,13 +13,25 @@ export function BlogList() {
   const filteredPosts = useMemo(() => {
     const query = searchQuery.toLowerCase().trim();
     const base = query
-      ? BLOG_POSTS.filter(
-          (post) =>
+      ? BLOG_POSTS.filter((post) => {
+          // Search by ID: user can type "7", "#7", "#007", "ID:7"
+          const paddedId = String(post.id).padStart(3, "0");
+          const idMatches =
+            String(post.id) === query ||
+            `#${post.id}` === query ||
+            `#${paddedId}` === query ||
+            paddedId === query ||
+            `id:${post.id}` === query ||
+            `id:${paddedId}` === query;
+          return (
+            idMatches ||
             post.title.toLowerCase().includes(query) ||
             post.category.toLowerCase().includes(query) ||
             post.keywords.some((kw) => kw.toLowerCase().includes(query)) ||
-            post.metaDescription.toLowerCase().includes(query)
-        )
+            post.metaDescription.toLowerCase().includes(query) ||
+            post.slug.toLowerCase().includes(query)
+          );
+        })
       : [...BLOG_POSTS];
     // Sort by ID descending (newest/highest ID first)
     return base.sort((a, b) => b.id - a.id);
@@ -74,12 +86,14 @@ export function BlogList() {
         </div>
       </div>
 
-      {/* Count */}
+      {/* Count — always shows accurate total */}
       <div className="mb-6 text-center">
         <p className="text-sm text-muted-foreground">
           {searchQuery
             ? `${filteredPosts.length} guide${filteredPosts.length !== 1 ? "s" : ""} found for "${searchQuery}"`
-            : `Showing ${currentPosts.length} of ${BLOG_POSTS.length} guides`}
+            : filteredPosts.length === 0
+              ? `No guides available`
+              : `Showing ${Math.min((currentPage - 1) * POSTS_PER_PAGE + 1, filteredPosts.length)}–${Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} of ${BLOG_POSTS.length} articles`}
         </p>
       </div>
 
@@ -93,9 +107,9 @@ export function BlogList() {
                 href={`/blog/${post.slug}/`}
                 className="group glass rounded-2xl p-6 h-full flex flex-col justify-between relative overflow-hidden hover:shadow-lg transition-shadow duration-300 border border-border/30"
               >
-                {/* Blog ID badge */}
-                <span className="absolute top-4 right-4 text-xs font-mono font-bold text-muted-foreground/40 group-hover:text-teal/60 transition-colors">
-                  #{String(post.id).padStart(3, "0")}
+                {/* Blog ID badge — prominent, always visible */}
+                <span className="absolute top-4 right-4 inline-flex items-center rounded-md bg-muted/60 border border-border/40 px-2 py-1 text-xs font-mono font-bold text-muted-foreground group-hover:text-teal group-hover:border-teal/40 transition-colors">
+                  ID: {String(post.id).padStart(3, "0")}
                 </span>
 
                 {/* Category badge */}
