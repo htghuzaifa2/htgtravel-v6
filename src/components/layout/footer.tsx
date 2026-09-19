@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { Mail, MapPin, Clock, MessageCircle } from "lucide-react";
 import { SITE, FOOTER_LINKS } from "@/lib/constants";
 import { openWhatsApp, generalInquiry } from "@/lib/whatsapp";
@@ -40,12 +41,13 @@ export function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center mb-4">
               {/* Footer is always on navy bg — always use white logo */}
-              <img
+              <Image
                 src="/logo-white.svg"
                 alt="HTG Travels"
                 width={280}
                 height={48}
                 className="h-10 w-auto"
+                priority={false}
               />
             </Link>
             <p className="font-heading text-sm font-semibold text-gold">{SITE.tagline}</p>

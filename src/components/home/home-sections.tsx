@@ -354,7 +354,7 @@ export function WhyHTG() {
 // ============ FINAL CTA ============
 export function FinalCTA() {
   return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-navy via-[#0B1F2A] to-[#0A1530] py-16 lg:py-20">
+    <section className="relative overflow-hidden bg-gradient-to-br from-navy via-charcoal to-navy py-16 lg:py-20">
       {/* Subtle ambient blobs */}
       <div
         aria-hidden
@@ -377,7 +377,7 @@ export function FinalCTA() {
         <h2 className="font-heading text-3xl md:text-4xl font-bold text-white leading-tight">
           Need a Ticket or Visa Consultation Today?
         </h2>
-        <p className="mt-4 text-base md:text-lg text-white/70 leading-relaxed max-w-2xl mx-auto">
+        <p className="mt-4 text-base md:text-lg text-on-navy-muted leading-relaxed max-w-2xl mx-auto">
           Skip the queues. Send us your travel dates and passenger details on WhatsApp, and our team will find you the best live fares immediately.
         </p>
         <div className="mt-8">

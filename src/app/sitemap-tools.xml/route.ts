@@ -1,14 +1,10 @@
-import type { NextRequest } from "next/server";
+import type { MetadataRoute } from "next";
 
 /**
  * Tools Sitemap — served at /sitemap-tools.xml
  *
- * Contains all interactive tool pages on the site. Currently:
- *   /tools/                       — Tools landing page (lists all tools)
- *   /tools/trip-budget-calculator — Trip budget calculator
- *
- * When you add a new tool, append its URL to the TOOLS array below and it
- * will automatically appear in this sitemap (and in the sitemap index).
+ * All interactive tool pages on the site. Add a tool's URL here when you
+ * publish a new one — it will auto-appear in the sitemap index.
  */
 
 const BASE_URL = "https://htg.com.pk";
@@ -18,10 +14,13 @@ export const dynamic = "force-static";
 
 const TOOLS: { url: string; changefreq: string; priority: number }[] = [
   { url: "/tools/", changefreq: "monthly", priority: 0.7 },
-  { url: "/tools/trip-budget-calculator/", changefreq: "monthly", priority: 0.7 },
+  { url: "/tools/world-time/", changefreq: "monthly", priority: 0.8 },
+  { url: "/tools/currency-converter/", changefreq: "weekly", priority: 0.8 },
+  { url: "/tools/date-calculator/", changefreq: "monthly", priority: 0.7 },
+  { url: "/tools/visa-free-countries/", changefreq: "monthly", priority: 0.8 },
 ];
 
-export function GET(_req: NextRequest) {
+export function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${TOOLS.map(

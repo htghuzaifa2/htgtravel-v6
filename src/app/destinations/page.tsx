@@ -61,7 +61,7 @@ export default function DestinationsPage() {
                 placeholder="Search routes (e.g. Sialkot, Dubai, SKT, London...)"
                 value={search}
                 onChange={(e) => { setSearch(e.target.value); setPage(1); }}
-                className="pl-9 bg-card border-border h-10"
+                className="pl-9 input-recessed border-transparent h-10"
               />
             </div>
           </div>

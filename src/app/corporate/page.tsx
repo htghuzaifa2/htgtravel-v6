@@ -61,35 +61,35 @@ export default function CorporatePage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Company Name</label>
-                <Input value={company} onChange={(e) => setCompany(e.target.value)} placeholder="Your company name" className="bg-muted/60" />
+                <Input value={company} onChange={(e) => setCompany(e.target.value)} placeholder="Your company name" className="input-recessed border-transparent" />
               </div>
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Contact Person</label>
-                <Input value={contact} onChange={(e) => setContact(e.target.value)} placeholder="Full name" className="bg-muted/60" />
+                <Input value={contact} onChange={(e) => setContact(e.target.value)} placeholder="Full name" className="input-recessed border-transparent" />
               </div>
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Email</label>
-                <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="email@company.com" className="bg-muted/60" />
+                <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="email@company.com" className="input-recessed border-transparent" />
               </div>
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Phone</label>
-                <Input value={phone} onChange={(e) => setPhone(e.target.value)} placeholder="+92..." className="bg-muted/60" />
+                <Input value={phone} onChange={(e) => setPhone(e.target.value)} placeholder="+92..." className="input-recessed border-transparent" />
               </div>
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Number of Travelers</label>
-                <Input value={travelers} onChange={(e) => setTravelers(e.target.value)} placeholder="e.g. 15" className="bg-muted/60" />
+                <Input value={travelers} onChange={(e) => setTravelers(e.target.value)} placeholder="e.g. 15" className="input-recessed border-transparent" />
               </div>
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Route / Destination</label>
-                <Input value={route} onChange={(e) => setRoute(e.target.value)} placeholder="e.g. Lahore to Dubai" className="bg-muted/60" />
+                <Input value={route} onChange={(e) => setRoute(e.target.value)} placeholder="e.g. Lahore to Dubai" className="input-recessed border-transparent" />
               </div>
               <div className="sm:col-span-2">
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Travel Dates</label>
-                <Input value={dates} onChange={(e) => setDates(e.target.value)} placeholder="e.g. 15-22 December 2026" className="bg-muted/60" />
+                <Input value={dates} onChange={(e) => setDates(e.target.value)} placeholder="e.g. 15-22 December 2026" className="input-recessed border-transparent" />
               </div>
               <div className="sm:col-span-2">
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Special Requirements</label>
-                <Textarea value={notes} onChange={(e) => setNotes(e.target.value)} placeholder="Visa assistance, hotel, group Umrah, billing terms, etc." className="bg-muted/60 min-h-[100px]" />
+                <Textarea value={notes} onChange={(e) => setNotes(e.target.value)} placeholder="Visa assistance, hotel, group Umrah, billing terms, etc." className="input-recessed border-transparent min-h-[100px]" />
               </div>
             </div>
             <button

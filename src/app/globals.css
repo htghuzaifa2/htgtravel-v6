@@ -549,6 +549,19 @@
   :root input[type="date"].input-recessed {
     color-scheme: light;
   }
+  /* Global defensive: ALL native form controls (date, datetime, time, month,
+     number, select) get color-scheme: dark in dark mode — fixes invisible
+     calendar-picker indicators on the flights/umrah/contact/corporate pages
+     where inputs don't use the .input-recessed class (audit C2). */
+  .dark input[type="date"],
+  .dark input[type="datetime-local"],
+  .dark input[type="time"],
+  .dark input[type="month"],
+  .dark input[type="number"],
+  .dark select,
+  .dark textarea {
+    color-scheme: dark;
+  }
   /* Dark mode: ensure ALL select triggers get readable text — applies
      even outside .input-recessed (covers every Select usage). */
   .dark [data-slot="select-trigger"],
@@ -689,19 +702,30 @@
   .drift-blob-2 { animation-duration: 22s; }
 
   /* Ensure primary action BUTTONS have minimum 44px touch target on mobile.
-     CRITICAL FIX: removed `.inline-flex` from this selector — it was forcing ALL
-     inline-flex elements (badges, icons, text spans, nav links) to 44px tall,
-     which broke the visual hierarchy across the entire homepage.
-     Only target real buttons and explicit button-role links instead. */
-  button,
-  a[role="button"] {
+     CRITICAL FIX (audit C1): the previous rule was unscoped and applied
+     to EVERY <button> element on the page, including shadcn primitives
+     (SelectTrigger, TabsTrigger, AccordionTrigger, TooltipTrigger),
+     icon-only buttons (theme toggle, drawer close, calculator steppers),
+     and the insurance toggle switch. This caused every such element to
+     grow to 44px tall — breaking tab tracks, distorting pill switches,
+     and misaligning stepper rows.
+
+     New approach: opt-in via the .touch-target-44 utility class. Add this
+     class only to primary CTAs (Header 'Get Live Quote', footer WhatsApp,
+     error/not-found CTAs, hero CTA buttons, etc.). All shadcn primitives
+     and small icon buttons keep their declared heights via the defensive
+     [data-slot] / [role] overrides below. */
+  .touch-target-44 {
     min-height: 44px;
   }
-  /* Exclude small icon-only / badge buttons from the 44px rule by giving them
-     an explicit override class when needed. */
-  button[data-no-touch-target],
-  a[role="button"][data-no-touch-target] {
-    min-height: auto;
+  /* Defensive: shadcn primitives keep their declared heights on mobile */
+  [data-slot="select-trigger"],
+  [data-slot="tabs-trigger"],
+  [data-slot="accordion-trigger"],
+  [data-slot="tooltip-trigger"],
+  [role="switch"],
+  [data-no-touch-target] {
+    min-height: auto !important;
   }
   /* Smaller scrollbar on mobile */
   ::-webkit-scrollbar {
@@ -731,5 +755,93 @@
   html.js-anim .reveal-stagger {
     opacity: 1 !important;
     transform: none !important;
+  }
+}
+
+/* ============ PRINT STYLES (audit m4) ============
+   Users printing blog posts, terms of service, privacy policy, or any
+   page should get a clean black-on-white printout with nav/footer/decor
+   stripped. Without these rules, dark-mode prints produce inverted
+   (white-on-dark) output that wastes ink and is hard to read.
+*/
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  /* Hide site chrome */
+  header, footer,
+  [data-slot="dialog-content"],
+  .sticky-whatsapp,
+  [aria-label="Open menu"],
+  [aria-label="Close menu"],
+  [aria-hidden="true"] {
+    display: none !important;
+  }
+  /* Flatten navy/glass sections to white-on-black */
+  .pattern-navy, .glass, .glass-strong,
+  .bg-gradient-to-br, .bg-navy, .bg-card {
+    background: white !important;
+    color: black !important;
+    border: 1px solid #ccc !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+  }
+  /* Force all text to black for print legibility */
+  .text-white, .text-on-navy, .text-on-navy-muted,
+  .text-foreground, .text-muted-foreground {
+    color: black !important;
+  }
+  /* Preserve headings hierarchy */
+  h1, h2, h3, h4 { page-break-after: avoid; }
+  /* Show link URLs after link text (audit accessibility best practice) */
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #555;
+  }
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after,
+  a[href^="tel:"]:after,
+  a[href^="mailto:"]:after {
+    content: "";
+  }
+  main { padding: 0 !important; }
+  /* Allow long content to flow naturally */
+  .max-w-7xl, .max-w-4xl, .max-w-3xl, .max-w-2xl, .max-w-xl {
+    max-width: 100% !important;
+  }
+  /* Force black borders for print */
+  .border, .border-border, .border-border\/60, .border-border\/30 {
+    border-color: #ccc !important;
+  }
+}
+
+/* ============ HIGH CONTRAST MODE (audit m5) ============
+   Users on Windows High Contrast mode or macOS Increase Contrast see
+   stronger borders and reduced blur. Without this, glassmorphism cards
+   can become invisible (translucent bg + no border).
+*/
+@media (prefers-contrast: high) {
+  :root, .dark {
+    --border: currentColor;
+    --input: currentColor;
+  }
+  /* Kill backdrop-filter — it doesn't respect high contrast mode */
+  .glass, .glass-strong {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    background: var(--background) !important;
+    border: 2px solid currentColor !important;
+  }
+  /* Force full opacity for muted text in high contrast */
+  .text-foreground\/80, .text-foreground\/85, .text-foreground\/70,
+  .text-on-navy-muted, .text-muted-foreground {
+    color: var(--foreground) !important;
+    opacity: 1 !important;
+  }
+  /* Force visible borders on all cards */
+  .bg-card, .rounded-2xl, .rounded-3xl {
+    border: 1px solid currentColor !important;
   }
 }

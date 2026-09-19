@@ -61,7 +61,7 @@ export default function UmrahPage() {
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Duration</label>
                 <Select value={duration} onValueChange={setDuration}>
-                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 input-recessed border-transparent"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["7 Days (Quick Umrah)", "10 Days", "14 Days", "21 Days"].map((d) => <SelectItem key={d} value={d}>{d}</SelectItem>)}
                   </SelectContent>
@@ -70,7 +70,7 @@ export default function UmrahPage() {
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Hotel Category</label>
                 <Select value={hotel} onValueChange={setHotel}>
-                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 input-recessed border-transparent"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["5-Star VIP (0m Haram)", "4-Star Premium (150m)", "3-Star Economy (Shuttle)", "Custom"].map((h) => <SelectItem key={h} value={h}>{h}</SelectItem>)}
                   </SelectContent>
@@ -79,7 +79,7 @@ export default function UmrahPage() {
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Pilgrim Group</label>
                 <Select value={pilgrims} onValueChange={setPilgrims}>
-                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 input-recessed border-transparent"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["1 Pilgrim (Single Room)", "2 Pilgrims (Double)", "3-4 Pilgrims (Family)", "5+ Pilgrims (Group)"].map((p) => <SelectItem key={p} value={p}>{p}</SelectItem>)}
                   </SelectContent>
@@ -88,7 +88,7 @@ export default function UmrahPage() {
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Travel Month</label>
                 <Select value={month} onValueChange={setMonth}>
-                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 input-recessed border-transparent"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["Current Month", "Next Month", "Ramadan", "Shawwal", "Custom Date"].map((m) => <SelectItem key={m} value={m}>{m}</SelectItem>)}
                   </SelectContent>

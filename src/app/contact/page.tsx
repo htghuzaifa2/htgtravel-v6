@@ -99,15 +99,15 @@ export default function ContactPage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Full Name</label>
-                <Input value={name} onChange={(e) => setName(e.target.value)} placeholder="Your full name" className="bg-muted/60" />
+                <Input value={name} onChange={(e) => setName(e.target.value)} placeholder="Your full name" className="input-recessed border-transparent" />
               </div>
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Email Address</label>
-                <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="your.email@example.com" className="bg-muted/60" />
+                <Input type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="your.email@example.com" className="input-recessed border-transparent" />
               </div>
               <div className="sm:col-span-2">
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Your Message</label>
-                <Textarea value={message} onChange={(e) => setMessage(e.target.value)} placeholder="Type your message here..." className="bg-muted/60 min-h-[140px]" />
+                <Textarea value={message} onChange={(e) => setMessage(e.target.value)} placeholder="Type your message here..." className="input-recessed border-transparent min-h-[140px]" />
               </div>
             </div>
             <button

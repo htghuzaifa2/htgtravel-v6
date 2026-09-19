@@ -103,7 +103,7 @@ export function Hero() {
                 Pakistan&apos;s Trusted Travel Desk
               </span>
               <h1
-                className="mt-5 font-heading font-bold text-foreground leading-[1.1] text-4xl sm:text-5xl md:text-6xl lg:text-[56px] break-words"
+                className="mt-5 font-heading font-bold text-foreground leading-[1.1] text-3xl sm:text-4xl md:text-5xl lg:text-[56px] break-words"
               >
                 Fly From Pakistan.{" "}
                 <span className="text-gradient">Land Anywhere.</span>{" "}
@@ -166,9 +166,11 @@ export function Hero() {
           {/* Right Column — Quote Card.
               Defensive: removed framer-motion entrance animation (was causing
               the card to stay at opacity:0 if hydration failed). Card is now
-              visible immediately; entrance reveal handled by FadeIn. */}
+              visible immediately; entrance reveal handled by FadeIn.
+              Mobile: dropped min-h-[540px] → lg:min-h-[540px] (audit M5)
+              so the card no longer wastes vertical space on small screens. */}
           <FadeIn delay={150}>
-            <div className="glass rounded-3xl p-6 sm:p-8 min-h-[540px] flex flex-col">
+            <div className="glass rounded-3xl p-6 sm:p-8 lg:min-h-[540px] flex flex-col">
               <Tabs value={tab} onValueChange={(v) => setTab(v as "flight" | "visa")} className="flex-1 flex flex-col">
                 <TabsList className="grid w-full grid-cols-2 mb-6 bg-foreground/5 rounded-xl p-1 h-12 backdrop-blur-sm">
                   <TabsTrigger

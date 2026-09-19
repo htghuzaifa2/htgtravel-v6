@@ -85,7 +85,7 @@ export default function FlightsPage() {
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Departure Airport</label>
                 <Select value={fromAirport} onValueChange={setFromAirport}>
-                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 input-recessed border-transparent"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {PAKISTANI_AIRPORTS.map((a) => <SelectItem key={a} value={a}>{a}</SelectItem>)}
                   </SelectContent>
@@ -94,7 +94,7 @@ export default function FlightsPage() {
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Destination Country</label>
                 <Select value={destCountry} onValueChange={setDestCountry}>
-                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 input-recessed border-transparent"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {Object.keys(DEST_AIRPORTS).map((c) => <SelectItem key={c} value={c}>{c}</SelectItem>)}
                   </SelectContent>
@@ -103,7 +103,7 @@ export default function FlightsPage() {
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Arrival Airport</label>
                 <Select value={toAirport} onValueChange={setToAirport}>
-                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 input-recessed border-transparent"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {(DEST_AIRPORTS[destCountry] || []).map((a) => <SelectItem key={a} value={a}>{a}</SelectItem>)}
                   </SelectContent>
@@ -111,18 +111,18 @@ export default function FlightsPage() {
               </div>
               <div>
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Departure Date</label>
-                <Input type="date" value={depDate} onChange={(e) => setDepDate(e.target.value)} className="h-11 bg-muted/60" />
+                <Input type="date" value={depDate} onChange={(e) => setDepDate(e.target.value)} className="h-11 input-recessed border-transparent" />
               </div>
               {tripType === "round" && (
                 <div>
                   <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Return Date</label>
-                  <Input type="date" value={retDate} onChange={(e) => setRetDate(e.target.value)} className="h-11 bg-muted/60" />
+                  <Input type="date" value={retDate} onChange={(e) => setRetDate(e.target.value)} className="h-11 input-recessed border-transparent" />
                 </div>
               )}
               <div className="sm:col-span-2">
                 <label className="text-xs font-medium text-muted-foreground mb-1.5 block">Passengers & Class</label>
                 <Select value={paxClass} onValueChange={setPaxClass}>
-                  <SelectTrigger className="h-11 bg-muted/60"><SelectValue /></SelectTrigger>
+                  <SelectTrigger className="h-11 input-recessed border-transparent"><SelectValue /></SelectTrigger>
                   <SelectContent>
                     {["1 Adult, Economy", "2 Adults, Economy", "1 Adult, Business", "2 Adults, Business", "Family (Economy)", "Group (10+)"].map((p) => <SelectItem key={p} value={p}>{p}</SelectItem>)}
                   </SelectContent>
