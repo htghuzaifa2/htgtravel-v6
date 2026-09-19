@@ -13,9 +13,29 @@ export const metadata: Metadata = {
     "Answers to common questions about flights, visas, Umrah packages, insurance, payments, and support.",
 };
 
+// Build FAQ JSON-LD from the same data source — never drifts out of sync.
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: FAQS.flatMap((cat) =>
+    cat.items.map((item) => ({
+      "@type": "Question",
+      name: item.q,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.a,
+      },
+    }))
+  ),
+};
+
 export default function FAQPage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <PageHero
         eyebrow="FAQ"
         title="Frequently Asked Questions"

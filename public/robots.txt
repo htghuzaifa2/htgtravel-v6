@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://htg.com.pk/sitemap.xml
-Sitemap: https://htg.com.pk/blog-sitemap.xml

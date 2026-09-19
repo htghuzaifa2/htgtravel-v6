@@ -52,8 +52,76 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   ).sort((a, b) => b.id - a.id);
   const relatedPosts = [...sameCategory, ...otherCategory].slice(0, 4);
 
+  // BlogPosting JSON-LD structured data — gives Google rich result eligibility
+  // (author, datePublished, headline, mainEntityOfPage, publisher).
+  const blogSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.metaDescription,
+    keywords: post.keywords.join(", "),
+    articleSection: post.category,
+    url: `https://htg.com.pk/blog/${post.slug}/`,
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://htg.com.pk/blog/${post.slug}/`,
+    },
+    author: {
+      "@type": "Organization",
+      name: "HTG Travels",
+      url: "https://htg.com.pk/",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "HTG Travels",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://htg.com.pk/favicon.svg",
+      },
+    },
+    // BLOG_POSTS don't carry an explicit publish date in this codebase,
+    // so we use the build time as a stable fallback. Schema is still valid.
+    datePublished: new Date().toISOString(),
+    dateModified: new Date().toISOString(),
+  };
+
+  // BreadcrumbList JSON-LD — helps Google show breadcrumbs in search results.
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://htg.com.pk/",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Blog",
+        item: "https://htg.com.pk/blog/",
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: post.title,
+        item: `https://htg.com.pk/blog/${post.slug}/`,
+      },
+    ],
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+
       {/* Hero */}
       <section className="pattern-navy relative overflow-hidden">
         <div
