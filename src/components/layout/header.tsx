@@ -53,6 +53,7 @@ export function Header() {
     { label: "Umrah", href: "/umrah" },
     { label: "Insurance", href: "/insurance" },
     { label: "Destinations", href: "/destinations" },
+    { label: "Tools", href: "/tools" },
     { label: "Corporate", href: "/corporate" },
     { label: "About", href: "/about" },
     { label: "Contact", href: "/contact" },

@@ -70,6 +70,7 @@ export const FOOTER_LINKS = {
     { label: "Umrah & Hajj Packages", href: "/umrah" },
   ],
   resources: [
+    { label: "Travel Tools & Calculators", href: "/tools" },
     { label: "Blog & Guides", href: "/blog" },
     { label: "About HTG Travels", href: "/about" },
     { label: "FAQ", href: "/faq" },
