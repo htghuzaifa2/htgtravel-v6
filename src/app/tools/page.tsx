@@ -1,18 +1,21 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Clock, Coins, CalendarDays, Stamp, ArrowRight } from "lucide-react";
+import { Clock, Coins, CalendarDays, Stamp, Moon, Globe, Plane, Phone, ArrowRight } from "lucide-react";
 import { PageHero } from "@/components/shared/page-hero";
 import { FadeIn } from "@/components/animations";
 
 export const metadata: Metadata = {
   title: "Travel Tools & Calculators",
   description:
-    "Free travel tools and calculators from HTG Travels. World time zone converter, currency converter, date calculator, and visa-free countries lookup for Pakistani passport. Mobile-friendly, no signup.",
+    "Free travel tools and calculators from HTG Travels: world time zone converter, currency converter, Hijri-Gregorian date converter, country info lookup, IATA airport codes, emergency numbers, visa-free countries, and more. Mobile-friendly, no signup.",
   keywords: [
     "travel tools",
     "world time converter",
     "currency converter",
-    "date calculator",
+    "Hijri date converter",
+    "country info lookup",
+    "airport codes",
+    "emergency numbers",
     "visa-free countries Pakistan",
     "free travel calculators",
   ],
@@ -22,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Travel Tools & Calculators — HTG Travels",
     description:
-      "Free travel tools: world time converter, currency converter, date calculator, visa-free countries lookup.",
+      "8 free travel tools: world time, currency, Hijri converter, country info, airport codes, emergency numbers, date calc, visa-free.",
     type: "website",
   },
 };
@@ -34,7 +37,7 @@ const TOOLS = [
     slug: "world-time",
     title: "World Time Zone Converter",
     description:
-      "Live current time in 90+ major cities around the world. Pin your favorites, search by city or country. DST auto-applied. Perfect for checking meeting times, flight arrivals, or calling family abroad.",
+      "Live current time in 90+ major cities around the world. Pin your favorites, search by city or country. DST auto-applied.",
     icon: Clock,
     badge: "Live",
   },
@@ -42,15 +45,47 @@ const TOOLS = [
     slug: "currency-converter",
     title: "Currency Converter",
     description:
-      "Convert between 49 world currencies (PKR, USD, EUR, GBP, AED, SAR, and 44 more). Indicative rates for travel planning and general conversion. See your amount converted across all currencies at once.",
+      "Convert between 49 world currencies (PKR, USD, EUR, GBP, AED, SAR, and 44 more). Indicative rates, cross-rate table.",
     icon: Coins,
     badge: "Popular",
+  },
+  {
+    slug: "hijri-converter",
+    title: "Hijri ↔ Gregorian Converter",
+    description:
+      "Convert dates between Islamic Hijri calendar (Umm al-Qura — official Saudi calendar) and Gregorian. Includes upcoming Islamic dates (Ramadan, Eid, Hajj).",
+    icon: Moon,
+    badge: "Muslim",
+  },
+  {
+    slug: "country-info",
+    title: "Country Info Lookup",
+    description:
+      "One-stop reference for 60+ countries: capital, currency, language, plug type, voltage, frequency, driving side, calling code, emergency numbers.",
+    icon: Globe,
+    badge: "Traveler",
+  },
+  {
+    slug: "airport-codes",
+    title: "IATA Airport Code Lookup",
+    description:
+      "Search 90+ major airports by IATA code (LHR, JFK, DXB) or city name. Returns full name, location, IANA timezone, current local time.",
+    icon: Plane,
+    badge: null,
+  },
+  {
+    slug: "emergency-numbers",
+    title: "Country Emergency Numbers",
+    description:
+      "Police, ambulance, and fire emergency numbers for 70+ countries. Save before you travel. Travel safety tips included.",
+    icon: Phone,
+    badge: "Safety",
   },
   {
     slug: "date-calculator",
     title: "Travel Date Calculator",
     description:
-      "Calculate days between two dates, add or subtract days (useful for visa validity, passport expiry, insurance periods), and find what day of the week any date falls on. Three utilities in one tool.",
+      "Calculate days between two dates, add/subtract days (visa validity, passport expiry, insurance period), and find what day of week any date is.",
     icon: CalendarDays,
     badge: null,
   },
@@ -58,7 +93,7 @@ const TOOLS = [
     slug: "visa-free-countries",
     title: "Visa-Free Countries for Pakistani Passport",
     description:
-      "Lookup visa policy for 70+ destinations for Pakistani citizens. Filter by visa-free, visa-on-arrival, eVisa, or region. Always verify with the embassy before booking — we can help with visa consultation.",
+      "Lookup visa policy for 70+ destinations for Pakistani citizens. Filter by visa-free, visa-on-arrival, eVisa, or region.",
     icon: Stamp,
     badge: "Updated 2025",
   },

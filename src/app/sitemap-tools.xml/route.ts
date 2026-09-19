@@ -16,6 +16,10 @@ const TOOLS: { url: string; changefreq: string; priority: number }[] = [
   { url: "/tools/", changefreq: "monthly", priority: 0.7 },
   { url: "/tools/world-time/", changefreq: "monthly", priority: 0.8 },
   { url: "/tools/currency-converter/", changefreq: "weekly", priority: 0.8 },
+  { url: "/tools/hijri-converter/", changefreq: "monthly", priority: 0.8 },
+  { url: "/tools/country-info/", changefreq: "monthly", priority: 0.8 },
+  { url: "/tools/airport-codes/", changefreq: "monthly", priority: 0.7 },
+  { url: "/tools/emergency-numbers/", changefreq: "monthly", priority: 0.7 },
   { url: "/tools/date-calculator/", changefreq: "monthly", priority: 0.7 },
   { url: "/tools/visa-free-countries/", changefreq: "monthly", priority: 0.8 },
 ];
