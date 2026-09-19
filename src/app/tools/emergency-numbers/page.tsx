@@ -42,7 +42,7 @@ const COUNTRIES: Country[] = [
   { name: "Iraq", iso: "IQ", flag: "🇮🇶", region: "Middle East", police: "122", ambulance: "122", fire: "122", unified: "122" },
   { name: "Jordan", iso: "JO", flag: "🇯🇴", region: "Middle East", police: "911", ambulance: "911", fire: "911", unified: "911" },
   { name: "Lebanon", iso: "LB", flag: "🇱🇧", region: "Middle East", police: "112", ambulance: "140", fire: "175" },
-  { name: "Israel", iso: "IL", flag: "🇮🇱", region: "Middle East", police: "100", ambulance: "101", fire: "102" },
+  { name: "Palestine", iso: "PS", flag: "🇵🇸", region: "Middle East", police: "100", ambulance: "101", fire: "102", notes: "Palestine Red Crescent: 101" },
   { name: "Egypt", iso: "EG", flag: "🇪🇬", region: "Middle East", police: "122", ambulance: "123", fire: "180" },
 
   { name: "China", iso: "CN", flag: "🇨🇳", region: "East Asia", police: "110", ambulance: "120", fire: "119" },
