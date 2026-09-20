@@ -6,7 +6,7 @@ export const insurance: BlogPostSeed[] = [
     title: "Schengen Travel Insurance: What Actually Meets the Requirement",
     category: "Insurance",
     metaDescription:
-      "Schengen visa insurance explained — the €30,000 rule, what policies must cover, and how to get the certificate embassies accept.",
+      "Schengen visa insurance explained. The €30,000 rule, what policies must cover, and how to get the certificate embassies accept.",
     keywords: [
       "Schengen travel insurance",
       "Schengen visa insurance requirement",
@@ -16,14 +16,14 @@ export const insurance: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Embassy-Ready Schengen Insurance, Issued Same-Day",
-      body: "Schengen insurance is a visa gatekeeper — the wrong policy stalls the application even when everything else is perfect. We issue embassy-accepted Schengen-compliant policies for Pakistani travellers same-day, with the certificate formatted the way consulates read it. Add it to any visa file: message us.",
+      body: "Schengen insurance is a visa gatekeeper. The wrong policy stalls the application even when everything else is perfect. We issue embassy-accepted Schengen-compliant policies for Pakistani travellers same-day, with the certificate formatted the way consulates read it. Add it to any visa file: message us.",
       cta: "Get Schengen insurance",
       waText: "Assalam o Alaikum! I read your Schengen insurance guide. Please issue me a Schengen-compliant policy.",
     },
     content: [
       {
         type: "p",
-        text: "Every Schengen application must include travel medical insurance meeting a fixed legal standard — and the embassies check it line by line. A policy missing any element of the standard becomes a document request that costs you a week.",
+        text: "Every Schengen application must include travel medical insurance meeting a fixed legal standard, and the embassies check it line by line. A policy missing any element of the standard becomes a document request that costs you a week.",
       },
       {
         type: "h2",
@@ -32,11 +32,11 @@ export const insurance: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Minimum €30,000 medical coverage — the number every embassy checks first",
+          "Minimum €30,000 medical coverage. The number every embassy checks first",
           "Coverage across ALL Schengen states, not just your destination",
           "Valid for your entire stay, with zero gap days",
           "Covers emergency medical treatment, urgent hospital care, and repatriation",
-          "Issued by a provider the embassies recognize — with a certificate that shows each requirement explicitly",
+          "Issued by a provider the embassies recognize, with a certificate that shows each requirement explicitly",
         ],
       },
       {
@@ -45,11 +45,11 @@ export const insurance: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Buy insurance only after your dates are firm — policies start on your chosen day, and changes cost more than the premium sometimes. Buy the visa-duration plus a small buffer; if the visa grants extra validity, insurance covering the first entry works for the file. Print the certificate and carry a digital copy for border officers who occasionally re-check at entry. And the honest advice our desk gives every Schengen client: this insurance is not a formality — medical care in Europe without it bills in the tens of thousands of euros. The visa requirement is doing you a favour.",
+        text: "Buy insurance only after your dates are firm. Policies start on your chosen day, and changes cost more than the premium sometimes. Buy the visa-duration plus a small buffer; if the visa grants extra validity, insurance covering the first entry works for the file. Print the certificate and carry a digital copy for border officers who occasionally re-check at entry. And the honest advice our desk gives every Schengen client: this insurance is not a formality. Medical care in Europe without it bills in the tens of thousands of euros. The visa requirement is doing you a favour.",
       },
       {
         type: "quote",
-        text: "Same-day certificates, embassy-ready formatting — our desk issues these weekly. Ask for yours.",
+        text: "Same-day certificates, embassy-ready formatting. Our desk issues these weekly. Ask for yours.",
       },
     ],
   },
@@ -58,7 +58,7 @@ export const insurance: BlogPostSeed[] = [
     title: "Flight Cancellation Insurance: When It's Worth the Money",
     category: "Insurance",
     metaDescription:
-      "Flight cancellation insurance honestly assessed — what it covers, what it excludes, and the traveller types who genuinely benefit from it.",
+      "Flight cancellation insurance honestly assessed. What it covers, what it excludes, and the traveller types who genuinely benefit from it.",
     keywords: [
       "flight cancellation insurance",
       "trip cancellation cover",
@@ -68,14 +68,14 @@ export const insurance: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Flexible Tickets or Cancellation Cover — We Advise Honestly on Both",
-      body: "Some trips deserve cancellation insurance; others deserve a flexible fare — and a good desk tells you which instead of selling both. Our team prices the fares AND the cover side by side, then recommends the cheaper protection. Honest advice, one message away.",
+      body: "Some trips deserve cancellation insurance; others deserve a flexible fare, and a good desk tells you which instead of selling both. Our team prices the fares AND the cover side by side, then recommends the cheaper protection. Honest advice, one message away.",
       cta: "Assess my trip risk",
       waText: "Assalam o Alaikum! I read your cancellation insurance guide. Should I take cover or a flexible fare for my trip?",
     },
     content: [
       {
         type: "p",
-        text: "Flight cancellation insurance is the most sold and least understood travel product — brilliant for some trips, wasted money on others. The honest assessment in two minutes.",
+        text: "Flight cancellation insurance is the most sold and least understood travel product. Brilliant for some trips, wasted money on others. The honest assessment in two minutes.",
       },
       {
         type: "h2",
@@ -84,7 +84,7 @@ export const insurance: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Trip cancellation for insured reasons: serious illness, death in the family, certain emergencies — documented, not self-declared",
+          "Trip cancellation for insured reasons: serious illness, death in the family, certain emergencies. Documented, not self-declared",
           "Trip interruption: cutting a journey short for the same covered reasons",
           "Delay compensation thresholds: usually hours-based with fixed payouts",
           "What it never covers: changing your mind, work excuses, visa refusals under most standard policies, and bookings made before the insured event",
@@ -96,11 +96,11 @@ export const insurance: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Trips with large non-refundable components — wedding-season group bookings, expensive Umrah dates, prepaid tours. Travellers with health uncertainty in the family — the policy prices the risk so a hospital admission does not also cancel a lakh of tickets. And complex multi-stop itineraries where one delay cascades. For simple flexible-fare trips, cancellation insurance often duplicates what the flexible fare already gives you. The right answer requires seeing both prices side by side — which is exactly what our desk shows before anyone pays.",
+        text: "Trips with large non-refundable components (wedding-season group bookings, expensive Umrah dates, prepaid tours) genuinely benefit: the policy prices the risk so a hospital admission does not also cancel a lakh of tickets. So do travellers with health uncertainty in the family. And complex multi-stop itineraries where one delay cascades. For simple flexible-fare trips, cancellation insurance often duplicates what the flexible fare already gives you. The right answer requires seeing both prices side by side. Which is exactly what our desk shows before anyone pays.",
       },
       {
         type: "quote",
-        text: "Insurance or flexible fare — see both priced before you choose. We show both, honestly.",
+        text: "Insurance or flexible fare. See both priced before you choose. We show both, honestly.",
       },
     ],
   },
@@ -109,7 +109,7 @@ export const insurance: BlogPostSeed[] = [
     title: "Annual Multi-Trip Insurance: The Frequent Flyer's Smart Buy",
     category: "Insurance",
     metaDescription:
-      "Annual multi-trip travel insurance for Pakistani frequent travellers — how it works, when it beats per-trip policies, and what to check before buying.",
+      "Annual multi-trip travel insurance for Pakistani frequent travellers. How it works, when it beats per-trip policies, and what to check before buying.",
     keywords: [
       "annual travel insurance",
       "multi trip insurance",
@@ -119,14 +119,14 @@ export const insurance: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Flying 3+ Times a Year? Let's Price the Annual Policy",
-      body: "The math on annual multi-trip cover turns positive somewhere around your third international trip — and our travellers cross that line constantly. Send us your expected travel year and we will price annual versus per-trip honestly. Frequent flyers deserve frequent savings.",
+      body: "The math on annual multi-trip cover turns positive somewhere around your third international trip, and our travellers cross that line constantly. Send us your expected travel year and we will price annual versus per-trip honestly. Frequent flyers deserve frequent savings.",
       cta: "Price annual cover",
       waText: "Assalam o Alaikum! I travel frequently. Please price annual multi-trip insurance for me.",
     },
     content: [
       {
         type: "p",
-        text: "If your passport collects four or more stamps a year, per-trip insurance quietly becomes one of your largest travel expenses. Annual multi-trip cover exists precisely for you — one policy, every journey, one price.",
+        text: "If your passport collects four or more stamps a year, per-trip insurance quietly becomes one of your largest travel expenses. Annual multi-trip cover exists precisely for you. One policy, every journey, one price.",
       },
       {
         type: "h2",
@@ -136,9 +136,9 @@ export const insurance: BlogPostSeed[] = [
         type: "ul",
         items: [
           "One premium covers unlimited trips within the policy year",
-          "Each trip capped at a maximum duration — commonly 30 to 45 days per journey",
+          "Each trip capped at a maximum duration. Commonly 30 to 45 days per journey",
           "Coverage zones matter: Worldwide including Americas prices highest; regional zones cost less",
-          "Pre-existing conditions follow disclosure rules — the annual policy asks once, not per trip",
+          "Pre-existing conditions follow disclosure rules. The annual policy asks once, not per trip",
         ],
       },
       {
@@ -147,11 +147,11 @@ export const insurance: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Per-trip Schengen policies cost a modest sum each; four of them frequently outprice a full annual plan. Add the admin win — no per-journey purchasing, no forgotten coverage — and the frequent traveller's choice writes itself. Business travellers and Gulf-commuting professionals are our classic annual-policy clients, followed closely by the parents visiting children on three continents. The break-even sits around three trips; your fourth is where the cover starts paying you back. Ask our desk to price your travel year.",
+        text: "Per-trip Schengen policies cost a modest sum each; four of them frequently outprice a full annual plan. Add the admin win (no per-journey purchasing, no forgotten coverage) and the frequent traveller's choice writes itself. Business travellers and Gulf-commuting professionals are our classic annual-policy clients, followed closely by the parents visiting children on three continents. The break-even sits around three trips; your fourth is where the cover starts paying you back. Ask our desk to price your travel year.",
       },
       {
         type: "quote",
-        text: "Third trip is the tipping point — we will show you yours on paper.",
+        text: "Third trip is the tipping point. We will show you yours on paper.",
       },
     ],
   },
@@ -160,7 +160,7 @@ export const insurance: BlogPostSeed[] = [
     title: "Travel Insurance Claims From Pakistan: The Process That Pays",
     category: "Insurance",
     metaDescription:
-      "How travel insurance claims actually work for Pakistani travellers — documentation, timelines, and the mistakes that sink valid claims.",
+      "How travel insurance claims actually work for Pakistani travellers. Documentation, timelines, and the mistakes that sink valid claims.",
     keywords: [
       "travel insurance claim",
       "insurance claim process",
@@ -170,14 +170,14 @@ export const insurance: BlogPostSeed[] = [
     ],
     promo: {
       headline: "We Help Our Travellers File Claims That Actually Pay",
-      body: "A claim is a paperwork exam taken under stress — and travellers who bought their policy through a desk get help writing it. Our team assists our policyholders through documentation and submission, with the insurer relationships that move files. Buy the policy where the service continues after the sale — ours does.",
+      body: "A claim is a paperwork exam taken under stress, and travellers who bought their policy through a desk get help writing it. Our team assists our policyholders through documentation and submission, with the insurer relationships that move files. Buy the policy where the service continues after the sale. Ours does.",
       cta: "Get covered properly",
       waText: "Assalam o Alaikum! I read your claims guide. Please set up my travel insurance properly.",
     },
     content: [
       {
         type: "p",
-        text: "Insurance is only as good as its claim process — and claims from Pakistan follow rules most travellers learn only after a rejection letter. The process is learnable in five minutes, and the five minutes are worth real money.",
+        text: "Insurance is only as good as its claim process, and claims from Pakistan follow rules most travellers learn only after a rejection letter. The process is learnable in five minutes, and the five minutes are worth real money.",
       },
       {
         type: "h2",
@@ -186,9 +186,9 @@ export const insurance: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Notify the insurer fast — most policies demand notification within 24 to 48 hours of the incident",
+          "Notify the insurer fast. Most policies demand notification within 24 to 48 hours of the incident",
           "Documentation is the claim: police reports for theft, hospital reports and invoices for medical, airline delay certificates for delays",
-          "Keep every original — photos are backup, not replacement, for claim paperwork",
+          "Keep every original. Photos are backup, not replacement, for claim paperwork",
           "Pre-authorization matters for medical treatment wherever the situation allows it",
           "Submission timelines: file within the policy's stated window, usually 30 to 60 days from return",
         ],
@@ -199,7 +199,7 @@ export const insurance: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "The rejection letter almost always cites one of three failures: late notification, missing documentation, or an exclusion the traveller never read. Undisclosed pre-existing conditions void the medical section entirely. Unattended-baggage clauses sink the theft claim where the bag was 'just left for a minute.' Alcohol involvement clauses void more claims than travellers imagine. The defence against all of it: read the exclusions before you fly, keep a claims folder from the moment something goes wrong, and buy through a desk that helps you file — the difference in payout rates is not subtle.",
+        text: "The rejection letter almost always cites one of three failures: late notification, missing documentation, or an exclusion the traveller never read. Undisclosed pre-existing conditions void the medical section entirely. Unattended-baggage clauses sink the theft claim where the bag was 'just left for a minute.' Alcohol involvement clauses void more claims than travellers imagine. The defence against all of it: read the exclusions before you fly, keep a claims folder from the moment something goes wrong, and buy through a desk that helps you file. The difference in payout rates is not subtle.",
       },
       {
         type: "quote",
@@ -212,7 +212,7 @@ export const insurance: BlogPostSeed[] = [
     title: "Medical Emergencies Abroad: What Insurance Covers and What To Do",
     category: "Insurance",
     metaDescription:
-      "Medical emergency guide for Pakistani travellers — what travel insurance covers abroad, the emergency numbers, and the steps that protect you and your claim.",
+      "Medical emergency guide for Pakistani travellers. What travel insurance covers abroad, the emergency numbers, and the steps that protect you and your claim.",
     keywords: [
       "travel medical insurance",
       "medical emergency abroad",
@@ -222,14 +222,14 @@ export const insurance: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Medical Cover Arranged Before You Need It Desperately",
-      body: "The worst time to learn what your policy covers is from a hospital bed abroad. Our desk sets up medical cover with the emergency numbers and procedures briefed before departure — for Umrah, Europe, and every journey between. Insurance costs minutes to arrange and repays a lifetime. Message us.",
+      body: "The worst time to learn what your policy covers is from a hospital bed abroad. Our desk sets up medical cover with the emergency numbers and procedures briefed before departure. For Umrah, Europe, and every journey between. Insurance costs minutes to arrange and repays a lifetime. Message us.",
       cta: "Arrange medical cover",
       waText: "Assalam o Alaikum! I read your medical emergency guide. Please arrange proper medical cover for my trip.",
     },
     content: [
       {
         type: "p",
-        text: "A medical emergency abroad is two emergencies at once — the medical one and the financial one. Travel insurance exists to collapse the second into an administrative process. Here is how the machinery works when you need it.",
+        text: "A medical emergency abroad is two emergencies at once. The medical one and the financial one. Travel insurance exists to collapse the second into an administrative process. Here is how the machinery works when you need it.",
       },
       {
         type: "h2",
@@ -240,7 +240,7 @@ export const insurance: BlogPostSeed[] = [
         items: [
           "Emergency medical treatment: hospital care, doctor visits, prescribed medicines",
           "Emergency evacuation and repatriation: the air ambulance line-item that matters most in remote destinations",
-          "Emergency dental: usually capped at a modest amount — worth knowing before the toothache at 30,000 feet",
+          "Emergency dental: usually capped at a modest amount. Worth knowing before the toothache at 30,000 feet",
           "The insurer's 24-hour assistance line: your first call in every emergency, before the hospital paperwork",
         ],
       },
@@ -250,7 +250,7 @@ export const insurance: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "One: call the assistance line on your insurance card — they direct you to networked hospitals and authorize treatment. Two: carry your insurance card at all times; emergency rooms abroad ask for it before asking your name. Three: keep every invoice, report, and prescription — they are the claim. Four: for non-emergencies, pre-authorize through the line before treatment. Pakistani travellers' most expensive lesson is treating insurance as a visa formality — the €30,000 Schengen requirement exists because one European ambulance ride costs more than the policy.",
+        text: "One: call the assistance line on your insurance card. They direct you to networked hospitals and authorize treatment. Two: carry your insurance card at all times; emergency rooms abroad ask for it before asking your name. Three: keep every invoice, report, and prescription. They are the claim. Four: for non-emergencies, pre-authorize through the line before treatment. Pakistani travellers' most expensive lesson is treating insurance as a visa formality. The €30,000 Schengen requirement exists because one European ambulance ride costs more than the policy.",
       },
       {
         type: "quote",
@@ -263,7 +263,7 @@ export const insurance: BlogPostSeed[] = [
     title: "Lost Luggage: How Insurance Actually Handles It",
     category: "Insurance",
     metaDescription:
-      "Lost and delayed luggage insurance explained — airline liability vs travel insurance, the documentation that matters, and claiming properly.",
+      "Lost and delayed luggage insurance explained. Airline liability vs travel insurance, the documentation that matters, and claiming properly.",
     keywords: [
       "lost luggage insurance",
       "baggage delay cover",
@@ -273,14 +273,14 @@ export const insurance: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Travel With Cover That Answers When the Belt Stops",
-      body: "The carousel's final revolution with your bag absent is a specific kind of misery — and the right policy turns it into reimbursement instead of regret. Our desk arranges baggage cover with clear claim support for Pakistani travellers. Add it to your next trip: one message.",
+      body: "The carousel's final revolution with your bag absent is a specific kind of misery, and the right policy turns it into reimbursement instead of regret. Our desk arranges baggage cover with clear claim support for Pakistani travellers. Add it to your next trip: one message.",
       cta: "Add baggage cover",
       waText: "Assalam o Alaikum! I read your lost luggage guide. Please add baggage cover to my travel insurance.",
     },
     content: [
       {
         type: "p",
-        text: "The belt stops, the crowd thins, and your suitcase is somewhere over the Gulf. Luggage trouble comes in two flavours — delayed and lost — and insurance handles each differently. Knowing the machinery before it happens halves the misery.",
+        text: "The belt stops, the crowd thins, and your suitcase is somewhere over the Gulf. Luggage trouble comes in two flavours, delayed and lost, and insurance handles each differently. Knowing the machinery before it happens halves the misery.",
       },
       {
         type: "h2",
@@ -289,9 +289,9 @@ export const insurance: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Baggage delay: reimburses essential purchases — clothes, toiletries — when bags arrive late, usually after a 6–12 hour threshold",
+          "Baggage delay: reimburses essential purchases (clothes, toiletries) when bags arrive late, usually after a 6–12 hour threshold",
           "Baggage loss: pays a capped amount when the airline declares the bag officially lost, typically after 21 days",
-          "Airline liability exists separately — report at the airline's baggage desk BEFORE leaving the airport, always",
+          "Airline liability exists separately. Report at the airline's baggage desk before leaving the airport, always",
           "The Property Irregularity Report is the document both the airline and insurer demand",
         ],
       },
@@ -301,11 +301,11 @@ export const insurance: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Report before leaving the airport — the baggage desk issues the irregularity report that anchors every claim. Photograph your suitcase before every flight; contents lists and receipts are what insurers pay against, so keep the valuable purchases documented at home. Buy essentials within the policy's limits — the delayed-baggage allowance covers reasonable needs, not retail therapy. And keep the receipts with the report in one folder: claims with complete files pay in weeks; claims assembled from memory pay in arguments. Travel cover through our desk comes with the checklist before you need it.",
+        text: "Report before leaving the airport. The baggage desk issues the irregularity report that anchors every claim. Photograph your suitcase before every flight; contents lists and receipts are what insurers pay against, so keep the valuable purchases documented at home. Buy essentials within the policy's limits. The delayed-baggage allowance covers reasonable needs, not retail therapy. And keep the receipts with the report in one folder: claims with complete files pay in weeks; claims assembled from memory pay in arguments. Travel cover through our desk comes with the checklist before you need it.",
       },
       {
         type: "quote",
-        text: "The belt stopping is not the end of the world — with the right cover and sequence. We provide both.",
+        text: "The belt stopping is not the end of the world, with the right cover and sequence. We provide both.",
       },
     ],
   },
@@ -314,7 +314,7 @@ export const insurance: BlogPostSeed[] = [
     title: "Travel Insurance With Pre-Existing Conditions: The Honest Guide",
     category: "Insurance",
     metaDescription:
-      "Travel insurance with pre-existing conditions — disclosure rules, how cover changes, and the options for Pakistani travellers with medical histories.",
+      "Travel insurance with pre-existing conditions. Disclosure rules, how cover changes, and the options for Pakistani travellers with medical histories.",
     keywords: [
       "pre-existing conditions travel insurance",
       "diabetes travel insurance",
@@ -324,7 +324,7 @@ export const insurance: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Diabetes, Hypertension, Heart History — We Still Get You Covered",
-      body: "Pre-existing conditions narrow the insurance market but never close it — the right insurer with the right disclosure still issues solid cover, and our desk knows which insurers welcome which histories. Tell us your condition confidentially; we will find the policy that honours it.",
+      body: "Pre-existing conditions narrow the insurance market but never close it. The right insurer with the right disclosure still issues solid cover, and our desk knows which insurers welcome which histories. Tell us your condition confidentially; we will find the policy that honours it.",
       cta: "Find my cover",
       waText: "Assalam o Alaikum! I have a pre-existing condition. Please find travel insurance that covers me properly.",
     },
@@ -340,10 +340,10 @@ export const insurance: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Pre-existing means conditions diagnosed or treated before the policy start — diabetes, hypertension, cardiac history, and similar",
+          "Pre-existing means conditions diagnosed or treated before the policy start. Diabetes, hypertension, cardiac history, and similar",
           "Undisclosed conditions void related claims even for unrelated emergencies under some policies' wording",
           "Declared conditions get assessed: covered with loading, covered with exclusion, or covered with a medical screening",
-          "Stable-condition clauses reward well-managed histories — controlled diabetes often insures well",
+          "Stable-condition clauses reward well-managed histories. Controlled diabetes often insures well",
         ],
       },
       {
@@ -352,11 +352,11 @@ export const insurance: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Disclose fully through the insurer's medical screening — the phone call that feels invasive is what buys genuine protection. Well-controlled conditions frequently earn standard or lightly loaded cover; the market is kinder than travellers fear. Carry the doctor's summary letter on every trip — it speeds foreign treatment and supports any claim. And buy through a desk that knows which insurers handle which conditions humanely: the difference between policies for a diabetic Umrah pilgrim is the difference between a paid claim and a voided one. Our desk places these policies weekly — yours is placeable too.",
+        text: "Disclose fully through the insurer's medical screening. The phone call that feels invasive is what buys genuine protection. Well-controlled conditions frequently earn standard or lightly loaded cover; the market is kinder than travellers fear. Carry the doctor's summary letter on every trip. It speeds foreign treatment and supports any claim. And buy through a desk that knows which insurers handle which conditions humanely: the difference between policies for a diabetic Umrah pilgrim is the difference between a paid claim and a voided one. Our desk places these policies weekly. Yours is placeable too.",
       },
       {
         type: "quote",
-        text: "Your medical history is not a wall — it is a routing question. We know the routes.",
+        text: "Your medical history is not a wall. It is a routing question. We know the routes.",
       },
     ],
   },
@@ -365,7 +365,7 @@ export const insurance: BlogPostSeed[] = [
     title: "Umrah Travel Insurance: Worth It? The Honest Comparison",
     category: "Insurance",
     metaDescription:
-      "Travel insurance for Umrah compared — what policies cover in Saudi Arabia, the health risks of pilgrimage, and the pricing reality for pilgrims.",
+      "Travel insurance for Umrah compared. What policies cover in Saudi Arabia, the health risks of pilgrimage, and the pricing reality for pilgrims.",
     keywords: [
       "Umrah travel insurance",
       "Umrah insurance worth it",
@@ -375,14 +375,14 @@ export const insurance: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Umrah Insurance in Minutes — Because Peace of Mind Is Sunnah-Adjacent",
-      body: "Umrah insurance costs less than a Makkah dinner for two — and covers the ambulance, clinic, or extended stay that would otherwise follow a health surprise. Our desk issues pilgrim-appropriate policies with Saudi-accepted providers in minutes. Add it to any package: one message.",
+      body: "Umrah insurance costs less than a Makkah dinner for two, and covers the ambulance, clinic, or extended stay that would otherwise follow a health surprise. Our desk issues pilgrim-appropriate policies with Saudi-accepted providers in minutes. Add it to any package: one message.",
       cta: "Insure my Umrah",
       waText: "Assalam o Alaikum! Please add appropriate travel insurance to my Umrah package.",
     },
     content: [
       {
         type: "p",
-        text: "Pilgrims ask us weekly: does Umrah need insurance? The Saudi visa often bundles a basic policy already — so the real question is whether additional cover earns its price. The honest comparison.",
+        text: "Pilgrims ask us weekly: does Umrah need insurance? The Saudi visa often bundles a basic policy already, so the real question is whether additional cover earns its price. The honest comparison.",
       },
       {
         type: "h2",
@@ -391,10 +391,10 @@ export const insurance: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "The visa-bundled insurance: basic, mandated, thin — designed for the Kingdom's requirements more than the pilgrim's protection",
+          "The visa-bundled insurance: basic, mandated, thin. Designed for the Kingdom's requirements more than the pilgrim's protection",
           "Additional policies cover: trip cancellation before departure, hotel and flight interruption, baggage, and fuller medical limits",
           "The pilgrim-specific risks: respiratory illness in crowds, heat events in summer, strain injuries among elderly travellers",
-          "Chronic-condition cover: the bundled policy rarely touches it — proper disclosure-based cover does",
+          "Chronic-condition cover: the bundled policy rarely touches it. Proper disclosure-based cover does",
         ],
       },
       {
@@ -403,11 +403,11 @@ export const insurance: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "For young, healthy pilgrims on short, simple trips: the bundled cover plus sensible caution is often enough. For travellers over fifty, anyone managing a chronic condition, and every family bringing elderly parents: additional cover is priced so modestly against the stakes that the question answers itself. The elderly pilgrim with hypertension is precisely the traveller the bundled policy underserves. We place both kinds of traveller weekly — and we tell each honestly which one they are.",
+        text: "For young, healthy pilgrims on short, simple trips: the bundled cover plus sensible caution is often enough. For travellers over fifty, anyone managing a chronic condition, and every family bringing elderly parents: additional cover is priced so modestly against the stakes that the question answers itself. The elderly pilgrim with hypertension is precisely the traveller the bundled policy underserves. We place both kinds of traveller weekly, and we tell each honestly which one they are.",
       },
       {
         type: "quote",
-        text: "Insurance is tawakkul with paperwork. We handle the paperwork — you handle the tawakkul.",
+        text: "Insurance is tawakkul with paperwork. We handle the paperwork. You handle the tawakkul.",
       },
     ],
   },

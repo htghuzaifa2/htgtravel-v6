@@ -6,7 +6,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Best Beach Destinations Accessible From Pakistan",
     category: "Travel",
     metaDescription:
-      "The best beach destinations within reach of Pakistan — from the Maldives' paradise to budget-friendly Sri Lanka, ranked by cost and ease.",
+      "The best beach destinations within reach of Pakistan, ranked by cost and ease, from the Maldives down to budget-friendly Sri Lanka.",
     keywords: [
       "best beaches from Pakistan",
       "beach destinations Pakistanis",
@@ -16,14 +16,14 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "The Beach Trip, Quoted With the Sunscreen Logic Included",
-      body: "Beach trips fail on the boring details — transfer costs, island-hopping timing, monsoon calendars. Our desk handles the details with the beaches: Maldives, Bali, Sri Lanka quoted with full structure for your dates. The sea is calling; answer with a plan.",
+      body: "Beach trips fail on the boring details. Transfer costs, island-hopping timing, monsoon calendars. Our desk handles the details with the beaches: Maldives, Bali, Sri Lanka quoted with full structure for your dates. The sea is calling; answer with a plan.",
       cta: "Plan my beach trip",
       waText: "Assalam o Alaikum! I read your beach guide. Please plan my beach trip for my dates.",
     },
     content: [
       {
         type: "p",
-        text: "Pakistan's own coastline deserves weekends, but the beaches Pakistanis dream about sit a short flight away — and the distance from dream to departure is mostly a booking decision. Here is the honest seaside leaderboard.",
+        text: "Pakistan's own coastline deserves weekends, but the beaches Pakistanis dream about sit a short flight away, and the distance from dream to departure is mostly a booking decision. Here is the honest seaside leaderboard.",
       },
       {
         type: "h2",
@@ -32,12 +32,12 @@ export const planningTwo: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "The paradise standard: Maldives — visa on arrival and water so blue it looks Photoshopped in person",
-          "The island variety: Bali and Lombok — beaches plus temples plus volcanoes at kind prices",
+          "The paradise standard: Maldives. Visa on arrival and water so blue it looks Photoshopped in person",
+          "The island variety: Bali and Lombok. Beaches plus temples plus volcanoes at kind prices",
           "The value classic: Sri Lanka's southern coast — December-to-April season, guesthouse prices, whale watching included",
           "The party-plus-family mix: Thailand — Phuket's energy and Krabi's quieter limestone calm",
-          "The quick fix: Dubai's JBR and Bahrain's coast — beach weekends within two hours",
-          "The wildcard: Oman's Muscat coast — coves and cliffs, the Gulf's most dramatic shoreline",
+          "The quick fix: Dubai's JBR and Bahrain's coast. Beach weekends within two hours",
+          "The wildcard: Oman's Muscat coast. Coves and cliffs, the Gulf's most dramatic shoreline",
         ],
       },
       {
@@ -46,11 +46,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Match the beach to the season, not the brochure — the Maldives runs its dry season from November to April, Sri Lanka's south flips its calendar, and Bali respects its own monsoon moods. Island transfers cost as much as nights — choose destinations where the airport sits near the sand. And the budget truth: the local-island Maldives and southern Sri Lanka deliver the postcard beach at guesthouse economics. Our desk quotes the seaside math daily — send your sun-starved dates.",
+        text: "Match the beach to the season, not the brochure. The Maldives runs its dry season from November to April, Sri Lanka's south flips its calendar, and Bali respects its own monsoon moods. Island transfers cost as much as nights. Choose destinations where the airport sits near the sand. And the budget truth: the local-island Maldives and southern Sri Lanka deliver the postcard beach at guesthouse economics. Our desk quotes the seaside math daily. Send your sun-starved dates.",
       },
       {
         type: "quote",
-        text: "The sea, properly booked. Our desk handles the booking — you handle the sunscreen.",
+        text: "The sea, properly booked. Our desk handles the booking. You handle the sunscreen.",
       },
     ],
   },
@@ -59,7 +59,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Luxury Travel Destinations From Pakistan Worth the Splurge",
     category: "Travel",
     metaDescription:
-      "Luxury destinations within reach of Pakistan — where five-star money buys genuine transformation, from overwater villas to Alpine spas.",
+      "Luxury destinations within reach of Pakistan, where five-star money buys genuine transformation, from overwater villas to Alpine spas.",
     keywords: [
       "luxury travel Pakistan",
       "luxury destinations from Pakistan",
@@ -76,7 +76,7 @@ export const planningTwo: BlogPostSeed[] = [
     content: [
       {
         type: "p",
-        text: "Luxury travel is not spending more — it is spending where the money converts directly into wonder. From Pakistan, a handful of destinations convert at genuinely supernatural rates.",
+        text: "Luxury travel is not spending more. It is spending where the money converts directly into wonder. From Pakistan, a handful of destinations convert at genuinely supernatural rates.",
       },
       {
         type: "h2",
@@ -86,7 +86,7 @@ export const planningTwo: BlogPostSeed[] = [
         type: "ul",
         items: [
           "The Maldives' overwater villas: the private-deck sunrise is the single most reliable luxury on earth",
-          "Makkah's Clock Tower suites: prayer-time luxury measured in metres from the Kaaba — the splurge with spiritual ROI",
+          "Makkah's Clock Tower suites: prayer-time luxury measured in metres from the Kaaba. The splurge with spiritual ROI",
           "Dubai's Burj-adjacent palaces: the classic Gulf luxury, two hours from home",
           "The Swiss Alps: Interlaken's five-star lake-and-mountain theatre — Europe's premium production",
           "Turkey's cave suites and Bosphorus palaces: luxury with history's texture, at Turkey's kind exchange",
@@ -99,7 +99,7 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Luxury inventory books early and quietly — the best villas and suites move through agency relationships months before they appear on booking sites. The splurge that retains value sits in location and exclusivity, not lobby chandeliers: the villa on the reef beats the palace on the highway. And luxury travel deserves the service tier our desk provides: the changes handled invisibly, the transfers pre-arranged, the WhatsApp line that answers at midnight. That is what the adjective actually means — and ours earns it.",
+        text: "Luxury inventory books early and quietly. The best villas and suites move through agency relationships months before they appear on booking sites. The splurge that retains value sits in location and exclusivity, not lobby chandeliers: the villa on the reef beats the palace on the highway. And luxury travel deserves the service tier our desk provides: the changes handled invisibly, the transfers pre-arranged, the WhatsApp line that answers at midnight. That is what the adjective actually means, and ours earns it.",
       },
       {
         type: "quote",
@@ -112,7 +112,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "How to Plan an International Trip From Pakistan: The Full Sequence",
     category: "Travel",
     metaDescription:
-      "The complete sequence for planning an international trip from Pakistan — from destination choice to boarding, in the order that saves money.",
+      "Every step of planning an international trip from Pakistan, in the order that saves money: destination, dates, documents, visa, booking, boarding.",
     keywords: [
       "how to plan international trip",
       "trip planning from Pakistan",
@@ -122,14 +122,14 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "The Whole Sequence, Handled by One Desk",
-      body: "This sequence is literally our job description — destination, visa, flights, hotels, insurance, transfers, and the briefing before departure. The DIY version takes weeks; our version takes one WhatsApp thread. Tell us where you are in the sequence; we will take it from there.",
+      body: "This sequence is literally our job description. Destination, visa, flights, hotels, insurance, transfers, and the briefing before departure. The DIY version takes weeks; our version takes one WhatsApp thread. Tell us where you are in the sequence; we will take it from there.",
       cta: "Start my sequence",
       waText: "Assalam o Alaikum! I read your trip planning guide. Please take over my trip planning.",
     },
     content: [
       {
         type: "p",
-        text: "First international trips from Pakistan fail at the sequence, not the steps — the right things done in the wrong order produce cancelled bookings and visa refusals. Here is the order that works.",
+        text: "First international trips from Pakistan fail at the sequence, not the steps. The right things done in the wrong order produce cancelled bookings and visa refusals. Here is the order that works.",
       },
       {
         type: "h2",
@@ -138,10 +138,10 @@ export const planningTwo: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Choose the destination by documents and budget — not the reel you saw last night",
+          "Choose the destination by documents and budget, not the reel you saw last night",
           "Check your passport: six months validity is the entry ticket to almost everywhere",
           "Build the visa file before spending a rupee on flights",
-          "Book flights and hotels together — the savings live in the package",
+          "Book flights and hotels together. The savings live in the package",
           "Arrange insurance and currency in the same week",
           "Take the briefing: emergency numbers, apps, and the local knowledge that smooths arrival",
         ],
@@ -152,11 +152,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Never let money move before documents firm: no paid flights before the visa file is ready, no non-refundable hotels before the visa is granted. The reverse — buying excitement first, paperwork second — is how first-time travellers finance their most expensive lesson. Our desk runs the sequence for travellers daily: one thread, the right order, the same-day quotes. The first trip should be thrilling, not educational — in the expensive sense.",
+        text: "Never let money move before documents firm: no paid flights before the visa file is ready, no non-refundable hotels before the visa is granted. The reverse (buying excitement first, paperwork second) is how first-time travellers finance their most expensive lesson. Our desk runs the sequence for travellers daily: one thread, the right order, the same-day quotes. The first trip should be thrilling, not educational. In the expensive sense.",
       },
       {
         type: "quote",
-        text: "One thread, the right order, the whole trip — that is our desk. Start yours.",
+        text: "One thread, the right order, the whole trip, that is our desk. Start yours.",
       },
     ],
   },
@@ -165,7 +165,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Best Group Trip Destinations for Friends and Families",
     category: "Travel",
     metaDescription:
-      "Group trip destinations from Pakistan — where friends' trips and family reunions actually work, with the logistics that keep groups together.",
+      "Group trip destinations from Pakistan, where friends' trips and family reunions actually work, with the logistics that keep groups together.",
     keywords: [
       "group trip destinations",
       "friends trip from Pakistan",
@@ -174,15 +174,15 @@ export const planningTwo: BlogPostSeed[] = [
       "large group vacation",
     ],
     promo: {
-      headline: "Groups of 10+ Unlock Our Best Rates — Bring Yours",
-      body: "Group trips are our desk's home ground: blocked fares, hotel room-clusters, shared transfers, and one WhatsApp thread for the whole jamaat. Friends' getaways, family reunions, office retreats — bring the headcount; we bring the structure and the savings.",
+      headline: "Groups of 10+ Open Our Best Rates. Bring Yours",
+      body: "Group trips are our desk's home ground: blocked fares, hotel room-clusters, shared transfers, and one WhatsApp thread for the whole jamaat. Friends' getaways, family reunions, office retreats. Bring the headcount; we bring the structure and the savings.",
       cta: "Plan our group trip",
-      waText: "Assalam o Alaikum! I read your group destinations guide. We are — people planning a trip for —",
+      waText: "Assalam o Alaikum! I read your group destinations guide. We are (number) people planning a trip for (destination).",
     },
     content: [
       {
         type: "p",
-        text: "Group travel is a different genre — the destination must entertain multiple personalities simultaneously, and the logistics must keep twelve people from becoming twelve itineraries. These destinations consistently pass the group test.",
+        text: "Group travel is a different genre. The destination must entertain multiple personalities simultaneously, and the logistics must keep twelve people from becoming twelve itineraries. These destinations consistently pass the group test.",
       },
       {
         type: "h2",
@@ -191,12 +191,12 @@ export const planningTwo: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Dubai: the consensus machine — theme parks for the kids, brunch for the aunties, desert for everyone",
-          "Malaysia: the family-reunion favourite — halal certainty and prices that scale kindly with headcount",
-          "Baku: the friends' trip value — old city charm, mountain day trips, and villas that fit whole squads",
-          "Thailand: the adventure group's pick — beaches, islands, and group-table street food",
-          "Turkey: the epic group journey — when the visa route fits twelve passports at once",
-          "The northern areas at home: the reunion classic — one guesthouse, one valley, one legendary group photo",
+          "Dubai: the consensus machine. Theme parks for the kids, brunch for the aunties, desert for everyone",
+          "Malaysia: the family-reunion favourite. Halal certainty and prices that scale kindly with headcount",
+          "Baku: the friends' trip value. Old city charm, mountain day trips, and villas that fit whole squads",
+          "Thailand: the adventure group's pick. Beaches, islands, and group-table street food",
+          "Turkey: the epic group journey, when the visa route fits twelve passports at once",
+          "The northern areas at home: the reunion classic. One guesthouse, one valley, one legendary group photo",
         ],
       },
       {
@@ -205,11 +205,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Groups over ten unlock airline group fares and hotel blocks invisible to individual bookers — the headcount is literally the discount. Collect passports at the idea stage, not the booking stage: the group moves at the speed of its slowest document. Assign one payment owner and one decision-maker per question — democracy plans trips slowly. And book through a desk that manages group changes gracefully, because twelve travellers means twelve chances of a plan moving. Our desk holds groups gently; it is what we do.",
+        text: "Groups over ten open airline group fares and hotel blocks invisible to individual bookers; the headcount is the discount itself. Collect passports at the idea stage, not the booking stage: the group moves at the speed of its slowest document. Assign one payment owner and one decision-maker per question. Democracy plans trips slowly. And book through a desk that manages group changes gracefully, because twelve travellers means twelve chances of a plan moving. Our desk holds groups gently; it is what we do.",
       },
       {
         type: "quote",
-        text: "Twelve travellers, one thread, zero drama — the group desk standard. Bring your jamaat.",
+        text: "Twelve travellers, one thread, zero drama. The group desk standard. Bring your jamaat.",
       },
     ],
   },
@@ -218,7 +218,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Corporate Travel Management for Pakistani Businesses",
     category: "Travel",
     metaDescription:
-      "Corporate travel management for Pakistani companies — structured programs, cost control, duty of care, and what to demand from a travel partner.",
+      "Corporate travel management for Pakistani companies. Structured programs, cost control, duty of care, and what to demand from a travel partner.",
     keywords: [
       "corporate travel management",
       "business travel Pakistan",
@@ -228,7 +228,7 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Our Corporate Desk: One Account, Every Flight, Every Report",
-      body: "Pakistani companies lose millions annually to unmanaged travel — retail fares, scattered bookings, zero visibility. Our corporate desk delivers negotiated fares, consolidated invoicing, and monthly reporting, with a dedicated account manager on WhatsApp. One meeting starts the structure. Book it.",
+      body: "Pakistani companies lose millions annually to unmanaged travel. Retail fares, scattered bookings, zero visibility. Our corporate desk delivers negotiated fares, consolidated invoicing, and monthly reporting, with a dedicated account manager on WhatsApp. One meeting starts the structure. Book it.",
       cta: "Set up our corporate desk",
       waText: "Assalam o Alaikum! I read your corporate travel guide. Our company wants to discuss a corporate travel account.",
     },
@@ -245,10 +245,10 @@ export const planningTwo: BlogPostSeed[] = [
         type: "ul",
         items: [
           "Negotiated fares and corporate rates on the routes your people actually fly",
-          "A travel policy that traveller and finance both respect — approval flows and booking rules that work",
+          "A travel policy that traveller and finance both respect. Approval flows and booking rules that work",
           "Duty of care: knowing where every traveller is when a flight cancels at midnight",
-          "Consolidated billing and monthly reporting — the numbers finance has been begging for",
-          "A dedicated account manager instead of a queue ticket — our desk assigns real humans",
+          "Consolidated billing and monthly reporting. The numbers finance has been begging for",
+          "A dedicated account manager instead of a queue ticket. Our desk assigns real humans",
         ],
       },
       {
@@ -257,11 +257,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Our businesses run lean — the travel function lands on whoever books fastest, until growth makes that expensive. The threshold where management pays for itself arrives quickly: a handful of international trips a month justifies a structured desk. The visa dimension matters doubly for Pakistani corporates — business visas for teams need a partner who files them right, because a refused chairman is a boardroom story. Our corporate desk handles both the fares and the files — the complete function, outsourced to a desk that answers.",
+        text: "Our businesses run lean. The travel function lands on whoever books fastest, until growth makes that expensive. The threshold where management pays for itself arrives quickly: a handful of international trips a month justifies a structured desk. The visa dimension matters doubly for Pakistani corporates. Business visas for teams need a partner who files them right, because a refused chairman is a boardroom story. Our corporate desk handles both the fares and the files. The complete function, outsourced to a desk that answers.",
       },
       {
         type: "quote",
-        text: "The travel function, professionally outsourced — one meeting starts it. Ours.",
+        text: "The travel function, professionally outsourced. One meeting starts it. Ours.",
       },
     ],
   },
@@ -270,7 +270,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Travel Safety for Pakistanis Abroad: The Realistic Guide",
     category: "Travel",
     metaDescription:
-      "Safety tips for Pakistani travellers abroad — document protection, scam awareness, emergency protocols, and the habits that keep trips smooth.",
+      "Safety tips for Pakistani travellers abroad. Document protection, scam awareness, emergency protocols, and the habits that keep trips smooth.",
     keywords: [
       "travel safety tips",
       "safe travel abroad",
@@ -287,7 +287,7 @@ export const planningTwo: BlogPostSeed[] = [
     content: [
       {
         type: "p",
-        text: "Travel safety is 90% boring habits and 10% drama — and the boring habits are entirely learnable in five minutes. Here is what our desk briefs before every departure.",
+        text: "Travel safety is 90% boring habits and 10% drama, and the boring habits are entirely learnable in five minutes. Here is what our desk briefs before every departure.",
       },
       {
         type: "h2",
@@ -297,9 +297,9 @@ export const planningTwo: BlogPostSeed[] = [
         type: "ul",
         items: [
           "Documents: passport scanned and emailed to yourself, photocopies in a separate bag, originals never left in hotel rooms",
-          "Money: split across wallet, bag, and a hidden reserve — never one pocket holding everything",
+          "Money: split across wallet, bag, and a hidden reserve, never one pocket holding everything",
           "Phone: charged, insured, and loaded with offline maps and the local emergency numbers",
-          "The embassy's contact saved before departure — the Pakistani missions abroad answer when travellers need them",
+          "The embassy's contact saved before departure. The Pakistani missions abroad answer when travellers need them",
           "Valuables displayed modestly: the watch that stays home travels safest",
         ],
       },
@@ -309,11 +309,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "The scams that target travellers are universal: the friendly local with an urgent problem, the unsolicited guide, the taxi that 'knows a better hotel,' the distraction-plus-pickpocket combo at crowded sites. The defence is posture, not paranoia: walk like you know where you're going, decline unsolicited help warmly, book services through your desk before departure rather than strangers after arrival. And the emergency protocol: if something goes wrong, the sequence is local police, your insurance line, our WhatsApp desk, and the embassy — in whatever order the situation demands. You will not face it alone; that is the point of the desk.",
+        text: "The scams that target travellers are universal: the friendly local with an urgent problem, the unsolicited guide, the taxi that 'knows a better hotel,' the distraction-plus-pickpocket combo at crowded sites. The defence is posture, not paranoia: walk like you know where you're going, decline unsolicited help warmly, book services through your desk before departure rather than strangers after arrival. And the emergency protocol: if something goes wrong, the sequence is local police, your insurance line, our WhatsApp desk, and the embassy. In whatever order the situation demands. You will not face it alone; that is the point of the desk.",
       },
       {
         type: "quote",
-        text: "Prepared travellers are safe travellers — our briefings make the difference. Ask.",
+        text: "Prepared travellers are safe travellers. Our briefings make the difference. Ask.",
       },
     ],
   },
@@ -322,7 +322,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "The Travel Document Checklist Every Pakistani Needs",
     category: "Travel",
     metaDescription:
-      "The complete document checklist for Pakistani travellers — passports, visas, insurance, and the copies that save trips when originals vanish.",
+      "The complete document checklist for Pakistani travellers. Passports, visas, insurance, and the copies that save trips when originals vanish.",
     keywords: [
       "travel document checklist",
       "travel documents Pakistanis",
@@ -332,14 +332,14 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "The Checklist, Personalized and Checked by Our Desk",
-      body: "Every trip we book comes with its document checklist — personalized for your destination's requirements and verified against the current rules before you fly. No missing-certificate surprises, no airport heartbreak. Travel with your paperwork professionally checked: message us.",
+      body: "Every trip we book comes with its document checklist. Personalized for your destination's requirements and verified against the current rules before you fly. No missing-certificate surprises, no airport heartbreak. Travel with your paperwork professionally checked: message us.",
       cta: "Check my documents",
       waText: "Assalam o Alaikum! I read your document checklist. Please verify my documents for my trip.",
     },
     content: [
       {
         type: "p",
-        text: "Airports have two doors: the one your documents open and the one they don't. This checklist is the difference — five minutes of verification against a lifetime of airport stories.",
+        text: "Airports have two doors: the one your documents open and the one they don't. This checklist is the difference. Five minutes of verification against a lifetime of airport stories.",
       },
       {
         type: "h2",
@@ -364,11 +364,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Photograph every document and email the set to yourself — the cloud holds what pockets lose. Carry photocopies separately from originals; a stolen bag takes one version, never both. Women travelling with mahram documentation and families with children's passports should keep those extra-certified copies current. And the check worth doing the night before: verify names match character-for-character across passport, ticket, and visa — the mismatch of one letter is the most preventable tragedy in travel.",
+        text: "Photograph every document and email the set to yourself. The cloud holds what pockets lose. Carry photocopies separately from originals; a stolen bag takes one version, never both. Women travelling with mahram documentation and families with children's passports should keep those extra-certified copies current. And the check worth doing the night before: verify names match character-for-character across passport, ticket, and visa. The mismatch of one letter is the most preventable tragedy in travel.",
       },
       {
         type: "quote",
-        text: "Documents checked twice, travels once. Our desk does the checking — ask.",
+        text: "Documents checked twice, travels once. Our desk does the checking. Ask.",
       },
     ],
   },
@@ -377,7 +377,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Passport Renewal in Pakistan: The Fast, Uncomplicated Guide",
     category: "Travel",
     metaDescription:
-      "Renewing your Pakistani passport — the process, fee categories, timelines, and the mistakes that slow renewals down.",
+      "Renewing your Pakistani passport. The process, fee categories, timelines, and the mistakes that slow renewals down.",
     keywords: [
       "passport renewal Pakistan",
       "renew Pakistani passport",
@@ -387,14 +387,14 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Renewing for Travel? We Time It Against Your Trip",
-      body: "Passport timing is travel's hidden dependency — visas refuse passports with under-six-month validity, and renewals during travel season slow to a crawl. Our desk times your renewal against your trip plan and proceeds with the visa file the moment the new passport lands. One thread, timed right: message us.",
+      body: "Passport timing is travel's hidden dependency. Visas refuse passports with under-six-month validity, and renewals during travel season slow to a crawl. Our desk times your renewal against your trip plan and proceeds with the visa file the moment the new passport lands. One thread, timed right: message us.",
       cta: "Time my renewal",
-      waText: "Assalam o Alaikum! I read your passport renewal guide. I am planning travel — when should I renew?",
+      waText: "Assalam o Alaikum! I read your passport renewal guide. I am planning travel, when should I renew?",
     },
     content: [
       {
         type: "p",
-        text: "The Pakistani passport renews through the Directorate General of Immigration and Passports — with an online renewal option that has quietly become one of the country's better digital services. The process is straightforward; the timing is where travellers stumble.",
+        text: "The Pakistani passport renews through the Directorate General of Immigration and Passports, with an online renewal option that has quietly become one of the country's better digital services. The process is straightforward; the timing is where travellers stumble.",
       },
       {
         type: "h2",
@@ -404,9 +404,9 @@ export const planningTwo: BlogPostSeed[] = [
         type: "ul",
         items: [
           "Online renewal through the official DGIP portal, or in person at regional passport offices",
-          "Categories and validity: 5 and 10-year options across page counts — fees scale accordingly",
+          "Categories and validity: 5 and 10-year options across page counts. Fees scale accordingly",
           "Normal processing runs its course in roughly two weeks; urgent tracks deliver faster for higher fees",
-          "The e-passport is rolling out progressively — newer issuances carry the chip",
+          "The e-passport is rolling out progressively. Newer issuances carry the chip",
           "Deliveries arrive by courier; keep the tracking number sacred",
         ],
       },
@@ -416,11 +416,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Renew when validity drops below a year — every visa regime on earth respects six months, and the buffer keeps options open. Travel seasons slow the offices: summer and pre-Eid weeks lengthen queues and processing alike. Keep the old passport: visa history lives in its stamps, and officers abroad read old passports like reference letters. And the rule our desk enforces: no visa file opens until the new passport is in hand — sequence the renewal first, the journey second.",
+        text: "Renew when validity drops below a year. Every visa regime on earth respects six months, and the buffer keeps options open. Travel seasons slow the offices: summer and pre-Eid weeks lengthen queues and processing alike. Keep the old passport: visa history lives in its stamps, and officers abroad read old passports like reference letters. And the rule our desk enforces: no visa file opens until the new passport is in hand. Sequence the renewal first, the journey second.",
       },
       {
         type: "quote",
-        text: "Renewal timed against the trip — that sequencing is our desk's daily work.",
+        text: "Renewal timed against the trip, that sequencing is our desk's daily work.",
       },
     ],
   },
@@ -429,7 +429,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Renewing Your Pakistani Passport From Abroad",
     category: "Travel",
     metaDescription:
-      "Pakistani passport renewal from overseas — the online process, embassy routes, timelines, and the situations overseas Pakistanis face.",
+      "Pakistani passport renewal from overseas. The online process, embassy routes, timelines, and the situations overseas Pakistanis face.",
     keywords: [
       "Pakistani passport renewal abroad",
       "renew passport overseas",
@@ -439,14 +439,14 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Overseas Pakistanis: We Handle the Trips Home and the Files Abroad",
-      body: "Whether you're renewing from Dubai, London, or Toronto and planning the next trip — Umrah, home, or onward — our desk coordinates the travel around your document reality. Overseas Pakistanis are half our clientele; message us from wherever the passport needs renewing.",
+      body: "Whether you're renewing from Dubai, London, or Toronto and planning the next trip (Umrah, home, or onward) our desk coordinates the travel around your document reality. Overseas Pakistanis are half our clientele; message us from wherever the passport needs renewing.",
       cta: "Plan around my renewal",
       waText: "Assalam o Alaikum! I am an overseas Pakistani renewing my passport. Please help me plan travel around it.",
     },
     content: [
       {
         type: "p",
-        text: "The overseas renewal runs through the same DGIP online system — usable from anywhere with internet — or through Pakistani embassies and consulates for those who prefer counter service. The process works; the planning around it is where the travellers' questions live.",
+        text: "The overseas renewal runs through the same DGIP online system, usable from anywhere with internet, or through Pakistani embassies and consulates for those who prefer counter service. The process works; the planning around it is where the travellers' questions live.",
       },
       {
         type: "h2",
@@ -456,7 +456,7 @@ export const planningTwo: BlogPostSeed[] = [
         type: "ul",
         items: [
           "Online renewal: the DGIP portal accepts applications from abroad, with delivery coordinated to your foreign address through the missions",
-          "Embassy route: walk-in or appointment services at Pakistani missions — timelines vary by mission and season",
+          "Embassy route: walk-in or appointment services at Pakistani missions. Timelines vary by mission and season",
           "Documents: existing passport, CNIC/NICOP details, photos to specification, and the fee payment from your country of residence",
           "Overseas Pakistani cards: NICOP/POC holders should verify their status aligns with the application route",
         ],
@@ -467,11 +467,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Start renewals six months before expiry — foreign residencies, work permits, and visa stamps all depend on the passport's clock, and some countries require notification when your document changes. The old passport returns cancelled alongside the new one; keep it — its visas and stamps still testify. And for the trips that depend on the renewal — Umrah from Dubai, home for the wedding, the Schengen you have been promising yourself — sequence through a desk that sees both sides: the document timeline and the travel calendar. Ours sees both, daily.",
+        text: "Start renewals six months before expiry. Foreign residencies, work permits, and visa stamps all depend on the passport's clock, and some countries require notification when your document changes. The old passport returns cancelled alongside the new one; keep it, its visas and stamps still testify. And for the trips that depend on the renewal, Umrah from Dubai, home for the wedding, the Schengen you have been promising yourself. Sequence through a desk that sees both sides: the document timeline and the travel calendar. Ours sees both, daily.",
       },
       {
         type: "quote",
-        text: "Documents abroad, trips home — our desk coordinates both sides of the ocean.",
+        text: "Documents abroad, trips home. Our desk coordinates both sides of the ocean.",
       },
     ],
   },
@@ -480,7 +480,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Hotel Booking: How to Always Get the Right Room",
     category: "Travel",
     metaDescription:
-      "Hotel booking guide — choosing locations that matter, reading the reviews that count, and the booking channels that actually protect you.",
+      "Hotel booking guide. Choosing locations that matter, reading the reviews that count, and the booking channels that actually protect you.",
     keywords: [
       "hotel booking guide",
       "how to book hotels",
@@ -490,14 +490,14 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "We Book Hotels the Internet Cannot See",
-      body: "The best inventory — Haram-side rooms, Makkah blocks, honeymoon villas — moves through agency channels before the booking sites wake up. Our desk holds those rooms, negotiates the terms, and confirms every bed in writing. One message books what the internet misses.",
-      cta: "Book my hotels",
+      body: "The best inventory (Haram-side rooms, Makkah blocks, honeymoon villas) moves through agency channels before the booking sites wake up. Our desk holds those rooms, negotiates the terms, and confirms every bed in writing. One message books what the internet misses.",
+      cta: "Reserve my hotel rooms",
       waText: "Assalam o Alaikum! I read your hotel guide. Please book hotels for my trip to —",
     },
     content: [
       {
         type: "p",
-        text: "Hotel booking is the art of matching what the photos promise to what the location delivers. The skill is learnable in one honest read — here is the version our desk trains travellers on.",
+        text: "Hotel booking is the art of matching what the photos promise to what the location delivers. The skill is learnable in one honest read. Here is the version our desk trains travellers on.",
       },
       {
         type: "h2",
@@ -506,10 +506,10 @@ export const planningTwo: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Location beats stars: a 3-star at the centre outperforms a 5-star at the edge — verify the map, not the adjectives",
+          "Location beats stars: a 3-star at the centre outperforms a 5-star at the edge. Verify the map, not the adjectives",
           "Read the 3-star reviews: the pattern in middling reviews reveals the truth the 5-stars hide",
-          "Bed configurations in writing: 'quad' rooms sometimes mean floor mattresses — confirm real beds",
-          "The walkability test: count what's within 10 minutes on foot — transit, food, the thing you came for",
+          "Bed configurations in writing: 'quad' rooms sometimes mean floor mattresses. Confirm real beds",
+          "The walkability test: count what's within 10 minutes on foot. Transit, food, the thing you came for",
           "Cancellation terms read before booking: the flexibility you need is chosen at purchase, not requested later",
         ],
       },
@@ -519,11 +519,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Booking sites show inventory; agencies hold it — the difference matters most in Makkah, Madinah, and every peak season anywhere. The agency channel brings human fixes when plans change — the rebooking power the apps answer with chatbots. Price both channels before booking: the agency's package rate often includes the transfers the site adds separately. And the golden rule: book hotels and flights together when the desk offers it — the pairing is where the quiet savings live.",
+        text: "Booking sites show inventory; agencies hold it. The difference matters most in Makkah, Madinah, and every peak season anywhere: the agency channel brings human fixes when plans change, the rebooking power the apps answer with chatbots. Price both channels before booking: the agency's package rate often includes the transfers the site adds separately. And the golden rule: book hotels and flights together when the desk offers it. The pairing is where the quiet savings live.",
       },
       {
         type: "quote",
-        text: "The rooms the internet misses — our desk books them daily. Ask.",
+        text: "The rooms the internet misses. Our desk books them daily. Ask.",
       },
     ],
   },
@@ -532,7 +532,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Travel Credit Cards for Pakistanis: The Honest Assessment",
     category: "Travel",
     metaDescription:
-      "Travel credit cards in Pakistan honestly assessed — what they actually offer for international spending, fees reality, and who benefits.",
+      "Travel credit cards in Pakistan honestly assessed. What they actually offer for international spending, fees reality, and who benefits.",
     keywords: [
       "travel credit cards Pakistan",
       "best travel card",
@@ -542,7 +542,7 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Cards, Cash, or a Mix? Our Desk Advises Per Destination",
-      body: "Every destination has its own money strategy — the cards that work in Dubai differ from the cash-first reality of Makkah's souqs. Our desk advises the currency mix per trip and arranges the exchange at honest rates. Money strategy, included with every itinerary: ask us.",
+      body: "Every destination has its own money strategy. The cards that work in Dubai differ from the cash-first reality of Makkah's souqs. Our desk advises the currency mix per trip and arranges the exchange at honest rates. Money strategy, included with every itinerary: ask us.",
       cta: "Advise my money mix",
       waText: "Assalam o Alaikum! I read your travel cards guide. What money mix should I carry for —?",
     },
@@ -558,11 +558,11 @@ export const planningTwo: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Pakistani bank cards work internationally where networks are accepted — verify your card's specific network and international activation before departure",
+          "Pakistani bank cards work internationally where networks are accepted. Verify your card's specific network and international activation before departure",
           "Foreign transaction fees are the hidden tax: know your card's percentage before swiping abroad",
           "Cards excel at: hotels, airlines, malls, and the deposits that need traceable payment",
           "Cards fail at: souqs, taxis, street food, and every small merchant running on cash",
-          "The mix rule: cards for structure, cash for life — both, always",
+          "The mix rule: cards for structure, cash for life. Both, always",
         ],
       },
       {
@@ -571,11 +571,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Dubai and the Gulf: cards travel beautifully. Europe: cards plus a cash reserve for the small economies. Makkah and Madinah: cash is king — the riyal in small denominations runs the pilgrim economy. Southeast Asia: a healthy mix with cards backup. And the universal rule: never let one payment method hold all your money — the split across card, cash, and a hidden reserve is travel's oldest insurance policy. Our desk advises the mix per destination and exchanges the cash at honest rates — the money briefing comes standard.",
+        text: "Dubai and the Gulf: cards travel beautifully. Europe: cards plus a cash reserve for the small economies. Makkah and Madinah: cash is king. The riyal in small denominations runs the pilgrim economy. Southeast Asia: a healthy mix with cards backup. And the universal rule: never let one payment method hold all your money. The split across card, cash, and a hidden reserve is travel's oldest insurance policy. Our desk advises the mix per destination and exchanges the cash at honest rates. The money briefing comes standard.",
       },
       {
         type: "quote",
-        text: "The money mix, briefed per destination — included with every trip we plan.",
+        text: "The money mix, briefed per destination. Included with every trip we plan.",
       },
     ],
   },
@@ -584,7 +584,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Travel Forex Cards for Pakistanis: What to Know Before Loading",
     category: "Travel",
     metaDescription:
-      "Travel forex cards for Pakistani travellers — how they work, where they beat cash and credit cards, and the fees to compare before loading.",
+      "Travel forex cards for Pakistani travellers. How they work, where they beat cash and credit cards, and the fees to compare before loading.",
     keywords: [
       "forex card Pakistan",
       "travel forex card",
@@ -594,14 +594,14 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Forex, Cash, Cards — Our Desk Structures the Whole Mix",
-      body: "The forex card is one instrument in a well-orchestrated money strategy — and our desk structures the full arrangement per trip: the exchange at honest rates, the card advice, and the cash split. Money handled before the flight, not during the trip. Message us with your destination.",
+      body: "The forex card is one instrument in a well-orchestrated money strategy, and our desk structures the full arrangement per trip: the exchange at honest rates, the card advice, and the cash split. Money handled before the flight, not during the trip. Message us with your destination.",
       cta: "Structure my travel money",
       waText: "Assalam o Alaikum! I read your forex card guide. Please structure my travel money for —",
     },
     content: [
       {
         type: "p",
-        text: "The forex card — a prepaid card loaded with foreign currency before you fly — sits between cash and credit in the traveller's wallet. It has real strengths and one identity crisis: it is not the whole answer, and travellers who treat it as such meet its limits abroad.",
+        text: "The forex card, a prepaid card loaded with foreign currency before you fly, sits between cash and credit in the traveller's wallet. It has real strengths and one identity crisis: it is not the whole answer, and travellers who treat it as such meet its limits abroad.",
       },
       {
         type: "h2",
@@ -610,10 +610,10 @@ export const planningTwo: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Locked exchange rate at load time — protection from mid-trip currency swings",
+          "Locked exchange rate at load time. Protection from mid-trip currency swings",
           "Budget discipline engineered in: the card cannot spend beyond its load",
           "Replacement protection: lost cards are replaceable where lost cash is simply lost",
-          "Wide acceptance at the same terminals that take the underlying network — malls, hotels, chains",
+          "Wide acceptance at the same terminals that take the underlying network. Malls, hotels, chains",
         ],
       },
       {
@@ -622,20 +622,20 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Compare the full fee stack before loading: issuance, reload, ATM withdrawal, inactivity, and the closure charges — the card with the friendly headline rate often recoups on the fine print. Compare the load rate against the open market exchange rate: the spread is a real cost. And know the failure mode: forex cards stop at exactly the cash-merchant boundaries where travel's best moments happen — the souq, the stall, the shoreline juice cart. The verdict from our desk's daily practice: forex card for the structure, cash for the living, mix forever.",
+        text: "Compare the full fee stack before loading: issuance, reload, ATM withdrawal, inactivity, and the closure charges. The card with the friendly headline rate often recoups on the fine print. Compare the load rate against the open market exchange rate: the spread is a real cost. And know the failure mode: forex cards stop at exactly the cash-merchant boundaries where travel's best moments happen. The souq, the stall, the shoreline juice cart. The verdict from our desk's daily practice: forex card for the structure, cash for the living, mix forever.",
       },
       {
         type: "quote",
-        text: "The full money structure, arranged per trip — our desk's standard service.",
+        text: "The full money structure, arranged per trip. Our desk's standard service.",
       },
     ],
   },
   {
     slug: "must-have-travel-apps-pakistanis-2026-complete-guide",
-    title: "Must-Have Travel Apps for Pakistani Travellers",
+    title: "Travel Apps Every Pakistani Traveller Should Have",
     category: "Travel",
     metaDescription:
-      "The travel app stack for Pakistani travellers — navigation, translation, prayer times, permits, and the apps that solve problems before they appear.",
+      "The travel app stack for Pakistani travellers. Navigation, translation, prayer times, permits, and the apps that solve problems before they appear.",
     keywords: [
       "travel apps",
       "must have travel apps",
@@ -645,14 +645,14 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "We Configure Your Phone Before You Fly",
-      body: "Our pre-departure briefings include the app setup: Nusuk configured, prayer times localized, offline maps downloaded, and the WhatsApp line saved. Technology that serves from the first hour — that is the standard our travellers fly with. Message us for your briefing.",
+      body: "Our pre-departure briefings include the app setup: Nusuk configured, prayer times localized, offline maps downloaded, and the WhatsApp line saved. Technology that serves from the first hour, that is the standard our travellers fly with. Message us for your briefing.",
       cta: "Get the app briefing",
       waText: "Assalam o Alaikum! I read your travel apps guide. Please set up my app briefing before my trip.",
     },
     content: [
       {
         type: "p",
-        text: "The modern journey runs on its software — and the Pakistani traveller's stack differs from the generic list in a few intelligent ways. Install these before the flight, configure them at home, and travel with quiet technological confidence.",
+        text: "The modern journey runs on its software, and the Pakistani traveller's stack differs from the generic list in a few intelligent ways. Install these before the flight, configure them at home, and travel with quiet technological confidence.",
       },
       {
         type: "h2",
@@ -661,12 +661,12 @@ export const planningTwo: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Google Maps with offline areas downloaded — the phone that works without signal outranks the one that needs it",
-          "Google Translate with the Arabic and local-language packs — the camera mode reads signs instantly",
-          "Prayer times with automatic location — the adhan follows you across time zones gracefully",
-          "Nusuk for Saudi journeys — permits and pilgrim services in the official app",
+          "Google Maps with offline areas downloaded. The phone that works without signal outranks the one that needs it",
+          "Google Translate with the Arabic and local-language packs. The camera mode reads signs instantly",
+          "Prayer times with automatic location. The adhan follows you across time zones gracefully",
+          "Nusuk for Saudi journeys. Permits and pilgrim services in the official app",
           "WhatsApp as the lifeline: family at home, our desk on the ground, and the hotel's front desk all in one thread",
-          "Your airline's app — the rebooking power that beats every airport queue",
+          "Your airline's app. The rebooking power that beats every airport queue",
           "A VPN for the regions where the internet has opinions",
         ],
       },
@@ -676,11 +676,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "Offline is the configuration that saves trips: maps, boarding passes, hotel confirmations, and the visa printout — all accessible in airplane mode, because the moments you most need them are the moments the signal chooses to vanish. Charge the power bank to full; the pilgrimage days and layover nights belong to the prepared battery. And save our desk's number before departure — the traveller with a human on WhatsApp travels with an entire agency in their pocket.",
+        text: "Offline is the configuration that saves trips: maps, boarding passes, hotel confirmations, and the visa printout. All accessible in airplane mode, because the moments you most need them are the moments the signal chooses to vanish. Charge the power bank to full; the pilgrimage days and layover nights belong to the prepared battery. And save our desk's number before departure. The traveller with a human on WhatsApp travels with an entire agency in their pocket.",
       },
       {
         type: "quote",
-        text: "Configured before departure, supported throughout — the app briefing is standard at our desk.",
+        text: "Configured before departure, supported throughout. The app briefing is standard at our desk.",
       },
     ],
   },
@@ -689,7 +689,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Europe on a Budget: The 10-Day Itinerary That Actually Works",
     category: "Travel",
     metaDescription:
-      "A realistic budget Europe itinerary for Pakistani travellers — city sequencing, the cost structure, and the honest numbers that make it work.",
+      "A realistic budget Europe itinerary for Pakistani travellers. City sequencing, the cost structure, and the honest numbers that make it work.",
     keywords: [
       "Europe budget travel",
       "10 day Europe itinerary",
@@ -706,7 +706,7 @@ export const planningTwo: BlogPostSeed[] = [
     content: [
       {
         type: "p",
-        text: "Budget Europe is real — the version built on three cities, ground transport, and the courage to eat where students eat. The 10-day structure below keeps the dream inside honest numbers.",
+        text: "Budget Europe is real. The version built on three cities, ground transport, and the courage to eat where students eat. The 10-day structure below keeps the dream inside honest numbers.",
       },
       {
         type: "h2",
@@ -715,10 +715,10 @@ export const planningTwo: BlogPostSeed[] = [
       {
         type: "ul",
         items: [
-          "Days 1–4: Istanbul or a budget-friendly entry city — the affordable overture that adjusts your spending reflexes",
-          "Days 4–7: Central Europe's value belt — Prague or Budapest — the fairy-tale architecture at half the Western prices",
+          "Days 1–4: Istanbul or a budget-friendly entry city. The affordable overture that adjusts your spending reflexes",
+          "Days 4–7: Central Europe's value belt, Prague or Budapest, the fairy-tale architecture at half the Western prices",
           "Days 7–10: one Western European finale — Paris or Rome for the icon finish, managed on budget discipline",
-          "The transport: overnight buses and trains between cities — the hotel nights you skip while you sleep eastward",
+          "The transport: overnight buses and trains between cities. The hotel nights you skip while you sleep eastward",
         ],
       },
       {
@@ -727,11 +727,11 @@ export const planningTwo: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "The flight from Pakistan anchors the budget — book it early and the rest follows. Hostels and guesthouses run the accommodation; lunch — Europe's best-value meal — powers the days; city walking is the attraction that costs nothing. The Schengen file must still be built properly: budget does not mean improvised documents — the visa officer reads the itinerary that reconciles. And the ceiling note from our desk's experience: the budget Europe trip succeeds or fails on the booking sequence — the structure our desk engineers weekly, within ceilings travellers bring us. Bring yours.",
+        text: "The flight from Pakistan anchors the budget: book it early and the rest follows. Hostels and guesthouses run the accommodation; lunch, Europe's best-value meal, powers the days; city walking is the attraction that costs nothing. The Schengen file must still be built properly: budget does not mean improvised documents, and the visa officer reads the itinerary that reconciles. And the ceiling note from our desk's experience: the budget Europe trip succeeds or fails on the booking sequence, the structure our desk engineers weekly, within ceilings travellers bring us. Bring yours.",
       },
       {
         type: "quote",
-        text: "Europe within your ceiling — the file our desk builds weekly. Bring the number.",
+        text: "Europe within your ceiling. The file our desk builds weekly. Bring the number.",
       },
     ],
   },
