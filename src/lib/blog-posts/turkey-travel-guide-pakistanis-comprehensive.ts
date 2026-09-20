@@ -48,7 +48,7 @@ export const turkeyTravelGuidePakistanisComprehensive: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "The eVisa route needs the supporting visa, or the embassy sticker route without it; our desk walks you through whichever yours allows. Halal food is the default; the adhan frames the day across the country. April–May and September–October deliver the best weather windows. And the lira's mathematics smile on foreign budgets. The five-star experience Pakistanis price in dirhams costs dramatically less in Turkey. The full itinerary, visa route, and flights come together in one message to our desk.",
+      text: "The eVisa route needs the supporting visa, or the embassy sticker route without it; our desk walks you through whichever yours allows. Halal food is the default; the adhan frames the day across the country. April–May and September–October deliver the best weather windows. And the lira's mathematics smile on foreign budgets. The five-star experience Pakistanis price in dirhams costs dramatically less in Turkey. Two numbers worth knowing before you commit: the Cappadocia balloon flight runs about €120 at sunrise, and Pamukkale repays a full day if you enter at 8 am, before the tour buses arrive. The full itinerary, visa route, and flights come together in one message to our desk.",
     },
     {
       type: "quote",

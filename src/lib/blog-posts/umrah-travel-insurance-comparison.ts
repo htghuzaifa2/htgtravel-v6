@@ -44,11 +44,31 @@ export const umrahTravelInsuranceComparison: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "What the Bundled Policy Costs and Covers",
+    },
+    {
+      type: "p",
+      text: "The bundled policy is not free; it is paid inside your Umrah visa fee, typically SAR 100 to 180 depending on age and coverage level. It covers genuine emergencies inside the Kingdom: ambulance transport, emergency room visits, and hospitalization for sudden illness or accident, through a network of Saudi healthcare providers. Some policies reach $200,000 for emergencies and $100,000 for permanent disability from accidents. For a healthy thirty-year-old, that safety net genuinely is enough; most young pilgrims never claim a riyal.",
+    },
+    {
+      type: "h2",
+      text: "Where the Gaps Hide, and Why They Are Expensive",
+    },
+    {
+      type: "p",
+      text: "Past emergencies, the cover thins out fast. Pre-existing conditions are usually excluded, so a complication tied to diabetes, heart issues, or blood pressure medication can land the whole bill with you. There is no trip protection: a cancelled Umrah, lost luggage, or a missed connection refunds nothing. And in the hardest scenarios, repatriation home sits outside the bundled policy entirely.",
+    },
+    {
+      type: "p",
+      text: "A supplementary policy closes those doors. Look for trip cancellation and interruption, baggage loss, flight delay compensation, cover for declared stable medical conditions, and repatriation. For a 7 to 14 day trip it typically costs PKR 5,000 to 15,000 for younger travellers, rising with age and declared conditions, usually 2 to 4 percent of the total trip budget. One gentleman from Birmingham still comes to mind: his diabetic father needed three days of hospital care in Makkah, the emergency transport was covered, the diabetes-related treatment was not, and the bill exceeded their entire trip cost.",
+    },
+    {
+      type: "h2",
       text: "Our Honest Recommendation",
     },
     {
       type: "p",
-      text: "For young, healthy pilgrims on short, simple trips: the bundled cover plus sensible caution is often enough. For travellers over fifty, anyone managing a chronic condition, and every family bringing elderly parents: additional cover is priced so modestly against the stakes that the question answers itself. The elderly pilgrim with hypertension is precisely the traveller the bundled policy underserves. We place both kinds of traveller weekly, and we tell each honestly which one they are.",
+      text: "For young, healthy pilgrims on short, simple trips: the bundled cover plus sensible caution is often enough. For travellers over fifty, anyone managing a chronic condition, and every family bringing elderly parents: additional cover is priced so modestly against the stakes that the question answers itself. Add families with complex, multi-flight itineraries to that list; the more moving parts, the more a cancellation clause earns its keep. The elderly pilgrim with hypertension is precisely the traveller the bundled policy underserves. We place both kinds of traveller weekly, and we tell each honestly which one they are.",
     },
     {
       type: "quote",
@@ -56,7 +76,7 @@ export const umrahTravelInsuranceComparison: BlogPostSeed = {
     },
   ],
   faqs: [
-    { q: "Does Umrah need separate travel insurance?", a: "The tourist eVisa bundles basic health cover, and Umrah visa packages carry operator liability, but neither is a real medical or baggage policy. Elders and chronic-illness travellers should add a proper plan from Pakistan." },
+    { q: "Does Umrah need separate travel insurance?", a: "The Umrah visa fee already bundles a basic emergency policy, typically SAR 100 to 180, but it is not a real medical or baggage plan. Elders and chronic-illness travellers should add proper cover from Pakistan." },
     { q: "What should Umrah insurance cover that the eVisa does not?", a: "Hospitalisation beyond emergencies, baggage and Zamzam loss, flight cancellation, and repatriation if medically needed. The bundled cover is an emergency floor, not a safety net." },
     { q: "Does travel insurance cover visa refusal?", a: "Refusal sits outside standard cover; only dedicated cancellation policies catch it. Ask in writing before assuming your prepayments are protected." },
     { q: "Is travel insurance worth it for short trips?", a: "Short trips carry the same hospital prices as long ones. A few thousand rupees against a foreign medical bill is not a close comparison." },

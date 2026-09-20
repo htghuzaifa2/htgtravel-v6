@@ -53,6 +53,10 @@ export const eidVacationDestinationsFromPakistan: BlogPostSeed = {
       text: "Eid fares announce themselves weeks early and peak mercilessly: booking four to six weeks ahead is the difference between the trip and the envy. Hotels in celebratory destinations impose Eid minimum stays, read them before falling in love. The smart Eid move our desk executes for travellers: shift the trip two days after Eid day itself, the celebration at home, then the departure into softer fares and thinner crowds. Sacrifice the crowd, keep the celebration.",
     },
     {
+      type: "p",
+      text: "One honest warning for the domestic classic: Murree on Eid day itself is a car park. The Galiyat towns just beyond it, Nathia Gali and Ayubia, give you the same pines and cool air with a fraction of the gridlock.",
+    },
+    {
       type: "quote",
       text: "Eid moves fast. Our desk holds seats before it does. Message us now.",
     },

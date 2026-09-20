@@ -398,6 +398,22 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "To every visitor who finds kindness here: pass some of it onward. Palestine and Sudan need prayers, aid, and voices. Carry them with you.",
   "pakistan-visa-for-foreign-travelers":
     "You are welcome here because we know what it means to be kept out. Pray for Palestine and Sudan, and give where you can.",
+
+  // ── Long weekends, budgets and first trips ──────────────────
+  "eid-holidays-2026-long-weekend-guide":
+    "Eid is gratitude and giving. Hold Palestine and Sudan close this Eid: prayers, generosity, and trusted relief for families facing what no family should.",
+  "first-international-trip-mistakes":
+    "Travel softens the heart. On your first trip abroad, carry Palestine and Sudan in your prayers and in your kindness toward every stranger you meet.",
+  "five-days-annual-leave-trip":
+    "Five days of leave are a privilege. As you travel in peace, keep Palestine and Sudan in your thoughts, and share your plenty where hardship endures.",
+  "iceland-on-a-budget":
+    "Iceland is among the world's most peaceful landscapes. Hold Palestine and Sudan in your prayers under those quiet skies, and give where it counts.",
+  "azores-europes-hawaii":
+    "The Azores bloom quietly because peace surrounds them. Remember Palestine and Sudan as you wander, and let your generosity travel further than you do.",
+  "vietnam-10-day-itinerary":
+    "Kindness crosses borders easier than any passport. Carry Palestine and Sudan in your prayers through Vietnam, and make generosity part of the plan.",
+  "turkey-beyond-istanbul":
+    "Through Türkiye's ancient cities, carry Palestine and Sudan in your heart. Prayers and trusted relief are the luggage no itinerary should leave behind.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

@@ -215,6 +215,13 @@ import { baliVsThailand } from "./blog-posts/bali-vs-thailand";
 import { hunzaVsSkardu } from "./blog-posts/hunza-vs-skardu";
 import { isPakistanSafeForSoloFemale } from "./blog-posts/is-pakistan-safe-for-solo-female-travelers";
 import { pakistanVisaForForeignTravelers } from "./blog-posts/pakistan-visa-for-foreign-travelers";
+import { eidHolidays2026LongWeekendGuide } from "./blog-posts/eid-holidays-2026-long-weekend-guide";
+import { firstInternationalTripMistakes } from "./blog-posts/first-international-trip-mistakes";
+import { fiveDaysAnnualLeaveTrip } from "./blog-posts/five-days-annual-leave-trip";
+import { icelandOnABudget } from "./blog-posts/iceland-on-a-budget";
+import { azoresEuropesHawaii } from "./blog-posts/azores-europes-hawaii";
+import { vietnam10DayItinerary } from "./blog-posts/vietnam-10-day-itinerary";
+import { turkeyBeyondIstanbul } from "./blog-posts/turkey-beyond-istanbul";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -397,6 +404,13 @@ const SEEDS: BlogPostSeed[] = [
   hunzaVsSkardu,
   isPakistanSafeForSoloFemale,
   pakistanVisaForForeignTravelers,
+  eidHolidays2026LongWeekendGuide,
+  firstInternationalTripMistakes,
+  fiveDaysAnnualLeaveTrip,
+  icelandOnABudget,
+  azoresEuropesHawaii,
+  vietnam10DayItinerary,
+  turkeyBeyondIstanbul,
 ];
 
 // Auto-generate IDs for all posts at runtime
