@@ -3,7 +3,7 @@ import type { BlogPostSeed } from "../blog-data";
 export const planningOne: BlogPostSeed[] = [
   {
     slug: "best-travel-destinations-from-pakistan",
-    title: "Best Travel Destinations From Pakistan (Ranked by Real Travellers)",
+    title: "Best Travel Destinations From Pakistan (Ranked by Travellers)",
     category: "Travel",
     metaDescription:
       "The best destinations from Pakistan ranked honestly. By visa ease, cost, flight time, and what Pakistani travellers actually report back.",
@@ -165,7 +165,7 @@ export const planningOne: BlogPostSeed[] = [
   },
   {
     slug: "cheapest-countries-visit-from-pakistan",
-    title: "Cheapest Countries to Visit From Pakistan (That Are Actually Good)",
+    title: "Cheapest Countries From Pakistan (That Are Actually Good)",
     category: "Travel",
     metaDescription:
       "The cheapest countries to visit from Pakistan. Ranked by total trip cost including flights, with visa ease and what your money buys there.",
@@ -543,7 +543,7 @@ export const planningOne: BlogPostSeed[] = [
   },
   {
     slug: "solo-female-travel-guide-pakistani-women",
-    title: "Solo Female Travel for Pakistani Women: The Honest, Practical Guide",
+    title: "Solo Female Travel for Pakistani Women: The Honest Guide",
     category: "Travel",
     metaDescription:
       "Solo travel guide for Pakistani women. The destinations that work, safety strategy, visa notes, and the mindset that makes it real.",

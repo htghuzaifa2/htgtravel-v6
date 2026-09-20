@@ -94,7 +94,7 @@ export const visaCore: BlogPostSeed[] = [
           "Two recent biometric photos on a white background (last 6 months)",
           "Travel medical insurance covering €30,000, valid across all Schengen states",
           "3–6 months of bank statements, bank-stamped, showing regular income",
-          "Flight reservation (NOT a paid ticket) and hotel bookings for every night",
+          "Flight reservation (not a paid ticket) and hotel bookings for every night",
           "Employer letter with leave approval, or business documents if self-employed",
           "A one-page cover letter explaining your trip in your own words",
         ],
@@ -174,7 +174,7 @@ export const visaCore: BlogPostSeed[] = [
   },
   {
     slug: "saudi-tourist-evisa-step-by-step",
-    title: "Saudi Tourist eVisa: Can Pakistanis Get It? The Step-by-Step Truth",
+    title: "Saudi Tourist eVisa for Pakistanis: The Step-by-Step Truth",
     category: "Visa",
     metaDescription:
       "Saudi tourist eVisa for Pakistani citizens: who qualifies directly, how the US/UK/Schengen visa route works, costs, and the Nusuk application steps.",
@@ -230,7 +230,7 @@ export const visaCore: BlogPostSeed[] = [
   },
   {
     slug: "business-visa-vs-tourist-visa",
-    title: "Business Visa vs Tourist Visa: Pick the Wrong One and Get Refused",
+    title: "Business Visa vs Tourist Visa: Pick Wrong, Get Refused",
     category: "Visa",
     metaDescription:
       "Business visa or tourist visa: which should you apply for from Pakistan? Real differences, risks of choosing wrong, and how officers verify your purpose.",
@@ -282,7 +282,7 @@ export const visaCore: BlogPostSeed[] = [
   },
   {
     slug: "usa-b1-b2-visa-guide-pakistan",
-    title: "USA B1/B2 Visa From Pakistan: The Guide That Tells You the Truth",
+    title: "USA B1/B2 Visa From Pakistan: The Honest Guide",
     category: "Visa",
     metaDescription:
       "US B1/B2 visitor visa from Pakistan: DS-160, fees, interview questions, tie-building documents, and honest advice on approval factors.",
@@ -558,7 +558,7 @@ export const visaCore: BlogPostSeed[] = [
   },
   {
     slug: "kuwait-bahrain-visa-guide-pakistan",
-    title: "Kuwait and Bahrain Visa for Pakistanis: Two Very Different Doors",
+    title: "Kuwait and Bahrain Visa for Pakistanis: Two Different Doors",
     category: "Visa",
     metaDescription:
       "Kuwait vs Bahrain visa for Pakistani citizens: why Bahrain is the easier eVisa, how Kuwait's sponsorship system works, and what each requires.",

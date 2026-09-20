@@ -313,7 +313,7 @@ export const destinationsWorld: BlogPostSeed[] = [
   },
   {
     slug: "italy-travel-guide-pakistanis",
-    title: "Italy for Pakistanis: Rome, Florence, Venice, and the Amalfi Coast",
+    title: "Italy for Pakistanis: Rome, Florence, and the Amalfi Coast",
     category: "Travel",
     metaDescription:
       "Italy travel guide for Pakistani tourists. The classic route, halal dining in Italian cities, budget realities, and Schengen planning.",

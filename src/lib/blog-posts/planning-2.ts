@@ -109,7 +109,7 @@ export const planningTwo: BlogPostSeed[] = [
   },
   {
     slug: "how-to-plan-international-trip-from-pakistan",
-    title: "How to Plan an International Trip From Pakistan: The Full Sequence",
+    title: "How to Plan an International Trip From Pakistan",
     category: "Travel",
     metaDescription:
       "Every step of planning an international trip from Pakistan, in the order that saves money: destination, dates, documents, visa, booking, boarding.",

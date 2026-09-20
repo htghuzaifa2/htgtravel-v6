@@ -317,7 +317,7 @@ export const umrahCore: BlogPostSeed[] = [
   },
   {
     slug: "umrah-mistakes-to-avoid",
-    title: "10 Umrah Mistakes Pakistani Pilgrims Make (And How to Avoid Each)",
+    title: "10 Umrah Mistakes Pakistani Pilgrims Make (and the Fixes)",
     category: "Umrah",
     metaDescription:
       "The common Umrah mistakes pilgrims make (ritual errors, money mistakes, and planning blunders) with the fix for each one.",

@@ -3,7 +3,7 @@ import type { BlogPostSeed } from "../blog-data";
 export const destinationsAsia: BlogPostSeed[] = [
   {
     slug: "saudi-arabia-travel-guide-pakistanis",
-    title: "Saudi Arabia Beyond Umrah: The Country Pakistanis Are Discovering",
+    title: "Saudi Arabia Beyond Umrah: What Pakistanis Are Discovering",
     category: "Travel",
     metaDescription:
       "Saudi Arabia for Pakistani tourists beyond pilgrimage — AlUla, Jeddah's corniche, Riyadh's future, and how to visit when your route allows.",
@@ -362,7 +362,7 @@ export const destinationsAsia: BlogPostSeed[] = [
   },
   {
     slug: "georgia-travel-guide-pakistanis-comprehensive",
-    title: "Georgia for Pakistanis: Tbilisi, Wine, and Mountain Monasteries",
+    title: "Georgia for Pakistanis: Tbilisi, Wine, Monasteries",
     category: "Travel",
     metaDescription:
       "Georgia travel guide for Pakistani tourists — Tbilisi's old town, Kazbegi's mountains, food and wine culture, and the visa reality.",
@@ -619,7 +619,7 @@ export const destinationsAsia: BlogPostSeed[] = [
   },
   {
     slug: "indonesia-bali-travel-guide-pakistanis-comprehensive",
-    title: "Indonesia and Bali for Pakistanis: World's Largest Muslim Country",
+    title: "Indonesia and Bali for Pakistanis: The Muslim Giant",
     category: "Travel",
     metaDescription:
       "Indonesia and Bali travel guide for Pakistani tourists. Visa process, halal reality in Bali, Jakarta to the islands, and budgets that please.",

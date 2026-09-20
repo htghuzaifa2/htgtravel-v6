@@ -372,7 +372,7 @@ export const visaSchengen: BlogPostSeed[] = [
   },
   {
     slug: "spain-schengen-visa-guide-pakistan",
-    title: "Spain Schengen Visa From Pakistan: Sun, Sobremesa, and Paperwork",
+    title: "Spain Schengen Visa From Pakistan: Sobremesa and Paperwork",
     category: "Visa",
     metaDescription:
       "Spain Schengen visa for Pakistani citizens: BLS appointment, document checklist, processing time, and why Spain files succeed or fail.",
@@ -479,7 +479,7 @@ export const visaSchengen: BlogPostSeed[] = [
   },
   {
     slug: "italy-schengen-visa-guide-pakistan",
-    title: "Italy Schengen Visa From Pakistan: La Dolce Vita, Filed Properly",
+    title: "Italy Schengen Visa From Pakistan: Dolce Vita, Filed Properly",
     category: "Visa",
     metaDescription:
       "Italy Schengen visa for Pakistani citizens: where to apply, the document checklist, processing times, and itinerary tips for Rome to Venice.",
@@ -532,7 +532,7 @@ export const visaSchengen: BlogPostSeed[] = [
   },
   {
     slug: "france-schengen-visa-guide-pakistan",
-    title: "France Schengen Visa From Pakistan: Paris Without the Guesswork",
+    title: "France Schengen Visa From Pakistan: Paris, No Guesswork",
     category: "Visa",
     metaDescription:
       "France Schengen visa for Pakistani citizens: application process, documents, fees, processing time, and building a file Paris approves.",

@@ -424,7 +424,7 @@ export const umrahFamily: BlogPostSeed[] = [
   },
   {
     slug: "umrah-ramadan-2026-laylatul-qadr-guide",
-    title: "Laylatul Qadr in the Haram: The Night Worth Planning a Year For",
+    title: "Laylatul Qadr in the Haram: The Night Worth Planning For",
     category: "Umrah",
     metaDescription:
       "Seeking Laylatul Qadr in Makkah. The odd nights strategy, crowd reality of the last ten, and how to physically survive until Fajr.",
@@ -580,7 +580,7 @@ export const umrahFamily: BlogPostSeed[] = [
   },
   {
     slug: "umrah-madinah-40-prayers-guide",
-    title: "The 40 Prayers of Masjid-e-Nabvi: Tradition, Truth, and Planning",
+    title: "The 40 Prayers of Masjid-e-Nabvi: Tradition and Truth",
     category: "Umrah",
     metaDescription:
       "The tradition of 40 prayers in the Prophet's Mosque, where it comes from, what scholars say, and how pilgrims actually plan for it.",

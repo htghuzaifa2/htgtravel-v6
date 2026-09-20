@@ -161,7 +161,7 @@ export const visaProcess: BlogPostSeed[] = [
   },
   {
     slug: "schengen-biometric-appointment-pakistan-guide",
-    title: "Schengen Biometric Appointment in Pakistan: What Happens Inside",
+    title: "Schengen Biometrics in Pakistan: What Happens Inside",
     category: "Visa",
     metaDescription:
       "Your Schengen biometric appointment explained: booking, documents to carry, what happens at the visa centre, and how to avoid rescheduling.",
@@ -265,7 +265,7 @@ export const visaProcess: BlogPostSeed[] = [
   },
   {
     slug: "schengen-visa-honeymoon-pakistan-2026-complete-guide",
-    title: "Schengen Honeymoon Visa for Pakistani Couples: From Nikkah to Paris",
+    title: "Honeymoon Schengen Visa for Pakistanis: Nikkah to Paris",
     category: "Visa",
     metaDescription:
       "Honeymoon Schengen visa from Pakistan for couples: joint applications, documents, destinations that approve, and timing your wedding season right.",

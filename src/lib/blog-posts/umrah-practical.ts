@@ -57,7 +57,7 @@ export const umrahPractical: BlogPostSeed[] = [
   },
   {
     slug: "umrah-transportation-jeddah-makkah-madinah",
-    title: "Umrah Transportation: Jeddah, Makkah, Madinah Without the Chaos",
+    title: "Umrah Transport: Jeddah, Makkah, Madinah Without the Chaos",
     category: "Umrah",
     metaDescription:
       "Getting around on Umrah. Airport transfers, the Jeddah-Makkah route, Haramain train vs road, and taxis explained for Pakistani pilgrims.",
@@ -265,7 +265,7 @@ export const umrahPractical: BlogPostSeed[] = [
   },
   {
     slug: "umrah-health-emergency-guide-pakistan",
-    title: "Health and Emergencies on Umrah: What Every Pilgrim Should Know",
+    title: "Health and Emergencies on Umrah: What Pilgrims Should Know",
     category: "Umrah",
     metaDescription:
       "Health guide for Umrah. The common pilgrim illnesses, pharmacies and hospitals in Makkah, insurance, and when to seek help.",

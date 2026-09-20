@@ -33,7 +33,7 @@ export const insurance: BlogPostSeed[] = [
         type: "ul",
         items: [
           "Minimum €30,000 medical coverage. The number every embassy checks first",
-          "Coverage across ALL Schengen states, not just your destination",
+          "Coverage across all 29 Schengen states, not just your destination",
           "Valid for your entire stay, with zero gap days",
           "Covers emergency medical treatment, urgent hospital care, and repatriation",
           "Issued by a provider the embassies recognize, with a certificate that shows each requirement explicitly",
@@ -209,7 +209,7 @@ export const insurance: BlogPostSeed[] = [
   },
   {
     slug: "travel-insurance-medical-emergency-guide",
-    title: "Medical Emergencies Abroad: What Insurance Covers and What To Do",
+    title: "Medical Emergencies Abroad: What Insurance Really Covers",
     category: "Insurance",
     metaDescription:
       "Medical emergency guide for Pakistani travellers. What travel insurance covers abroad, the emergency numbers, and the steps that protect you and your claim.",
@@ -311,7 +311,7 @@ export const insurance: BlogPostSeed[] = [
   },
   {
     slug: "travel-insurance-pre-existing-conditions-guide",
-    title: "Travel Insurance With Pre-Existing Conditions: The Honest Guide",
+    title: "Travel Insurance With Pre-Existing Conditions: The Truth",
     category: "Insurance",
     metaDescription:
       "Travel insurance with pre-existing conditions. Disclosure rules, how cover changes, and the options for Pakistani travellers with medical histories.",

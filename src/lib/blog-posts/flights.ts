@@ -56,7 +56,7 @@ export const flights: BlogPostSeed[] = [
   },
   {
     slug: "pakistan-domestic-flights-guide",
-    title: "Domestic Flights in Pakistan: Booking, Airlines, and Smart Routes",
+    title: "Domestic Flights in Pakistan: Airlines and Smart Routes",
     category: "Flights",
     metaDescription:
       "Flying within Pakistan. Airlines compared, domestic booking tips, the northern routes, and how to handle the schedule reality.",
@@ -159,7 +159,7 @@ export const flights: BlogPostSeed[] = [
   },
   {
     slug: "flight-date-change-guide-pakistan",
-    title: "Flight Date Changes: What It Really Costs and How to Do It Right",
+    title: "Flight Date Changes: The Real Cost and How to Do It Right",
     category: "Flights",
     metaDescription:
       "Changing your flight date from Pakistan. Airline change rules, fare class differences, and the smart ways to keep flexibility before you book.",
