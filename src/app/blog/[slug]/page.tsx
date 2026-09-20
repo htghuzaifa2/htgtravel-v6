@@ -3,6 +3,7 @@ import Link from "next/link";
 import { BLOG_POSTS } from "@/lib/blog-data";
 import { ArrowLeft, MessageCircle } from "lucide-react";
 import { SITE } from "@/lib/constants";
+import { buildWhatsAppLink } from "@/lib/whatsapp";
 
 export function generateStaticParams() {
   return BLOG_POSTS.map((post) => ({ slug: post.slug }));
@@ -200,13 +201,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                     </p>
                     <div className="mt-4">
                       <a
-                        href={SITE.whatsappLink}
+                        href={buildWhatsAppLink(post.promo.waText)}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 transition shadow-md"
                       >
                         <MessageCircle className="h-4 w-4" />
-                        Message on WhatsApp
+                        {post.promo.cta}
                       </a>
                     </div>
                   </blockquote>
@@ -216,24 +217,30 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             })}
           </div>
 
-          {/* CTA at bottom of article */}
+          {/* Unique per-post business promo — every guide gets its own offer and WhatsApp entry point */}
           <div className="mt-12 pt-8 border-t border-border">
-            <div className="glass rounded-2xl p-8 text-center">
-              <h2 className="font-heading text-xl font-bold text-foreground mb-2">
-                Need Help With Your Travel Plans?
+            <div className="relative rounded-2xl border border-gold/30 bg-gradient-to-br from-gold/10 via-transparent to-teal/10 p-8 text-center overflow-hidden">
+              <span className="text-[11px] font-bold uppercase tracking-widest text-gold">
+                HTG Travels · Pakistan&apos;s Trusted Travel Desk
+              </span>
+              <h2 className="font-heading text-xl sm:text-2xl font-bold text-foreground mb-3 mt-2">
+                {post.promo.headline}
               </h2>
-              <p className="text-sm text-muted-foreground mb-5 max-w-md mx-auto">
-                Our team is ready to assist with flights, visas, Umrah packages, and more — all on WhatsApp.
+              <p className="text-sm text-muted-foreground mb-6 max-w-xl mx-auto leading-relaxed">
+                {post.promo.body}
               </p>
               <a
-                href={SITE.whatsappLink}
+                href={buildWhatsAppLink(post.promo.waText)}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-6 py-3 text-sm font-semibold text-navy hover:brightness-110 transition shadow-md"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-110 transition shadow-md"
               >
                 <MessageCircle className="h-4 w-4" />
-                Chat With Us on WhatsApp
+                {post.promo.cta}
               </a>
+              <p className="mt-4 text-xs text-muted-foreground">
+                {SITE.whatsappDisplay} · Replies within minutes · 8 AM – 9 PM PKT
+              </p>
             </div>
           </div>
 
