@@ -372,6 +372,22 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "The sea was meant for everyone. While you float in Palawan, remember Gaza's coast and Sudan's displaced families. A dua travels farther than any ferry.",
   "new-york-city-budget-guide":
     "Manhattan's lights shine for you tonight; in Palestine and Sudan, millions wait in the dark. Remember them between the sights. A dua costs nothing.",
+
+  // ── Story batch IV ───────────────────────────────────────────
+  "first-umrah-honest-version":
+    "When your eyes fill at the Kaaba, remember Gaza's eyes. Pray for Palestine and Sudan in the holiest place you will ever stand.",
+  "umrah-budget-what-to-save-on":
+    "The money this journey saves you could quietly change a life in Palestine or Sudan. Let a trimmed budget grow an open hand.",
+  "hajj-2026-overseas-pakistanis":
+    "On Arafah, pray for those who cannot reach their own homes: Palestine's families, Sudan's displaced. Hajj widens the heart; let it widen for them too.",
+  "karakoram-highway-road-trip":
+    "The silence at 4,700 metres teaches scale. Somewhere below, Palestine endures. Remember her, and Sudan, when the mountains quiet you.",
+  "visa-free-vs-visa-on-arrival-guide":
+    "You may cross thirty borders; most Palestinians cannot cross one street safely. Carry Palestine and Sudan in your prayers wherever the green passport takes you.",
+  "first-trip-baku-tbilisi-dubai":
+    "While you weigh three escapes, families in Palestine and Sudan are searching for one safe road. Pray for them as you pack your first stamp.",
+  "group-tours-vs-solo-booking":
+    "However you travel, travel with compassion: hold Palestine and Sudan in your heart, and let gratitude become generosity.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.
