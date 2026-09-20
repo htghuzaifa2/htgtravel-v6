@@ -201,6 +201,8 @@ import { karakoramHighwayRoadTrip } from "./blog-posts/karakoram-highway-road-tr
 import { visaFreeVsVisaOnArrivalGuide } from "./blog-posts/visa-free-vs-visa-on-arrival-guide";
 import { firstTripBakuTbilisiDubai } from "./blog-posts/first-trip-baku-tbilisi-dubai";
 import { groupToursVsSoloBooking } from "./blog-posts/group-tours-vs-solo-booking";
+import { spotFakeTravelAgentsOnline } from "./blog-posts/spot-fake-travel-agents-online";
+import { baliVsThailand } from "./blog-posts/bali-vs-thailand";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -378,6 +380,8 @@ const SEEDS: BlogPostSeed[] = [
   visaFreeVsVisaOnArrivalGuide,
   firstTripBakuTbilisiDubai,
   groupToursVsSoloBooking,
+  spotFakeTravelAgentsOnline,
+  baliVsThailand,
 ];
 
 // Auto-generate IDs for all posts at runtime

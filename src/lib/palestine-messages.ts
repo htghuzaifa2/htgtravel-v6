@@ -388,6 +388,10 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "While you weigh three escapes, families in Palestine and Sudan are searching for one safe road. Pray for them as you pack your first stamp.",
   "group-tours-vs-solo-booking":
     "However you travel, travel with compassion: hold Palestine and Sudan in your heart, and let gratitude become generosity.",
+  "spot-fake-travel-agents-online":
+    "Scammers steal journeys; war steals whole lives. While you verify your bookings, hold Palestine and Sudan in your prayers, and give what you can.",
+  "bali-vs-thailand":
+    "Choosing between two islands is a luxury. In Palestine and Sudan, families face hunger and displacement. Keep them in your prayers as you plan.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.
