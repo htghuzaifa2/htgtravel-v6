@@ -39,6 +39,7 @@ import { destinationsAsia } from "./blog-posts/destinations-asia";
 import { destinationsWorld } from "./blog-posts/destinations-world";
 import { planningOne } from "./blog-posts/planning-1";
 import { planningTwo } from "./blog-posts/planning-2";
+import { stories } from "./blog-posts/stories";
 
 const SEEDS: BlogPostSeed[] = [
   ...visaCore,
@@ -54,6 +55,7 @@ const SEEDS: BlogPostSeed[] = [
   ...destinationsWorld,
   ...planningOne,
   ...planningTwo,
+  ...stories,
 ];
 
 // Auto-generate IDs for all posts at runtime

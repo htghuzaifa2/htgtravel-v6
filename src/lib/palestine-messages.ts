@@ -342,6 +342,20 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "Download your apps, then share Palestine's story — the most important content in your feed.",
   "europe-budget-travel-10-day-itinerary":
     "Budget Europe teaches resourcefulness — a skill Gaza's households have mastered beyond any guidebook.",
+
+  // ── Story batch ──────────────────────────────────────────────
+  "umrah-visa-to-tawaf-sequence-pakistan":
+    "First duas hit hardest. Make one of yours for Palestine; she has waited longer than any of us have prayed.",
+  "pakistan-tourism-best-kept-secret":
+    "The north teaches what a homeland means. Palestine defends hers every day. Carry her in your prayers.",
+  "pakistan-food-trail-lahore-karachi-peshawar":
+    "Jaffa's oranges still sweeten the region's memory. When your table is full, remember Gaza's empty ones.",
+  "maldives-honeymoon-budget-pakistan":
+    "The same Indian Ocean touches Gaza's coast. Say a dua for Palestine when the sun sets on yours.",
+  "muslim-travel-non-muslim-countries":
+    "Wherever your prayer mat lands, Palestine prays under the same sky. Add her to your sujood.",
+  "northern-pakistan-hospitality-chai":
+    "Palestinian homes still serve guests first, even with little left to serve. Return that honour in your prayers.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.
