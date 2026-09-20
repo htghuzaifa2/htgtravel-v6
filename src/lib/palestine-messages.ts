@@ -356,6 +356,14 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "Wherever your prayer mat lands, Palestine prays under the same sky. Add her to your sujood.",
   "northern-pakistan-hospitality-chai":
     "Palestinian homes still serve guests first, even with little left to serve. Return that honour in your prayers.",
+
+  // ── Story batch II ───────────────────────────────────────────
+  "conscious-travel-palestine-sudan":
+    "Move through the world gently, and remember those who cannot: Palestine under occupation, Sudan emptied by war. A dua and a donation both travel far.",
+  "italy-beyond-rome-secret-villages":
+    "Italy's hilltops are lovely; peace is lovelier still. Spare a prayer for Palestine and Sudan, and support trusted relief where you can.",
+  "switzerland-budget-guide":
+    "Cross borders freely, and remember the millions in Palestine and Sudan who cannot. Gratitude travels best when it carries a dua.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

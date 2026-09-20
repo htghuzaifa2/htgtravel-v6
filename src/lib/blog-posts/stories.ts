@@ -1,11 +1,12 @@
 import type { BlogPostSeed } from "../blog-data";
 
 /**
- * Story batch: six feature-style guides (visa-to-Tawaf sequence, the
+ * Story batch: nine feature-style guides (visa-to-Tawaf sequence, the
  * Pakistan moment, the food trail, budget Maldives honeymoon, Muslim
- * travel abroad, and northern hospitality). Each was rewritten for
- * accuracy, human voice, and tight length; promos and Palestine
- * messages stay unique per post.
+ * travel abroad, northern hospitality, conscious travel, Italy beyond
+ * Rome, and Switzerland on a budget). Each was rewritten for accuracy,
+ * human voice, and tight length; promos and Palestine messages stay
+ * unique per post.
  */
 export const stories: BlogPostSeed[] = [
   {
@@ -446,6 +447,250 @@ export const stories: BlogPostSeed[] = [
       {
         type: "quote",
         text: "When someone offers, take it with both hands.",
+      },
+    ],
+  },
+  {
+    slug: "conscious-travel-palestine-sudan",
+    title: "Conscious Travel: Explore the World, Remember Palestine",
+    category: "Travel",
+    metaDescription:
+      "Conscious travel explained: spend where it stays local, skip the greenwash, and keep Palestine and Sudan in your heart as you go.",
+    keywords: [
+      "conscious travel",
+      "ethical tourism",
+      "support local communities",
+      "greenwashing",
+      "travel and Palestine",
+    ],
+    promo: {
+      headline: "Travel That Pays the People Who Host You",
+      body: "Our northern Pakistan tours are built with the families who host them: Hunza and Swat homestays, guides from the valleys themselves, and prices agreed with the community, not around it. Tell us where you want to go; we make sure your money stays home.",
+      cta: "Plan travel that gives back",
+      waText: "Assalam o Alaikum! I want my trip to support local communities in Pakistan. Please help me plan it responsibly.",
+    },
+    content: [
+      {
+        type: "p",
+        text: "You know the sustainable travel drill: reusable bottle, less plastic, offset the flight. Conscious travel asks a harder question: how do I move through the world in a way that honours the places I visit and the people who cannot go anywhere at all?",
+      },
+      {
+        type: "h2",
+        text: "It Starts With Awareness",
+      },
+      {
+        type: "p",
+        text: "Conscious travel means noticing where your money goes, whose culture you are standing in, and who benefits from your presence. The question shifts from eco-friendly to ethical, from impact to intent. It begins with a fact most blogs skip: booking a flight for pleasure is itself a privilege that millions do not have right now. That awareness should not curdle into guilt. It becomes gratitude, and gratitude changes how you travel.",
+      },
+      {
+        type: "h2",
+        text: "Where Your Money Actually Goes",
+      },
+      {
+        type: "p",
+        text: "Every dollar you spend makes a choice for you. Multinational chains ship most of it out of the country; family-run guesthouses, local guides, and the corner dhaba keep it in the community.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Book homestays and locally-owned guesthouses, not international hotel chains",
+          "Hire local guides who show you their home through their own eyes",
+          "Buy crafts from the artisans who make them, not tourist shops selling imports",
+          "Pay fair prices; haggling someone down to their last rupee is not a victory",
+        ],
+      },
+      {
+        type: "p",
+        text: "In Pakistan's north this is easy: skip the corporate hotel in Skardu for a Hunza homestay, and your board money often goes straight to a family's school fees.",
+      },
+      {
+        type: "h2",
+        text: "Gratitude, Not Guilt",
+      },
+      {
+        type: "p",
+        text: "So how do you hold Palestine and Sudan in your heart while you explore? You remember them in your prayers and carry their stories. When you stand somewhere vast and quiet, hold space for people who dream of the simple safety to do the same. And when you can, act: a small donation to trusted relief in Gaza or Sudan carries real weight. They ask to be remembered, not pitied.",
+      },
+      {
+        type: "h2",
+        text: "Small Choices, Real Impact",
+      },
+      {
+        type: "ul",
+        items: [
+          "Research who you book with: local ownership, fair wages, real answers",
+          "Ask for measurable sustainability claims, not greenwashed slogans",
+          "Choose quieter destinations over ones already drowning in visitors",
+          "Travel slower: fewer stops, deeper connections",
+        ],
+      },
+      {
+        type: "p",
+        text: "Conscious travel is not sacrifice; it is alignment. When your values and your adventures point the same way, both mean more.",
+      },
+      {
+        type: "quote",
+        text: "Movement is a privilege. Gratitude is how you spend it.",
+      },
+    ],
+  },
+  {
+    slug: "italy-beyond-rome-secret-villages",
+    title: "Italy Beyond Rome: Amalfi, Tuscany & Secret Villages",
+    category: "Travel",
+    metaDescription:
+      "Past Rome: Amalfi without the July scrum, Tuscany's Val d'Orcia, and villages like Civita and Procida most visitors never reach. Plan with HTG Travel.",
+    keywords: [
+      "Italy beyond Rome",
+      "Amalfi Coast without crowds",
+      "Val d'Orcia",
+      "Civita di Bagnoregio",
+      "Procida island",
+      "Italy slow travel",
+    ],
+    promo: {
+      headline: "The Italy the Tour Buses Miss",
+      body: "We build Italy the slow way: Ravello instead of Positano in peak weeks, farm stays in the Val d'Orcia, and the ferries, buses, and train legs solved before you fly. Tell us your dates and how far beyond Rome you want to go.",
+      cta: "Plan my secret Italy",
+      waText: "Assalam o Alaikum! I want Italy beyond Rome: quiet Amalfi, the Val d'Orcia, and the small villages. Please plan my route.",
+    },
+    content: [
+      {
+        type: "p",
+        text: "Everyone does Rome: the Colosseum, the Trevi Fountain, the gelato shop your cousin swears by. Rome deserves the hype. But Italy is more than one city, and once you have tossed your coin in the fountain, here is where the country opens up.",
+      },
+      {
+        type: "h2",
+        text: "The Amalfi Coast, Done Right",
+      },
+      {
+        type: "p",
+        text: "Positano in July is a very beautiful queue. In late May or September, the same coast keeps its swimmable sea and lets you hear yourself think. Base in Ravello, 365 metres above the water: gardens instead of beach clubs, a classical music festival, and Villa Rufolo's terraces, which inspired Wagner. Skip the hire car; the coast road punishes amateurs. The SITA bus or the ferry between towns costs a few euros and saves your nerves.",
+      },
+      {
+        type: "h2",
+        text: "Tuscany Past Florence",
+      },
+      {
+        type: "p",
+        text: "An hour south of Florence the roads change. The Val d'Orcia, UNESCO-listed, with cypress-lined lanes, wheat fields, and hilltop towns, is the Tuscany that postcards promise and rarely deliver. Montepulciano pours Vino Nobile in cellars carved into the hillside. Pienza, walkable in an afternoon, makes the pecorino many call Italy's best; order a tasting plate with local honey. The real magic is the space between towns. Pull over where the light hits the cypresses right.",
+      },
+      {
+        type: "h2",
+        text: "Three Villages the Itineraries Skip",
+      },
+      {
+        type: "ul",
+        items: [
+          "Civita di Bagnoregio: a medieval hill town reached only by a footbridge, slowly eroding into the valley, 90 minutes from Rome",
+          "Pitigliano: golden houses rising from tuff cliffs in the Maremma, with an old Jewish quarter known as Little Jerusalem",
+          "Procida: the Bay of Naples fishing island Capri's crowds ignore: pastel houses, lemon groves, menus written by the morning's catch",
+        ],
+      },
+      {
+        type: "h2",
+        text: "When to Go",
+      },
+      {
+        type: "p",
+        text: "Shoulder season wins everywhere here: May, early June, or September for the coast; September and October for Tuscany's harvest light and village wine festivals. Avoid August if you can; Italy itself goes on holiday then, filling the coastlines and shuttering family restaurants in the cities.",
+      },
+      {
+        type: "p",
+        text: "The Italy beyond Rome rewards travellers who slow down and take the smaller road. The villages will still be there when the buses are not.",
+      },
+      {
+        type: "quote",
+        text: "Rome is the trailer. Italy is the film.",
+      },
+    ],
+  },
+  {
+    slug: "switzerland-budget-guide",
+    title: "Switzerland Without Going Broke: A Realistic Budget Guide",
+    category: "Travel",
+    metaDescription:
+      "Switzerland on CHF 100 a day: honest budgets, smart rail pass maths, free hikes, and where to base yourself. Plan your Alpine trip with HTG Travel.",
+    keywords: [
+      "Switzerland budget travel",
+      "Swiss Travel Pass",
+      "Switzerland trip cost",
+      "Lauterbrunnen budget stay",
+      "cheap Switzerland itinerary",
+    ],
+    promo: {
+      headline: "Alpine Views Without the Alpine Bill",
+      body: "We plan Switzerland the value way: the right valley to base in, rail passes bought only when the maths beats point-to-point, and guesthouses that include breakfast. Scenery maximised, second mortgage avoided. Send us your dates and your ceiling.",
+      cta: "Plan my budget Switzerland",
+      waText: "Assalam o Alaikum! I want Switzerland on a realistic budget: valleys, passes, and guesthouses. Please plan it with me.",
+    },
+    content: [
+      {
+        type: "p",
+        text: "Switzerland's reputation for emptying wallets is earned: a coffee costs more than lunch back home. But Switzerland on a budget is not a fantasy. It is a series of decisions about where the money goes.",
+      },
+      {
+        type: "h2",
+        text: "The Honest Numbers",
+      },
+      {
+        type: "p",
+        text: "Budget travellers here realistically spend CHF 95–135 a day. Notice what is missing: the CHF 200 Jungfraujoch ticket, the fondue dinner, the full-price scenic train. You do not need them; the list itself is the strategy.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Hostel dorm bed: CHF 45–60",
+          "Groceries for two meals: CHF 15–25",
+          "One restaurant meal: CHF 25–35",
+          "Local transport: CHF 10–15",
+          "Free activities: hikes, lakeshores, old towns",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Where to Stay Without Crying",
+      },
+      {
+        type: "p",
+        text: "Dorms run CHF 45–60, but mountain guesthouses and farm stays sometimes offer rooms from CHF 30 a person with breakfast, found through local tourism offices rather than booking sites. Base in Lauterbrunnen or Engelberg; admire Zermatt and St. Moritz from a distance, because their prices are as dramatic as their scenery.",
+      },
+      {
+        type: "h2",
+        text: "The Swiss Travel Pass, Honestly",
+      },
+      {
+        type: "p",
+        text: "The pass costs CHF 254 for three days second class, covering trains, buses, boats, and many museums; for fast cross-country trips it earns its price. But if you base in one region, Saver Day Passes max out at CHF 119 and drop lower booked early, and point-to-point Supersaver tickets often cost less still.",
+      },
+      {
+        type: "h2",
+        text: "Eating Well on CHF 20",
+      },
+      {
+        type: "p",
+        text: "Aldi and Lidl beat Coop and Migros on price, and Migros generally beats Coop. CHF 15–20 at a supermarket covers a trail lunch of fresh bread, local cheese, and fruit, genuinely good ready-made salads, and a bottle of Swiss wine for the guesthouse evening. One restaurant meal a day keeps you sane; two keeps you broke.",
+      },
+      {
+        type: "h2",
+        text: "The Free Part Is the Best Part",
+      },
+      {
+        type: "ul",
+        items: [
+          "Lauterbrunnen Valley: 72 waterfalls, a flat valley floor, no entry fee",
+          "Bern's Old City: a UNESCO core you stroll like any street",
+          "Lavaux vineyard terraces above Lake Geneva; tasting optional, views mandatory",
+          "Lucerne's Chapel Bridge and old town: free to wander",
+        ],
+      },
+      {
+        type: "p",
+        text: "Shoulder season (May–June, September–October) lowers prices and lifts the weather odds. Book mountain excursions online ahead; walk-up prices punish spontaneity. Switzerland stops being something that happens to your bank account.",
+      },
+      {
+        type: "quote",
+        text: "The mountains are free. Everything else is negotiable.",
       },
     ],
   },
