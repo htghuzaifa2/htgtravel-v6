@@ -1,0 +1,62 @@
+import type { BlogPostSeed } from "../blog-data";
+
+/**
+ * Blog post: "Visa-Free Countries for the Pakistani Passport (2026 Edition)"
+ * Category: Visa
+ * Live at /blog/visa-free-countries-pakistani-passport-2026
+ */
+export const visaFreeCountriesPakistaniPassport2026: BlogPostSeed = {
+  slug: "visa-free-countries-pakistani-passport-2026",
+  title: "Visa-Free Countries for the Pakistani Passport (2026 Edition)",
+  category: "Visa",
+  metaDescription:
+    "Where can the green passport go without a visa? The real 2026 list of visa-free and visa-on-arrival countries for Pakistanis, with stay durations.",
+  keywords: [
+    "visa free countries Pakistan",
+    "Pakistani passport visa free",
+    "visa on arrival Pakistan",
+    "Pakistani passport power",
+    "visa free travel Pakistanis",
+  ],
+  promo: {
+    headline: "Zero-Visa Trips, Planned Before You Finish Your Chai",
+    body: "Visa-free does not mean planning-free. Tickets still sell out, and Maldives resorts still need booking months ahead. Send us any destination from this list with your dates, and we will price flights, hotels, and transfers together. The visa is free; the trip should still be flawless.",
+    cta: "Plan a visa-free trip",
+    waText: "Assalam o Alaikum! I read your visa-free countries list. I want to visit (country name). Please plan my trip.",
+  },
+  content: [
+    {
+      type: "p",
+      text: "The green passport takes criticism, but it quietly opens more doors than people think, especially across Asia and Africa. Here is the working 2026 list of destinations Pakistanis can enter visa-free or with a simple visa on arrival.",
+    },
+    {
+      type: "h2",
+      text: "The Real List",
+    },
+    {
+      type: "ul",
+      items: [
+        "Qatar: free visa on arrival, 30 days, with hotel and return ticket",
+        "Maldives: visa on arrival, 30 days, the classic honeymoon route",
+        "Nepal: visa on arrival, from the mountains to Kathmandu's chaos",
+        "Sri Lanka: ETA-based easy entry for Pakistani travellers",
+        "Cambodia: visa on arrival or eVisa, Angkor Wat awaits",
+        "Mauritius and Seychelles: visa-free Indian Ocean escapes",
+        "Kenya, Tanzania, Rwanda: eTA or visa on arrival safari gateways",
+        "Dominica, Haiti, Micronesia, Samoa: the long-haul surprises",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Read the Small Print Before You Fly",
+    },
+    {
+      type: "p",
+      text: "'Visa-free' still means conditions: return tickets, hotel proof, funds, and passport validity of six months are standard demands at every one of these counters. Rules also shift. Sri Lanka, Kenya, and others have adjusted policies repeatedly in recent years. Confirm current requirements with your airline (they carry the cost of flying you back) or with us before you pay for anything.",
+    },
+    {
+      type: "quote",
+      text: "Free entry still deserves a first-class plan. That part, happily, is what we do.",
+    },
+  ],
+};

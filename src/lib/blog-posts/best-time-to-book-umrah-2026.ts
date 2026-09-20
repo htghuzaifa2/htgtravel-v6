@@ -1,0 +1,61 @@
+import type { BlogPostSeed } from "../blog-data";
+
+/**
+ * Blog post: "Best Time to Book Umrah: The Month-by-Month Truth"
+ * Category: Umrah
+ * Live at /blog/best-time-to-book-umrah-2026
+ */
+export const bestTimeToBookUmrah2026: BlogPostSeed = {
+  slug: "best-time-to-book-umrah-2026",
+  title: "Best Time to Book Umrah: The Month-by-Month Truth",
+  category: "Umrah",
+  metaDescription:
+    "When to book Umrah for the best weather, prices, and crowd levels. The month-by-month guide for Pakistani pilgrims planning 2026.",
+  keywords: [
+    "best time to book Umrah",
+    "Umrah season timing",
+    "cheapest Umrah month",
+    "Umrah crowds",
+    "when to go for Umrah",
+  ],
+  promo: {
+    headline: "Tell Us Your Month — We'll Tell You Today's Rate",
+    body: "Umrah pricing swings by the season, and the difference between a smart month and a popular one can be a full hotel tier. Message us with your preferred month and we will quote live package rates for it, plus the neighbouring weeks that might save you more.",
+    cta: "Price my month",
+    waText: "Assalam o Alaikum! I read your Umrah timing guide. Please quote rates for my preferred month.",
+  },
+  content: [
+    {
+      type: "p",
+      text: "Three variables decide your Umrah experience: weather, crowds, and price, and they trade off against each other month by month. Pick your priority, and the calendar answers itself.",
+    },
+    {
+      type: "h2",
+      text: "The Year in Umrah",
+    },
+    {
+      type: "ul",
+      items: [
+        "Muharram–Safar: the quiet, affordable window. Perfect for first-timers who fear crowds",
+        "Rabi-ul-Awwal onwards: balanced weather, moderate crowds, mid-range pricing",
+        "Rajab–Shaban: demand builds toward Ramadan; prices climb steadily",
+        "Ramadan: peak reward, peak crowds, peak prices. Book six months out",
+        "Shawwal: the secret gem. Gentle pricing immediately after Eid, calm Haram",
+        "December–January: winter holidays fill family departures; weather is beautiful, so is the demand",
+        "June–August: Makkah heat is serious business. Book night-ritual itineraries and hydration-discipline hotels",
+      ],
+    },
+    {
+      type: "h2",
+      text: "The Booking Window",
+    },
+    {
+      type: "p",
+      text: "For standard months, four to eight weeks ahead secures good hotels and fares. Ramadan and December demand three to six months. And the golden rule of our desk: book flights and hotels together. The savings live in the package, not the pieces. Ask us to price your month; we quote same-day.",
+    },
+    {
+      type: "quote",
+      text: "Timing is strategy, and strategy is our job. One message prices your whole plan.",
+    },
+  ],
+};
