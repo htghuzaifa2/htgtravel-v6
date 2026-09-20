@@ -36,7 +36,7 @@ export const visaFreeCountriesPakistaniPassport2026: BlogPostSeed = {
     {
       type: "ul",
       items: [
-        "Qatar: free visa on arrival, 30 days, with hotel and return ticket",
+        "Qatar: visa on arrival suspended in March 2026; arrange a Hayya e-visa before flying",
         "Maldives: visa on arrival, 30 days, the classic honeymoon route",
         "Nepal: visa on arrival, from the mountains to Kathmandu's chaos",
         "Sri Lanka: ETA-based easy entry for Pakistani travellers",
@@ -60,8 +60,8 @@ export const visaFreeCountriesPakistaniPassport2026: BlogPostSeed = {
     },
   ],
   faqs: [
-    { q: "How many countries can Pakistanis visit without a prior visa?", a: "Counting every door, visa-free entry, visa on arrival, and electronic authorisations, the green passport reaches roughly 30 destinations. The pure visa-free set is smaller, but VOA and eTA doors like Maldives, Qatar, Nepal, and Sri Lanka's ETA work just as smoothly in practice." },
-    { q: "Which destinations are the easiest visa-free trips for Pakistanis?", a: "The Maldives with its free 30-day arrival stamp, Qatar with its free 30-day arrival visa, Nepal's arrival process for SAARC travellers, and Sri Lanka's quick online ETA. None of them demand an embassy visit." },
+    { q: "How many countries can Pakistanis visit without a prior visa?", a: "Counting every door, visa-free entry, visa on arrival, and electronic authorisations, the green passport reaches roughly 30 destinations. The pure visa-free set is smaller, but VOA and eTA doors like Maldives, Nepal, and Sri Lanka's ETA work just as smoothly in practice." },
+    { q: "Which destinations are the easiest visa-free trips for Pakistanis?", a: "The Maldives with its free 30-day arrival stamp, Nepal's arrival process for SAARC travellers, and Sri Lanka's quick online ETA. None of them demand an embassy visit." },
     { q: "How do visa officers assess bank statements?", a: "They read the story, not the balance: salary credits matching the stated job, spending consistent with the lifestyle, and no mystery deposits right before filing. A modest steady account beats a recently inflated one." },
     { q: "Can a travel agent guarantee my visa?", a: "Guarantees are the first red flag of a weak operator. Decisions belong to visa officers; agents prepare documents, book slots, and keep you from self-inflicted errors." },
   ],

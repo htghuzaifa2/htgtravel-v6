@@ -222,6 +222,12 @@ import { icelandOnABudget } from "./blog-posts/iceland-on-a-budget";
 import { azoresEuropesHawaii } from "./blog-posts/azores-europes-hawaii";
 import { vietnam10DayItinerary } from "./blog-posts/vietnam-10-day-itinerary";
 import { turkeyBeyondIstanbul } from "./blog-posts/turkey-beyond-istanbul";
+import { albaniaOnABudget } from "./blog-posts/albania-on-a-budget";
+import { parisVsRomeVsBarcelona } from "./blog-posts/paris-vs-rome-vs-barcelona";
+import { japanFirstTimersGuide } from "./blog-posts/japan-first-timers-guide";
+import { southKoreaSeoulGuide } from "./blog-posts/south-korea-seoul-guide";
+import { dubaiVsDoha } from "./blog-posts/dubai-vs-doha";
+import { costaRicaFirstInternationalTrip } from "./blog-posts/costa-rica-first-international-trip";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -411,6 +417,12 @@ const SEEDS: BlogPostSeed[] = [
   azoresEuropesHawaii,
   vietnam10DayItinerary,
   turkeyBeyondIstanbul,
+  albaniaOnABudget,
+  parisVsRomeVsBarcelona,
+  japanFirstTimersGuide,
+  southKoreaSeoulGuide,
+  dubaiVsDoha,
+  costaRicaFirstInternationalTrip,
 ];
 
 // Auto-generate IDs for all posts at runtime

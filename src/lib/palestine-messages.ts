@@ -414,6 +414,20 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "Kindness crosses borders easier than any passport. Carry Palestine and Sudan in your prayers through Vietnam, and make generosity part of the plan.",
   "turkey-beyond-istanbul":
     "Through Türkiye's ancient cities, carry Palestine and Sudan in your heart. Prayers and trusted relief are the luggage no itinerary should leave behind.",
+
+  // ── Budget Europe, city breaks, Asia and the Gulf ──────────
+  "albania-on-a-budget":
+    "Albania's coast hums with a peace most of us take for granted. Hold Palestine and Sudan in your prayers as you wander, and give where it heals.",
+  "paris-vs-rome-vs-barcelona":
+    "Between the Louvre and the Colosseum, keep room for Palestine and Sudan in your prayers. Kindness is the best souvenir you can carry home.",
+  "japan-first-timers-guide":
+    "Beneath Kyoto's quiet temples, carry Palestine and Sudan in your heart. Prayers cost nothing to pack and mean everything where hardship lives.",
+  "south-korea-seoul-guide":
+    "Cherry blossoms return every spring, and some families are still waiting for peace. Remember Palestine and Sudan in your prayers, and give where you can.",
+  "dubai-vs-doha":
+    "The Gulf's skylines shine because peace holds them up. As you enjoy Dubai or Doha, keep Palestine and Sudan in your prayers and in your giving.",
+  "costa-rica-first-international-trip":
+    "Pura vida means gratitude for a peaceful day. Spare a prayer for Palestine and Sudan, where families are still waiting for theirs, and give where you can.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

@@ -37,7 +37,7 @@ export const bestTravelDestinationsFromPakistan: BlogPostSeed = {
       type: "ul",
       items: [
         "First trip abroad: Thailand or Malaysia. Short flights, gentle prices, halal ease",
-        "The visa-free impulse trip: Qatar or Maldives. No application, pure departure",
+        "The impulse trip: the Maldives, visa-free on arrival. No application, pure departure",
         "The family classic: Dubai. Two hours, familiar comforts, everyone's happy",
         "The cultural epic: Turkey, when the eVisa route is open to your passport",
         "The emotional journey: Saudi Arabia beyond Umrah or Uzbekistan's Silk Road",
