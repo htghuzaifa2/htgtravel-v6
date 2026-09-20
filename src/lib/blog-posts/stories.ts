@@ -1,12 +1,12 @@
 import type { BlogPostSeed } from "../blog-data";
 
 /**
- * Story batch: nine feature-style guides (visa-to-Tawaf sequence, the
+ * Story batch: twelve feature-style guides (visa-to-Tawaf sequence, the
  * Pakistan moment, the food trail, budget Maldives honeymoon, Muslim
  * travel abroad, northern hospitality, conscious travel, Italy beyond
- * Rome, and Switzerland on a budget). Each was rewritten for accuracy,
- * human voice, and tight length; promos and Palestine messages stay
- * unique per post.
+ * Rome, Switzerland on a budget, quiet Greek islands, budget Palawan,
+ * and budget New York). Each was rewritten for accuracy, human voice,
+ * and tight length; promos and Palestine messages stay unique per post.
  */
 export const stories: BlogPostSeed[] = [
   {
@@ -691,6 +691,235 @@ export const stories: BlogPostSeed[] = [
       {
         type: "quote",
         text: "The mountains are free. Everything else is negotiable.",
+      },
+    ],
+  },
+  {
+    slug: "greek-islands-without-crowds",
+    title: "Greek Islands Without the Crowds: Naxos, Milos & More",
+    category: "Travel",
+    metaDescription:
+      "Skip the Santorini crush: Naxos, Milos, Folegandros and Kythira keep Greece's empty beaches and quiet villages. Plan with HTG Travel.",
+    keywords: [
+      "Greek islands without crowds",
+      "Naxos",
+      "Milos",
+      "Folegandros",
+      "Santorini alternatives",
+      "Kythira",
+    ],
+    promo: {
+      headline: "The Greece Before the Cruise Ships",
+      body: "We build island routes the quiet way: ferry chains timed so you never sprint, shoulder-season dates, Naxos farm stays and Milos cliff villages in one thread. Tell us how slow you like it.",
+      cta: "Plan my quiet Greece",
+      waText: "Assalam o Alaikum! I want the Greek islands without the crowds: Naxos, Milos, Folegandros. Please plan my route.",
+    },
+    content: [
+      {
+        type: "p",
+        text: "You have seen the photos: whitewashed lanes, blue domes, that caldera at golden hour. What the photos do not show is you sharing that view with the crowd a single cruise day can unload onto Oia. The Greece you are dreaming of still exists. It has simply moved islands.",
+      },
+      {
+        type: "h2",
+        text: "The Santorini Problem, Beaten",
+      },
+      {
+        type: "p",
+        text: "Santorini is not the problem; the timing is. Day-trippers flood between ten and six, then vanish, leaving the lanes to overnight guests at sunrise and after dinner. Watch sunset from Imerovigli or Firostefani instead of Oia: same caldera, a fraction of the people. Go April to early June or late September into October, when the sea stays swimmable and the ships thin out.",
+      },
+      {
+        type: "h2",
+        text: "Naxos: What Santorini Was",
+      },
+      {
+        type: "p",
+        text: "The largest of the Cyclades is what its famous neighbour was thirty years ago: authentic, affordable, and quiet. Plaka Beach runs kilometre after kilometre of uninterrupted sand, Agios Prokopios pairs coarse gold sand with clear water, and the inland villages of Halki and Apiranthos move at the pace of an old man playing cards in the square. Your money simply goes further here.",
+      },
+      {
+        type: "h2",
+        text: "Milos: Moon Rock and Boat Houses",
+      },
+      {
+        type: "p",
+        text: "Milos feels like another planet, in the best way. Sarakiniko's white volcanic rock, sculpted by wind and sea, forms smooth terraces you can wander for hours, and some seventy beaches hang off one of the wildest coastlines in Greece. At Klima and Firopotamos, fishermen still store their boats in syrmata, boat houses carved into the cliffs and painted in bright colours.",
+      },
+      {
+        type: "h2",
+        text: "Folegandros, and Kythira Beyond It",
+      },
+      {
+        type: "p",
+        text: "A short ferry from Santorini, Folegandros delivers the same cliff-edge drama with none of the crush: its Chora perches two hundred metres above the sea, a maze of whitewashed houses and flower-filled squares, with a hike up to the Panagia church for the long views. Kythira, between the Peloponnese and Crete, barely registers on itineraries at all: Venetian castles, waterfalls at Mylopotamos, and beaches you have to earn.",
+      },
+      {
+        type: "h2",
+        text: "When to Go",
+      },
+      {
+        type: "p",
+        text: "Late April to early June and September to early October are the golden windows: pleasant weather, lower prices, ferries still frequent. July and August bring European school holidays and multiplying cruise ships; even quiet islands start feeling discovered then.",
+      },
+      {
+        type: "quote",
+        text: "The postcard version of Greece is real. It just moved.",
+      },
+    ],
+  },
+  {
+    slug: "palawan-budget-beach-paradise",
+    title: "Palawan: The Beach Paradise Cheaper Than the Maldives",
+    category: "Travel",
+    metaDescription:
+      "Palawan gives Maldives-level water at Filipino prices: El Nido lagoons, Coron wrecks, and an honest daily budget. Plan with HTG Travel.",
+    keywords: [
+      "Palawan budget travel",
+      "El Nido island hopping",
+      "Coron shipwrecks",
+      "Palawan vs Maldives",
+      "Puerto Princesa underground river",
+    ],
+    promo: {
+      headline: "Turquoise Water, Filipino Prices",
+      body: "We handle the awkward legs: Manila connections, El Nido flights, ferry seats between towns, and guesthouses that keep the budget honest. You handle the snorkelling. Tell us when you want to go.",
+      cta: "Plan my Palawan trip",
+      waText: "Assalam o Alaikum! I want Palawan: El Nido and Coron on a budget, from Pakistan. Please plan it with me.",
+    },
+    content: [
+      {
+        type: "p",
+        text: "The Maldives holds the brand, but Palawan holds the same water: turquoise lagoons, limestone cliffs, barefoot islands. The difference is the bill. Overwater villas in the Maldives open near $250 a night; Palawan delivers comparable magic for a fraction, and a realistic day here runs $40–60 all in.",
+      },
+      {
+        type: "h2",
+        text: "El Nido: Lagoons for the Price of Lunch",
+      },
+      {
+        type: "p",
+        text: "El Nido guards the Bacuit Archipelago, some forty-five limestone islands rising straight out of clear water, and its island-hopping tours are the whole point of the trip.",
+      },
+      {
+        type: "ul",
+        items: [
+          "Tour A covers Big, Small, and Secret Lagoons for roughly ₱1,200, about $20, lunch and snorkel gear included",
+          "Tours B, C, and D add caves and remoter coves at similar prices",
+          "A private bangka split with friends beats the group boats and goes where you choose",
+          "Nacpan Beach, thirty minutes from town, is four kilometres of sand shared with fishermen",
+        ],
+      },
+      {
+        type: "h2",
+        text: "Coron: Wrecks and a Lake Like Glass",
+      },
+      {
+        type: "p",
+        text: "A ferry north, and the scenery turns wilder. WWII Japanese shipwrecks sit in water clear enough to snorkel without a dive certificate. Kayangan Lake, often called the cleanest in Asia, lies cradled between cliffs, Twin Lagoon threads warm and cold water through a narrow crevice, and basic guesthouse rooms start around $10. Yes, really.",
+      },
+      {
+        type: "h2",
+        text: "Puerto Princesa: The Underground River",
+      },
+      {
+        type: "p",
+        text: "Most routes pass through Puerto Princesa, home to the UNESCO-listed Subterranean River: a cave system you tour by paddle boat, drifting past formations it has spent millennia building. Book the permit a day or two ahead.",
+      },
+      {
+        type: "h2",
+        text: "From Pakistan, and When",
+      },
+      {
+        type: "p",
+        text: "There is no direct flight: reach Manila from Karachi, Lahore, or Islamabad via Bangkok, Singapore, or Dubai, then connect, with AirSWIFT flying straight to El Nido or a budget hop to Puerto Princesa. Pakistanis need a visa, and the Philippines e-Visa portal handles it online, so check current terms before booking. December to February is coolest and driest; June through November is typhoon season, when boats cancel.",
+      },
+      {
+        type: "h2",
+        text: "Honest Tips",
+      },
+      {
+        type: "ul",
+        items: [
+          "Book boat tours on arrival; local counters undercut the platforms",
+          "Stay in El Nido town rather than the resort strip; you save half and eat better at carinderias",
+          "Carry cash; cards fail outside the towns",
+        ],
+      },
+      {
+        type: "quote",
+        text: "Paradise was never supposed to require a loan.",
+      },
+    ],
+  },
+  {
+    slug: "new-york-city-budget-guide",
+    title: "New York City on a Budget: What to See, Skip & Eat",
+    category: "Travel",
+    metaDescription:
+      "NYC on $60 a day: the free ferry skyline, Friday-night museums, slice lunches, and the fare cap that saves you. Plan with HTG Travel.",
+    keywords: [
+      "NYC on a budget",
+      "free things to do in New York",
+      "Staten Island Ferry",
+      "New York budget food",
+      "cheap New York hotels",
+    ],
+    promo: {
+      headline: "The Full New York, Minus the Bill",
+      body: "Flights timed right, a bed in the borough that makes sense, and an itinerary built around the free skyline, not the $70 version of it. Tell us your dates; we will do the arithmetic.",
+      cta: "Plan my budget New York",
+      waText: "Assalam o Alaikum! I want New York City on a realistic budget. Please plan my trip around the free stuff.",
+    },
+    content: [
+      {
+        type: "p",
+        text: "New York will try to empty your wallet: an $18 cocktail, hotel rooms from $300, four-dollar water. What most visitors never work out is that the best of the city, the skyline, the park, the slice, costs almost nothing. You just need to know where the traps hide.",
+      },
+      {
+        type: "h2",
+        text: "The Free Stuff Is the Best Stuff",
+      },
+      {
+        type: "ul",
+        items: [
+          "Staten Island Ferry: a free 25-minute ride past the Statue of Liberty and the skyline, the views cruises charge $40 for",
+          "Central Park: Bethesda Terrace, the Bow Bridge, Sheep Meadow; skip the paid attractions inside",
+          "The High Line: a park threaded through Chelsea on an old rail viaduct",
+          "Brooklyn Bridge at sunset, walked from Brooklyn toward Manhattan; the decks charge $70 for less",
+        ],
+      },
+      {
+        type: "h2",
+        text: "What to Skip",
+      },
+      {
+        type: "p",
+        text: "Observation decks, mostly. Empire State and Top of the Rock tickets run $40 and up, with combos near $80, while the ferry and Brooklyn Bridge Park match it free. Times Square deserves one walk-through and one photo, not dinner; its restaurants are chains at triple price. And time your museums: MoMA runs free Friday evenings if you reserve ahead, while the Met's pay-what-you-wish applies to residents, not tourists.",
+      },
+      {
+        type: "h2",
+        text: "Eat Like You Live There",
+      },
+      {
+        type: "p",
+        text: "A proper slice still costs about what a coffee does elsewhere: Joe's Pizza in the West Village makes lunch for under $6. The Halal Guys cart on 53rd and 6th still sells the chicken-and-rice platter that made it famous, around $10 and good for two meals. Chinatown dumplings, bodega breakfast sandwiches, and halal carts fill the gaps.",
+      },
+      {
+        type: "h2",
+        text: "Getting Around",
+      },
+      {
+        type: "p",
+        text: "The subway is the whole game, and OMNY tap-and-ride keeps it simple: tap the same card or phone every trip and the fare caps itself after twelve rides a week, with everything after that free until it resets. A single ride is under $3 however far you are going. The AirTrain from JFK to the subway beats a taxi on price and on traffic.",
+      },
+      {
+        type: "h2",
+        text: "Where to Sleep",
+      },
+      {
+        type: "p",
+        text: "Dorm beds in Brooklyn or Queens start around $30, private rooms with shared baths run $100–120, and a twenty-minute subway ride into Manhattan saves 40 per cent on the room. A realistic day, bed included, lands at $60–80 if you play it smart.",
+      },
+      {
+        type: "quote",
+        text: "The skyline is free. The slice is cheap. The rest is optional.",
       },
     ],
   },

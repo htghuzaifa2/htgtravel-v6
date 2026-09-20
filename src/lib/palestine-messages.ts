@@ -364,6 +364,14 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "Italy's hilltops are lovely; peace is lovelier still. Spare a prayer for Palestine and Sudan, and support trusted relief where you can.",
   "switzerland-budget-guide":
     "Cross borders freely, and remember the millions in Palestine and Sudan who cannot. Gratitude travels best when it carries a dua.",
+
+  // ── Story batch III ──────────────────────────────────────────
+  "greek-islands-without-crowds":
+    "The Aegean outlasted its empires; Palestine outlasts everything done to her. Spare her, and Sudan, a dua from the water's edge.",
+  "palawan-budget-beach-paradise":
+    "The sea was meant for everyone. While you float in Palawan, remember Gaza's coast and Sudan's displaced families. A dua travels farther than any ferry.",
+  "new-york-city-budget-guide":
+    "Manhattan's lights shine for you tonight; in Palestine and Sudan, millions wait in the dark. Remember them between the sights. A dua costs nothing.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.
