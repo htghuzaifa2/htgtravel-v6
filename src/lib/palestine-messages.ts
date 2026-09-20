@@ -392,6 +392,12 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "Scammers steal journeys; war steals whole lives. While you verify your bookings, hold Palestine and Sudan in your prayers, and give what you can.",
   "bali-vs-thailand":
     "Choosing between two islands is a luxury. In Palestine and Sudan, families face hunger and displacement. Keep them in your prayers as you plan.",
+  "hunza-vs-skardu":
+    "From Pakistan's peaceful peaks, pray for Palestine and Sudan, where families search for safety among rubble. Let gratitude become generosity.",
+  "is-pakistan-safe-for-solo-female-travelers":
+    "To every visitor who finds kindness here: pass some of it onward. Palestine and Sudan need prayers, aid, and voices. Carry them with you.",
+  "pakistan-visa-for-foreign-travelers":
+    "You are welcome here because we know what it means to be kept out. Pray for Palestine and Sudan, and give where you can.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

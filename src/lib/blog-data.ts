@@ -203,6 +203,9 @@ import { firstTripBakuTbilisiDubai } from "./blog-posts/first-trip-baku-tbilisi-
 import { groupToursVsSoloBooking } from "./blog-posts/group-tours-vs-solo-booking";
 import { spotFakeTravelAgentsOnline } from "./blog-posts/spot-fake-travel-agents-online";
 import { baliVsThailand } from "./blog-posts/bali-vs-thailand";
+import { hunzaVsSkardu } from "./blog-posts/hunza-vs-skardu";
+import { isPakistanSafeForSoloFemale } from "./blog-posts/is-pakistan-safe-for-solo-female-travelers";
+import { pakistanVisaForForeignTravelers } from "./blog-posts/pakistan-visa-for-foreign-travelers";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -382,6 +385,9 @@ const SEEDS: BlogPostSeed[] = [
   groupToursVsSoloBooking,
   spotFakeTravelAgentsOnline,
   baliVsThailand,
+  hunzaVsSkardu,
+  isPakistanSafeForSoloFemale,
+  pakistanVisaForForeignTravelers,
 ];
 
 // Auto-generate IDs for all posts at runtime
