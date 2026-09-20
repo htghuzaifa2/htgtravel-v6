@@ -55,4 +55,10 @@ export const umrahWomenGuideComplete: BlogPostSeed = {
       text: "Thousands of women have travelled through our desk. Many alone in organized groups. Ask them how it went; ask us for the next departure.",
     },
   ],
+  faqs: [
+    { q: "Can a woman do Umrah without a mahram?", a: "Current Saudi rules permit women to travel for Umrah in organised groups without a male guardian, though individual operators may set stricter policies. Licensed female-group leaders take Pakistani women every month; verify your operator's policy before paying." },
+    { q: "What should women wear in ihram?", a: "Ordinary loose modest clothing with a hijab qualifies; there is no special ihram garment for women. Skip gloves and face veils during ihram itself, keep a prayer-length abaya for the mosque, and use safety pins rather than brooches for quick layering." },
+    { q: "How hot does it get in Makkah and Madinah?", a: "Gentle from November to March, fiercely hot from May to September, with summer regularly past 45 degrees. Plan rituals for nights in hot months and pack a light jacket for Madinah evenings year-round." },
+    { q: "How much does food cost around the Harams?", a: "Eating where pilgrims eat keeps a full meal under SAR 30, with Pakistani restaurants everywhere around both Harams. Hotel dining doubles the price for the same plate." },
+  ],
 };

@@ -75,4 +75,10 @@ export const italyBeyondRomeSecretVillages: BlogPostSeed = {
       text: "Rome is the trailer. Italy is the film.",
     },
   ],
+  faqs: [
+    { q: "What does Italy offer beyond Rome, Florence, and Venice?", a: "The slow country: Procida's painted harbour, Civita's fading hilltown, the Val d'Orcia's farm roads, and Pitigliano's tufa streets. Same visa, different Italy." },
+    { q: "Is rural Italy practical for Pakistani travellers?", a: "With a rental car or patient rail planning, yes, and daily costs drop outside the big three. The food stays excellent and the crowds halve." },
+    { q: "Why use HTG Travels for planning a trip?", a: "HTG takes the logistics off your plate, from document checklists to arrival transfers, with quotes that name real hotels instead of categories. It is the difference between planning a trip and taking one." },
+    { q: "How do I handle peak travel seasons in Pakistan?", a: "The trick is the shoulder: depart two days before the school gates close and return before they reopen. Full-peak travel rewards only the earliest bookers." },
+  ],
 };

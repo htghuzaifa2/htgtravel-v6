@@ -56,4 +56,10 @@ export const egyptTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "Five thousand years, arranged in one thread. Message our desk.",
     },
   ],
+  faqs: [
+    { q: "What is the ideal season for Egypt?", a: "October to April is the comfortable window for Cairo and Luxor; summer heat turns serious in Upper Egypt and reshapes entire itineraries around early mornings." },
+    { q: "How do Pakistanis handle the visa for Egypt?", a: "The visa is arranged before departure through the embassy or an operator, since arrival facilitation does not cover ordinary Pakistani leisure travel. Files move smoothly with operator handling." },
+    { q: "Is Egypt expensive for Pakistani travellers?", a: "Cairo and Luxor price gently: roughly PKR 15,000 to 25,000 a day mid-range covers good hotels, guides at the major sites, and a short Nile cruise segment." },
+    { q: "Can I cover Egypt properly in a week?", a: "Six to eight days fits Cairo, Luxor, and a short Nile cruise without becoming a march. Add Alexandria for a coastal day if time allows." },
+  ],
 };

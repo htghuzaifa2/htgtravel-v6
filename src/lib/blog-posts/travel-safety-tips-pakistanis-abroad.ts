@@ -56,4 +56,10 @@ export const travelSafetyTipsPakistanisAbroad: BlogPostSeed = {
       text: "Prepared travellers are safe travellers. Our briefings make the difference. Ask.",
     },
   ],
+  faqs: [
+    { q: "What safety habits matter most abroad?", a: "Blend rather than flash, keep two payment sources in separate pockets, share your itinerary with family daily, and read crowd patterns: busy streets are safe streets." },
+    { q: "How do Pakistanis handle emergencies abroad?", a: "The embassy's contact saved offline, the insurance hotline on your card, and the local emergency number memorised. Pakistani missions respond fastest to travellers who registered." },
+    { q: "When should Eid holiday travel be booked?", a: "School holidays and Eid compress a nation's travel into days. Early flights on the first rush day and late returns ease the worst of it." },
+    { q: "What are my rights if a flight is cancelled?", a: "Ask the desk for the reroute and the care allowance in one conversation, then let your operator or insurer work the claim. Polite persistence travels well here." },
+  ],
 };

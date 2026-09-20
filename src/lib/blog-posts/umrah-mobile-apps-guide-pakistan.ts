@@ -57,4 +57,10 @@ export const umrahMobileAppsGuidePakistan: BlogPostSeed = {
       text: "We configure all of this with our pilgrims before departure. It is part of every package.",
     },
   ],
+  faqs: [
+    { q: "Which apps do Pakistani pilgrims actually need?", a: "Nusuk for permits and prayer slots, a Qibla compass for hotel rooms, offline Google Maps for the walk between hotel and Haram, and a prayer-times app set to Makkah. Download everything before flying; Jeddah airport wifi crawls at arrival peaks." },
+    { q: "Will my Pakistani SIM work in Saudi Arabia?", a: "It roams, and the roaming bill is the real problem. Buy a visitor SIM at the airport or a mall stall instead, activate an eSIM before departure if your phone supports one, and keep WhatsApp running on data for family check-ins." },
+    { q: "When do pilgrims shave or trim their hair?", a: "Halq is shaving the entire head and taqsir is trimming it all over; men choose either, and the Umrah ends with it. Women trim a fingertip's length, no more is required." },
+    { q: "Do Pakistanis need a visa to perform Umrah?", a: "Yes, and both options are arranged before you fly. The Umrah visa comes through licensed operators working on Nusuk, while the SAR 440 tourist eVisa is bought directly online and covers Umrah outside the Hajj window." },
+  ],
 };

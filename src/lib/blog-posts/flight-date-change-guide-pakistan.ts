@@ -54,4 +54,10 @@ export const flightDateChangeGuidePakistan: BlogPostSeed = {
       text: "Flexibility is a booking-time decision. Make it with us, and rest easy either way.",
     },
   ],
+  faqs: [
+    { q: "Can I change my flight dates after booking?", a: "Yes, on most fares, paying the fare difference plus a change fee that varies by airline and class. Cheap promotional fares often carry the harshest terms, so read the change rules before buying, not after." },
+    { q: "Is it cheaper to change a flight or book a new one?", a: "Sometimes booking fresh beats changing, when the change fee plus fare difference exceeds a new promotional ticket. Do both sums before touching the original booking, and ask the airline desk which way it lands." },
+    { q: "Are one-stop flights cheaper than direct from Pakistan?", a: "Connecting through Dubai, Doha, or Istanbul routinely undercuts direct fares. What you lose in time, you keep in rupees and often in baggage allowance." },
+    { q: "How do date changes work on booked flights?", a: "Date changes run through the airline or your agency, costing the fee plus the difference between old and new fares. Flexible fare classes pay less for the privilege." },
+  ],
 };

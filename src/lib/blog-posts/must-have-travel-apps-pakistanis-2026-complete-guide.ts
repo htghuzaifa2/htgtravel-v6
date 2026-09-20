@@ -58,4 +58,10 @@ export const mustHaveTravelAppsPakistanis2026CompleteGuide: BlogPostSeed = {
       text: "Configured before departure, supported throughout. The app briefing is standard at our desk.",
     },
   ],
+  faqs: [
+    { q: "Which apps should every Pakistani traveller install?", a: "Offline Google Maps, a trusted currency converter, prayer times with Qibla, the airline's own app for rebooking, and WhatsApp kept topped up on data. Install and test them all before the flight." },
+    { q: "Do Pakistani payment apps work abroad?", a: "Most Pakistani wallet apps stop at the border, so shift to a forex card plus an international payment wallet registered before departure. Test every card and wallet on day one, not mid-emergency." },
+    { q: "Is online travel booking secure for Pakistanis?", a: "Booking online is now the default; getting defrauded is optional. Book through established operators or platforms and keep every confirmation in writing." },
+    { q: "How do exchange rates affect my trip budget?", a: "Everything you buy abroad is priced in a moving exchange rate. Fix the big spends early through a forex card and let only small cash float." },
+  ],
 };

@@ -55,4 +55,10 @@ export const nepalTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The easiest epic on earth. Arranged in one message. Ask us.",
     },
   ],
+  faqs: [
+    { q: "Which months suit a Nepal trip best?", a: "October to November and March to April deliver the clear-sky windows the Himalayas demand. Winter offers crisp views but cold nights, while monsoon summer hides the peaks entirely." },
+    { q: "What is the visa situation for Nepal?", a: "The arrival visa is genuine for Pakistanis: passport, photo, and the fee at the Kathmandu counter, no embassy visit needed. Carry printed hotel and return-flight proof for the officer." },
+    { q: "What daily budget should I plan for Nepal?", a: "Nepal prices like its neighbours, not its mountains: PKR 10,000 to 18,000 a day mid-range covers good hotels in Kathmandu and Pokhara with guided day walks included." },
+    { q: "What is a realistic duration for Nepal?", a: "Five to seven days covers the Kathmandu Valley and Pokhara with a mountain-view morning. Trekkers, of course, measure Nepal in weeks instead." },
+  ],
 };

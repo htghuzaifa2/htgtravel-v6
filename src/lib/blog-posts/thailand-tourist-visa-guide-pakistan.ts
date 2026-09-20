@@ -57,4 +57,10 @@ export const thailandTouristVisaGuidePakistan: BlogPostSeed = {
       text: "Thailand is the easiest 'first international trip' from Pakistan when the file is right. We build that file daily.",
     },
   ],
+  faqs: [
+    { q: "How long does the Thailand e-visa take for Pakistanis?", a: "Standard processing is around two weeks, stretching up to three weeks in peak season, so apply a month before travel. The application goes through the official Thai e-visa portal with bank statements, bookings, and employment proof." },
+    { q: "Can Pakistanis get a Thailand visa on arrival?", a: "No, Pakistan is not on Thailand's visa-on-arrival list. The tourist visa must be approved before you fly, which is exactly why the e-visa file deserves early attention rather than airport hope." },
+    { q: "Can I reapply immediately after a visa refusal?", a: "Yes, though speed is the enemy here. Refiling unchanged reproduces the refusal; rebuilding the weak section takes a fortnight and doubles your odds." },
+    { q: "What convinces visa officers I will come home?", a: "Ties stack: salary continuity, children's schooling, property papers, and a passport of clean previous exits. One strong tie repeated across documents beats five weak ones." },
+  ],
 };

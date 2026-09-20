@@ -57,4 +57,10 @@ export const eidVacationDestinationsFromPakistan: BlogPostSeed = {
       text: "Eid moves fast. Our desk holds seats before it does. Message us now.",
     },
   ],
+  faqs: [
+    { q: "Where can Pakistanis travel during the Eid holidays?", a: "Short-haul doors work best: Dubai, Baku, Istanbul, and the Maldives, all reachable inside the break. Book the moment Eid dates firm up, since every Pakistani family has the same idea." },
+    { q: "Why are Eid flights so expensive from Pakistan?", a: "Demand concentrates into the same ten days nationwide, and airlines price it accordingly. The counter is booking eight to ten weeks early or flying the day before the rush peaks." },
+    { q: "When should I start arranging my overseas trip?", a: "Aim for your flights about two months ahead and hold refundable rooms immediately. Waiting for perfect prices usually costs more than it saves." },
+    { q: "Is a package holiday better than independent travel?", a: "Choose by trip complexity, not ideology. A straightforward e-visa destination rewards solo planning; anything involving files, groups, or tight dates rewards one accountable desk." },
+  ],
 };

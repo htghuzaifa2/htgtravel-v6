@@ -55,4 +55,10 @@ export const azerbaijanTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "Europe's feeling, Asia's pricing. Ask our desk for today's Baku rates.",
     },
   ],
+  faqs: [
+    { q: "What is the ideal season for Azerbaijan?", a: "April to June and September to October bring Baku its best weather, spring greenery, and autumn gold. The Flame Towers and the old city walk comfortably in both windows." },
+    { q: "How do Pakistanis handle the visa for Azerbaijan?", a: "The e-visa is filed online with passport and hotel details, typically arriving within about three working days. Urgent processing exists at roughly double the fee when dates tighten." },
+    { q: "Is Azerbaijan expensive for Pakistani travellers?", a: "Baku stays gentle on Pakistani wallets: roughly PKR 15,000 to 25,000 a day mid-range covers the old city, the boulevard, and day trips into the countryside." },
+    { q: "Can I cover Azerbaijan properly in a week?", a: "Four to five days handles Baku well, with the flame hills, mud volcanoes, and Gabala extensions adding days for travellers with a wider appetite." },
+  ],
 };

@@ -84,4 +84,10 @@ export const hajj2026OverseasPakistanis: BlogPostSeed = {
       text: "The pilgrims who arrive calm are the ones who started early.",
     },
   ],
+  faqs: [
+    { q: "How do overseas Pakistanis apply for Hajj 2026?", a: "Through the Nusuk international platform for diaspora applicants, or via a licensed Pakistani private scheme from your residence country if you prefer an Urdu-speaking group. Apply from one country only; records cross-match and duplicates get cancelled." },
+    { q: "Is Hajj cheaper from Pakistan or from the Gulf?", a: "Gulf-hub packages often price lower thanks to shorter flights and local competition, while Pakistan-based schemes offer familiar group leadership and catering. Compare both against the same tent zone and Makkah hotel, never just the headline figure." },
+    { q: "Do I need vaccinations for Hajj?", a: "The ACWY yellow card is the fixed requirement, plus whatever seasonal requirements Saudi Arabia lists that year. Government scheme pilgrims usually get briefed at the training camps." },
+    { q: "Can I do Hajj on a tourist visa?", a: "Hajj on a tourist eVisa is not allowed; the rituals demand a Hajj visa issued through official channels. Anyone selling you a tourist visa for Hajj is selling a problem." },
+  ],
 };

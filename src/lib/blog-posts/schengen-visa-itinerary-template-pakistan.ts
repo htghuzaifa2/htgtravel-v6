@@ -57,4 +57,10 @@ export const schengenVisaItineraryTemplatePakistan: BlogPostSeed = {
       text: "A believable itinerary is quiet math. We do that math for a living. Bring us your dream route.",
     },
   ],
+  faqs: [
+    { q: "How detailed should a Schengen itinerary be?", a: "Day-wise and city-wise, with each hotel night matching a booking confirmation and internal transport accounted for. The itinerary is the spine of the file; funds and employment documents only support what it claims." },
+    { q: "Can I use a sample itinerary template for my Schengen file?", a: "As a structure, yes, but the content must be your real plan. Officers compare dates across bookings, statements, and leave letters, and a template filled with inconsistent dates is a self-inflicted refusal." },
+    { q: "How long does Schengen visa processing take?", a: "The legal standard is 15 days from submission, extendable to about 45 in individual cases. Peak summer pushes timelines toward the upper end, so file four to six weeks before travel." },
+    { q: "What is the 90/180 rule in the Schengen area?", a: "The rule caps total presence at 90 days per 180-day period across every Schengen state combined. Your visa's own validity dates are a separate, shorter limit that also binds." },
+  ],
 };

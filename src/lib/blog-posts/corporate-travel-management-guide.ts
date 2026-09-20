@@ -56,4 +56,10 @@ export const corporateTravelManagementGuide: BlogPostSeed = {
       text: "The travel function, professionally outsourced. One meeting starts it. Ours.",
     },
   ],
+  faqs: [
+    { q: "Why do companies use travel management instead of booking direct?", a: "One consolidated invoice, enforced policy compliance, and a desk that answers at midnight when a flight cancels. The savings come from controlled behaviour, not just negotiated fares." },
+    { q: "What should Pakistani companies check in a travel partner?", a: "Reporting depth, the after-hours emergency desk, and the ability to hold fares through approval cycles. A partner who cannot explain their savings report is a booking clerk, not a manager." },
+    { q: "What happens if my flight is cancelled abroad?", a: "One ticket means the airline rebooks you; insurance covers the hotel nights and meals in the gap. Keep every receipt and stay polite at the desk." },
+    { q: "How early should I plan an international trip from Pakistan?", a: "The safe window is two months for normal trips and four for Eid, summer, and December. Fare sales from Islamabad appear inside that window, not before it." },
+  ],
 };

@@ -55,4 +55,10 @@ export const uzbekistanTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "Your ancestors' homeland, opened by an eVisa. Ask us for the itinerary.",
     },
   ],
+  faqs: [
+    { q: "Which months suit a Uzbekistan trip best?", a: "April to May and September to October carry the Silk Road cities comfortably, with Samarkand's monuments walkable and the bazaars full. Deep summer heat and winter cold both bite." },
+    { q: "What is the visa situation for Uzbekistan?", a: "The eVisa welcomes Pakistani travellers, applied for online with hotel details and usually issuing within days. Print the approval, since airlines and border posts both want the paper." },
+    { q: "What daily budget should I plan for Uzbekistan?", a: "Samarkand and Bukhara run near PKR 15,000 to 25,000 a day mid-range, with trains between cities cheap and comfortable. Handicrafts are the budget's quiet danger." },
+    { q: "What is a realistic duration for Uzbekistan?", a: "Five to seven days links Tashkent, Samarkand, and Bukhara honestly. Khiva adds two more days and a long drive, for travellers with the appetite." },
+  ],
 };

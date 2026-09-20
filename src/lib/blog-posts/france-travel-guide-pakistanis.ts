@@ -56,4 +56,10 @@ export const franceTravelGuidePakistanis: BlogPostSeed = {
       text: "The calendar is the gatekeeper. Our desk keeps watch. Message us.",
     },
   ],
+  faqs: [
+    { q: "What is the ideal season for France?", a: "April to June and September to October bring Paris its kindest weather and thinner queues; August sends the city partly on holiday, which some travellers love." },
+    { q: "How do Pakistanis handle the visa for France?", a: "France is Schengen: file through TLScontact with the full itinerary-centred file when France is your main destination by nights. Appointment booking drives the calendar, so start there." },
+    { q: "Is France expensive for Pakistani travellers?", a: "Paris runs PKR 35,000 to 50,000 a day mid-range, with Provence and the Loire gentler. Bakeries and market lunches keep Paris costs civilised." },
+    { q: "Can I cover France properly in a week?", a: "Seven to eight days covers Paris plus one region at a real pace. Adding a third region turns the trip into train stations rather than France." },
+  ],
 };

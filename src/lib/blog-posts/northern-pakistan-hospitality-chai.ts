@@ -79,4 +79,10 @@ export const northernPakistanHospitalityChai: BlogPostSeed = {
       text: "When someone offers, take it with both hands.",
     },
   ],
+  faqs: [
+    { q: "What makes northern Pakistan's hospitality special?", a: "Guests are treated as trust, not revenue: chai appears unasked, invitations arrive from strangers, and refusing gently is the only hard part. Bring small gifts and leave goodwill behind." },
+    { q: "How do travellers repay northern hospitality?", a: "Buy from village shops, hire local guides, and treat homestays as homes rather than hotels. The chai economy runs on reciprocity, not tips." },
+    { q: "How reliable is mobile coverage in the mountains?", a: "Coverage is dependable in Hunza, Skardu, and along the highway, thinning to nothing on treks and remote lakes. An offline map plus a told-someone plan covers the gaps safely." },
+    { q: "Are northern Pakistan roads safe for families?", a: "Yes, with sensible rules: daylight travel only, an experienced driver on mountain roads, and no night driving on the Karakoram Highway. Landslides close stretches after heavy rain, so keep the itinerary loose enough to wait a morning." },
+  ],
 };

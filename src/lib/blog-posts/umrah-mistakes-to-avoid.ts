@@ -57,4 +57,10 @@ export const umrahMistakesToAvoid: BlogPostSeed = {
       text: "We brief every pilgrim we fly, and it shows in their journey. Travel with a desk that prepares you.",
     },
   ],
+  faqs: [
+    { q: "What is the most common mistake first-time pilgrims make?", a: "Pushing aggressively in the Mataf to touch the Kaaba or kiss the Black Stone. Contact is not required, causes injuries, and ruins the calm the ritual deserves. Gesture toward the Black Stone and keep moving; the reward of Tawaf does not rise with touching." },
+    { q: "Do common mistakes cancel my Umrah?", a: "Almost never. A broken wudu, stitched cloth worn by mistake, or a sharp word usually needs correction or a small fidyah, not repetition. Only abandoning a required ritual without valid cause, such as quitting Sa'i unfinished, forces that ritual to restart." },
+    { q: "Can I add extra nights in Saudi after Umrah?", a: "Yes within your visa's terms. EVisa holders travel freely after Umrah; Umrah-visa holders should book any Jeddah or Madinah extra nights upfront, since changes are tight." },
+    { q: "How hard is Umrah for an average person?", a: "Physical training helps, but planning beats it: off-peak timing, a hotel within 500 metres, and rituals spread across a full week turn Umrah into a walk instead of a march." },
+  ],
 };

@@ -56,4 +56,10 @@ export const passportRenewalGuidePakistan: BlogPostSeed = {
       text: "Renewal timed against the trip, that sequencing is our desk's daily work.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis renew passports at home?", a: "Through DGIP: the online portal or regional passport offices handle renewal with token queues, the existing passport, and your CNIC. Normal-track fees keep the cost modest." },
+    { q: "How long does passport renewal take in Pakistan?", a: "Fast-track runs days, normal track a few weeks, with delays around Eid. Renew at least six months before any visa application needs the booklet." },
+    { q: "Why do exchange rates matter for my travel budget?", a: "Rupee weakness quietly reprices food, transport, and hotels mid-trip. Load most spending onto a card fixed early and carry only modest cash." },
+    { q: "How do travellers protect passports and cash overseas?", a: "A slim travel wallet worn under clothing carries the passport and primary card; day money rides in a front pocket. The rest sleeps in a safe." },
+  ],
 };

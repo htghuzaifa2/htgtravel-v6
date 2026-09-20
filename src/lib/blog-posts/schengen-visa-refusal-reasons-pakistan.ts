@@ -56,4 +56,10 @@ export const schengenVisaRefusalReasonsPakistan: BlogPostSeed = {
       text: "A refusal read correctly is a blueprint for approval. We read them every week at the desk.",
     },
   ],
+  faqs: [
+    { q: "What are the top Schengen refusal reasons for Pakistanis?", a: "Funds judged insufficient or implausible, itineraries that contradict the bookings, weak return ties, and documents that raise authenticity doubts. Nearly every refusal letter names its reason, which is exactly what your reapplication must fix." },
+    { q: "Should I appeal a Schengen refusal or reapply?", a: "Appeals suit factual errors and take months; reapplication suits most cases and moves faster. Read the stated reason honestly, rebuild the weak section, and file again with a corrected, consistent file." },
+    { q: "How much does a Schengen visa cost from Pakistan?", a: "Count EUR 90 per adult plus service fees, paid in local currency. Families multiply fast, which is one more reason the file should be right the first time." },
+    { q: "How early can I apply for a Schengen visa?", a: "You may file as early as six months before the trip, which suits complicated itineraries. Most travellers should target the month-before zone." },
+  ],
 };

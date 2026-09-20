@@ -59,4 +59,10 @@ export const omanTouristVisaGuidePakistan: BlogPostSeed = {
       text: "Tell us what visas you already hold, that single fact decides your Oman route, and our answer is free.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis get an Oman tourist visa?", a: "Through Oman's online e-visa system, which issues unsponsored tourist visas to Pakistani applicants with a valid passport, confirmed hotel booking, and return ticket. Approval normally lands within a few working days." },
+    { q: "How long is the Oman e-visa valid?", a: "The common tourist grant is a 30-day single-entry stay, with 10-day variants also issued. Apply within a month of travel, because validity windows are fixed from issue, not from your arrival date." },
+    { q: "When should I submit my visa application?", a: "File eight to ten weeks out where the route allows. That absorbs a delayed appointment and still leaves room to reapply if the first attempt stumbles." },
+    { q: "What is a held or dummy flight booking?", a: "A real reservation held without payment, verifiable on the airline system. It exists precisely so visa files never require gambling the ticket money." },
+  ],
 };

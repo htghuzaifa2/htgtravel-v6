@@ -54,4 +54,10 @@ export const ukStudentVisaGuidePakistan: BlogPostSeed = {
       text: "UK student visas reward exactness. Exactness is our service.",
     },
   ],
+  faqs: [
+    { q: "What does a UK student visa need from Pakistan?", a: "A CAS from a licensed sponsor, funds of GBP 1,483 per month outside London held for 28 consecutive days, English results, and the health surcharge. Apply up to six months before the course starts, with priority options available." },
+    { q: "How long does the UK student visa decision take?", a: "Standard processing is about three weeks, with priority services shrinking it to days. The 28-day fund rule catches more applicants than processing delays: money moved late resets the clock." },
+    { q: "Should my visa application mention overseas relatives?", a: "Yes, always. Mentioning a cousin abroad with a brief visit in the itinerary reads as normal; hiding a close relative that officers can find reads as deception, which is far worse than tourism." },
+    { q: "Is the visa fee refundable if my application is refused?", a: "Fees fund the assessment itself, so refusals keep them. That asymmetry is exactly why files deserve professional preparation the first time." },
+  ],
 };

@@ -83,4 +83,10 @@ export const umrahBudgetWhatToSaveOn: BlogPostSeed = {
       text: "The stars on the door do not walk you to the Mataf.",
     },
   ],
+  faqs: [
+    { q: "Where can I cut Umrah costs without ruining the trip?", a: "Fly with one stop instead of direct, take a 900-metre hotel over a 300-metre one in off-peak months, use the shared ziyarat bus instead of a private car, and eat at the busy local buffets. Never cut: your room-sharing plan, medical cover, or the vaccination." },
+    { q: "Is it worth paying more for a closer hotel to save on taxis?", a: "In Makkah, yes, since you walk to every prayer. In Madinah, most hotels within a kilometre already sit inside an easy walk to the Haram, so saving there costs little. Distance economics change city by city." },
+    { q: "How much walking does Umrah involve?", a: "Count on serious distance by the week: the rituals, prayers, and hotel commutes stack quickly. A closer hotel cuts more fatigue than any fitness plan." },
+    { q: "What is the weather like in Makkah and Madinah?", a: "October through April feels kind to Pakistani travellers used to plains heat. From May onward, schedule Tawaf after Fajr or after Isha and treat midday as rest time." },
+  ],
 };

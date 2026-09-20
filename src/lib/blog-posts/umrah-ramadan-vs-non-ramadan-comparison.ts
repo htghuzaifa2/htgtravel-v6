@@ -57,4 +57,10 @@ export const umrahRamadanVsNonRamadanComparison: BlogPostSeed = {
       text: "Every season suits somebody. Tell us who you are. We will tell you when to go.",
     },
   ],
+  faqs: [
+    { q: "Ramadan Umrah or off-season Umrah: which suits a first trip?", a: "Off-season, almost always. First-timers need energy for learning the rituals, and Ramadan crowds, heat, and prices triple the difficulty. Ramadan suits experienced pilgrims chasing that specific reward; beginners build confidence in Shawwal or Muharram first." },
+    { q: "How much more does Ramadan Umrah cost than off-season?", a: "Commonly 40 to 100 percent more for the same hotels, with near-Haram rooms doubling first and flights following. The last ten nights command the year's peak rates. That premium buys spiritual timing, not comfort." },
+    { q: "Which Saudi airport suits my Umrah itinerary?", a: "Madinah suits pilgrims beginning there, easing you in with the calmer mosque before Makkah's intensity. Jeddah suits Makkah-first plans and offers the Haramain train onward." },
+    { q: "How much should a family budget per person for Umrah?", a: "Economy sharing starts around PKR 185,000, standard lands near PKR 250,000 to 300,000, and deluxe beside the Haram passes PKR 400,000. Your month of travel moves the number most." },
+  ],
 };

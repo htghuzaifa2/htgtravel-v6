@@ -93,4 +93,10 @@ export const switzerlandBudgetGuide: BlogPostSeed = {
       text: "The mountains are free. Everything else is negotiable.",
     },
   ],
+  faqs: [
+    { q: "Is Switzerland possible on a budget from Pakistan?", a: "Yes, with structure: guesthouses and hostels, the half-fare rail card, grocery-store lunches, and one splurge town instead of five. The Schengen visa and flight still anchor the total." },
+    { q: "What cuts Swiss costs most?", a: "The rail pass decision and sleeping outside the postcard towns. Mountain railways add up fast, so plan two deep regions instead of a whole-country sweep." },
+    { q: "Should I book hotels before departure or after arrival?", a: "Prepay nothing before the visa, but do hold the first nights refundable. Post-arrival booking suits slow travel with loose dates only." },
+    { q: "How should Pakistani travellers carry money overseas?", a: "Load a forex card with the bulk, keep one backup card apart, and carry a day of cash. Inform your bank before departure so nothing gets blocked." },
+  ],
 };

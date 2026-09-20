@@ -56,4 +56,10 @@ export const germanyTravelGuidePakistanis: BlogPostSeed = {
       text: "Precision files, precise itineraries — Germany's favourite combination. Ours.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit Germany from Pakistan?", a: "May to September carries festival season and outdoor life; December adds the Christmas markets, which justify a winter trip entirely on their own." },
+    { q: "Do Pakistanis need a visa for Germany?", a: "Schengen rules apply through the German embassy appointment system, with appointment slots the real bottleneck. Book the slot the day plans firm up." },
+    { q: "How much does a Germany trip cost from Pakistan?", a: "Germany runs near PKR 35,000 to 45,000 a day mid-range, with Bavaria and Berlin priced similarly. Grocery breakfasts and rail passes keep the daily math sane." },
+    { q: "How many days are enough for Germany?", a: "Seven to ten days links three cities by fast rail honestly. Germany rewards depth over breadth; two cities done well beat five sampled." },
+  ],
 };

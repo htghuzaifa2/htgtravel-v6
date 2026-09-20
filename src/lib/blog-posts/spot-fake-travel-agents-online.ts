@@ -75,4 +75,10 @@ export const spotFakeTravelAgentsOnline: BlogPostSeed = {
       text: "Most agents are honest people who love this work; this is not about distrusting everyone. It is about giving your trust the same care you give your money. Treat documents, references, and straight answers as the minimum, not a luxury.",
     },
   ],
+  faqs: [
+    { q: "How do I spot a fake travel agent online in Pakistan?", a: "Untraceable personal accounts instead of registered pages, quotes without company letterheads, full-advance demands, and refusal to issue receipts. Licensed operators document everything." },
+    { q: "What protection do Pakistani travellers have against agent fraud?", a: "Demand written invoices, pay into company accounts rather than personal wallets, and verify licence status before paying. Complaints to the tourism authorities move faster with a paper trail." },
+    { q: "How do I plan around school holidays and Eid?", a: "Peak dates are a tax on the disorganised. Lock flights the moment holidays are announced, then hold refundable rooms while dates settle." },
+    { q: "What happens if my flight is cancelled abroad?", a: "The airline owes you rebooking or a refund under most regimes, and hotels booked refundably soften the landing. Travel insurance picks up meals and rooms where the airline stalls, so keep receipts for everything." },
+  ],
 };

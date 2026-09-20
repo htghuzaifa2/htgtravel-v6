@@ -87,4 +87,10 @@ export const palawanBudgetBeachParadise: BlogPostSeed = {
       text: "Paradise was never supposed to require a loan.",
     },
   ],
+  faqs: [
+    { q: "Is Palawan affordable for Pakistani travellers?", a: "Very: island-hopping tours, beach huts, and fresh seafood run gently by Southeast Asian standards. The expensive legs are the Manila connection and the visa." },
+    { q: "How do I reach Palawan from Pakistan?", a: "Fly into Manila, then connect to Puerto Princesa or El Nido. The Philippine visa is arranged ahead, and booking the domestic legs early rewards the patient." },
+    { q: "How much money do I need before travelling abroad?", a: "Price the whole trip honestly: visa, flights, stay, daily spending, and a ten percent cushion. That total, not the ticket price, is what you save toward." },
+    { q: "Is a local SIM worth it when travelling overseas?", a: "Almost always worth it on trips longer than three days: a local SIM or eSIM costs a fraction of roaming and keeps maps, ride apps, and family calls alive. Airport stalls activate in minutes." },
+  ],
 };

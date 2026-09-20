@@ -55,4 +55,10 @@ export const turkeyEvisaGuidePakistan: BlogPostSeed = {
       text: "The catch in Turkey's rules is real, and so is the solution. One message and you'll know which side of it you're on.",
     },
   ],
+  faqs: [
+    { q: "Can Pakistanis get the Turkey e-visa online?", a: "Only with a supporting document: a valid visa or residence permit from the US, UK, a Schengen country, or Ireland. With that in hand, the e-visa is a 10-minute online form; without it, the application goes through the Turkish embassy in Islamabad." },
+    { q: "How long can Pakistanis stay in Turkey on the e-visa?", a: "The e-visa typically grants a 30-day stay within its validity window, single or multiple entry as printed on the grant. Check the exact conditions on your printout, because the document itself is what border officers read." },
+    { q: "How early should I apply for my visa before travel?", a: "Book the appointment the day plans firm up, and file two to three months out. Slots, not processing time, are what actually run late." },
+    { q: "Do strong visas in my passport help future applications?", a: "A valid or recently expired US, UK, or Schengen visa raises a file's floor everywhere. Officers read it as a clean history with rigorous systems." },
+  ],
 };

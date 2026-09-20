@@ -55,4 +55,10 @@ export const umrahTravelInsuranceComparison: BlogPostSeed = {
       text: "Insurance is tawakkul with paperwork. We handle the paperwork. You handle the tawakkul.",
     },
   ],
+  faqs: [
+    { q: "Does Umrah need separate travel insurance?", a: "The tourist eVisa bundles basic health cover, and Umrah visa packages carry operator liability, but neither is a real medical or baggage policy. Elders and chronic-illness travellers should add a proper plan from Pakistan." },
+    { q: "What should Umrah insurance cover that the eVisa does not?", a: "Hospitalisation beyond emergencies, baggage and Zamzam loss, flight cancellation, and repatriation if medically needed. The bundled cover is an emergency floor, not a safety net." },
+    { q: "Does travel insurance cover visa refusal?", a: "Refusal sits outside standard cover; only dedicated cancellation policies catch it. Ask in writing before assuming your prepayments are protected." },
+    { q: "Is travel insurance worth it for short trips?", a: "Short trips carry the same hospital prices as long ones. A few thousand rupees against a foreign medical bill is not a close comparison." },
+  ],
 };

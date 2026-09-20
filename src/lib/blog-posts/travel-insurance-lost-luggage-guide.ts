@@ -55,4 +55,10 @@ export const travelInsuranceLostLuggageGuide: BlogPostSeed = {
       text: "The belt stopping is not the end of the world, with the right cover and sequence. We provide both.",
     },
   ],
+  faqs: [
+    { q: "What happens if my luggage is lost on an international flight?", a: "Report it at the arrival airport before leaving, taking the property irregularity report, which starts the airline's search. Airlines pay compensation for bags never found, with insurance topping up the difference on your actual losses." },
+    { q: "Does the airline or my insurance pay for lost luggage?", a: "The airline owes a liability cap first, which is often modest against real belongings. Your insurer covers above that and the items the airline excludes, so claim with both, receipts in hand." },
+    { q: "How much does travel insurance cost from Pakistan?", a: "Basic short-trip policies start near a few thousand rupees, scaling with age and medical cover limits. Compare the medical cap first; the price follows it." },
+    { q: "Does travel insurance cover visa refusal?", a: "Usually excluded on basic policies, so check the cancellation section's covered reasons before relying on it. Where visa refusal is covered, the certificate names it explicitly." },
+  ],
 };

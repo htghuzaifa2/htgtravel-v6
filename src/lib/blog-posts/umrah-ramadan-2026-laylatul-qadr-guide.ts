@@ -56,4 +56,10 @@ export const umrahRamadan2026LaylatulQadrGuide: BlogPostSeed = {
       text: "The nights are fixed; the rooms are not. Reserve Laylatul Qadr with us before the world does.",
     },
   ],
+  faqs: [
+    { q: "When is Laylatul Qadr in Ramadan 2026?", a: "The exact night is unknown by design; the Prophet pointed to the odd nights of the last ten. Ramadan 2026 is expected to run from mid-February to mid-March, putting the odd nights roughly between 8 and 18 March, so serious pilgrims stay through the final ten." },
+    { q: "How do I get a spot in the Haram on the odd nights?", a: "Enter two to three hours before Isha, sit in the courtyards or upper floors rather than fighting the main hall, and hold your spot with a prayer mat. A hotel inside 300 metres matters more than any strategy on these nights." },
+    { q: "Should I get a Saudi SIM for Umrah?", a: "Roaming works but bills brutally. The routine is a Saudi SIM from the airport or a mall stall, SAR 50 to 100 for a month of generous data, or an eSIM bought before departure." },
+    { q: "Is it possible to extend my Umrah trip?", a: "Extension room depends on your document: generous on the tourist eVisa, narrow on the Umrah visa. Decide your full itinerary before ticketing and the question never arises." },
+  ],
 };

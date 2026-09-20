@@ -57,4 +57,10 @@ export const summerVacationDestinationsFromPakistan: BlogPostSeed = {
       text: "Summer moves fast; our desk moves faster. Message us with your June plan.",
     },
   ],
+  faqs: [
+    { q: "Where should Pakistani families escape the summer heat?", a: "The northern areas at home, plus Baku, the Central Asian capitals, and Turkey's coast abroad. The trick is matching school holidays to each destination's best month." },
+    { q: "Which summer trips need the earliest booking?", a: "Northern Pakistan's best guesthouses and Skardu flights, and every international route in June and July. The whole country travels in the same weeks." },
+    { q: "Should I buy a local SIM abroad or roam from Pakistan?", a: "Yes for anything beyond a weekend. Roaming bills from Pakistani carriers are legendary for a reason, and a prepaid local line removes the whole problem." },
+    { q: "What should I know before my first trip abroad?", a: "Three things: the visa file matters more than the itinerary, airports reward early arrivals, and the first day in any country should hold nothing but the hotel. Everything else is learnable on the spot." },
+  ],
 };

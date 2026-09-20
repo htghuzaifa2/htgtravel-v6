@@ -57,4 +57,10 @@ export const cheapFlightsFromPakistan: BlogPostSeed = {
       text: "Our desk quotes same-day on any route from Pakistan. Try us before you click pay.",
     },
   ],
+  faqs: [
+    { q: "When is the cheapest time to book flights from Pakistan?", a: "Six to ten weeks before departure for most international routes, with February, September, and the monsoon months carrying the lowest base fares. Flexibility on dates saves more than any booking trick." },
+    { q: "Do flight prices from Pakistan drop at the last minute?", a: "Rarely on international routes. Airlines price empty seats upward as departure nears, so waiting for a miracle usually pays the highest fare of all. Book in the sane window instead." },
+    { q: "Can I change my flight dates after booking?", a: "On most fares, yes, paying the change fee plus any fare difference. Read the fare rules at booking time: the cheapest tickets carry the harshest change terms." },
+    { q: "Should I book through an airline or a travel agency?", a: "Book direct when it is one flight and one airline. The moment connections, groups, or changes enter, one accountable desk beats four hotlines." },
+  ],
 };

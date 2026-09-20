@@ -55,4 +55,10 @@ export const eidAlAdhaQurbaniSaudiArabiaVsPakistan2026: BlogPostSeed = {
       text: "Eid season journeys and the decisions inside them. Planned daily at our desk. Bring us yours.",
     },
   ],
+  faqs: [
+    { q: "Can I give qurbani in Saudi Arabia while on Umrah?", a: "Yes, through the official Saudi portals and licensed banks, where the sacrifice happens on your appointed day and the meat reaches the designated poor. Pilgrims in ihram during Hajj must use the mandated hadiy route rather than a private arrangement." },
+    { q: "Is Saudi qurbani cheaper than qurbani in Pakistan?", a: "Prices move yearly with livestock markets, and Saudi sacrifice vouchers have recently cost less than equivalent Pakistani rates, with distribution handled for you. The intention matters more than geography; choose the route that lets you give cleanly." },
+    { q: "Do I need vaccinations for Hajj?", a: "Meningococcal ACWY is mandatory with a certificate at least ten days old on arrival, and seasonal flu plus other year-specific rules have applied recently. Check the official requirement list in the month before departure." },
+    { q: "When does Hajj 2026 take place?", a: "Expected in late May 2026, subject to moon confirmation. The window between arrival in the Kingdom and Arafah is when training, rest, and Mina logistics happen." },
+  ],
 };

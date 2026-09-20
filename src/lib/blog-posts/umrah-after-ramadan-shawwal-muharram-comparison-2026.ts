@@ -56,4 +56,10 @@ export const umrahAfterRamadanShawwalMuharramComparison2026: BlogPostSeed = {
       text: "Every season has its secret; Shawwal is ours. Ask for this year's post-Eid rates.",
     },
   ],
+  faqs: [
+    { q: "Is Shawwal or Muharram better for off-peak Umrah?", a: "Shawwal keeps light Eid crowds for its first week, then slides into calm; Muharram, which begins around mid-June in 2026, runs quieter still with the year's lowest hotel rates. Choose Shawwal for a sooner trip and Muharram for the deepest savings." },
+    { q: "How much cheaper is Umrah right after Ramadan?", a: "Package rates typically fall 20 to 40 percent within the first ten days of Shawwal and stay low through Muharram and Safar. The same hotels that doubled in Ramadan revert quickly once the crowds clear." },
+    { q: "Do I need the ACWY shot before Umrah?", a: "The ACWY meningitis vaccination is the one hard requirement, documented on the yellow international certificate. Get it done at a government travel clinic at least ten days before your flight." },
+    { q: "Do I need travel insurance for Umrah?", a: "The eVisa's included insurance is thin. For elders, chronic illness, or expensive flights, buy a dedicated policy that names Saudi hospitalisation and flight cancellation." },
+  ],
 };

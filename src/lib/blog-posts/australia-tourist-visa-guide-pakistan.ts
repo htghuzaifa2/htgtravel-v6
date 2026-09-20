@@ -57,4 +57,10 @@ export const australiaTouristVisaGuidePakistan: BlogPostSeed = {
       text: "Australia rewards patient, honest files. We build them daily. Bring us your plans.",
     },
   ],
+  faqs: [
+    { q: "What is the Australia visitor visa for Pakistanis?", a: "The subclass 600 visitor visa, applied online through ImmiAccount at roughly AUD 190, with documents uploaded digitally. Grants commonly allow three, six, or twelve months of stay, decided case by case." },
+    { q: "How long does the Australian visitor visa take?", a: "Typical decisions arrive within two to six weeks, though complex files take longer. Health checks or extra verification add time, so file early and answer every question honestly rather than strategically." },
+    { q: "Can I get a visa without any travel history?", a: "Blank passports win visas every day. Start with an easy destination, return on time, and the second file inherits the first trip's credibility." },
+    { q: "Do children need their own visa application?", a: "Yes, each child files separately with own form, photographs, and fee, plus a passport. Add an NOC from any non-travelling parent and the family tie documents." },
+  ],
 };

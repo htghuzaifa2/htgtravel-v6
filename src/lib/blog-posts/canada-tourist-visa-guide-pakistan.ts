@@ -56,4 +56,10 @@ export const canadaTouristVisaGuidePakistan: BlogPostSeed = {
       text: "'Will they come back?' is the whole exam. We spend our days building files that answer it. Ask us how.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis apply for a Canada visitor visa?", a: "Online through the IRCC portal: forms, photographs, biometrics at the visa application centre, financial documents, an invitation letter if visiting family, and proof of ties to Pakistan. Biometrics cost CAD 85 on top of the visa fee." },
+    { q: "How long does a Canada visitor visa take from Pakistan?", a: "Processing varies from a few weeks to several months depending on volume and verification, so apply at least four to six months before intended travel. Biometrics validity runs 59 months, easing any future applications." },
+    { q: "What is a held or dummy flight booking?", a: "An unpaid reservation carrying a valid confirmation code. It shows travel intent for the file while the decision is pending, then converts or cancels as the outcome lands." },
+    { q: "Do visa officers verify employment in Pakistan?", a: "Verification happens, unpredictably. Keep the employer letter's phone reachable and warn the office that a consulate call may arrive." },
+  ],
 };

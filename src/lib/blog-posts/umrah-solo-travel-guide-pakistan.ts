@@ -56,4 +56,10 @@ export const umrahSoloTravelGuidePakistan: BlogPostSeed = {
       text: "You will walk in alone. You will not walk alone. Our line stays open the whole way.",
     },
   ],
+  faqs: [
+    { q: "Is solo Umrah from Pakistan safe?", a: "Yes, with normal city caution. The route from Pakistani airports through Saudi immigration to hotel check-in is heavily pilgrim traffic, and help is everywhere. Solo women should use licensed female-group operators, and everyone should share hotel details with family back home." },
+    { q: "Does solo Umrah cost more than group travel?", a: "Room sharing is the difference: a solo traveller pays the single supplement, adding roughly 25 to 40 percent over a shared triple. Off-peak months absorb part of that, and solo travellers save on optional group add-ons." },
+    { q: "How many nights do Pakistanis book for Umrah?", a: "Ten to fourteen nights is the sweet spot, splitting two-thirds Makkah and one-third Madinah. The rituals take hours, but rest, ziyarat, and the 40-prayers tradition reward the longer stay." },
+    { q: "Do I need the ACWY shot before Umrah?", a: "Compulsory, with the yellow certificate ideally issued ten days or more before arrival. Any government vaccination centre or major hospital travel clinic in Pakistan handles it." },
+  ],
 };

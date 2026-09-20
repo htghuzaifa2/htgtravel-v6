@@ -56,4 +56,10 @@ export const budgetTravelUnder200000FromPakistan: BlogPostSeed = {
       text: "200K, honestly planned, genuinely travelled. Our desk proves it weekly. Ask.",
     },
   ],
+  faqs: [
+    { q: "Is an international trip under PKR 200,000 realistic?", a: "Yes, with the right doors: the Maldives on local islands, Sri Lanka, Nepal, Baku outside peak, or Bangkok with one-stop flights. The budget buys comfort in near destinations and backpacking discipline in farther ones." },
+    { q: "Which costs decide whether a trip fits PKR 200,000?", a: "Flights and visa fees come first, since they consume a third to half of the budget. Everything after, hotels, food, and moving around, flexes to fit what remains." },
+    { q: "Do I reserve hotels in advance or on arrival?", a: "Book ahead for the arrival, then let the trip breathe. Walking into hotels works in low season and punishes optimism in high." },
+    { q: "What is the best way to carry money abroad?", a: "A forex card for daily spending, a backup debit card in another bag, and modest cash for the cash-only corners. Load the card before the rupee moves against you." },
+  ],
 };

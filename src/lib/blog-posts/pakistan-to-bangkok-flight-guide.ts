@@ -55,4 +55,10 @@ export const pakistanToBangkokFlightGuide: BlogPostSeed = {
       text: "Flights, visa, islands. One message starts the whole Thai plan. Try our desk.",
     },
   ],
+  faqs: [
+    { q: "Which airlines fly from Pakistan to Bangkok?", a: "Direct seats appear seasonally, while most travellers connect through Gulf hubs or Kuala Lumpur on Emirates, Qatar, Etihad, or Thai. One-stop tickets routinely undercut direct pricing by a healthy margin." },
+    { q: "How much does a Pakistan to Bangkok return ticket cost?", a: "Typically between PKR 90,000 and 150,000 return economy, swinging with season and booking window. Sales dip under that range when the Gulf connectors compete hard." },
+    { q: "Should I book through an airline or a travel agency?", a: "Direct for simple round trips, agency for complexity: open-jaw routes, groups, and fare structures worth explaining. The agency's value is accountability, not just price." },
+    { q: "Do Pakistani airlines have sales?", a: "Yes, seasonally and around national dates, with domestic trunk routes seeing the deepest cuts. International sale fares exist but expire fast." },
+  ],
 };

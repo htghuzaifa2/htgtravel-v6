@@ -57,4 +57,10 @@ export const umrahVaccinationRequirements2026: BlogPostSeed = {
       text: "Requirements change; our packages change with them. Ask for the current checklist before you book anywhere.",
     },
   ],
+  faqs: [
+    { q: "Which vaccines are compulsory for Umrah from Pakistan?", a: "The meningococcal ACWY vaccine is the mandatory one, required as a certificate on arrival, ideally injected at least ten days before your flight. Saudi authorities update requirements seasonally, so recheck the official list within a month of departure." },
+    { q: "Where do I get the Umrah vaccination certificate in Pakistan?", a: "Designated government vaccination centres and major hospital travel clinics in Karachi, Lahore, and Islamabad issue the yellow-card ACWY certificate same day for a small fee. Keep the card in your hand luggage; airlines and Saudi immigration both ask for it." },
+    { q: "Is food expensive in Makkah and Madinah?", a: "Not particularly. Family restaurants around the Harams serve filling meals at prices that feel Pakistani-familiar, and the buffet circuit lets elders eat comfortably for set rates." },
+    { q: "What is the Nusuk app used for by pilgrims?", a: "Yes for Ramadan, where Umrah slots are issued through Nusuk, and handy otherwise for Haram prayer-space reservations and live crowd levels." },
+  ],
 };

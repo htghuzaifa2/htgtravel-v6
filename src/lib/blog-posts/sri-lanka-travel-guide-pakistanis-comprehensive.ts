@@ -56,4 +56,10 @@ export const sriLankaTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "A continent on an island, priced like a neighbour. Our desk gets you there. Ask.",
     },
   ],
+  faqs: [
+    { q: "What is the ideal season for Sri Lanka?", a: "December to March serves the west and south coasts best, while the east coast takes over mid-year. The cultural triangle stays comfortable across both windows." },
+    { q: "How do Pakistanis handle the visa for Sri Lanka?", a: "The ETA is filed online before departure and usually approves within days, carried as a printout. Airlines verify it at check-in, so complete it before ticketing day." },
+    { q: "Is Sri Lanka expensive for Pakistani travellers?", a: "Ground costs run near PKR 12,000 to 20,000 a day mid-range, with tuk-tuk days cheap, train rides beautiful, and boutique stays the flexible lever." },
+    { q: "Can I cover Sri Lanka properly in a week?", a: "Six to eight days fits the cultural triangle plus one coast at a relaxed pace. A wildlife safari adds a day and earns it honestly." },
+  ],
 };

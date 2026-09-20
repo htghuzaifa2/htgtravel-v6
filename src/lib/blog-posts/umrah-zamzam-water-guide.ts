@@ -55,4 +55,10 @@ export const umrahZamzamWaterGuide: BlogPostSeed = {
       text: "The water you carry home has crossed 4,000 years to reach your table. We make sure the journey includes it.",
     },
   ],
+  faqs: [
+    { q: "How much Zamzam can I bring back to Pakistan?", a: "The allowance is one sealed five-litre bottle per pilgrim, bought at official airport counters and checked in as luggage. Airport wrapping counters handle the packing; do not decant into random bottles, since customs questions loose containers." },
+    { q: "Is the Zamzam allowance part of my PIA ticket?", a: "On Umrah-sector flights PIA has accepted the sealed bottle within the pilgrim baggage allowance, but rules tighten around Hajj season. Confirm with your airline at ticketing and keep the purchase receipt taped to the wrap." },
+    { q: "Can I extend my stay in Saudi Arabia after Umrah?", a: "Add-ons are easy on the eVisa and awkward on the Umrah visa, where dates bind to the operator's block bookings. Travellers wanting Taif or Jeddah days should book them from the start." },
+    { q: "Can elderly or unfit pilgrims manage Umrah?", a: "Thousands of grandparents complete it yearly. The three levers that matter are hotel distance, off-peak months, and night-hour rituals; fitness barely makes the top three." },
+  ],
 };

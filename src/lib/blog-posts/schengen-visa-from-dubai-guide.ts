@@ -56,4 +56,10 @@ export const schengenVisaFromDubaiGuide: BlogPostSeed = {
       text: "UAE residence is a genuine advantage, used correctly. We build those files from both sides of the Gulf.",
     },
   ],
+  faqs: [
+    { q: "Can Pakistanis apply for a Schengen visa from Dubai?", a: "Yes, when holding a valid UAE residence visa: file at the VFS or TLS centre in Dubai or Abu Dhabi for your main destination country. Residence status in the UAE must remain valid beyond your planned return." },
+    { q: "Is getting Schengen easier from Dubai than from Pakistan?", a: "The rules and scrutiny are the same, but appointment availability is usually better and files from stable residence contexts often read stronger. Weak funds or a thin itinerary fails from either city." },
+    { q: "Is travel insurance mandatory for a Schengen visa?", a: "Required, and checked line by line: EUR 30,000 medical minimum, whole-stay validity, all-state coverage. Border officials can also ask for it on re-entry, so carry the policy with you." },
+    { q: "How much should I budget for the Schengen visa itself?", a: "The consulate fee is EUR 90 per adult, with child discounts by age band, plus the centre's service charge. Budget both when planning a family file." },
+  ],
 };

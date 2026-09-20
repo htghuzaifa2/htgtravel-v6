@@ -58,4 +58,10 @@ export const umrahPackingListCompleteGuide: BlogPostSeed = {
       text: "Right packing, right package. Ask us about Umrah deals where every detail is handled before you fly.",
     },
   ],
+  faqs: [
+    { q: "What should I absolutely not forget in my Umrah luggage?", a: "A foldable bag for ihram, unscented soap, a waist pouch for documents, earplugs for hotel nights, and a power bank for long Haram hours. Pack light: you carry everything yourself through airports, buses, and hotel lobbies in Makkah and Madinah." },
+    { q: "How many clothes do I need for a 14-night Umrah?", a: "Three sets of daily wear per week is enough, since laundry near most hotels is cheap and quick. Add one warm layer for Madinah nights and mosque air-conditioning, two pairs of comfortable sandals, and a drawstring bag for damp ihram." },
+    { q: "Do I need travel insurance for Umrah?", a: "The tourist eVisa bundles basic health insurance automatically. Umrah visa travellers get limited cover too, but serious medical, baggage, and cancellation protection needs a proper policy from Pakistan." },
+    { q: "Can I perform a second Umrah in the same trip?", a: "As many as your body and schedule allow. Each repeat needs a fresh ihram and intention from a miqat; Makkah-based pilgrims use the Masjid Aisha miqat, a short taxi ride away." },
+  ],
 };

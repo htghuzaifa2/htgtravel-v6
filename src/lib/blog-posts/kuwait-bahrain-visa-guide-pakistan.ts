@@ -59,4 +59,10 @@ export const kuwaitBahrainVisaGuidePakistan: BlogPostSeed = {
       text: "One message, two routes mapped. That is how we handle Gulf travel plans every day at the desk.",
     },
   ],
+  faqs: [
+    { q: "Can Pakistanis get a Kuwait tourist visa?", a: "No independent tourist route exists for ordinary Pakistani passports. Entry runs through sponsorship: a resident family member or a Kuwaiti company applies inside Kuwait, and once approved the visa transfers to your passport before you fly." },
+    { q: "How does Bahrain's eVisa work for Pakistanis?", a: "Bahrain runs a genuine online eVisa open to Pakistani nationals: fill the form, upload documents, pay online, and receive approval by email, usually within a few working days. It is the easier Gulf weekend door for the green passport." },
+    { q: "How early should I apply for my visa before travel?", a: "Six weeks minimum for straightforward cases, three months for busy seasons or complex files. The visa calendar should lead the flight calendar, always." },
+    { q: "Can I use an unpaid booking for my visa application?", a: "A genuine reservation an agency issues without issuing the ticket, verifiable on the airline's system for a day or two. It satisfies visa checklists that demand bookings while keeping your money unspent." },
+  ],
 };

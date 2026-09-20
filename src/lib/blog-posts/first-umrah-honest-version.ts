@@ -79,4 +79,10 @@ export const firstUmrahHonestVersion: BlogPostSeed = {
       text: "Some pilgrims weep. Some go silent. Both are praying.",
     },
   ],
+  faqs: [
+    { q: "What does a first Umrah honestly feel like?", a: "Exhausting, emotional, and nothing like the edited videos. You will lose your group once, cry at unexpected moments, and feel plainly tired by day three. That is the real pilgrimage; the calm arrives afterward, and it stays." },
+    { q: "How do I avoid feeling rushed on my first Umrah?", a: "Book ten nights minimum, keep two free days with nothing planned, do your first Tawaf at night when the pace slows, and refuse every optional add-on for the first three days. Recovery is part of the worship." },
+    { q: "Can I extend my stay in Saudi Arabia after Umrah?", a: "The eVisa makes extensions painless within its validity. Umrah visas are stricter, tied to package dates, so build extra days into the original booking instead." },
+    { q: "Is Umrah difficult for someone who is not very fit?", a: "Less than feared. The pace is yours to set, wheelchairs are available, and the Haram's upper floors let you complete every ritual at a gentle stroll." },
+  ],
 };

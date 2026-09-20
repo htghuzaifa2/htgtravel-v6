@@ -56,4 +56,10 @@ export const umrahMuharramSafarOffPeakSpiritualBenefits2026: BlogPostSeed = {
       text: "The smartest calendars start with Muharram in Makkah. Ask us for the quiet season.",
     },
   ],
+  faqs: [
+    { q: "Why do people choose Muharram and Safar for Umrah?", a: "For the calm: hotel rates at their annual low, a Mataf walkable at ease, with longer, calmer time facing the Kaaba per visit. Scholars also note that worship in quiet months carries its own sincerity, away from seasonal crowd energy." },
+    { q: "When do Muharram and Safar fall in 2026?", a: "The Islamic new year is expected around mid-June 2026, placing Muharram roughly from mid-June into July and Safar through early August, both inside the low-rate summer window. Expect gentle prices but real daytime heat, so schedule rituals for nights." },
+    { q: "What is the going rate for Umrah packages from Pakistan?", a: "Economy starts near PKR 185,000 per person in a shared triple, and everything above that is a choice: closer hotels, direct flights, private rooms. Season swings the same package by tens of thousands of rupees." },
+    { q: "Which months are cheapest for Umrah?", a: "After Eid ul Fitr, prices sag through Shawwal and stay soft through Muharram and Safar. If your dates are flexible, those months buy closer hotels for the same budget." },
+  ],
 };

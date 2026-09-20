@@ -55,4 +55,10 @@ export const pakistanToJeddahFlightGuide: BlogPostSeed = {
       text: "Flights are a quarter of the Umrah plan. We handle all four quarters. Ask how.",
     },
   ],
+  faqs: [
+    { q: "Which airlines fly direct from Pakistan to Jeddah?", a: "PIA and Saudia fly direct from Karachi, Lahore, and Islamabad to Jeddah, roughly five hours in the air. Umrah seasons add heavy supplementary frequencies that still sell out." },
+    { q: "When are Jeddah flights most expensive from Pakistan?", a: "Ramadan, the December break, and the Hajj period, when pilgrim demand absorbs every seat. Off-peak months like Muharram and Safar carry the year's gentlest fares on this route." },
+    { q: "Do Pakistani airlines have sales?", a: "Sales appear in low season and get announced, not leaked. Fare alerts catch them so you do not have to check daily." },
+    { q: "What happens if I miss my connecting flight?", a: "Through-ticketed passengers get rebooked and often fed; self-connected passengers get sympathy. Buy the itinerary the way you want the problem handled." },
+  ],
 };

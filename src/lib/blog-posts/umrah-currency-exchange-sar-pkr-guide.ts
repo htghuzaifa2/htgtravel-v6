@@ -56,4 +56,10 @@ export const umrahCurrencyExchangeSarPkrGuide: BlogPostSeed = {
       text: "Honest money planning is part of the service. Ask us for a real breakdown in rupees.",
     },
   ],
+  faqs: [
+    { q: "Should I exchange PKR to SAR in Pakistan or in Saudi Arabia?", a: "Change a small amount in Pakistan for arrival day, then compare rates: Saudi exchange houses near the Harams usually beat Pakistani bank rates slightly. Cards work widely, but keep riyal cash for street food, wheelchair attendants, and ziyarat tips." },
+    { q: "How much cash should I carry for a 14-day Umrah?", a: "Beyond the package, SAR 1,000 to 1,500 per person covers food gaps, ziyarat, laundry, Zamzam wrapping, and small gifts. Families with children or medical needs should double that; cards handle the rest at mall ATMs." },
+    { q: "What is the Nusuk app used for by pilgrims?", a: "Treat it as standard equipment. Outside Ramadan you may barely open it; during Ramadan it decides when you perform Umrah, so register early." },
+    { q: "What does halq or taqsir mean after Umrah?", a: "It is the closing act: men shave fully or trim every strand, women snip a fingertip's length, and ihram ends the moment it is done. Barbers around both Harams handle it for a few riyals." },
+  ],
 };

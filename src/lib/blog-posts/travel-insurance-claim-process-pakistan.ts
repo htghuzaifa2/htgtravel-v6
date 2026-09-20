@@ -56,4 +56,10 @@ export const travelInsuranceClaimProcessPakistan: BlogPostSeed = {
       text: "Policies from our desk come with claim support included. That is what 'service' means to us.",
     },
   ],
+  faqs: [
+    { q: "How do I file a travel insurance claim from Pakistan?", a: "Notify the insurer within the stated window, usually 24 to 48 hours of the incident, then submit the evidence: police or hospital reports, receipts, boarding passes, and the completed form. Reimbursement follows in weeks, not days." },
+    { q: "Why do insurance claims from Pakistan get rejected?", a: "Late notification, missing documentation, and events outside the policy's covered reasons. Keep every scrap of paper from day one and read the exclusions before you travel, not after the incident." },
+    { q: "Is travel insurance worth it for short trips?", a: "Cost-wise, yes: the daily rate barely notices a short trip, while one emergency does not care how brief the journey was." },
+    { q: "What is not covered by travel insurance?", a: "The standard exclusions: undeclared pre-existing conditions, alcohol-related incidents, adventure sports without a rider, and losses you failed to report properly. The list is the contract's fine print made honest." },
+  ],
 };

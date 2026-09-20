@@ -56,4 +56,10 @@ export const hotelBookingGuidePakistan: BlogPostSeed = {
       text: "The rooms the internet misses. Our desk books them daily. Ask.",
     },
   ],
+  faqs: [
+    { q: "When should I book hotels for an international trip?", a: "Refundable rooms at booking time, tightened to cheaper non-refundable rates once the visa lands. That sequence keeps flexibility where the risk is and savings where it is not." },
+    { q: "Which hotel booking mistakes cost Pakistanis most?", a: "Paying non-refundable rates before the visa, ignoring the location map for the price, and trusting photos over distance measurements. The walk from the hotel to what you came for is the real cost." },
+    { q: "How do I keep my documents and money safe abroad?", a: "Originals on your body, copies distributed, digital backups in the cloud, and payment sources split between bags. Redundancy is the whole strategy." },
+    { q: "What does HTG Travels actually do for travellers?", a: "One desk handles the whole chain: the visa file, the flights, the hotels that match the plan, and a WhatsApp line that answers while you travel. You bring the dates; the desk brings the execution." },
+  ],
 };

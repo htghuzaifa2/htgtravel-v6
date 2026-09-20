@@ -79,4 +79,10 @@ export const groupToursVsSoloBooking: BlogPostSeed = {
       text: "Cheap is not the lowest sticker. It is the best trip per rupee.",
     },
   ],
+  faqs: [
+    { q: "Should I take a group tour or book everything myself?", a: "Group tours win on visa files, fixed costs, and built-in company; solo booking wins on pace and choice. First international trip or a tricky visa leans group; confident travellers with time book themselves." },
+    { q: "Are group tours actually cheaper?", a: "Usually, because operators buy rooms and seats in bulk. Solo booking beats them when you travel off-peak, sleep in guesthouses, and skip the add-ons." },
+    { q: "How far ahead should I book an international trip from Pakistan?", a: "Three to four months for peak-season travel, six to eight weeks for ordinary dates. Flights from Karachi move first, and the best hotel tiers follow within weeks." },
+    { q: "Do I need a package or can I plan this alone?", a: "Compare the real totals: packages include transfers and guidance you might skip, while solo bookings expose you to every mistake's full price. First trips abroad lean packaged." },
+  ],
 };

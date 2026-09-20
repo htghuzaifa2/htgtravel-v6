@@ -57,4 +57,10 @@ export const umrahHaramainTrainGuide: BlogPostSeed = {
       text: "Two hours between the two holiest cities on earth. Let us book you aboard.",
     },
   ],
+  faqs: [
+    { q: "How does the Haramain high-speed train work for pilgrims?", a: "It links Makkah, Jeddah airport, Jeddah city, King Abdullah Economic City, and Madinah in under two hours end to end, a major upgrade on the four-to-six-hour road trip. Tickets open roughly two weeks to a month ahead and sell out around Fridays and Ramadan." },
+    { q: "Is the Haramain train worth it over the bus?", a: "For families, elderly travellers, and anyone landing in Jeddah, yes: security is quicker, luggage space is generous, and the Madinah station sits a short taxi ride from the Haram area. Budget solo travellers still save real money on the buses." },
+    { q: "How much does food cost around the Harams?", a: "The local economics favour you: honest meals near the Harams cost a fraction of Western city prices, and dates plus tea cost almost nothing between prayers." },
+    { q: "Is the Nusuk app required for Umrah trips?", a: "Install it regardless of your visa type. It handles Ramadan Umrah permit slots, prayer-space bookings, and useful Haram crowd information, all in English." },
+  ],
 };

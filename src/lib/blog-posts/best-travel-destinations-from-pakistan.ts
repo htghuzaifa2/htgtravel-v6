@@ -58,4 +58,10 @@ export const bestTravelDestinationsFromPakistan: BlogPostSeed = {
       text: "Budget plus dates plus documents equals destination. Our desk does the math. Daily.",
     },
   ],
+  faqs: [
+    { q: "What are the most rewarding trips from Pakistan right now?", a: "The Maldives for ease, Turkey and Thailand for value, the Central Asian republics for novelty, and northern Pakistan for scenery no visa can gate. Reward follows planning, not distance." },
+    { q: "How do I choose my next destination?", a: "Score three things honestly: visa effort, total budget, and the days you actually have free. The right destination falls out of those three answers every time." },
+    { q: "How much money do I need before travelling abroad?", a: "A workable floor covers flights, stay, and daily costs for the full duration with a 15 percent cushion. Under-saving converts every decision into stress." },
+    { q: "Do I need a local SIM card when travelling abroad?", a: "Beyond a weekend, yes. Data abroad powers maps, ride-hailing, and the family check-in, and visitor SIMs cost a fraction of one roaming bill." },
+  ],
 };

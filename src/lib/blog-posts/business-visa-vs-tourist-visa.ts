@@ -56,4 +56,10 @@ export const businessVisaVsTouristVisa: BlogPostSeed = {
       text: "Tell us the real purpose of your trip and we will match it to the right visa category. It is the single cheapest way to protect your approval odds.",
     },
   ],
+  faqs: [
+    { q: "What happens if I travel on a tourist visa for business work?", a: "It risks refusal at the border, deportation, and bans, because paid activity on a visitor document is treated as visa misuse. Meetings and site visits need a business visa; a conference visit sometimes fits either category, but the invitation letter must match the visa type you hold." },
+    { q: "Which is easier for a Pakistani applicant, business or tourist?", a: "Neither is easier by default; each is judged on its own file. Business applications lean on the inviting company's letter and your business registration, while tourist applications lean on personal funds and return ties. Mismatched purpose, not category, is what gets files refused." },
+    { q: "Can I get a visa without any travel history?", a: "A fresh passport wins approvals daily when the ties are real. Start regionally, return on schedule, and the history builds itself." },
+    { q: "Do children need their own visa application?", a: "Separate applications per child, including birth certificates and a consent letter from a parent staying behind. Family files are submitted together but assessed per person." },
+  ],
 };

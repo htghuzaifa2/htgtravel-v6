@@ -56,4 +56,10 @@ export const usaTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The interview decides; the preparation decides the interview. Our desk prepares. Ask.",
     },
   ],
+  faqs: [
+    { q: "Which months suit a the USA trip best?", a: "It depends entirely on the region: New York shines May to October, Florida is best November to April, and the national parks peak June to August." },
+    { q: "What is the visa situation for the USA?", a: "The B1/B2 with its interview is the door, MRV fee near USD 185, and approval centred on your ties back home. Wait times vary, so start early." },
+    { q: "What daily budget should I plan for the USA?", a: "The USA is the premium trip: PKR 45,000 to 70,000 a day mid-range, with cities varying wildly. New York and San Francisco anchor the high end." },
+    { q: "What is a realistic duration for the USA?", a: "Ten to fourteen days justifies the flight and visa effort, covering two regions honestly. A single-region week works only when flights price kindly." },
+  ],
 };

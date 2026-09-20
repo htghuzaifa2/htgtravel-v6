@@ -56,4 +56,10 @@ export const studentVisaGuidePakistan: BlogPostSeed = {
       text: "Thousands of Pakistani students fly every year with carefully built files. We build them daily.",
     },
   ],
+  faqs: [
+    { q: "What is the general student visa process from Pakistan?", a: "Secure admission first, then fund proof, then the visa file: university admission or CAS letter, financial documents meeting the country's format, academic transcripts, and language results. Countries differ on interviews and timelines, so plan twelve months ahead overall." },
+    { q: "How much bank balance do Pakistani students need to show?", a: "Each country fixes its own formula: first-year costs plus a stated living allowance, held in an acceptable account form for a set number of days. The money's paper trail matters as much as the amount, so keep funds settled well before filing." },
+    { q: "Can a travel agent guarantee my visa?", a: "The only guarantee available is procedural: right documents, right centre, right dates. Any promise about the decision itself should end the conversation." },
+    { q: "Should I mention relatives living abroad in my visa application?", a: "Honesty wins because misrepresentation is remembered longer than refusals. A family visit is a legitimate purpose when the rest of the file supports your return." },
+  ],
 };

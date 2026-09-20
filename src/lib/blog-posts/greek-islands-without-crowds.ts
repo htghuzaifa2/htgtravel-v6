@@ -75,4 +75,10 @@ export const greekIslandsWithoutCrowds: BlogPostSeed = {
       text: "The postcard version of Greece is real. It just moved.",
     },
   ],
+  faqs: [
+    { q: "Which Greek islands avoid the cruise crowds?", a: "Skip Santorini and Mykonos in peak weeks and choose Naxos, Milos, or Folegandros: the same water, the same light, and a fraction of the crowds." },
+    { q: "How do Pakistanis plan a quieter Greek trip?", a: "The Schengen file centres on Greece with a ferry-based island itinerary, and shoulder-season dates, June or September, halve both crowds and hotel rates." },
+    { q: "Is combining two countries in one trip worth it?", a: "Yes when they share a region: Turkey and Georgia, the UAE and Azerbaijan, Thailand and Malaysia. One visa file, fewer long flights, and the second stop costs a fraction of a standalone trip." },
+    { q: "Do I need travel insurance outside the Schengen area?", a: "Beyond Schengen no border checks it, but no sensible traveller skips it. One ambulance ride prices a lifetime of premiums." },
+  ],
 };

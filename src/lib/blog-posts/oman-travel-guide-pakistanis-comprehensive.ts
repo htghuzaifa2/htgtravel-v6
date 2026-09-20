@@ -56,4 +56,10 @@ export const omanTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "Arabia before the towers. Routed correctly for your passport. Ask us.",
     },
   ],
+  faqs: [
+    { q: "Which months suit a Oman trip best?", a: "October to March carries comfortable weather for Muscat, the wadis, and Nizwa; Jebel Akhdar stays cool even through summer. Avoid the lowland interior in deep summer." },
+    { q: "What is the visa situation for Oman?", a: "Oman's eVisa eligibility for Pakistanis can depend on other visas and residencies held, so verification comes before booking. Where eligibility clears, approval lands within a few working days." },
+    { q: "What daily budget should I plan for Oman?", a: "Muscat runs roughly PKR 20,000 to 30,000 a day mid-range, with car hire practically mandatory outside the capital and wadi picnics the free entertainment." },
+    { q: "What is a realistic duration for Oman?", a: "Four to five days covers Muscat, one wadi, and Nizwa's fort circuit. Jebel Akhdar or Salalah each add their own leg and season." },
+  ],
 };

@@ -57,4 +57,10 @@ export const schengenVisaInterviewTipsPakistan: BlogPostSeed = {
       text: "We rehearse these exact questions with applicants every week, and we hear the pass rates that follow.",
     },
   ],
+  faqs: [
+    { q: "Is there an interview for the Schengen visa in Pakistan?", a: "Most Pakistani applicants never face a formal interview; the file speaks at the VFS or TLS counter. Some applicants receive a call from the consulate, so keep your phone reachable and your answers consistent with the paperwork." },
+    { q: "What questions do consulate calls usually ask?", a: "Purpose and route, who pays for the trip, your job details, and where you booked hotels. Every answer must match the file already submitted; hesitation on your own itinerary is the fastest red flag." },
+    { q: "Can I visit other Schengen countries on one visa?", a: "A single grant opens every Schengen border within its dates. The main-destination rule governs where you apply, never where you may travel afterward." },
+    { q: "How much bank balance is needed for a Schengen visa from Pakistan?", a: "The working benchmark is trip cost plus buffer, evidenced through six months of statements with a salary or business income trail. Match the statement to your stated lifestyle and the itinerary's real costs." },
+  ],
 };

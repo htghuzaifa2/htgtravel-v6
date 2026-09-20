@@ -54,4 +54,10 @@ export const muslimFriendlyTravelDestinationsFromPakistan: BlogPostSeed = {
       text: "Halal-conscious planning, native fluency. Our desk's everyday standard. Ask.",
     },
   ],
+  faqs: [
+    { q: "Which destinations are easiest for Muslim travellers from Pakistan?", a: "Malaysia, Turkey, the UAE, and the Gulf states run on prayer rooms and halal defaults. Beyond the Muslim world, Japan and Singapore handle halal dining and prayer spaces with quiet competence." },
+    { q: "How do I check a destination's halal reality before booking?", a: "Count prayer rooms at your transit airports, check halal restaurant density on a map, and read recent traveller reports rather than guidebooks. The picture changes fast." },
+    { q: "What should I do when a flight gets cancelled overseas?", a: "Get the rebooking in writing, claim the care allowance, and let insurance handle the overflow. Documented travellers get compensated; angry ones get escorted." },
+    { q: "How early should I plan an international trip from Pakistan?", a: "Six weeks covers most trips, doubled for Eid, summer, and December. The booking window matters far more than the booking day of the week." },
+  ],
 };

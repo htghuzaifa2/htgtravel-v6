@@ -56,4 +56,10 @@ export const dubaiTransitVisaGuidePakistan: BlogPostSeed = {
       text: "Stopovers are the most underused free upgrade in travel. We build them into fares every day. Ask us to check your next routing.",
     },
   ],
+  faqs: [
+    { q: "What is the 96-hour Dubai transit visa?", a: "A short-stay visa for travellers with a confirmed onward ticket to a third country, letting you leave the airport during a long connection. For Pakistanis it is arranged through the airline you fly, with Emirates and flydubai running the sponsorship routinely." },
+    { q: "How do I apply for the UAE transit visa?", a: "Request it at booking or through your airline's visa desk, providing passport details and the onward confirmed ticket. Approval usually takes three to five working days, so apply as soon as the connection is ticketed, not the week of travel." },
+    { q: "What happens if my visa application is refused?", a: "You receive a refusal letter naming the ground, and the fee stays with the consulate. The next move is either an appeal, where the process allows it, or a corrected reapplication, which usually moves faster." },
+    { q: "Can I get a visa without any travel history?", a: "Travel history helps but is never a requirement. Officers weigh current circumstances; a solid job and honest itinerary carry first-time files routinely." },
+  ],
 };

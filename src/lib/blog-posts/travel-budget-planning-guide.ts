@@ -55,4 +55,10 @@ export const travelBudgetPlanningGuide: BlogPostSeed = {
       text: "Four blocks, one buffer, zero surprises, that is how our quotes are built. Ask for one.",
     },
   ],
+  faqs: [
+    { q: "How do I budget an international trip honestly?", a: "Price the visa and flights first, then accommodations by real nightly rates, then a daily allowance for food and moving around, then a ten percent buffer for the unplanned." },
+    { q: "What do Pakistani travellers usually forget in budgets?", a: "Visa service fees, airport transfers, travel insurance, and the homeward shopping run. The buffer exists precisely for these." },
+    { q: "Any advice for a first international trip from Pakistan?", a: "Keep documents triplicated: originals on you, copies in each bag, photos on the phone. Then trust the process: millions travel their first trip without drama yearly." },
+    { q: "Do I reserve hotels in advance or on arrival?", a: "Book the first two nights before flying, then decide: unfamiliar cities reward a settled arrival, while well-known destinations allow walking-in flexibility. Peak season removes the choice entirely." },
+  ],
 };

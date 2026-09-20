@@ -55,4 +55,10 @@ export const europeBudgetTravel10DayItinerary: BlogPostSeed = {
       text: "Europe within your ceiling. The file our desk builds weekly. Bring the number.",
     },
   ],
+  faqs: [
+    { q: "Can Pakistanis see Europe on a 10-day budget itinerary?", a: "Yes, with structure: one Schengen visa, two or three neighbouring countries, and rail between cities. The visa file needs the day-wise plan, so build the itinerary first and the file second." },
+    { q: "Which European route suits first-timers from Pakistan?", a: "A Paris-Brussels-Amsterdam or a Prague-Vienna-Budapest arc: compact, rail-linked, and gentler on daily budgets than the headline capitals." },
+    { q: "What should my savings be before an overseas trip?", a: "Beyond the ticketed costs, hold a buffer equal to a quarter of your trip budget. Emergencies abroad price themselves in dollars, and card limits have a way of failing at the worst counter." },
+    { q: "Should I buy a local SIM abroad or roam from Pakistan?", a: "Get one at arrival or an eSIM before departure. The first hours in a new country run on maps and booking confirmations, and wifi is not guaranteed when you land." },
+  ],
 };

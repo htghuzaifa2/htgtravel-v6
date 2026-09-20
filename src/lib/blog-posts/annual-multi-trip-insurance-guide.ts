@@ -55,4 +55,10 @@ export const annualMultiTripInsuranceGuide: BlogPostSeed = {
       text: "Third trip is the tipping point. We will show you yours on paper.",
     },
   ],
+  faqs: [
+    { q: "When is annual multi-trip insurance worth it?", a: "From about three international trips a year, the annual policy beats buying single-cover each time. Check the per-trip duration cap, usually 30 to 45 days, if any single journey runs long." },
+    { q: "Does an annual policy cover different countries all year?", a: "Yes, across the stated zones for every trip you take inside the year, which is exactly why frequent travellers keep one. Read the zone list before assuming your next destination is inside it." },
+    { q: "How do I claim on travel insurance from Pakistan?", a: "The sequence is incident report, insurer notification, evidence file, and patience through processing. Keep copies of everything you send." },
+    { q: "Can I buy travel insurance after booking flights?", a: "Yes, coverage simply starts from the policy's start date, though cancellation benefits work best when bought soon after the first prepayment. Waiting only narrows what the policy can still protect." },
+  ],
 };

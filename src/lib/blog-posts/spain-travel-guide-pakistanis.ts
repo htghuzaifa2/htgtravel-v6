@@ -56,4 +56,10 @@ export const spainTravelGuidePakistanis: BlogPostSeed = {
       text: "Europe's Muslim heartbeat. Visit it with the file built right. Ask us.",
     },
   ],
+  faqs: [
+    { q: "What is the ideal season for Spain?", a: "April to May and October deliver Spanish warmth without the August crush that empties Madrid and packs the beaches; June suits the north coast perfectly." },
+    { q: "How do Pakistanis handle the visa for Spain?", a: "Schengen filed through BLS with a Spain-centred itinerary when Spain leads the trip by nights. The appointment window matters more than the file itself, so book early." },
+    { q: "Is Spain expensive for Pakistani travellers?", a: "Spain runs PKR 30,000 to 40,000 a day mid-range, with Andalusia kinder than Barcelona. Tapas standing at the bar costs half of sitting down." },
+    { q: "Can I cover Spain properly in a week?", a: "Seven to nine days pairs two cities with one coast properly; Spain's late dinners reward travellers who stop rushing before sunset anyway." },
+  ],
 };

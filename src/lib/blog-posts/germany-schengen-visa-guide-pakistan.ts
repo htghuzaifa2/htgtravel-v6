@@ -57,4 +57,10 @@ export const germanySchengenVisaGuidePakistan: BlogPostSeed = {
       text: "Precision is not pressure when someone else handles it. Ask our desk about German applications.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis apply for a Germany Schengen visa?", a: "Through the German embassy appointment system in Pakistan, with biometrics and the full document file carried in person. Appointment availability is the real bottleneck, so treat the slot itself as the deadline driver, not the processing time." },
+    { q: "What does Germany scrutinise most in Pakistani files?", a: "Internal consistency. Germany's officers cross-check the itinerary against bookings, the bank statement against salary slips, and the purpose against your profile. One contradiction anywhere weakens the whole file." },
+    { q: "What is the 90/180 rule in the Schengen area?", a: "You may stay at most 90 days inside any rolling 180-day window, counting across all Schengen countries together. Overstays earn entry bans that outlast any holiday memory." },
+    { q: "What are the most common Schengen refusal reasons for Pakistanis?", a: "Insufficient means of subsistence leads the list, followed by unreliable itinerary information and doubtful return intentions. These are file-quality problems, not passport problems." },
+  ],
 };

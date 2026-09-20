@@ -55,4 +55,10 @@ export const hajj2026RegistrationPakistan: BlogPostSeed = {
       text: "Windows open and close without mercy. Our ready list hears the moment they move. Join it.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis register for Hajj 2026?", a: "Two doors: the government scheme through the Ministry of Religious Affairs, with its announced registration window and draw or first-come payment, or licensed private Hajj group organisers. Overseas Pakistanis can alternatively use the Nusuk international track." },
+    { q: "What does government Hajj cost from Pakistan?", a: "Recent years have run roughly PKR 10.5 to 11 lakh for the economy package from Karachi or Lahore, varying with the riyal and the season's directives. Private schemes price higher for closer tents and shorter transfers." },
+    { q: "How physically demanding is Hajj?", a: "It is the physically hardest act of worship most Muslims ever perform. Train with daily walking, break in your sandals, and choose a scheme that minimises tent-to-Haram distance." },
+    { q: "What is the difference between government and private Hajj schemes?", a: "Government schemes fix a standard package through the Ministry of Religious Affairs at a capped price, while licensed private organisers sell tiers by hotel and tent distance. Both carry the same legal Hajj; comfort and cost differ." },
+  ],
 };

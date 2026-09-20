@@ -89,4 +89,10 @@ export const karakoramHighwayRoadTrip: BlogPostSeed = {
       text: "Silence at 4,700 metres is its own language.",
     },
   ],
+  faqs: [
+    { q: "How many days does the Karakoram Highway need?", a: "Ten to fourteen days from Islamabad to the Khunjerab Pass and back, done honestly. Faster itineraries exist; they just spend their days driving instead of looking." },
+    { q: "What is the best season for a KKH road trip?", a: "May to October carries the passes and the valley weather; Hunza's spring blossom runs March to April and autumn gold arrives late October into November." },
+    { q: "How reliable is mobile coverage in the mountains?", a: "Main towns and the Karakoram Highway corridor carry solid mobile data, but side valleys lose signal for hours at a stretch. Download offline maps, share your route with family, and treat the quiet as part of the trip." },
+    { q: "Are northern Pakistan roads safe for families?", a: "The main highways are in good condition with visible policing on the northern routes. Travel by day, use licensed transport, and keep flexibility for weather closures, and families travel comfortably." },
+  ],
 };

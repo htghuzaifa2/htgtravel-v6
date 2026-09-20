@@ -57,4 +57,10 @@ export const japanTouristVisaPakistan: BlogPostSeed = {
       text: "Japan files are detail-heavy, which is exactly the kind of work our desk was built for. Bring us your dream itinerary.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis apply for a Japan tourist visa?", a: "Through the Japanese embassy process in Islamabad, usually assisted by an accredited travel agent: the file needs the application form, photographs, a full day-wise itinerary, hotel and flight bookings, bank statements, and an NOC from your employer." },
+    { q: "What is realistic processing time for a Japan visa from Pakistan?", a: "Once the file is complete, expect around one to two weeks, longer around Japanese holidays. The itinerary quality matters: a sensible, booked, day-wise plan reads as a genuine tourist file and moves faster." },
+    { q: "Do embassies check Pakistani job letters?", a: "Officers spot-check employment letters by phone or registry lookup. A genuine letter with a warned HR desk passes a fake one never will." },
+    { q: "How soon after a refusal can I apply again?", a: "You may reapply right away. What decides the outcome is whether the new file answers the old letter, and that repair work takes honest weeks." },
+  ],
 };

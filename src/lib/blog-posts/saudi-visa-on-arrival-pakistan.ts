@@ -55,4 +55,10 @@ export const saudiVisaOnArrivalPakistan: BlogPostSeed = {
       text: "A five-minute check with us beats a five-hour standoff at the arrivals counter. Send your documents before you fly.",
     },
   ],
+  faqs: [
+    { q: "Is Saudi visa on arrival available to Pakistanis?", a: "Not for ordinary Pakistani passports. Arrival visas serve holders of valid US, UK, or Schengen visas and certain GCC residents; Pakistanis must arrange the tourist eVisa or an Umrah visa before departure." },
+    { q: "I hold a valid US visa. Does that open Saudi arrival entry for me?", a: "It can, if the US visa meets the arrival scheme's conditions and your passport and eligibility match the current rules. Verify the latest eligibility on the official Saudi portals before relying on it, since these lists change." },
+    { q: "Do children need their own visa application?", a: "Children carry their own visas. The supporting pack adds birth certificate copies and the non-travelling parent's signed consent, which border officers may also check." },
+    { q: "Does a valid US, UK, or Schengen visa help Pakistani travellers?", a: "Yes, in two ways: credibility with every subsequent consulate and literal access to routes that key off those visas, Turkey being the clearest example." },
+  ],
 };

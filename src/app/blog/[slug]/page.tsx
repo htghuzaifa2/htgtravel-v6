@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { BLOG_POSTS } from "@/lib/blog-data";
-import { ArrowLeft, MessageCircle } from "lucide-react";
+import { ArrowLeft, ChevronDown, MessageCircle } from "lucide-react";
 import { SITE } from "@/lib/constants";
 import { buildWhatsAppLink } from "@/lib/whatsapp";
 
@@ -112,6 +112,20 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     ],
   };
 
+  // FAQPage JSON-LD — mirrors the visible FAQ block so engines can index the Q&A pairs.
+  const faqSchema =
+    post.faqs && post.faqs.length
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: post.faqs.map((f) => ({
+            "@type": "Question",
+            name: f.q,
+            acceptedAnswer: { "@type": "Answer", text: f.a },
+          })),
+        }
+      : null;
+
   return (
     <>
       <script
@@ -122,6 +136,12 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
 
       {/* Hero */}
       <section className="pattern-navy relative overflow-hidden">
@@ -216,6 +236,31 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               return null;
             })}
           </div>
+
+          {/* Per-post FAQ — unique, accurate Q&A pairs; visible content plus FAQPage schema */}
+          {post.faqs && post.faqs.length > 0 && (
+            <section className="mt-12 pt-8 border-t border-border">
+              <h2 className="font-heading text-2xl font-bold text-foreground mb-6">
+                Frequently Asked Questions
+              </h2>
+              <div className="space-y-3">
+                {post.faqs.map((faq, i) => (
+                  <details
+                    key={i}
+                    className="group rounded-xl border border-border/70 bg-card open:border-teal/40 open:shadow-sm transition-colors"
+                  >
+                    <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-5 py-4 text-base font-semibold text-foreground [&::-webkit-details-marker]:hidden">
+                      <span className="leading-snug">{faq.q}</span>
+                      <ChevronDown className="h-4 w-4 flex-shrink-0 text-teal transition-transform duration-200 group-open:rotate-180" />
+                    </summary>
+                    <div className="px-5 pb-5 text-sm md:text-base text-muted-foreground leading-relaxed">
+                      {faq.a}
+                    </div>
+                  </details>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* Unique per-post business promo — every guide gets its own offer and WhatsApp entry point */}
           <div className="mt-12 pt-8 border-t border-border">

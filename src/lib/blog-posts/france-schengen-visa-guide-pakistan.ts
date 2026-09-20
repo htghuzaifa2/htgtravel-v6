@@ -57,4 +57,10 @@ export const franceSchengenVisaGuidePakistan: BlogPostSeed = {
       text: "Paris rewards the early and the prepared. Be both, with our desk behind you.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis apply for a France Schengen visa?", a: "France handles Pakistani applications through TLScontact: complete the online form, book the TLS appointment, and submit the file in person with biometrics. France requires the file to match its checklist precisely, so assemble it exactly." },
+    { q: "How long does the France visa decision take?", a: "Standard processing runs around 15 days from submission, stretching toward the legal maximum in busy months. Apply four to six weeks before travel, and never ticket non-refundable flights before the passport is back." },
+    { q: "How much does a Schengen visa cost from Pakistan?", a: "Adults pay EUR 90, and the VFS or TLS service fee adds a few thousand rupees per applicant. The fee is charged at filing and not refunded on refusal." },
+    { q: "Should I book flights and hotels before the Schengen decision?", a: "The file needs bookings, not payments: hotel confirmations that cancel freely and a held itinerary work. Only ticket firmly once the visa is in the passport." },
+  ],
 };

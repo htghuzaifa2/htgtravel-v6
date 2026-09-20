@@ -56,4 +56,10 @@ export const umrahHotelCancellationPolicyGuide: BlogPostSeed = {
       text: "Clear exit terms are a sign of a clear-hearted agency. Ours are printed. Ask to see.",
     },
   ],
+  faqs: [
+    { q: "How do hotel cancellations work for Umrah bookings?", a: "Policies harden with the season: off-peak Makkah hotels often refund until two weeks out, while Ramadan and last-ten-night bookings run strictly non-refundable or carry heavy penalties. Read the schedule before paying, and choose refundable rates when dates are unsure." },
+    { q: "What if my visa is refused after I have paid the hotel?", a: "Good operators sequence payment after visa approval. If you booked directly, ask for a date shift rather than a refund, which hotels grant far more easily, and claim the balance through travel insurance where the policy covers visa refusal." },
+    { q: "Which months are cheapest for Umrah?", a: "Muharram, Safar, and the summer heat bring the year's lowest rates, often 30 to 50 percent under Ramadan prices. The December school break sits surprisingly high, just behind the Ramadan peak." },
+    { q: "Do women need a mahram for Umrah now?", a: "In current practice, women travel for Umrah with organised groups, no mahram attached, and thousands of Pakistani women do so yearly through licensed female-group operators." },
+  ],
 };

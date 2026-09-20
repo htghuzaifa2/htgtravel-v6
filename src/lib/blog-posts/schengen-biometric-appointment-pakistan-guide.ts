@@ -56,4 +56,10 @@ export const schengenBiometricAppointmentPakistanGuide: BlogPostSeed = {
       text: "Twenty minutes inside the centre. After weeks of watching for the slot. Let us do the watching.",
     },
   ],
+  faqs: [
+    { q: "What happens at the Schengen biometric appointment?", a: "Fingerprints, photograph, and document verification at the visa application centre, taking 15 to 20 minutes if the file is complete. Arrive with the printed checklist items or the counter sends you away to return another day." },
+    { q: "How long are Schengen biometrics valid?", a: "Fingerprints taken at any Schengen visa application stay valid for 59 months, so repeat applicants often skip biometrics entirely. The exemption is automatic in the system; just mention your prior visa when filing." },
+    { q: "How early can I apply for a Schengen visa?", a: "Applications open up to six months before travel, and the practical sweet spot is four to six weeks out. Earlier filing buys appeal or reapplication margin if anything goes sideways." },
+    { q: "Can I visit other Schengen countries on one visa?", a: "All member states, one visa, subject to the 90-day rolling cap. Border crossings inside the zone are routine, but keep the visa printout and bookings handy anyway." },
+  ],
 };

@@ -55,4 +55,10 @@ export const pakistanToJapanFlightGuide: BlogPostSeed = {
       text: "The long route, planned right, lands gently. Our desk plans it. Ask.",
     },
   ],
+  faqs: [
+    { q: "Are there direct flights from Pakistan to Japan?", a: "No nonstop operates the route, so every journey connects: through the Gulf with Emirates and Qatar, or eastward through Bangkok, Kuala Lumpur, or China. Total travel time runs 13 to 20 hours." },
+    { q: "How much does a Pakistan to Japan return ticket cost?", a: "Return economy typically starts near PKR 180,000 and climbs with season, routing, and how far ahead you book. Cheaper connections trade hours for rupees." },
+    { q: "How much baggage do international flights allow?", a: "The long-haul standard is two checked pieces of 23 kilograms each plus cabin allowance, with US-route allowances sometimes measured by weight instead. Low-cost connectors sell baggage separately and punish assumptions." },
+    { q: "What is a fare class and why does it matter?", a: "Fare classes slice the same economy cabin into rule tiers. The cheapest tier is honest about only one thing: the price, and never the flexibility." },
+  ],
 };

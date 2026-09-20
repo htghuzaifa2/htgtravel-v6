@@ -58,4 +58,10 @@ export const spainSchengenVisaGuidePakistan: BlogPostSeed = {
       text: "Spain rewards travellers who sweat the details. We sweat them for a living.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis apply for a Spain Schengen visa?", a: "Spain's Pakistani applications run through its outsourcing partner BLS: complete the form, book the BLS slot, and submit the full file with biometrics. Appointment slots tighten before summer, so book the moment travel dates firm up." },
+    { q: "Is Spain a difficult Schengen country for Pakistani applicants?", a: "No harder than the average, provided the file is coherent: a Spain-centred itinerary, matching bookings, and clean funds. Spain refuses files that look borrowed or inflated, exactly like every other Schengen state." },
+    { q: "Should hotels be prepaid before the Schengen decision?", a: "Use refundable hotel rates and unpaid or cheaply refundable flight holds. The documents satisfy the checklist while keeping your money safe from a refusal." },
+    { q: "Do Pakistani applicants need an interview for a Schengen visa?", a: "The counter submission replaces the interview for most applicants. Consulate callbacks happen occasionally and are short, so answer from the file, not from improvisation." },
+  ],
 };

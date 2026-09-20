@@ -56,4 +56,10 @@ export const singaporeTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The expensive city, made achievable, that is our Singapore package. Ask for it.",
     },
   ],
+  faqs: [
+    { q: "What is the ideal season for Singapore?", a: "Any month works in equatorial Singapore; February to April runs marginally drier and sits between the big festival peaks, which keeps hotel rates slightly kinder." },
+    { q: "How do Pakistanis handle the visa for Singapore?", a: "The visa is filed through authorised agents with a local sponsor, with approvals usually arriving within three to five working days of submission. The document prints electronically for travel." },
+    { q: "Is Singapore expensive for Pakistani travellers?", a: "Singapore is the region's priciest stop: plan PKR 35,000 to 50,000 per person per day at mid-range comfort. Hawker centres and the MRT claw back serious money daily." },
+    { q: "Can I cover Singapore properly in a week?", a: "Three to four full days covers the core city comfortably: the marina precinct, Chinatown and Little India, Sentosa, and one museum morning. A fifth day adds the gardens." },
+  ],
 };

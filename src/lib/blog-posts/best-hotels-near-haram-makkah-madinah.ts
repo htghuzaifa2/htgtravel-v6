@@ -56,4 +56,10 @@ export const bestHotelsNearHaramMakkahMadinah: BlogPostSeed = {
       text: "Honest distances, real beds, fair rates. Hotel booking is half our job. Ask us what's available for your dates.",
     },
   ],
+  faqs: [
+    { q: "How close should my hotel be to the Haram?", a: "Within 500 metres, all five prayers come easy; 800 metres is manageable with rest stops, and beyond a kilometre means shuttle planning. In Ramadan closer is worth the money; in Muharram, farther hotels trade a few minutes for serious savings." },
+    { q: "Are the expensive hotels near the Haram worth it?", a: "For short trips, elderly travellers, or Ramadan, yes, since every prayer door becomes reachable between work and rest. Off-peak, mid-range hotels with shuttles deliver the same worship at half the rate, so spend the difference on a longer stay instead." },
+    { q: "How far in advance should I book Umrah?", a: "Book eight weeks ahead in low season and up to four months ahead for Ramadan. Late bookers still travel, but they pay more for hotels farther out." },
+    { q: "How should I carry money during Umrah?", a: "Carry SAR 1,000 to 1,500 in cash per person for a two-week trip beyond your package, plus a card. Saudi exchange houses near the Harams usually edge Pakistani bank rates." },
+  ],
 };

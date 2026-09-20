@@ -57,4 +57,10 @@ export const umrahWithElderlyParentsGuide: BlogPostSeed = {
       text: "Their comfort is the whole brief. We have planned parents' Umrahs for years. Bring us yours.",
     },
   ],
+  faqs: [
+    { q: "How do I manage Umrah with an elderly parent who cannot walk far?", a: "Book within 300 metres of the Haram, use the wheelchair lending counters inside the mosque, and split rituals across the day: Tawaf after Fajr when the Mataf is calm, Sa'i in the evening cool. The Haramain train also spares them the long road transfer between cities." },
+    { q: "Are wheelchairs available inside the Haram?", a: "Yes, lending counters near the gates provide free manual wheelchairs against an ID deposit, though attendants who push charge a fee you should fix beforehand. In Ramadan demand outpaces supply, so consider bringing your own foldable wheelchair for busy nights." },
+    { q: "Does Umrah travel need extra insurance cover?", a: "It is not strictly mandatory beyond the cover attached to the eVisa, yet it is cheap and sensible: a week of medical and baggage cover costs less than one hotel night." },
+    { q: "Can I do more than one Umrah on one trip?", a: "Second and third Umrahs are common in a two-week stay. The logistics are simple: ihram again, intention again, and the same rituals at whatever pace your knees allow." },
+  ],
 };

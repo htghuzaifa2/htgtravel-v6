@@ -55,4 +55,10 @@ export const umrahCostBreakdownPakistan: BlogPostSeed = {
       text: "Honest pricing is our whole reputation. Ask for a live quote. You will get the real breakdown, not a sales pitch.",
     },
   ],
+  faqs: [
+    { q: "What is a realistic Umrah budget from Pakistan in 2026?", a: "Economy 14-night packages from Karachi or Lahore start around PKR 185,000 per person in a shared triple. Mid-range with closer hotels runs near PKR 250,000 to 300,000, and deluxe walking-distance rooms pass PKR 400,000. Airline choice moves the total as much as hotel grade." },
+    { q: "Which costs do Umrah packages usually hide?", a: "Ziyarat tours, Zamzam wrapping, laundry, food outside the meal plan, and tips are the usual extras. Ask for the inclusion list in writing before paying, and treat any quote without hotel names and their distance in metres as unfinished." },
+    { q: "Is food expensive in Makkah and Madinah?", a: "Restaurants near the Harams keep a full plate well under SAR 30, and buffet spreads run reasonable set rates. What gets expensive is hotel-room dining and airport food." },
+    { q: "Do I need the Nusuk app during Umrah?", a: "It became the pilgrim's control panel: permits, prayer slots, and crowd updates in one app. Download and register before your flight so login issues never eat arrival day." },
+  ],
 };

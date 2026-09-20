@@ -56,4 +56,10 @@ export const jordanTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The rose-red city. Half as old as time, fully arranged by us. Ask how.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit Jordan from Pakistan?", a: "March to May and September to November deliver desert comfort for Petra's long walk and Wadi Rum's nights. Winter works but chills the desert after dark." },
+    { q: "Do Pakistanis need a visa for Jordan?", a: "The visa is arranged ahead through the embassy or operators, with professional handling easing what is otherwise a paper-heavy route. The Jordan Pass bundles entry and Petra neatly." },
+    { q: "How much does a Jordan trip cost from Pakistan?", a: "Jordan runs near PKR 25,000 to 35,000 a day mid-range, Petra's entry ticket included in the math. Wadi Rum camps span basic to brilliant across every price." },
+    { q: "How many days are enough for Jordan?", a: "Five to seven days covers Amman, Petra, Wadi Rum, and the Dead Sea with breathing room. Petra alone deserves a full day and an early start." },
+  ],
 };

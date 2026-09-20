@@ -55,4 +55,10 @@ export const umrahHealthEmergencyGuidePakistan: BlogPostSeed = {
       text: "Health preparation is worship logistics. We include the guidance, and offer the insurance.",
     },
   ],
+  faqs: [
+    { q: "What happens if I fall ill during Umrah?", a: "Both Haram complexes run well-equipped hospitals and clinics that treat pilgrims free or cheaply, with Urdu translation desks. For chronic conditions, carry prescriptions with generic drug names and insurance that covers Saudi hospitalisation." },
+    { q: "Which medicines should I bring from Pakistan?", a: "Paracetamol, ORS packets, throat lozenges, blister plasters, and your regular prescriptions in original boxes, plus a doctor's letter for controlled items. Saudi customs are strict on unlabelled pills, so keep everything in pharmacy packaging." },
+    { q: "Can elderly or unfit pilgrims manage Umrah?", a: "The ritual itself is short; the environment is what tires you. A near hotel, good sandals, water, and rest days make an ordinary fitness level completely sufficient." },
+    { q: "Is Jeddah or Madinah the better arrival airport?", a: "Split tickets often win: fly into Madinah, finish in Jeddah. You see both cities without backtracking and the Haramain train covers the middle." },
+  ],
 };

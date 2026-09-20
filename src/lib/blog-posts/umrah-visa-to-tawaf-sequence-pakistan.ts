@@ -84,4 +84,10 @@ export const umrahVisaToTawafSequencePakistan: BlogPostSeed = {
       text: "The paperwork takes a week. The rituals take a day. The meaning stays.",
     },
   ],
+  faqs: [
+    { q: "What is the full sequence from Pakistan to Tawaf?", a: "Documents and vaccination first, then the visa through Nusuk or your operator, flights into Jeddah or Madinah, ihram at the miqat, arrival and hotel drop, then Tawaf and Sa'i once rested. The sequence runs smoother when the visa file is complete before ticketing." },
+    { q: "Can I go into ihram at the Karachi or Lahore airport?", a: "Many pilgrims wear ihram before boarding a Jeddah-bound flight and make the intention as the miqat is announced, though the cleaner practice is changing at the miqat or airport prayer areas. Follow your group leader's arrangement on shared flights." },
+    { q: "Is Umrah difficult for someone who is not very fit?", a: "Manageable, with honest pacing. Choose a close hotel, do rituals at night, use the wheelchair counters without embarrassment, and split Tawaf and Sa'i across different hours." },
+    { q: "Which airport should I fly into for Umrah?", a: "King Abdulaziz International in Jeddah takes most Pakistani arrivals, with the Haram an easy train or transfer away. Madinah airport is smaller, calmer, and ideal for Madinah-first itineraries." },
+  ],
 };

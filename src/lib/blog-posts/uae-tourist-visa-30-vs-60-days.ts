@@ -59,4 +59,10 @@ export const uaeTouristVisa30Vs60Days: BlogPostSeed = {
       text: "We process UAE visas daily. Send your documents on WhatsApp and compare our rate before you book anywhere else.",
     },
   ],
+  faqs: [
+    { q: "Should I take the 30-day or 60-day UAE tourist visa?", a: "Under a month of travel means the 30-day visa. Visiting family, exploring slowly, or any chance of extension makes the 60-day visa cheaper than extending a 30-day one, since extensions cost both fees and time." },
+    { q: "Can Pakistanis get a UAE visa on arrival?", a: "No. For ordinary Pakistani passports the UAE visa must be arranged before flying, through a sponsor such as an airline, hotel, or licensed travel agency. Processing typically takes three to five working days." },
+    { q: "Should I trust agents who promise visa approval?", a: "No, and run from anyone who promises one. Consulates decide alone; agents only control the file quality, the appointment, and the follow-up." },
+    { q: "Do I disclose family living abroad in my visa file?", a: "Mention relatives plainly. Consulates cross-check applications against family data routinely, and discovered omissions haunt future files for years." },
+  ],
 };

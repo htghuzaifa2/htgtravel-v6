@@ -56,4 +56,10 @@ export const italyTravelGuidePakistanis: BlogPostSeed = {
       text: "The route, the file, the pasta. One desk handles all three. Message us.",
     },
   ],
+  faqs: [
+    { q: "Which months suit a Italy trip best?", a: "April to June and September to October deliver Italy's balance of warmth and manageable crowds; August packs the coasts and empties the cities." },
+    { q: "What is the visa situation for Italy?", a: "Schengen through the VFS network, with the itinerary centred on Italy when Italy dominates the nights. The appointment calendar, not processing time, sets your dates." },
+    { q: "What daily budget should I plan for Italy?", a: "Italy spans wide: PKR 30,000 to 45,000 a day mid-range, with the south gentler than Venice and Rome. Regional trains and trattorias keep the average honest." },
+    { q: "What is a realistic duration for Italy?", a: "Eight to ten days suits a Rome-Florence-Venice arc at a human pace; anything shorter becomes a checklist rather than an Italian trip." },
+  ],
 };

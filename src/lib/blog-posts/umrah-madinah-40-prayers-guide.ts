@@ -55,4 +55,10 @@ export const umrahMadinah40PrayersGuide: BlogPostSeed = {
       text: "Madinah is not a stopover between airports and Makkah. Plan it like the destination it is. We do.",
     },
   ],
+  faqs: [
+    { q: "What is the tradition of 40 prayers in Madinah?", a: "A hadith holds that whoever prays 40 congregational prayers in the Prophet's Mosque, without missing one, earns protection from the fire and hypocrisy. In practice it means about eight full days in Madinah, never missing a jamaat, which the mosque's calm rhythm makes achievable." },
+    { q: "How many Madinah days does the 40-prayers tradition need?", a: "Forty prayers at five a day means eight complete days, so pilgrims book nine to ten Madinah nights for margin. Spare slots go to Masjid Quba, whose prayer carries its own recorded reward, especially on Saturdays." },
+    { q: "How do I perform a repeat Umrah from Makkah?", a: "Yes. After completing one Umrah, exit ihram, rest, then re-enter at the nearest miqat, which is Masjid Aisha on the Madinah road for pilgrims already in Makkah." },
+    { q: "Do I need to know Arabic for Umrah?", a: "Not at all. Pilgrims learn the intention line and the Talbiyah on the flight over; guides handle the rest in Urdu, and the Saudi staff at hotel desks manage English comfortably." },
+  ],
 };

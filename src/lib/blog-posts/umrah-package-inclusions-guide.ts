@@ -59,4 +59,10 @@ export const umrahPackageInclusionsGuide: BlogPostSeed = {
       text: "Itemized quotes, named hotels, real distances. Ask ours, then compare with anyone.",
     },
   ],
+  faqs: [
+    { q: "What should a standard Umrah package include?", a: "Visa, return flights, hotels with the room type named, inter-city transport, daily breakfast at minimum, and one ziyarat tour per city. Anything else, from meals to wheelchair help, is an add-on; insist on the written inclusion sheet before paying." },
+    { q: "Why do two identical-looking packages differ hugely in price?", a: "The hidden levers are hotel distance in metres, room-sharing count, airline and layover, meal plan, and season. A PKR 60,000 gap can come purely from 400 metres of distance in Ramadan, so compare the details, never the brochure cover." },
+    { q: "Which vaccinations do Pakistani pilgrims need?", a: "Required, yes, and wise regardless: pilgrim crowds are exactly where meningitis spreads. Take the ACWY shot at least ten days before departure and carry the yellow card throughout the trip." },
+    { q: "When is the right time to book Umrah?", a: "Six to eight weeks covers normal months; Ramadan and school-holiday windows want four months of margin. The penalty for booking late is distance from the Haram, not just price." },
+  ],
 };

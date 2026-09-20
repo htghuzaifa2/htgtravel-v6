@@ -55,4 +55,10 @@ export const pakistanToLondonFlightGuide: BlogPostSeed = {
       text: "The UK route quoted daily from our desk. Message us and see today's real numbers.",
     },
   ],
+  faqs: [
+    { q: "Which airlines fly direct from Pakistan to London?", a: "PIA flies nonstop from Karachi, Lahore, and Islamabad to Heathrow, while Virgin Atlantic also serves the corridor. Direct flights run around eight hours; Gulf one-stops trade hours for savings." },
+    { q: "How much does a Pakistan to London return ticket cost?", a: "Return economy commonly sits between PKR 150,000 and 250,000, driven by season, directness, and booking window. Summer and December peaks sit at the top of that band." },
+    { q: "How much baggage do international flights allow?", a: "Most full-service carriers allow two 23-kilogram checked bags on Pakistan routes, though codeshares and mixed tickets can apply different legs' rules. Confirm at booking, not at the check-in queue." },
+    { q: "What is a fare class and why does it matter?", a: "The letter on your ticket, like Y, W, or Q, encodes the rules: flexibility, miles earned, and upgrade eligibility. The fare class decides what happens when plans change." },
+  ],
 };

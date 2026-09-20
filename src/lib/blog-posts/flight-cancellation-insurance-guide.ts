@@ -55,4 +55,10 @@ export const flightCancellationInsuranceGuide: BlogPostSeed = {
       text: "Insurance or flexible fare. See both priced before you choose. We show both, honestly.",
     },
   ],
+  faqs: [
+    { q: "What does flight cancellation insurance actually cover?", a: "Reimbursement for non-refundable costs when a covered reason cancels your trip: serious illness, accidents, certain emergencies. Ordinary change of mind is not covered unless the policy sells a cancel-for-any-reason add-on." },
+    { q: "Is cancellation insurance worth it for Pakistani travellers?", a: "Worth it in proportion to what you would lose: expensive non-refundable tickets, peak-season prepayments, and visa-adjacent uncertainty all raise the value. Cheap flexible bookings lower it." },
+    { q: "How do I claim on travel insurance from Pakistan?", a: "Call the assistance line first, follow their instructions exactly, and keep every receipt. Deviation from the stated process is the top self-inflicted rejection." },
+    { q: "Can I buy travel insurance after booking flights?", a: "Anytime before departure, with immediate effect from the chosen start date. Buy early relative to your prepayments if cancellation cover matters to you." },
+  ],
 };

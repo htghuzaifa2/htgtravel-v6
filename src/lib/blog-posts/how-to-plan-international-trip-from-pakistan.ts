@@ -57,4 +57,10 @@ export const howToPlanInternationalTripFromPakistan: BlogPostSeed = {
       text: "One thread, the right order, the whole trip, that is our desk. Start yours.",
     },
   ],
+  faqs: [
+    { q: "What are the steps to plan a trip abroad from Pakistan?", a: "Pick the destination by visa reality first, then set the budget, check passport validity, file the visa, and only then ticket flights and hotels. Sequence protects money." },
+    { q: "What do first-time Pakistani travellers get wrong most?", a: "Ticketing before the visa, underestimating daily costs, and copying someone else's itinerary. The fix in each case is the same: plan around your own dates, funds, and pace." },
+    { q: "What is the best way to carry money abroad?", a: "Forex card primary, cash buffer, and an emergency note folded deep in the luggage. Test every card at the first safe opportunity, not the first urgent one." },
+    { q: "How do I plan a two-country trip properly?", a: "Yes, when the pair shares a border and a visa logic: the Caucasus neighbours, the Gulf hubs, Mainland Southeast Asia. Twelve days, two countries, one sensible trip." },
+  ],
 };

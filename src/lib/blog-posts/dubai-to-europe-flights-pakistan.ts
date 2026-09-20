@@ -55,4 +55,10 @@ export const dubaiToEuropeFlightsPakistan: BlogPostSeed = {
       text: "Three countries on one ticket. Ask our desk to price the routing.",
     },
   ],
+  faqs: [
+    { q: "Is flying to Europe via Dubai cheaper from Pakistan?", a: "Often yes: Gulf connectors compete hard on Europe fares, and a Dubai or Doha transfer can undercut direct competitors by a wide margin. The trade is time and a connection that must be protected on one ticket." },
+    { q: "Should I book the Pakistan-Dubai-Europe legs as one ticket?", a: "Yes, always one through-ticket: it protects the connection, rebooks you free if a leg delays, and checks bags to the final destination. Two separate tickets leave you owning a missed connection." },
+    { q: "Airline website or travel agent: which is better?", a: "Both work; they sell different things. Airlines sell seats, agencies sell outcomes, and complicated itineraries are exactly what outcomes are for." },
+    { q: "Do Pakistani airlines have sales?", a: "PIA and the private carriers run periodic sales, usually in the quiet months after New Year and through the monsoon. Subscribe and watch, because the good fares vanish within days." },
+  ],
 };

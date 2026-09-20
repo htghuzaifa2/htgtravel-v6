@@ -55,4 +55,10 @@ export const pakistanPassportRenewalAbroadGuide: BlogPostSeed = {
       text: "Documents abroad, trips home. Our desk coordinates both sides of the ocean.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis renew passports abroad?", a: "Through the Pakistani embassy or consulate's passport wing, or the online renewal portal with courier options in many countries. NICOP holders have their own separate track." },
+    { q: "How long does overseas passport renewal take?", a: "Several weeks in normal processing, longer around Eid and summer. Renew the moment validity dips under a year, because visa files demand six months of runway." },
+    { q: "Should I book a package or plan the trip myself?", a: "Self-planning suits patient travellers on simple routes; packages suit everyone else. The deciding factor is how much of the logistics you want to own." },
+    { q: "Can Pakistani travellers trust online bookings?", a: "Safe on registered platforms and operator websites, with card payments kept to secure checkouts. The risk sits not in the internet but in unverified sellers, so verify the licence before paying." },
+  ],
 };

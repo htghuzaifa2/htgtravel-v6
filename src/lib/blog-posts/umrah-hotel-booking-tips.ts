@@ -57,4 +57,10 @@ export const umrahHotelBookingTips: BlogPostSeed = {
       text: "We book these rooms every single day. Borrow our experience. It costs you nothing.",
     },
   ],
+  faqs: [
+    { q: "When do Haram-area hotel prices spike?", a: "Ramadan, especially its last ten nights, December school holidays, and the Eid weeks push rates to their annual peak. Muharram, Safar, and Jumada months dip sharply; the same room can halve in price between seasons." },
+    { q: "Should I book Umrah hotels myself or through a package?", a: "Packages win in peak season because operators hold room blocks months ahead, while solo booking then means distant hotels at inflated rates. Off-peak, direct booking can beat package pricing, but confirm visa processing is included before comparing totals." },
+    { q: "Do Pakistani passport holders need a visa for Umrah?", a: "Correct, Pakistani passports need pre-arranged documents: the dedicated Umrah visa through a licensed operator, or the tourist eVisa bought online with insurance included. Both allow the full pilgrimage outside Hajj season." },
+    { q: "How long is a good first Umrah trip?", a: "Most families take ten to fourteen nights: two-thirds in Makkah for the rituals, one-third in Madinah for the rest. Shorter trips trade recovery for airfare savings." },
+  ],
 };

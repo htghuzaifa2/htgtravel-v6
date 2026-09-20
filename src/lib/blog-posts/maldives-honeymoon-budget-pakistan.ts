@@ -85,4 +85,10 @@ export const maldivesHoneymoonBudgetPakistan: BlogPostSeed = {
       text: "The water is the same turquoise. The bill does not have to match it.",
     },
   ],
+  faqs: [
+    { q: "What does a Maldives honeymoon cost from Pakistan?", a: "Local-island honeymoons start near PKR 250,000 for the week; overwater villas begin at several multiples of that. Flights from Karachi, the resort tier, and the transfer type move the number most." },
+    { q: "How do couples keep Maldives costs sane?", a: "Pick half-board where dining is strong, choose speedboat-access resorts over seaplane ones, and travel May to November when villa rates drop sharply." },
+    { q: "What is the safest way to carry documents abroad?", a: "Split everything: passport and one card on your body, backup card and cash in the hotel safe, and digital copies in the cloud. No single pocket failure should end the trip." },
+    { q: "How does HTG Travels help with trips like this?", a: "HTG handles the parts travellers hate: visa files, fare watching, room selection, and the mid-trip surprises. You handle the packing and the photos." },
+  ],
 };

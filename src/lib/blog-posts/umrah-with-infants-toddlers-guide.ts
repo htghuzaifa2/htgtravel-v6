@@ -56,4 +56,10 @@ export const umrahWithInfantsToddlersGuide: BlogPostSeed = {
       text: "The youngest pilgrims need the wisest planning. We supply the wisdom. You bring the baby.",
     },
   ],
+  faqs: [
+    { q: "Is Umrah practical with a baby?", a: "Thousands of families manage it yearly. Baby carriers beat strollers inside the mosque, dedicated feeding rooms exist in both Harams, and pharmacies are close by. Choose a near hotel, direct flights, and a low-crowd month; the rituals adapt around nap times." },
+    { q: "Do airlines give Umrah infants any allowance?", a: "Infants travel on a lap ticket at roughly ten percent of the adult fare, with a car-seat option if you buy a seat. Strollers usually gate-check free on PIA and Gulf carriers, and sealed tins of formula pass security without trouble." },
+    { q: "How physically tiring is Umrah day to day?", a: "Expect five to eight kilometres a day inside and around the Haram during busy periods, on marble that punishes bad sandals. Comfortable footwear and steady pacing beat fitness." },
+    { q: "What is the weather like in Makkah and Madinah?", a: "Winter days sit near 25 to 30 degrees with cool nights; summer is desert serious. Rain is rare and brief, but marble floors get slick whenever it arrives." },
+  ],
 };

@@ -89,4 +89,10 @@ export const baliVsThailand: BlogPostSeed = {
       text: "Choose Bali for a couple's escape, a wellness reset, or one place experienced deeply. Choose Thailand for a first big Asia trip where food leads and the budget is tighter. Still torn? Ask if this holiday is for resting or roaming, and book the island that matches the answer.",
     },
   ],
+  faqs: [
+    { q: "Bali or Thailand: which is better for Pakistani travellers?", a: "Thailand wins on flights and visa predictability, Bali on volcanic scenery and a slower island rhythm. Both need advance visas for Pakistanis, so let your dates and the fare deals decide more than the brochure." },
+    { q: "Is Bali cheaper than Thailand for Pakistanis?", a: "On the ground they are close, with Bali slightly gentler outside its July and August peak. The deciding cost is the flight and the fare window, which swings the total more than daily expenses." },
+    { q: "What is the cheapest time of year to fly from Pakistan?", a: "Mid-January through March and the monsoon months of July and August carry the lowest fares. Every Pakistani school holiday pushes prices the other way." },
+    { q: "How much should I save before an international trip?", a: "Save the full trip plus one flight home's worth of reserve. Travellers who budget to the last rupee have no room for the trip's best surprises." },
+  ],
 };

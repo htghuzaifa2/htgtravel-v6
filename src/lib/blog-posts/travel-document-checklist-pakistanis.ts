@@ -59,4 +59,10 @@ export const travelDocumentChecklistPakistanis: BlogPostSeed = {
       text: "Documents checked twice, travels once. Our desk does the checking. Ask.",
     },
   ],
+  faqs: [
+    { q: "What documents does every Pakistani traveller need?", a: "Passport with six months validity, the visa, return ticket proof, hotel bookings, insurance, CNIC copies, and funds evidence. Keep photos of all of it on your phone and copies in each bag." },
+    { q: "Should documents be original or copies while travelling?", a: "Originals on your person for the passport and visa, certified copies for the rest, and digital copies everywhere. Check-in counters and border officers only trust the real thing." },
+    { q: "Why use HTG Travels for planning a trip?", a: "The desk handles visas, fares, rooms, and the odd mid-trip rescue, all through one WhatsApp thread. Travellers keep the fun parts; the paperwork goes to us." },
+    { q: "How do I handle peak travel seasons in Pakistan?", a: "Either book four months ahead for the peak, or shift dates a week sideways from the rush. The Eid window forgives no late planners." },
+  ],
 };

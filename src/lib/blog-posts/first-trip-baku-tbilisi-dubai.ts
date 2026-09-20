@@ -70,4 +70,10 @@ export const firstTripBakuTbilisiDubai: BlogPostSeed = {
       text: "Your first stamp should open a door, not test you.",
     },
   ],
+  faqs: [
+    { q: "Which is the better first trip: Baku, Tbilisi, or Dubai?", a: "Dubai for a frictionless first stamp, Baku for old-meets-new at a gentle price, Tbilisi for food and mountain days. All three sit within a few hours of Pakistani airports." },
+    { q: "Can I combine these three in one trip?", a: "Yes, as a Gulf-plus-Caucasus loop with two visa tracks: the UAE arrangement plus the two e-visas. Ten to twelve days carries it comfortably with one flight per leg." },
+    { q: "How do I plan around school holidays and Eid?", a: "Move the calendar, not the budget: travelling the week before the rush or the week after cuts fares dramatically. Inside the holidays, book four months ahead and accept the premium." },
+    { q: "What are my rights if a flight is cancelled?", a: "Rebooking rights come first, then the hotel and meal allowances the carrier owes on long delays. Insurance covers the gaps, receipts in hand." },
+  ],
 };

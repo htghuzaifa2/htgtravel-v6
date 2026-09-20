@@ -56,4 +56,10 @@ export const bestTravelCreditCardsPakistanis: BlogPostSeed = {
       text: "The money mix, briefed per destination. Included with every trip we plan.",
     },
   ],
+  faqs: [
+    { q: "Do travel credit cards actually help Pakistanis?", a: "For frequent flyers, yes: better exchange rates than cash counters, lounge access on long layovers, and points that offset tickets. For once-a-year travellers, the annual fee quietly eats the benefit." },
+    { q: "How do I compare Pakistani travel credit cards?", a: "Compare three numbers only: the foreign-transaction fee, the lounge network, and whether points expire. Everything else in the brochure is decoration around those three." },
+    { q: "How far ahead should I book an international trip from Pakistan?", a: "Ordinary dates need about eight weeks; peak Pakistani travel seasons need four months. The fare from Lahore only climbs as the departure date closes in." },
+    { q: "Should I book a package or plan the trip myself?", a: "Packages win when the visa is hard or the destination unfamiliar, because the operator's file and local arrangements absorb the risk. Self-planning wins when you know the country and value your own pace." },
+  ],
 };

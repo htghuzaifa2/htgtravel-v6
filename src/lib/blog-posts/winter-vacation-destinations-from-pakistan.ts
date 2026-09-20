@@ -64,4 +64,10 @@ export const winterVacationDestinationsFromPakistan: BlogPostSeed = {
       text: "Snow or sun, the winter desk is open, and booking. Message us.",
     },
   ],
+  faqs: [
+    { q: "Where do Pakistanis travel in winter?", a: "The Gulf for guaranteed sun, the Maldives for dry-season water, and Southeast Asia in its cool window. For snow instead, Turkey and the Central Asian ski routes." },
+    { q: "Which winter trips are the best value?", a: "Thailand and Malaysia in their pleasant season, and the Maldives in January before the February price peak. Winter is the smart Pakistani travel window worldwide." },
+    { q: "Cards or cash: what is the best mix abroad?", a: "Plastic for payments, cash for small vendors, and backups split between people and bags. The rule is never one wallet holding everything." },
+    { q: "Can I combine two destinations in one trip?", a: "Regional pairs work best, since the connecting flight is short and the visas stack. Ask whether the pair shares an airline alliance and the answer is usually yes." },
+  ],
 };

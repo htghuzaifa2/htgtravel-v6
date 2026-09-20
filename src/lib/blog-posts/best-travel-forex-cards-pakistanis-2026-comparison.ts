@@ -55,4 +55,10 @@ export const bestTravelForexCardsPakistanis2026Comparison: BlogPostSeed = {
       text: "The full money structure, arranged per trip. Our desk's standard service.",
     },
   ],
+  faqs: [
+    { q: "Should I carry cash or a forex card from Pakistan?", a: "A mix: a loaded forex card for daily spending and a cushion of cash for card-unfriendly corners. Forex cards lock your rate on loading day, which protects the trip from rupee swings." },
+    { q: "Are forex cards safer than carrying cash?", a: "Safer in every practical way: replaceable when lost, PIN-protected, and reloadable mid-trip. Keep the card's hotline saved separately and carry only a day's cash in your pocket." },
+    { q: "Why do exchange rates matter for my travel budget?", a: "Budget in the destination currency and recheck the rate weekly. Locking a forex card rate at loading time shields the bulk of your spending." },
+    { q: "How do I keep my documents and money safe abroad?", a: "Photograph every document, email yourself the set, and never carry all payment sources together. Replacement speed depends entirely on copies." },
+  ],
 };

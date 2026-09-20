@@ -57,4 +57,10 @@ export const luxuryTravelDestinationsFromPakistan: BlogPostSeed = {
       text: "The luxury tier, quietly arranged by the desk that holds the relationships. Ask.",
     },
   ],
+  faqs: [
+    { q: "Which luxury trips suit Pakistani travellers?", a: "The Maldives overwater tier, Dubai's skyline suites, the European first-class run, and Turkey's cave-suite hotels. Luxury from Pakistan is mostly about booking windows and visa strategy." },
+    { q: "Is a travel agency worth it for luxury trips?", a: "More than for budget trips: suites and business fares upgrade through operator relationships, and good desks hold perks money cannot buy directly." },
+    { q: "Is travel insurance necessary beyond Schengen countries?", a: "Schengen makes it mandatory; everywhere else it is simply wise. A hospital day in the US or a missed connection anywhere costs more than a year of policies." },
+    { q: "Which months have the lowest fares from Pakistan?", a: "Fare floors appear in February, March, and the late-summer heat, when planes fly half-empty. Set alerts and let the calendar do the negotiating." },
+  ],
 };

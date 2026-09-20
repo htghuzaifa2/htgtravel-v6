@@ -55,4 +55,10 @@ export const hajj2026CompleteGuide: BlogPostSeed = {
       text: "The prepared pilgrim stands at Arafat with a settled heart. Preparation is our profession. Ask us.",
     },
   ],
+  faqs: [
+    { q: "What are the expected Hajj 2026 dates?", a: "Dhul Hijjah 1447 places the five Hajj days around late May 2026, moon sighting pending. Pakistani departures spread across the two to three weeks before Arafah, which is also when the government scheme training camps and operator briefings run at home." },
+    { q: "How is Hajj different from Umrah in practical effort?", a: "Hajj means five days of intense rituals across Mina, Muzdalifah, and Arafah, desert heat, shared tents, and crowds beyond anything Umrah sees. Physical training, vaccination, and patient expectations matter as much as the paperwork." },
+    { q: "Do I need vaccinations for Hajj?", a: "ACWY meningitis is the non-negotiable one for Hajj arrivals. Add a flu shot for your own comfort, and verify the year's official list before your appointment." },
+    { q: "Which dates mark Hajj 2026 for pilgrims?", a: "Hajj 2026 centres on late May by current calendar estimates. Pilgrims travel out across the preceding two weeks, so pack and vaccinate a full month ahead of Arafah." },
+  ],
 };

@@ -55,4 +55,10 @@ export const ukTravelGuidePakistanis: BlogPostSeed = {
       text: "The file first, the itinerary second. Both from one desk. Message ours.",
     },
   ],
+  faqs: [
+    { q: "Which months suit a the UK trip best?", a: "May to September is the reliable outdoor season for Britain; spring and autumn run quieter, greener, and cheaper across the same sights." },
+    { q: "What is the visa situation for the UK?", a: "The Standard Visitor visa applies, usually granted for six months, with decisions around three weeks from Pakistan. File before ticketing anything non-refundable." },
+    { q: "What daily budget should I plan for the UK?", a: "London is the expensive anchor at PKR 40,000 to 60,000 a day mid-range, with the north of Britain and Wales far kinder. Regional trains balance the ledger." },
+    { q: "What is a realistic duration for the UK?", a: "Seven to ten days balances London with two more regions properly. Whichever regions you add, keep London to three nights and let the rest breathe." },
+  ],
 };

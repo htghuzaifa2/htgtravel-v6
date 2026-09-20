@@ -56,4 +56,10 @@ export const australiaTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The longest trip, made worth every hour. By the desk that plans them. Ask us.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit Australia from Pakistan?", a: "September to November and March to May carry the pleasant shoulder seasons across Sydney and Melbourne; the tropical north runs on its own wet-dry calendar." },
+    { q: "Do Pakistanis need a visa for Australia?", a: "The subclass 600 is filed online at roughly AUD 190, with decisions typically arriving in weeks. Health checks, when requested, add time to the file." },
+    { q: "How much does a Australia trip cost from Pakistan?", a: "Australia prices high: PKR 40,000 to 55,000 a day mid-range, with Sydney the peak. Self-catering apartments and sensible transport choices soften the edges." },
+    { q: "How many days are enough for Australia?", a: "Ten to fourteen days fits Sydney, Melbourne, and one region without chronic jet lag; Australia rewards fewer bases and much deeper stays." },
+  ],
 };

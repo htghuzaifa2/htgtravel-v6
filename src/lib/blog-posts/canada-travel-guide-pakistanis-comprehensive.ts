@@ -56,4 +56,10 @@ export const canadaTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The polite giant. Accessed through a well-built file. We build them.",
     },
   ],
+  faqs: [
+    { q: "What is the ideal season for Canada?", a: "June to September carries the Rockies, the cities, and the lakes at their best; winter belongs to snow seekers with proper clothing plans." },
+    { q: "How do Pakistanis handle the visa for Canada?", a: "The visitor visa runs through IRCC with biometrics, filed months ahead given variable processing. Complete files with clean funds move fastest through the queue." },
+    { q: "Is Canada expensive for Pakistani travellers?", a: "Canada runs PKR 40,000 to 55,000 a day mid-range, with distances eating budgets quietly. Inter-city flights and long transfers belong in the original math." },
+    { q: "Can I cover Canada properly in a week?", a: "Ten to fourteen days suits a two-region visit, typically the Rockies plus one city coast. One region done deeply also works beautifully." },
+  ],
 };

@@ -60,4 +60,10 @@ export const usaB1B2VisaGuidePakistan: BlogPostSeed = {
       text: "Three minutes decide your US visa. Practise those three minutes with us before you live them at the embassy.",
     },
   ],
+  faqs: [
+    { q: "What is the US B1/B2 visa process from Pakistan?", a: "Complete the DS-160 online, pay the MRV fee of around USD 185, book the interview, and attend the embassy in Islamabad or the consulate in Karachi. The interview itself runs roughly three minutes, and the decision hinges on whether the officer believes you will return." },
+    { q: "What gives Pakistanis the best chance at US visitor visa approval?", a: "Genuine ties: a stable job or business, property, family structure, and a travel history that matches your means. The officer is listening for one answer, which is why you will come back, so consistent, provable roots matter more than any document trick." },
+    { q: "What documents prove I will return to Pakistan?", a: "A stable job letter with tenure and leave approval, dependents named in your file, and assets registered to you. Return proof is about your normal life being visibly here." },
+    { q: "What happens if my visa application is refused?", a: "The refusal letter is the starting point: it states what failed, and your next file must visibly fix exactly that. Fees are not refunded either way." },
+  ],
 };

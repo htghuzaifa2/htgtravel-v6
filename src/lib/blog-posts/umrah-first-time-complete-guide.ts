@@ -55,4 +55,10 @@ export const umrahFirstTimeCompleteGuide: BlogPostSeed = {
       text: "Every pilgrim we send is a first-timer somewhere in their family. We prepare them all. Ask about our orientation-included packages.",
     },
   ],
+  faqs: [
+    { q: "Can I perform Umrah if I have never done it before and know no Arabic?", a: "Yes. The rituals take under three hours to learn, guides explain each step in Urdu, and most Pakistani groups walk first-timers through ihram, Tawaf, Sa'i, and halq together. Learn the intention words on the flight; everything else follows your group leader." },
+    { q: "How long does Umrah take once I am in Makkah?", a: "The rituals themselves, ihram to halq, take three to four unhurried hours. Most first-timers rest before Tawaf, walk the Mataf slowly, finish Sa'i the same evening, then perform a second, calmer Umrah later in the trip." },
+    { q: "What is the best way to handle money in Saudi Arabia?", a: "A mix: riyal cash for food and tips, a debit card for mall ATMs, and the bulk on a travel card or in your account. Exchange a small amount in Pakistan, then compare Haram-area rates." },
+    { q: "How physically tiring is Umrah day to day?", a: "Most pilgrims walk between 40 and 70 kilometres across a two-week trip. Spread rituals across days, use night hours, and treat blisters on day one, not day four." },
+  ],
 };

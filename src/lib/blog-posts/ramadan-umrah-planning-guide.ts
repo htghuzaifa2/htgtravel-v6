@@ -56,4 +56,10 @@ export const ramadanUmrahPlanningGuide: BlogPostSeed = {
       text: "The reward is fixed; the logistics are not. We have booked Ramadan for hundreds of families. Let us book yours.",
     },
   ],
+  faqs: [
+    { q: "Is Ramadan really the best time for Umrah?", a: "Spiritually, many believe so: a hadith says Umrah in Ramadan carries the reward of accompanying the Prophet's companions on Hajj. Practically it is the most crowded, priciest month of the year, so book four to five months ahead and expect hotel rates to double." },
+    { q: "How do I survive the crowds during Ramadan Umrah?", a: "Do Tawaf on the upper floors where the pace is gentler, pray in courtyard zones instead of fighting the main hall, and keep two to three hours of buffer before iftar to find a sitting spot. Hotel distance matters more than luxury in Ramadan." },
+    { q: "Which vaccinations do Pakistani pilgrims need?", a: "It is compulsory: no valid ACWY certificate, no smooth entry for a pilgrim. The injection costs little in Pakistan and the certificate travels in your hand luggage with your passport." },
+    { q: "How far in advance should I book Umrah?", a: "Quiet months book six to ten weeks ahead; Ramadan and the December holidays want three to four months of margin, with near-Haram rooms selling first." },
+  ],
 };

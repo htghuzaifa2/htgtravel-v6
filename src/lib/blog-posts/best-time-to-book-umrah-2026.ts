@@ -58,4 +58,10 @@ export const bestTimeToBookUmrah2026: BlogPostSeed = {
       text: "Timing is strategy, and strategy is our job. One message prices your whole plan.",
     },
   ],
+  faqs: [
+    { q: "How many months ahead should I book Umrah?", a: "Six to ten weeks covers quiet months like Muharram and Safar. For Ramadan, December, and the Eid window, move to four months: the near-Haram rooms and direct seats go first, and whatever is left is farther and pricier." },
+    { q: "Which 2026 months will be cheapest for Umrah?", a: "Muharram and Safar after mid-June, the late-summer heat, and the weeks after Eid ul Fitr bring the lowest package rates. Avoid Ramadan and school holidays unless the spiritual timing matters more than the budget." },
+    { q: "Can I perform a second Umrah in the same trip?", a: "Yes, and seasoned pilgrims plan two or three per trip. Only remember that each requires a new ihram from a miqat outside Makkah, usually Masjid Aisha, and honest rest between." },
+    { q: "Do I need to know Arabic for Umrah?", a: "No. The ritual words are short, transliterated everywhere, and your group leader recites them with you. Urdu and English signage plus staff who speak both cover everything else." },
+  ],
 };

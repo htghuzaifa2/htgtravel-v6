@@ -58,4 +58,10 @@ export const umrahMakkahMadinahItinerary7Days: BlogPostSeed = {
       text: "A planned week worships better than an improvised one. Ask us to draft yours.",
     },
   ],
+  faqs: [
+    { q: "Can I do Umrah properly in 7 days from Pakistan?", a: "Yes, tightly. Land in Jeddah, take two Makkah nights for Umrah and rest, ride the Haramain train to Madinah for three nights, return for a final Makkah night, and fly home. You lose ziyarat depth and recovery margin, so first-timers are happier with ten to fourteen nights." },
+    { q: "How should I split nights between Makkah and Madinah?", a: "The classic split is two-thirds Makkah and one-third Madinah, since the Umrah itself happens in Makkah and Madinah is for rest and the Prophet's Mosque. Pilgrims chasing the 40-prayers tradition invert the split and stay longer in Madinah." },
+    { q: "How hot does it get in Makkah and Madinah?", a: "The two cities differ: Madinah sits higher and cooler, needing a jacket at night even in warm months, while Makkah runs hotter, more humid. Both punish midday walking in summer." },
+    { q: "Is eating near the Haram affordable for pilgrims?", a: "Budget SAR 60 to 100 per person per day eating at the busy Pilgrim Street restaurants, less if your package includes breakfast. Pakistani food is everywhere in both cities." },
+  ],
 };

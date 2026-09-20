@@ -57,4 +57,10 @@ export const bestHoneymoonDestinationsFromPakistan: BlogPostSeed = {
       text: "Hundreds of honeymoons, one desk. Yours is one message away.",
     },
   ],
+  faqs: [
+    { q: "Which honeymoon destinations suit Pakistani couples best?", a: "The Maldives leads for pure ease, followed by Bali, Turkey, and the smart European route through a honeymoon Schengen file. Pick by budget and visa energy, since the wedding months are busy enough already." },
+    { q: "How early should honeymooners start planning?", a: "Three to six months ahead: the visa file wants post-nikkah documents settled, and the best rooms in the Maldives and Turkey sell through the winter booking window." },
+    { q: "What should first-time international travellers from Pakistan know?", a: "Start regional before going long-haul, declare everything honestly at every counter, and keep the first itinerary loose. Confidence is built on short flights." },
+    { q: "Should I book hotels before departure or after arrival?", a: "Hold the first two nights refundable before flying and decide the rest on the ground. Peak seasons remove the second half of that sentence." },
+  ],
 };

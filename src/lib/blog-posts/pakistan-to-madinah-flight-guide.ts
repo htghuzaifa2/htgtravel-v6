@@ -55,4 +55,10 @@ export const pakistanToMadinahFlightGuide: BlogPostSeed = {
       text: "Begin where the Prophet is buried, complete where the Kaaba waits. Ask us for this itinerary.",
     },
   ],
+  faqs: [
+    { q: "Which airlines fly direct from Pakistan to Madinah?", a: "PIA and Saudia operate direct Madinah flights from Karachi, Lahore, and Islamabad, roughly four and a half hours airborne. The airport sits a short ride from the Haram, which is its whole appeal." },
+    { q: "Should I fly into Madinah and out of Jeddah?", a: "Yes, for a Madinah-first itinerary it is the clean pattern: start calm in Madinah, finish in Makkah, and fly home from Jeddah without backtracking. Ask for this open-jaw when booking rather than after." },
+    { q: "What is a fare class and why does it matter?", a: "Airlines price seats by rule-bundles, not just comfort. Know your class code and you know your change fees before life tests them." },
+    { q: "Is it cheaper to book a round trip or two one-way flights?", a: "Round trips win on most full-service carriers, since one-ways sometimes price above half the return. On low-cost connectors, two one-ways can win, so price both constructions every time." },
+  ],
 };

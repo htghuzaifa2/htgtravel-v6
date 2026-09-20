@@ -58,4 +58,10 @@ export const hajj2026PackingListCompleteGuide: BlogPostSeed = {
       text: "Packing lists born from real Makkah feedback. Our pilgrims get ours. Ask for the season's preparation.",
     },
   ],
+  faqs: [
+    { q: "What makes Hajj packing different from Umrah packing?", a: "Hajj adds five days of desert living: a sling bag that survives crowds, a sleeping sheet for Mina tents, slippers for shared bathrooms, a pocket fan, and energy-dense snacks. Weight limits stay strict, so every item must earn its place." },
+    { q: "How much luggage can Hajj pilgrims take?", a: "Airlines serving Hajj charter and regular flights commonly allow 40 to 45 kilograms checked plus the usual cabin piece, with the Zamzam allowance handled separately on return. Confirm your own flight's rules; excess charges at peak Hajj are merciless." },
+    { q: "Can I do Hajj on a tourist visa?", a: "The Hajj visa is its own category, tied to quota and licensed operators. Tourist eVisas welcome you for Umrah year-round but lock out the five Hajj days." },
+    { q: "What is the difference between government and private Hajj schemes?", a: "The government route is one standard package at a published rate, with a draw or queue. Private schemes offer closer tents and better hotels at higher prices, and can be quicker to confirm." },
+  ],
 };

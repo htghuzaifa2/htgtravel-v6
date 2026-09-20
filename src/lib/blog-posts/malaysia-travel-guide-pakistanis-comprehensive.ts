@@ -55,4 +55,10 @@ export const malaysiaTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The comfortable Far East. Arranged for your family in one message.",
     },
   ],
+  faqs: [
+    { q: "Which months suit a Malaysia trip best?", a: "Year-round works with planning: the east coast islands shine March to October, while the west coast stays pleasant through the winter months. Avoid the east coast during its November monsoon." },
+    { q: "What is the visa situation for Malaysia?", a: "The Malaysian e-visa is filed online with passport, photo, bookings, and bank proof, usually processing in about a week. Print the approval and carry it, since airlines check it at boarding." },
+    { q: "What daily budget should I plan for Malaysia?", a: "Ground costs run roughly PKR 18,000 to 28,000 per person per day mid-range, with Kuala Lumpur the priciest anchor and Penang gentler on the wallet. Flights stay separate in the math." },
+    { q: "What is a realistic duration for Malaysia?", a: "Six to eight days covers Kuala Lumpur, Penang, and one island stop comfortably. Adding Langkawi usually costs one more flight and two slower days." },
+  ],
 };

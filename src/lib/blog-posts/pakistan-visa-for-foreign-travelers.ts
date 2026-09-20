@@ -89,4 +89,10 @@ export const pakistanVisaForForeignTravelers: BlogPostSeed = {
       text: "The Pakistan visa in 2026 is an online form, a checklist, and a little patience. Apply early, keep your documents crisp, and the mountains will be waiting.",
     },
   ],
+  faqs: [
+    { q: "How do foreigners get a Pakistan visa in 2026?", a: "Through Pakistan's online visa portal, which serves roughly 175 nationalities with e-visas processed in about 7 to 10 working days. Applications need a passport scan, photo, and accommodation details, with invitation letters covering family or business visits." },
+    { q: "Can foreigners get a Pakistan visa on arrival?", a: "Arrival facilitation exists for organised group tourists and certain business categories from eligible countries, but solo leisure travellers should not gamble on it. The e-visa route is the reliable door for individual visitors." },
+    { q: "Do overseas Pakistanis need a visa to visit Pakistan?", a: "Holders of a NICOP or POC card enter Pakistan visa-free, since those cards work as passport-equivalent documents at immigration. Foreign-passport holders without Pakistani origin use the regular e-visa route." },
+    { q: "Which airports can foreigners fly into Pakistan through?", a: "Karachi, Lahore, and Islamabad carry the main international arrivals with direct connections from the Gulf hubs and beyond. E-visa holders enter through any of the designated international airports of entry, so route by fare and itinerary." },
+  ],
 };

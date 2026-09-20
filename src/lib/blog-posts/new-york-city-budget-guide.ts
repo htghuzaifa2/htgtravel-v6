@@ -79,4 +79,10 @@ export const newYorkCityBudgetGuide: BlogPostSeed = {
       text: "The skyline is free. The slice is cheap. The rest is optional.",
     },
   ],
+  faqs: [
+    { q: "Is New York survivable on a budget from Pakistan?", a: "Survivable, with tactics: sleep in neighbourhoods beyond Manhattan, eat street food and dollar slices, and use the free-tier museums for culture. The visa and flight remain the expensive parts." },
+    { q: "How many days does New York need?", a: "Four to five full days covers a classic first visit without turning the trip into a march. A weekly transit pass keeps the moving costs flat." },
+    { q: "What does HTG Travels actually do for travellers?", a: "Real people who answer, real hotels named in writing, and one accountable desk from first message to homecoming. That is what a licensed operator adds over a booking app." },
+    { q: "When should Eid holiday travel be booked?", a: "Eid and school breaks concentrate every Pakistani family into the same ten days. Either commit early to peak pricing or slide the trip a fortnight sideways." },
+  ],
 };

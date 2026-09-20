@@ -57,4 +57,10 @@ export const italySchengenVisaGuidePakistan: BlogPostSeed = {
       text: "Some files are paperwork. Italian files are love letters with bank statements attached. We write both halves.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis apply for an Italy Schengen visa?", a: "Italy's visa applications from Pakistan run through the VFS centre network: online form, slot booking, then submission of the file with biometrics. Summer slots fill early, and the itinerary should centre on Italy if Italy is your main destination." },
+    { q: "What makes an Italy visa file strong?", a: "A believable Italian itinerary with real hotel bookings, steady bank history, and a clear reason to return to Pakistan. Italy also values travel history within Europe, so past Schengen trips help materially." },
+    { q: "What is the 90/180 rule in the Schengen area?", a: "It is a rolling counter, not a visa expiry: each day inside the zone consumes one of 90 days within the past 180. Long multi-trip travellers must track it carefully, since old days free up as new ones accrue." },
+    { q: "What are the most common Schengen refusal reasons for Pakistanis?", a: "Refusals cluster around credibility: bank deposits that appeared overnight, hotel bookings that contradict the day plan, and employment letters the consulate cannot verify." },
+  ],
 };

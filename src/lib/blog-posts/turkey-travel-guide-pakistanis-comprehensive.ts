@@ -55,4 +55,10 @@ export const turkeyTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The visa, the balloon ride, the cave hotels: one desk handles all of it. Message us.",
     },
   ],
+  faqs: [
+    { q: "Which months suit a Turkey trip best?", a: "Spring and autumn carry Turkey best: April to June for greenery, September to October for golden light and thinner crowds across Istanbul and Cappadocia. July and August run hot and packed." },
+    { q: "What is the visa situation for Turkey?", a: "The e-visa works only with a valid US, UK, Schengen, or Ireland visa or residence permit in your passport. Without one, the application goes through the Turkish embassy in Islamabad." },
+    { q: "What daily budget should I plan for Turkey?", a: "Istanbul and Cappadocia run roughly PKR 20,000 to 30,000 a day mid-range, with domestic flights extra. Street food and bazaar culture keep the daily costs gentle." },
+    { q: "What is a realistic duration for Turkey?", a: "Seven to ten days covers Istanbul, Cappadocia, and one more region without rushing. Istanbul alone rewards four nights, so resist shaving it to two." },
+  ],
 };

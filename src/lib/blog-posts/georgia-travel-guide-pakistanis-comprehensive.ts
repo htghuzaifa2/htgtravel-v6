@@ -55,4 +55,10 @@ export const georgiaTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "Verify first, travel beautifully after. Our Georgia desk does both. Message us.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit Georgia from Pakistan?", a: "May, June, September, and October mix mountain clarity with pleasant city weather, which is exactly what Tbilisi walking and Kazbegi viewpoints demand. Midsummer adds crowds on the mountain roads." },
+    { q: "Do Pakistanis need a visa for Georgia?", a: "Georgian entry for Pakistanis now runs through the e-visa, applied for online with hotel bookings and financials before departure. The old stamp-on-arrival shortcuts no longer apply." },
+    { q: "How much does a Georgia trip cost from Pakistan?", a: "Tbilisi and the mountains run roughly PKR 15,000 to 25,000 a day mid-range, with guesthouses in Kazbegi gentler still. Wine-country tasting days add only modest amounts." },
+    { q: "How many days are enough for Georgia?", a: "Five to seven days covers Tbilisi, a Kazbegi mountain night, and Kakheti wine country at a human pace. Faster trips miss the point of Georgian roads." },
+  ],
 };

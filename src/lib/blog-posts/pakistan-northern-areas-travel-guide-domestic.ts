@@ -56,4 +56,10 @@ export const pakistanNorthernAreasTravelGuideDomestic: BlogPostSeed = {
       text: "The north deserves proper planning, and ours books it weekly. Ask.",
     },
   ],
+  faqs: [
+    { q: "When should Pakistanis visit the northern areas?", a: "May to October for the full circuit, March to April for Hunza's blossom, and late October into November for autumn colour. Winter transforms the region for snow seekers with the right vehicles." },
+    { q: "How many days do the northern areas need?", a: "A week minimum, because one valley done well beats three rushed. Ten to fourteen days carries a Hunza-Skardu circuit honestly." },
+    { q: "How reliable is mobile coverage in the mountains?", a: "Expect good data in the towns, patchy signal between valleys, and silence on the trails. That rhythm suits most travellers fine once maps and bookings are saved offline." },
+    { q: "Are northern Pakistan roads safe for families?", a: "Generally safe and far better than reputation suggests, with the Karakoram Highway maintained well. The real risks are night driving, overloaded vans, and tight schedules, all of which families control by planning." },
+  ],
 };

@@ -55,4 +55,10 @@ export const umrahAfterRitualsPostUmrahGuide: BlogPostSeed = {
       text: "We plan endings the way we plan departures. Carefully. Ask about our itineraries.",
     },
   ],
+  faqs: [
+    { q: "What should I do immediately after completing Umrah?", a: "Men shave or trim the whole head, women trim a fingertip's length of hair, and everyone exits ihram into normal clothing. Then hydrate, eat, and rest before the next act of worship; the Sunnah favours calm gratitude over rushing into extra Umrahs." },
+    { q: "How do I keep the post-Umrah feeling alive in Pakistan?", a: "Anchor it with one fixed daily worship, hold on to the congregational-prayer habit from Madinah, and set a concrete next-Umrah savings goal with your family. Pilgrims who schedule a return within two years keep the momentum far better than those who leave it open." },
+    { q: "Is insurance necessary for my Umrah trip?", a: "Insurance arrives free with the tourist eVisa but reads like an emergency floor, not real cover. Families bringing parents should add a proper medical policy from Pakistan." },
+    { q: "Can I do more than one Umrah on one trip?", a: "Repeat Umrahs are a Sunnah many pursue, each starting from a miqat like Masjid Aisha near Makkah. Pace them: the walk adds up faster on the second day than the first." },
+  ],
 };

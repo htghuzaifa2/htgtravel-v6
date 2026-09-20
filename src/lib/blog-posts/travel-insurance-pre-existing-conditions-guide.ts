@@ -55,4 +55,10 @@ export const travelInsurancePreExistingConditionsGuide: BlogPostSeed = {
       text: "Your medical history is not a wall. It is a routing question. We know the routes.",
     },
   ],
+  faqs: [
+    { q: "Can I get travel insurance with a pre-existing condition from Pakistan?", a: "Yes, by declaring the condition honestly and either accepting its exclusion, paying a loading, or buying a waiver where offered. Undeclared conditions void the entire medical section when discovered." },
+    { q: "What counts as a pre-existing condition for travel insurance?", a: "Any diagnosed condition you knew about before buying the policy, from diabetes and hypertension to past surgeries, under the insurer's look-back window. Declare the list fully; ambiguity always resolves against the claim." },
+    { q: "Do airlines cover my baggage without insurance?", a: "The carrier's cap covers a fraction of real luggage value on many trips. Insurance stacks above it and handles the delay costs the airline ignores." },
+    { q: "What does travel insurance actually cover?", a: "Medical costs abroad, non-refundable losses when covered reasons cancel the trip, lost baggage, and the smaller miseries of delays. The exclusions list defines the real product." },
+  ],
 };

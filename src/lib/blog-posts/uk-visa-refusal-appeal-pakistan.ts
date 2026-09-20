@@ -55,4 +55,10 @@ export const ukVisaRefusalAppealPakistan: BlogPostSeed = {
       text: "The comeback file is our specialty: read the refusal, fix the file, answer every doubt in advance. Bring yours.",
     },
   ],
+  faqs: [
+    { q: "Can a UK visa refusal be appealed from Pakistan?", a: "Most visitor refusals cannot be formally appealed; the standard routes are administrative review, where a fee was paid, or a fresh application addressing the refusal grounds. The refusal letter itself is your instruction manual for the next file." },
+    { q: "How soon can I reapply after a UK refusal?", a: "Immediately, there is no cooling-off period, but reapplying unchanged guarantees the same outcome. Rebuild the file around the exact refusal reasons first, usually weak finances or doubtful intent." },
+    { q: "Does a valid US, UK, or Schengen visa help Pakistani travellers?", a: "It compounds: each strong visa makes the next application easier and opens e-visa and arrival shortcuts along the way. Guard those passports carefully." },
+    { q: "What do visa officers look for in bank statements?", a: "Origin and flow of funds carry the weight. Six months of coherence beats any single impressive number, and unexplained credits invite refusal." },
+  ],
 };

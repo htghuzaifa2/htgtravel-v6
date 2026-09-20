@@ -57,4 +57,10 @@ export const familyVacationDestinationsFromPakistan: BlogPostSeed = {
       text: "Every generation happy, that is the family package standard. Ask ours.",
     },
   ],
+  faqs: [
+    { q: "Which destinations work for Pakistani family vacations?", a: "Malaysia and Turkey for infrastructure and halal ease, Dubai for short flights and theme parks, the Maldives for pure rest. The filter is always flight length plus visa friction." },
+    { q: "How do I plan a family trip everyone survives?", a: "One anchor activity a day, hotels near transport, and buffer days with nothing booked. Children need playgrounds, teenagers need wifi, and parents need an itinerary loose enough to breathe." },
+    { q: "Is it better to pre-book hotels or walk in?", a: "The first night is non-negotiable; the rest is style. Planners lock everything for peace, wanderers keep one booking ahead for freedom." },
+    { q: "Cards or cash: what is the best mix abroad?", a: "Split across a forex card, a backup card, and modest cash, stored separately. No single loss should end the trip's spending power." },
+  ],
 };

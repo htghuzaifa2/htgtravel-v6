@@ -56,4 +56,10 @@ export const germanyStudentVisaFreeTuitionGuide: BlogPostSeed = {
       text: "Germany pays students who respect its rules. We teach the rules and book the timelines.",
     },
   ],
+  faqs: [
+    { q: "Is German public university education really tuition-free?", a: "Yes, public universities charge no tuition for most programmes, asking only a semester contribution that bundles transport and admin. Living costs are the real budget, proven through the blocked account at roughly EUR 11,000 for the first year." },
+    { q: "What is APS and why does it matter for Pakistani students?", a: "APS verifies your academic documents before the German embassy considers a student application, and Pakistani applicants must complete it. Skipping APS stalls everything downstream, so start it alongside university applications, not after admissions arrive." },
+    { q: "Can I reapply immediately after a visa refusal?", a: "Nothing stops a next-day application, but nothing recommends it either. Address the refusal letter point by point and return with a visibly different file." },
+    { q: "What documents prove I will return to Pakistan?", a: "A job with approved leave, dependents, property, and prior trips that ended on time. The pattern across documents matters more than any single paper." },
+  ],
 };

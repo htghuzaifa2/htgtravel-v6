@@ -76,4 +76,10 @@ export const muslimTravelNonMuslimCountries: BlogPostSeed = {
       text: "The qibla points one way from everywhere. So does the intention.",
     },
   ],
+  faqs: [
+    { q: "How do Muslims travel comfortably in non-Muslim countries?", a: "Pack a travel prayer set, book hotels with fridges for quiet meal prep, and use prayer-time apps that compute by location. Halal discovery apps have turned most major cities into easy terrain." },
+    { q: "Which non-Muslim countries surprise Muslim travellers positively?", a: "Japan for cleanliness and consideration, Germany for halal availability in every city, and the UK for sheer mosque density. Comfort is mostly logistics, and logistics are searchable." },
+    { q: "When do airfares drop for Pakistani travellers?", a: "Travel when Pakistanis do not: the weeks after Eid, deep February, and monsoon August carry the year's lowest fares." },
+    { q: "How much should I save before an international trip?", a: "Total the visa, flights, hotels, and a daily allowance, then add ten percent for the unplanned and another slice for the journey home's shopping. That is the number to save." },
+  ],
 };

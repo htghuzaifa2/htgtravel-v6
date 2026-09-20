@@ -57,4 +57,10 @@ export const umrahTawafSaiStepByStep: BlogPostSeed = {
       text: "Every question between intention and completion. Our team answers them live on WhatsApp, all journey long.",
     },
   ],
+  faqs: [
+    { q: "How many rounds are in Tawaf and Sa'i?", a: "Tawaf is seven anti-clockwise circuits around the Kaaba, starting and ending at the Black Stone line. Sa'i is seven laps between the green markers of Safa and Marwa, roughly three and a half kilometres of walking in total." },
+    { q: "Can I take breaks during Tawaf or Sa'i?", a: "Yes, both may be paused and resumed without penalty. Rest, drink Zamzam, even step out to the courtyard, then continue where you stopped. Elderly pilgrims commonly split Sa'i across the shaded walkways, using a wheelchair for one direction." },
+    { q: "Can a woman go for Umrah with a group only?", a: "The mahram requirement has been relaxed by Saudi rules, with organised-group travel the accepted format. Pakistan now has established female-group Umrah operators, which is the route most families choose." },
+    { q: "Is insurance necessary for my Umrah trip?", a: "Basic medical cover comes attached to the eVisa, and operator packages carry some liability, but neither replaces personal travel insurance for hospitalisation, delays, or lost luggage." },
+  ],
 };

@@ -56,4 +56,10 @@ export const groupTravelBookingGuide: BlogPostSeed = {
       text: "One headcount, one thread, one fare, that is the group booking we deliver. Bring your numbers.",
     },
   ],
+  faqs: [
+    { q: "How do group flight bookings work from Pakistan?", a: "Groups of ten or more book through airline group desks or operators: names deposit later, payment schedules spread out, and fares lock against inventory swings. The catch is final names by the airline's deadline, which is firm." },
+    { q: "Are group flight rates actually cheaper?", a: "Usually modestly, and worth more for the terms than the price: delayed name submission, partial deposits, and one invoice for the whole party. Peak-season groups gain the most." },
+    { q: "Are one-stop flights cheaper than direct from Pakistan?", a: "Usually, and sometimes by a lot: Gulf and Istanbul connectors compete on price in ways direct carriers do not. The payment is hours in a terminal, so weigh the saving against the layover." },
+    { q: "Is changing my flight date expensive?", a: "Almost every ticket is changeable; the question is cost. Fee plus fare difference sometimes exceeds a fresh ticket, so price both routes before deciding." },
+  ],
 };

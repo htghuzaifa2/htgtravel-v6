@@ -61,4 +61,10 @@ export const top10EuropeanCitiesPakistaniTourists: BlogPostSeed = {
       text: "Ten cities, one visa, one well-built file. Ours to build, yours to enjoy.",
     },
   ],
+  faqs: [
+    { q: "Which European cities suit Pakistani first-timers?", a: "Istanbul as the warm-up, then Paris, Rome, and Barcelona for the classics, and Prague and Budapest for value. The Schengen file rewards a focused route over a marathon." },
+    { q: "How many European cities fit in one trip?", a: "Three to four in ten to twelve days, rail-linked and regionally clustered. Every added city costs a half-day of transit and a visa-file complication." },
+    { q: "Is it safe to book travel online from Pakistan?", a: "Safe with the standard habits: registered pages, company bank accounts, and written confirmations. The fake-agent problem lives in social media inboxes, not booking systems." },
+    { q: "Should the rupee rate change my travel plans?", a: "A weakening rupee raises the price of every meal and ride you did not prepay. Build the buffer accordingly and recheck weekly before departure." },
+  ],
 };

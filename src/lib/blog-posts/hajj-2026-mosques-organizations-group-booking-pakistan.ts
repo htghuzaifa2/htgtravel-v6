@@ -56,4 +56,10 @@ export const hajj2026MosquesOrganizationsGroupBookingPakistan: BlogPostSeed = {
       text: "Communities travel beautifully when organized properly. We organize. Properly.",
     },
   ],
+  faqs: [
+    { q: "How do mosque and organization Hajj groups work?", a: "Local mosques and community organizations book through licensed Hajj group organisers, bundling familiar neighbours into shared tents and buses. The comfort is familiarity; the trade-off is less hotel and flight choice. Verify the organizer's licence number before depositing." },
+    { q: "Are mosque-organized Hajj groups cheaper?", a: "Often modestly, since group organisers pass volume savings and the package skips boutique hotels. The real differences sit in tent distance and Makkah hotel location, so compare those specifics against the government scheme before deciding." },
+    { q: "Can I do Hajj on a tourist visa?", a: "No. Hajj requires a specific Hajj visa tied to a licensed operator or government scheme; tourist eVisas explicitly exclude Hajj. Umrah outside the Hajj season is what the eVisa permits." },
+    { q: "What is the difference between government and private Hajj schemes?", a: "Same visa category, different comfort economics. Government schemes prioritise capping cost; private schemes sell proximity, catering, and group leadership quality." },
+  ],
 };

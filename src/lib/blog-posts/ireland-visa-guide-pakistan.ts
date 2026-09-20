@@ -57,4 +57,10 @@ export const irelandVisaGuidePakistan: BlogPostSeed = {
       text: "Old-school paperwork, new-world destination. We handle the first. You pack for the second.",
     },
   ],
+  faqs: [
+    { q: "Do Pakistanis need a visa for Ireland?", a: "Yes, and note that Ireland is not part of the Schengen area, so a Schengen visa does not work there. Pakistanis apply online through AVATS, then submit the printed summary and documents at the VFS centre." },
+    { q: "How long does an Irish visit visa take?", a: "Decisions commonly take four to eight weeks from submission, longer in peak summer. Since Ireland is outside Schengen, do not plan a combined Europe-plus-Ireland trip on one timeline; treat it as its own application." },
+    { q: "What does a dummy ticket mean for visa files?", a: "A booking reference that exists in the airline system at zero cost. The correct tool for visa files; screenshots of paid tickets are what create refusal-day losses." },
+    { q: "Will the consulate call my employer in Pakistan?", a: "Sometimes, by calling the listed number or checking the company's registration. Tell your HR department and supervisor about the application so an unfamiliar call does not sink a genuine letter." },
+  ],
 };

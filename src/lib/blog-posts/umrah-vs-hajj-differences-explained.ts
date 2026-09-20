@@ -57,4 +57,10 @@ export const umrahVsHajjDifferencesExplained: BlogPostSeed = {
       text: "Umrah starts at the Kaaba; Hajj peaks at Arafat. We walk with our clients the whole road. Walk with us.",
     },
   ],
+  faqs: [
+    { q: "What is the core difference between Umrah and Hajj?", a: "Hajj is the obligatory pilgrimage tied to fixed Dhul Hijjah dates, with full rituals across five days. Umrah is the shorter, optional pilgrimage open every day of the year and completable in hours. Hajj is owed once in a lifetime if able; Umrah is a repeatable Sunnah." },
+    { q: "Does Umrah count as Hajj if I cannot afford Hajj?", a: "No, they are separate acts. An Umrah in Ramadan carries a Hajj-like reward in hadith, but it never substitutes for the obligation. Keep saving for Hajj while enjoying Umrah's accessibility in the years between." },
+    { q: "What visa do Pakistanis use for Umrah?", a: "There is no arrival option for the green passport. You travel either on an Umrah visa processed through Nusuk by your operator, or on the tourist eVisa, which includes mandatory insurance and permits Umrah outside Hajj." },
+    { q: "How many days should an Umrah trip be?", a: "Seven days works for veterans on a tight budget, but most families book twelve to fourteen nights and return glad they did. Add days if you take the Madinah congregational-prayer tradition seriously." },
+  ],
 };

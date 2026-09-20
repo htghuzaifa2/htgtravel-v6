@@ -60,4 +60,10 @@ export const saudiTouristEvisaStepByStep: BlogPostSeed = {
       text: "One message to our desk and you will know your exact Saudi route. Before you spend a single riyal.",
     },
   ],
+  faqs: [
+    { q: "How much does the Saudi tourist eVisa cost Pakistanis?", a: "The total is SAR 440, which bundles the visa fee with the mandatory health insurance, paid online by card. The eVisa is valid for a full year with stays up to 90 days and permits Umrah outside the Hajj season." },
+    { q: "How long does the Saudi eVisa take to approve?", a: "Approval usually lands within minutes to a few hours of a clean application: passport scan, photo, personal details, and payment. Errors in the passport number or a blurred scan are what delay files, so upload carefully." },
+    { q: "Is the visa fee refundable if my application is refused?", a: "No. The fee pays for processing the application, not for the outcome, and every major consulate treats it as earned once the file is assessed." },
+    { q: "How far before my trip should the visa be filed?", a: "The working rule is earliest bookable slot inside three months of departure. Consulates accept files earlier; centres simply run out of slots first." },
+  ],
 };

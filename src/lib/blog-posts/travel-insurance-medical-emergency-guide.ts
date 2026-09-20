@@ -55,4 +55,10 @@ export const travelInsuranceMedicalEmergencyGuide: BlogPostSeed = {
       text: "Cover arranged before departure, emergency numbers briefed before the flight. That is our standard.",
     },
   ],
+  faqs: [
+    { q: "How does medical insurance work abroad for Pakistanis?", a: "Policies run two ways: cashless treatment through the insurer's hospital network with prior authorisation, or pay-and-claim with full documentation. Carry the policy card and the 24-hour assistance number everywhere." },
+    { q: "Will my Pakistani health insurance work abroad?", a: "Domestic Pakistani health plans stop at the border for practical purposes. Travel medical insurance is the cover that works in foreign hospitals, which is why Schengen made it mandatory." },
+    { q: "Does travel insurance cover visa refusal?", a: "Not on ordinary cover. If a refusal would sink your prepaid costs, buy the rider that names refusal in its covered-reasons list." },
+    { q: "Is travel insurance worth it for short trips?", a: "The premium is small and the medical floor is enormous, so yes for anything international. The genuine self-insurance question belongs to domestic trips with refundable bookings." },
+  ],
 };

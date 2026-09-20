@@ -58,4 +58,10 @@ export const cheapestCountriesVisitFromPakistan: BlogPostSeed = {
       text: "Total trip cost, computed daily at our desk. Your ceiling, our shortlist. Message us.",
     },
   ],
+  faqs: [
+    { q: "Which countries are genuinely cheap for Pakistanis right now?", a: "Sri Lanka, Nepal, and Uzbekistan price like home; Baku and Thailand sit a step up; Malaysia and Turkey stay mid-range with strong value. Flights decide the total more than ground costs." },
+    { q: "How do I keep a cheap trip cheap?", a: "Book flights early, sleep slightly outside the centres, eat where the queues are local, and move overland where distances allow. Daily savings compound into extra days of travel." },
+    { q: "What is the safest way to carry documents abroad?", a: "Two rules carry the day: nothing valuable in back pockets or open bags, and the hotel safe holding the backups. Losable is a design goal." },
+    { q: "How does HTG Travels help with trips like this?", a: "One desk runs the paperwork, the bookings, and the fixes from the first WhatsApp message to your safe arrival home. Travelling with a desk behind you changes the whole experience." },
+  ],
 };

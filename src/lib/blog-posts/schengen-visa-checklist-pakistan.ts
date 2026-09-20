@@ -63,4 +63,10 @@ export const schengenVisaChecklistPakistan: BlogPostSeed = {
       text: "The difference between an approval and a refusal is usually one missing document. Let us check your file before the embassy does.",
     },
   ],
+  faqs: [
+    { q: "What documents does a Pakistani need for a Schengen visa?", a: "Passport, photographs, the application form, travel insurance covering EUR 30,000 across all Schengen states, flight and hotel bookings, a day-wise itinerary, three to six months of bank statements, and proof of employment or business with an NOC. The file is submitted in person at the visa application centre." },
+    { q: "Which Schengen country should a Pakistani apply to?", a: "The rule is fixed: apply to the country of your main destination, meaning where you spend the most nights. If the stay splits evenly, apply to the country of first entry. Applying to an easier consulate with a fake itinerary is a known refusal trigger." },
+    { q: "How much bank balance is needed for a Schengen visa from Pakistan?", a: "Enough to fund the itinerary without strain, shown over months rather than weeks. If the balance jumps from thin savings to six figures days before submission, expect questions you will struggle to answer." },
+    { q: "Is travel insurance mandatory for a Schengen visa?", a: "Mandatory at EUR 30,000 minimum medical coverage, spanning your whole stay and the entire zone. The policy document itself goes into the file, so buy it before your submission date." },
+  ],
 };

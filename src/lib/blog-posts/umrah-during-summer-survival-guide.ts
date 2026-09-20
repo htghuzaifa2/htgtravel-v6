@@ -57,4 +57,10 @@ export const umrahDuringSummerSurvivalGuide: BlogPostSeed = {
       text: "The sun is a scheduling problem, and scheduling is our craft. Summer Umrah, engineered properly. Ask us.",
     },
   ],
+  faqs: [
+    { q: "How hot does Makkah get in summer and how do I cope?", a: "Daytime regularly passes 45 degrees from May to September. The routine is simple: a white umbrella, a bottle refilled at Zamzam points, prayers inside the air-conditioned halls at peak hours, and rituals at night or just after Fajr." },
+    { q: "Why choose summer Umrah despite the heat?", a: "It is the cheapest and quietest season, with hotel rates dropping by half and the Mataf walkable at human speed. Families with flexible dates and budget pilgrims get far more trip for the money, and the Haram cools pleasantly after dark." },
+    { q: "Which airport should I fly into for Umrah?", a: "Let your itinerary decide. A Madinah-first route starts calm and builds toward Makkah, while a Jeddah arrival gets Umrah done in the first 48 hours." },
+    { q: "How much does a basic Umrah package cost from Pakistan?", a: "Plan around PKR 200,000 to 300,000 per person for a standard shared package; Ramadan weeks and near-Haram hotels inflate that quickly. Flights out of Lahore move the figure almost as much as the hotel." },
+  ],
 };

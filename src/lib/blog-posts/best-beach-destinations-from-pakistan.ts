@@ -57,4 +57,10 @@ export const bestBeachDestinationsFromPakistan: BlogPostSeed = {
       text: "The sea, properly booked. Our desk handles the booking. You handle the sunscreen.",
     },
   ],
+  faqs: [
+    { q: "Which beach destination is easiest for Pakistanis right now?", a: "The Maldives on its free arrival visa, Qatar for a Gulf beach break, and Sri Lanka with its quick ETA. Thailand and Bali reward more planning with better value per day." },
+    { q: "When should Pakistanis book beach trips?", a: "Dry-season windows book out first: the Maldives December to April, Thailand November to February. Lock flights and the first hotel three to four months ahead for those dates." },
+    { q: "Is it safe to book travel online from Pakistan?", a: "Yes, within the usual rules: registered operators, company accounts, written confirmations. Fraud follows the buyer who skips verification, not the internet itself." },
+    { q: "How do exchange rates affect my trip budget?", a: "They set the real price of everything you did not prepay. A ten percent rupee slide inflates your daily costs by the same margin, so keep the buffer fat when the currency is moving." },
+  ],
 };

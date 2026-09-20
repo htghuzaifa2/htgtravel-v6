@@ -56,4 +56,10 @@ export const umrahRamadanIftarHaramGuide2026: BlogPostSeed = {
       text: "Ramadan positions near the iftar carpets vanish first. Let us hold yours early.",
     },
   ],
+  faqs: [
+    { q: "How does iftar work at the Haram?", a: "Dates and Arabic coffee arrive with the adhan, followed by a community meal of rice and yoghurt served to the sitting rows. Pilgrims who want the full experience claim floor seats an hour early; many prefer eating at the hotel and returning for Tarawih." },
+    { q: "Can I bring my own food for iftar inside the Haram?", a: "Yes, families commonly carry dates, sandwiches, and water, eating where they sit. Avoid hot meals and large spreads out of respect for the cleaners who work through the night, and clear your spot afterward as a matter of courtesy." },
+    { q: "Do I need the Nusuk app during Umrah?", a: "For eVisa travellers it is the tool for permits and prayer bookings; for Umrah-visa groups the operator manages it. Either way, having it costs nothing and saves standing in queues." },
+    { q: "What ends ihram after completing Umrah?", a: "The final ritual, exiting ihram by cutting hair. Full shave or full trim for men, a fingertip's trim for women. Until it happens, ihram restrictions still apply." },
+  ],
 };

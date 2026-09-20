@@ -56,4 +56,10 @@ export const umrahWithDiabetesChronicIllnessCompleteGuide2026: BlogPostSeed = {
       text: "The condition shapes the itinerary, not the intention. We write both. Ask us.",
     },
   ],
+  faqs: [
+    { q: "Can I do Umrah with diabetes or a heart condition?", a: "Yes, with planning: doctor sign-off before booking, medicines split across two bags with prescription letters, sugar supplies in your ihram pouch, and a slow-pace ritual plan built around night hours. The 45-degree summer months are the one season to avoid." },
+    { q: "How do I store insulin during Umrah?", a: "Evaporating Frio-style pouches keep insulin cool for days without a fridge, and every hotel fridge extends that further. Saudi pharmacies stock common insulins, but carry your own supply plus the prescription in case customs asks." },
+    { q: "Which months are cheapest for Umrah?", a: "The quiet Islamic months after the new year and the hot mid-year window are the budget seasons. Ramadan and the December holidays command the year's premium, with the last ten nights at the very top." },
+    { q: "Can women travel for Umrah without a mahram?", a: "Officially permitted in groups, yes. What still matters is choosing an operator experienced with solo women travellers, a near hotel, and a group leader the women can reach at all hours." },
+  ],
 };

@@ -83,4 +83,10 @@ export const hunzaVsSkardu: BlogPostSeed = {
       text: "There is no wrong answer, only the one that fits your time and your idea of adventure. Hunza gives charm; Skardu gives scale; either way you will come home planning the return.",
     },
   ],
+  faqs: [
+    { q: "Hunza or Skardu: which should a first-timer choose?", a: "Short on time or travelling with elders: Hunza, easier to reach and gentler to move through. A week or more plus a craving for deserts and lakes: Skardu. Ten to twelve days does both." },
+    { q: "When is the road to Hunza and Skardu open?", a: "The Karakoram Highway stays open year-round to Hunza, while the Skardu road slows in winter and its flight turns weather-dependent. May to October is the comfortable window for both valleys." },
+    { q: "How much does a northern Pakistan trip cost?", a: "A comfortable private trip runs near PKR 15,000 to 25,000 per person per day including a car and driver, mid-range hotels, and meals. Public transport and guesthouse travel halves that for budget groups." },
+    { q: "Do I need permits or NOCs for northern Pakistan travel?", a: "Ordinary tourism needs no paperwork on the standard routes. Border-zone travel and certain mountaineering areas take an NOC through the authorities, arranged ahead of time by established operators." },
+  ],
 };

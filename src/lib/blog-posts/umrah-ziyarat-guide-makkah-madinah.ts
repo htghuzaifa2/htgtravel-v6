@@ -58,4 +58,10 @@ export const umrahZiyaratGuideMakkahMadinah: BlogPostSeed = {
       text: "We send guides who tell the stories, not just the routes. That difference defines our packages.",
     },
   ],
+  faqs: [
+    { q: "Which ziyarat sites should I definitely see?", a: "In Makkah: Jabal al-Noor, the Mina and Muzdalifah grounds, and the Kaaba cloth factory. In Madinah: Masjid Quba, Masjid Qiblatayn, Mount Uhud, and the Baqi graveyard, usually covered comfortably in one half-day bus tour." },
+    { q: "Are ziyarat tours included in Umrah packages?", a: "Roughly half of operators include one shared bus tour per city; the rest charge USD 10 to 15 per seat. A private car ziyarat with an Urdu-speaking guide costs more but lets you linger at Uhud and Quba, which most pilgrims end up appreciating." },
+    { q: "What does halq or taqsir mean after Umrah?", a: "Halq means shaving the head, taqsir means trimming it short all over; men do one or the other to close their Umrah. Women trim a small length of hair and exit ihram." },
+    { q: "Do Pakistani passport holders need a visa for Umrah?", a: "Correct, and no airport in Saudi issues one to a Pakistani passport. The Umrah visa comes through licensed operators on Nusuk, or you use the tourist eVisa with its included insurance." },
+  ],
 };

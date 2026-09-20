@@ -56,4 +56,10 @@ export const thailandTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "First trip or fifth, Thailand rewards good planning. We supply the planning. Daily.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit Thailand from Pakistan?", a: "November to February is the cool, dry window that suits Pakistani families perfectly; March and April turn hot, and the monsoon settles in around June, so time the trip to the earlier window." },
+    { q: "Do Pakistanis need a visa for Thailand?", a: "Pakistanis need the e-visa, filed online with bank statements, bookings, and employment proof. Processing runs about two weeks and stretches toward three in peak season, so file a month before your dates." },
+    { q: "How much does a Thailand trip cost from Pakistan?", a: "Budget travellers manage near PKR 15,000 a day and mid-range travellers around PKR 20,000 to 30,000, with flights separate. Island stays add cost, Bangkok removes it, so the mix decides the average." },
+    { q: "How many days are enough for Thailand?", a: "Seven to ten days fits Bangkok plus one or two islands without rushing. First-timers should resist squeezing a fourth destination in, since Thai transport rewards slow travel." },
+  ],
 };

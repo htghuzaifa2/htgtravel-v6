@@ -61,4 +61,10 @@ export const malaysiaTouristVisaGuidePakistan: BlogPostSeed = {
       text: "eVisa plus the right airfare equals the cheapest proper international trip from Pakistan. Ask us to price both together.",
     },
   ],
+  faqs: [
+    { q: "Can Pakistanis get a Malaysia e-visa?", a: "Yes, the Malaysian e-visa platform serves Pakistani applicants directly: upload passport, photo, bookings, and bank proof, then receive the e-visa by email to print and carry. Processing usually runs about a week." },
+    { q: "What does the Malaysia e-visa cost from Pakistan?", a: "The e-visa fee is modest, roughly USD 20 to 30 depending on the processing tier, but totals shift slightly with payment-channel charges. Budget for the visa plus the usual endorsements and keep the payment receipt for the entry check." },
+    { q: "Is there a waiting period after a visa refusal?", a: "Most systems allow immediate refiling, and none of the major ones impose a ban after a simple refusal. The right delay is the time needed to genuinely fix the stated ground, usually a few weeks of document work." },
+    { q: "How do I show strong ties to Pakistan in my file?", a: "Employment with approved leave, a business you own with recent activity, property or family structure, and prior travel that ended on time. Officers weigh the whole pattern, not any single certificate." },
+  ],
 };

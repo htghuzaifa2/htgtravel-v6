@@ -57,4 +57,10 @@ export const umrahEtiquetteGuideMakkahMadinah: BlogPostSeed = {
       text: "Manners are the real luggage of this journey. We pack our pilgrims with them.",
     },
   ],
+  faqs: [
+    { q: "What etiquette matters most in the Haram?", a: "Walk gently, never push at the Black Stone line, keep phones silent, step aside for wheelchairs, and sit only where sitting rows form. Greeting strangers with salam in passing is Sunnah and changes the whole atmosphere around you." },
+    { q: "How do I avoid disturbing other pilgrims?", a: "Pray your Sunnah in side areas rather than main walkways, keep children close, skip perfumes near ihram-wearing pilgrims, and lower conversation during recitation. The rule is simple: behave as you would at a funeral and a festival at once." },
+    { q: "How many days should an Umrah trip be?", a: "For a first Umrah, book ten to fourteen nights: arrival day counts for nothing, one rest day is essential, and Madinah deserves at least three unhurried nights on its own." },
+    { q: "Is the meningitis vaccine required for Umrah?", a: "Saudi rules make meningitis ACWY mandatory for Umrah arrivals, and airlines check the certificate at check-in. Any major hospital travel clinic in Islamabad can vaccinate and document you the same day." },
+  ],
 };

@@ -57,4 +57,10 @@ export const greeceSchengenVisaGuidePakistan: BlogPostSeed = {
       text: "Some visas feel like exams. Greek ones feel like itineraries with a stamp. We will get yours filed.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis apply for a Greece Schengen visa?", a: "Through the visa application centre serving Greece in Pakistan, with the standard Schengen file and biometrics. Greek processing is usually steady outside the May-to-September tourist crush, when both slots and decisions slow." },
+    { q: "Can a Greece visa cover island hopping too?", a: "Yes, one Schengen visa covers all Greek islands and every other Schengen state within the 90/180 rule. Just keep the Greek share of nights the largest if Greece is your stated main destination." },
+    { q: "Is travel insurance mandatory for a Schengen visa?", a: "The visa will not process without it. A week of qualifying cover costs roughly the price of a meal, and the certificate must name the Schengen area explicitly." },
+    { q: "What is the Schengen visa fee for Pakistani applicants?", a: "EUR 90 for adults, EUR 45 for children aged 6 to 12, and free under 6, payable at submission in rupees at the day's consular rate. The application centre adds its own service fee on top." },
+  ],
 };

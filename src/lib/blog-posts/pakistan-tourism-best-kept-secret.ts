@@ -70,4 +70,10 @@ export const pakistanTourismBestKeptSecret: BlogPostSeed = {
       text: "The valleys are ready. The crowds are still asleep. That window is the whole point.",
     },
   ],
+  faqs: [
+    { q: "Why do foreign travellers call Pakistan the best-kept secret?", a: "The mountains rank with anywhere on earth, the hospitality is genuine, and the costs stay gentle. The secret survives mostly because the world's perception lags the reality on the ground." },
+    { q: "Which regions lead Pakistan's tourism?", a: "Hunza and Skardu for valleys, the Karakoram Highway for the road itself, Swat and Kalam for accessibility, and the Deosai plains for absolute quiet." },
+    { q: "How do I book flights to Skardu or Gilgit?", a: "Book through the airline or a domestic operator two months before summer travel; the northern sectors run small aircraft on weather-dependent schedules. A spare day in Islamabad absorbs the occasional cancellation." },
+    { q: "How much does a northern Pakistan trip cost?", a: "Count PKR 12,000 to 20,000 per person per day for mid-range comfort with shared transport, rising with private 4x4s and the best valley hotels. Domestic flights to Skardu add their own line." },
+  ],
 };

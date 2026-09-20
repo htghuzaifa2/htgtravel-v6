@@ -92,4 +92,10 @@ export const isPakistanSafeForSoloFemale: BlogPostSeed = {
       text: "Dress thoughtfully, move by daylight, pre-book your nights, start in the north, and lean on local help for the complicated legs. You will not just feel safe; you will feel embraced.",
     },
   ],
+  faqs: [
+    { q: "Is Pakistan safe for solo female travellers?", a: "With preparation, yes: thousands of foreign women now travel the north every season. The working formula is conservative dress, pre-booked guesthouses, daytime movement, and local guides in remote areas." },
+    { q: "What should foreign women know before visiting Pakistan?", a: "Dress modestly, arrange the first night's stay in advance, and expect curiosity that is usually friendliness in disguise. A local SIM, an e-visa started early, and mountain guesthouses used to women travellers complete the picture." },
+    { q: "Do women need to wear a hijab in Pakistan?", a: "No law requires it. Most foreign women cover their heads only inside mosques and shrines, while loose clothing and a shawl work everywhere else. Matching local modesty earns warmth rather than attention." },
+    { q: "Which areas do women travellers usually visit in Pakistan?", a: "The north, meaning Hunza, Skardu, and the Swat valley, plus Lahore and Islamabad, form the standard route with guesthouses accustomed to women travellers. Remote border zones need local guidance and permits." },
+  ],
 };

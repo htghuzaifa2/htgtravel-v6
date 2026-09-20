@@ -55,4 +55,10 @@ export const saudiArabiaTravelGuidePakistanis: BlogPostSeed = {
       text: "The Arabia your parents never toured. We will map the legal, comfortable route. Ask us.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit Saudi Arabia from Pakistan?", a: "October to March carries comfortable tourism weather for Riyadh, Jeddah, and AlUla; summer is extreme outside the mountains, which stay cool year-round." },
+    { q: "Do Pakistanis need a visa for Saudi Arabia?", a: "The tourist eVisa at SAR 440 with included insurance serves most travellers, Umrah included outside the Hajj window. It issues online within minutes to hours." },
+    { q: "How much does a Saudi Arabia trip cost from Pakistan?", a: "Riyadh and Jeddah run near PKR 25,000 to 35,000 a day mid-range, with AlUla's desert hotels the premium exception worth one splurge night." },
+    { q: "How many days are enough for Saudi Arabia?", a: "Five to seven days links Riyadh, Jeddah, or AlUla depending on the season and appetite. AlUla alone justifies the whole trip in winter." },
+  ],
 };

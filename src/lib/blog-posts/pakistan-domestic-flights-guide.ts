@@ -55,4 +55,10 @@ export const pakistanDomesticFlightsGuide: BlogPostSeed = {
       text: "Domestic legs, international journeys. One desk, same-day service. Message us your route.",
     },
   ],
+  faqs: [
+    { q: "Which airlines fly domestically in Pakistan?", a: "PIA covers the full map including the northern routes, with Airblue, Serene Air, and flyeasy competing on the Karachi-Lahore-Islamabad trunk. Northern flights to Skardu and Gilgit stay seasonal and weather-bound." },
+    { q: "How early should I book domestic flights in Pakistan?", a: "Two to three weeks for trunk routes, and two months for summer Skardu and Gilgit seats, which sell out entirely in the school holidays. Prices climb predictably as the cabin fills." },
+    { q: "Can I change my flight dates after booking?", a: "Yes, with the fare's own rules setting the price. Booking flexible fares costs more upfront and saves multiples when plans move." },
+    { q: "Where should Pakistanis book their flights?", a: "Airlines suit simple direct bookings; agencies earn their fee on multi-city routes, group terms, and when something goes wrong mid-trip and you need a human working your rebooking." },
+  ],
 };

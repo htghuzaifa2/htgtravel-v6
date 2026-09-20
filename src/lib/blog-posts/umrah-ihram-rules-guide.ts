@@ -57,4 +57,10 @@ export const umrahIhramRulesGuide: BlogPostSeed = {
       text: "Knowledge before departure, peace during worship. That is how our guided packages work.",
     },
   ],
+  faqs: [
+    { q: "What is forbidden while in ihram?", a: "Cutting hair or nails, using perfume or scented soap, men covering the head, men wearing stitched cloth, hunting, arguing, and marital relations. Accidental breaches do not ruin the Umrah; deliberate ones require fidyah, usually feeding six people or sacrificing a sheep." },
+    { q: "What exactly is ihram for men and women?", a: "Men wear two unstitched white sheets, one around the waist and one over the shoulders, with sandals showing the ankle bones. Women wear ordinary modest clothing with a hijab; gloves and face veils are discouraged during ihram, so a cap-style veil suits those who prefer fuller coverage." },
+    { q: "How early should I book my Umrah package?", a: "Off-peak months need six to ten weeks. Ramadan, December, and the Eid weeks deserve three to four months, because near-Haram rooms and direct seats sell first." },
+    { q: "How should I carry money during Umrah?", a: "Riyals in cash, a fee-light card, and backup funds in your account covers every scenario from street food to a medical bill. Split cash between adults when travelling as a family." },
+  ],
 };

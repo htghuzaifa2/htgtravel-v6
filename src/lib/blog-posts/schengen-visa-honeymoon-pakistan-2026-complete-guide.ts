@@ -57,4 +57,10 @@ export const schengenVisaHoneymoonPakistan2026CompleteGuide: BlogPostSeed = {
       text: "Couples hand us the dream; we hand back the file. That division of labour works beautifully.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistani newlyweds apply for a Schengen honeymoon visa?", a: "Both spouses apply together with the nikkah certificate translated where required, shared or matched bookings, and each other named in the files. A single coherent itinerary covering both passports reads far stronger than two separate plans." },
+    { q: "Do we need individual bank statements for a honeymoon Schengen file?", a: "Each applicant submits personal financial documents, though a joint sponsor arrangement can be declared with a letter. What matters is that the combined trip cost is visibly covered without sudden unexplained deposits." },
+    { q: "What are the most common Schengen refusal reasons for Pakistanis?", a: "Funds judged insufficient or implausible, itineraries contradicting the bookings, weak ties pulling the applicant home, and doubts about document authenticity. Every refusal letter names its ground, which is the syllabus for the next attempt." },
+    { q: "Can I ticket flights before my Schengen visa is decided?", a: "Book hotels with free cancellation and hold flights as reservations or refundable fares. Full non-refundable ticketing before the decision is a bet against your own file." },
+  ],
 };

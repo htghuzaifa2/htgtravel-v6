@@ -55,4 +55,10 @@ export const nusukPermitGuideUmrah: BlogPostSeed = {
       text: "Permits are a solved problem when your agency handles them. Ours does. Ask how.",
     },
   ],
+  faqs: [
+    { q: "What is Nusuk and do I need it for Umrah?", a: "Nusuk is Saudi Arabia's official platform for Umrah visas, permits, and prayer services. Umrah visa holders have arrangements handled through their licensed operator, while tourist eVisa holders use the Nusuk app mainly for permits and optional bookings." },
+    { q: "Do I need a permit to perform Umrah in 2026?", a: "Outside Ramadan, general Umrah access has run without a separate permit under current rules. During Ramadan, permit slots for Umrah and certain prayers are regulated through Nusuk, so book your slot as soon as dates are announced." },
+    { q: "Is the meningitis vaccine required for Umrah?", a: "Yes. Saudi Arabia requires a valid meningococcal ACWY certificate for arriving pilgrims, ideally injected at least ten days before travel. Designated centres in Pakistan issue the yellow card same day." },
+    { q: "When is the right time to book Umrah?", a: "Aim for two months of margin in ordinary months and double that for the last ten nights of Ramadan. Flights from Karachi tighten before hotels do, so lock the airline first." },
+  ],
 };

@@ -71,4 +71,10 @@ export const pakistanFoodTrailLahoreKarachiPeshawar: BlogPostSeed = {
       text: "In Pakistan, the menu is the map.",
     },
   ],
+  faqs: [
+    { q: "What is Pakistan's best food route?", a: "Lahore's inner-city classics, Karachi's coastal and street food mix, and Peshawar's meat-and-bread tradition. Three cities, three cuisines, and one very happy week." },
+    { q: "Is Pakistani street food safe for visiting foreigners?", a: "Largely yes on the busy stalls where turnover is fast and frying is fresh. Foreign stomachs should start gently, avoid pre-cut fruit, and keep to the cooked-hot rule." },
+    { q: "How much does the food trail cost?", a: "Eating the trail properly runs near PKR 3,000 to 5,000 per person per day at the famous stalls, more with heritage-restaurant dinners. Transport between the three cities adds the real cost." },
+    { q: "Which dishes should first-time visitors not miss?", a: "Lahore's nihari and paya at dawn, Karachi's biryani and bun kebab culture, and Peshawar's chapli kebab with fresh nan. Take one city at a time and pace the appetite honestly." },
+  ],
 };

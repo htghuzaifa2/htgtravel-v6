@@ -59,4 +59,10 @@ export const qatarVisaGuidePakistan: BlogPostSeed = {
       text: "The visa is free. The planning is what makes it smooth, and that part is our job.",
     },
   ],
+  faqs: [
+    { q: "Do Pakistanis need a visa for Qatar?", a: "No advance visa at all: Pakistani passport holders receive a free 30-day visa on arrival, extendable by another 30 days through Qatar's interior ministry platform. You still need a return ticket, a hotel booking, and funds proof at the counter." },
+    { q: "Why do some Pakistanis get turned around at Doha airport?", a: "The visa itself is free, but the entry checks are not a formality: missing hotel confirmations, no return ticket, thin cash or cards, or a passport with under six months validity all cause turnarounds. Carry printed proof of all four." },
+    { q: "What does a dummy ticket mean for visa files?", a: "It is a real PNR held without payment, printable as an itinerary confirmation. Consulates accept them precisely because ticketing before approval is unreasonable." },
+    { q: "Do visa officers verify employment in Pakistan?", a: "Expect occasional checks on the letterhead, the number, and the signatory. Employers surprised by the call create doubt no other document can repair." },
+  ],
 };

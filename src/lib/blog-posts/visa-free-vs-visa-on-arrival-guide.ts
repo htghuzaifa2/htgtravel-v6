@@ -83,4 +83,10 @@ export const visaFreeVsVisaOnArrivalGuide: BlogPostSeed = {
       text: "Thirty doors, no embassy queue. Know which one you are knocking on.",
     },
   ],
+  faqs: [
+    { q: "What is the difference between visa-free and visa on arrival?", a: "Visa-free means you board with just a passport and stamp in at the border. Visa on arrival means a document issued at the airport counter after checks and often a fee. Electronic authorisations are the third door, approved online before departure." },
+    { q: "Which door is best for a Pakistani passport?", a: "Arrival doors are the easiest wins: the Maldives, Qatar, and Nepal treat Pakistanis smoothly at the counter. E-visa doors like Turkey's conditional route add planning but widen your map far beyond the pure visa-free list." },
+    { q: "Should I trust agents who promise visa approval?", a: "No agent can guarantee a consulate decision, and anyone who does is selling comfort, not outcomes. What a good agent guarantees is a complete, consistent file and correct appointment handling." },
+    { q: "Should I mention relatives living abroad in my visa application?", a: "Declare them and keep the visit short in the plan. Concealment discovered through any database turns an approvable file into a credibility case." },
+  ],
 };

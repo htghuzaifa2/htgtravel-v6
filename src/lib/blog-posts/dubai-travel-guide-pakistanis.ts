@@ -55,4 +55,10 @@ export const dubaiTravelGuidePakistanis: BlogPostSeed = {
       text: "The most-quoted trip at our desk, quoted daily. Yours is one message away.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit Dubai from Pakistan?", a: "November to March delivers pleasant desert-city weather that makes walking the outdoor districts a pleasure; June to September turns seriously hot, pushing life indoors and into malls." },
+    { q: "Do Pakistanis need a visa for Dubai?", a: "No arrival option exists for Pakistanis: the visa is arranged before flying through an airline, hotel, or licensed agency, typically issuing in three to five working days." },
+    { q: "How much does a Dubai trip cost from Pakistan?", a: "Mid-range days run PKR 35,000 to 50,000 with smart hotel picks in Deira or Bur Dubai; desert safaris, brunches, and theme parks push the number upward quickly." },
+    { q: "How many days are enough for Dubai?", a: "Four to five days suits a first visit: the old creek districts, one mega-mall day, a desert evening, and the Burj Khalifa area at night." },
+  ],
 };

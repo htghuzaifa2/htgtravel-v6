@@ -56,4 +56,10 @@ export const familyUmrahTipsWithChildren: BlogPostSeed = {
       text: "Families are not an adjustment to our packages. They are the package. Ask about family departures.",
     },
   ],
+  faqs: [
+    { q: "Can children perform Umrah, and does it count?", a: "Children can wear ihram and complete every ritual alongside a parent, and their Umrah is valid, though obligation only starts at puberty. Families usually let kids join Tawaf holding hands and rest them through Sa'i in a stroller." },
+    { q: "How do I keep kids safe in the Haram crowds?", a: "Write your hotel name and phone number on their wrist bands, agree on a fixed meeting gate, keep visits short between prayers, and use courtyard strolls instead of main-hall seating. Strollers are welcome everywhere except the Mataf itself." },
+    { q: "How early should I book my Umrah package?", a: "The practical window is eight weeks for quiet months, four months for peak. What sells out first is the combination of a close hotel and a direct flight, so book both together." },
+    { q: "How much cash should I carry for Umrah?", a: "Cash for the small things, cards for the big ones. Keep notes in small denominations for wheelchair attendants and ziyarat tips, and never carry the full trip budget in one pocket." },
+  ],
 };

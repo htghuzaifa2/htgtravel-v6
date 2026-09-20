@@ -55,4 +55,10 @@ export const pakistanToIstanbulFlightGuide: BlogPostSeed = {
       text: "Istanbul as destination or doorway. Either way, we price it daily. Message us.",
     },
   ],
+  faqs: [
+    { q: "Which airlines fly direct from Pakistan to Istanbul?", a: "Turkish Airlines flies daily from Karachi, Lahore, and Islamabad, with PIA also serving the route. Direct flights land around five and a half hours, and Gulf one-stops compete on price." },
+    { q: "How much does a Pakistan to Istanbul return ticket cost?", a: "Typically PKR 100,000 to 160,000 return economy depending on season and how early you book. Turkish sales and Gulf-connector competition create the dips worth waiting for." },
+    { q: "Are one-stop flights cheaper than direct from Pakistan?", a: "One-stops win the price war on most routes out of Pakistan. Direct flights sell the hours they save, and peak-season direct seats simply vanish first." },
+    { q: "How much baggage do international flights allow?", a: "Two pieces at 23 kilograms remains the full-service norm out of Islamabad, with cabin bags on top. Budget connectors apply à la carte pricing to every kilogram." },
+  ],
 };

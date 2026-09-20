@@ -55,4 +55,10 @@ export const maldivesTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The signature honeymoon of our desk. Quoted daily, remembered forever. Ask for yours.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit the Maldives from Pakistan?", a: "December to April is the dry season with the year's best water clarity; May to November brings lower rates and brief rains that many budgets happily accept." },
+    { q: "Do Pakistanis need a visa for the Maldives?", a: "A free 30-day arrival visa greets Pakistanis at Male, needing only passport, hotel confirmation, and funds proof at the counter. It is the easiest paradise entry on the green passport." },
+    { q: "How much does a the Maldives trip cost from Pakistan?", a: "Local islands run near PKR 15,000 a day all-in, while resorts start at several multiples of that. The transfer type, speedboat versus seaplane, moves the total as much as the room does." },
+    { q: "How many days are enough for the Maldives?", a: "Four to five nights is the classic stay, long enough to settle into island time without exhausting the budget. Honeymooners often stretch to a week." },
+  ],
 };

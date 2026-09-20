@@ -57,4 +57,10 @@ export const singaporeVisaGuidePakistan: BlogPostSeed = {
       text: "Clean file, fast approval, city of miracles. We handle the first part. You enjoy the rest.",
     },
   ],
+  faqs: [
+    { q: "How do Pakistanis get a Singapore visa?", a: "Singapore visas for Pakistanis are filed through authorised local agents, sponsored by a Singapore contact or the agency's local partner. You submit photographs, forms, and financial documents to the agent, who files electronically." },
+    { q: "How long does the Singapore visa take?", a: "Approval usually arrives within three to five working days after the sponsor submits, though busy periods stretch it. The visa is issued electronically and printed for travel, so watch your email rather than the post." },
+    { q: "Does holding a US or Schengen visa open other doors?", a: "Materially. It signals prior vetting by a strict system, and it mechanically opens doors like Turkey's e-visa and certain arrival schemes. Older visas inside the passport count even when expired." },
+    { q: "How do visa officers assess bank statements?", a: "Statements are profiled for rhythm: income in, life out, balance drifting up. The officer compares that rhythm against your salary slip and trip budget." },
+  ],
 };

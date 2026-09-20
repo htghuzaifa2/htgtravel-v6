@@ -57,4 +57,10 @@ export const groupTravelDestinationsFromPakistanFriendsFamily: BlogPostSeed = {
       text: "Twelve travellers, one thread, zero drama. The group desk standard. Bring your jamaat.",
     },
   ],
+  faqs: [
+    { q: "Which destinations suit big Pakistani groups?", a: "Baku and Dubai for short flights and group hotel ease, Malaysia for infrastructure, and northern Pakistan for zero visa needs at all. Groups of eight or more open up operator group rates." },
+    { q: "How do I plan a trip for a big group?", a: "Appoint one decision-maker for dates and budget, book rooms four months ahead, and keep one shared document for bookings. Visa files submitted together read stronger for groups." },
+    { q: "Should the rupee rate change my travel plans?", a: "The rate moves your ground costs while flights stay fixed. Convert the full daily budget at today's rate, then add a cushion for drift." },
+    { q: "How do travellers protect passports and cash overseas?", a: "Copies of every document in three places, and money never in one. The trip should survive losing any single pocket, bag, or wallet." },
+  ],
 };

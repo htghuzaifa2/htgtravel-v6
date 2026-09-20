@@ -56,4 +56,10 @@ export const bahrainTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The Gulf's quiet yes. EVisa and weekend, one message away.",
     },
   ],
+  faqs: [
+    { q: "When is the best time to visit Bahrain from Pakistan?", a: "November to March is the pleasant Gulf window for Manama's corniche and fort walks; summer heat turns intense and pushes everything indoors." },
+    { q: "Do Pakistanis need a visa for Bahrain?", a: "Bahrain's eVisa is filed online by Pakistani nationals directly, usually arriving within a few working days. The process asks for passport, photo, and accommodation details." },
+    { q: "How much does a Bahrain trip cost from Pakistan?", a: "A Manama weekend runs roughly PKR 20,000 to 30,000 a day mid-range, with Old Manama guesthouses gentler than the tower hotels." },
+    { q: "How many days are enough for Bahrain?", a: "Two to three days suits a first weekend visit: the Bahrain Fort, the souq, the national museum, and one good waterfront dinner." },
+  ],
 };

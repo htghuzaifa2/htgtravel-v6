@@ -14,6 +14,15 @@ export type BlogPost = {
     waText: string;
   };
   content: BlogBlock[];
+  /** Unique per-post FAQ block rendered after the article body (also emitted as FAQPage JSON-LD). */
+  faqs: BlogFaq[];
+};
+
+export type BlogFaq = {
+  /** The question a Pakistani traveller would actually type into Google. */
+  q: string;
+  /** Accurate, self-contained answer (20-60 words). */
+  a: string;
 };
 
 export type BlogPostSeed = Omit<BlogPost, "id">;

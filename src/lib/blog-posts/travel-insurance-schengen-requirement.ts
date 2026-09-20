@@ -56,4 +56,10 @@ export const travelInsuranceSchengenRequirement: BlogPostSeed = {
       text: "Same-day certificates, embassy-ready formatting. Our desk issues these weekly. Ask for yours.",
     },
   ],
+  faqs: [
+    { q: "What insurance does the Schengen visa require?", a: "Medical cover of at least EUR 30,000, valid across all Schengen states for every day of your stay. The visa file includes the policy certificate, and border officers can ask for it again on re-entry." },
+    { q: "How much does Schengen-compliant insurance cost in Pakistan?", a: "A week of compliant cover typically runs a few thousand rupees, rising with age and trip length. Buy from insurers whose certificates the consulates already recognise, since format matters at the counter." },
+    { q: "What does travel insurance actually cover?", a: "Emergency medical leads, followed by cancellation, baggage, and delay benefits. Read what each section pays per event, since caps differ sharply." },
+    { q: "Can I buy travel insurance after booking flights?", a: "Insurance can be bought late, but its value is timeline-dependent: the earlier it stands guard over your prepayments, the more it can return." },
+  ],
 };

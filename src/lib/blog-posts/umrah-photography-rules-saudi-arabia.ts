@@ -56,4 +56,10 @@ export const umrahPhotographyRulesSaudiArabia: BlogPostSeed = {
       text: "We brief pilgrims on the ground rules every season. Travel with the informed. Travel with us.",
     },
   ],
+  faqs: [
+    { q: "Can I take photos inside the Haram?", a: "Personal photography away from prayer rows is broadly tolerated, but never photograph praying individuals without consent, and stop the moment security signals. Live streaming and professional rigs draw warnings; a phone held discreetly is the safe standard." },
+    { q: "Are there photography rules elsewhere in Saudi Arabia?", a: "Government buildings, airports, military sites, and unknown women are off-limits country-wide. Ziyarat sites are relaxed, but always ask before pointing a camera at a local family; it is law and courtesy at once." },
+    { q: "How much distance do pilgrims walk daily?", a: "Far more than people expect: marble floors, five daily round-trips, and ritual circuits. Broken-in sandals, socks, and a slow first Tawaf are the honest preparation." },
+    { q: "What weather should Umrah pilgrims expect?", a: "Think of it as two seasons: kind and brutal. November to March rewards daytime activity; May to September rewards night worship, an umbrella, and constant water." },
+  ],
 };

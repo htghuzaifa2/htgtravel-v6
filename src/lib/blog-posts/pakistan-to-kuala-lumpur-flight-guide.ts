@@ -55,4 +55,10 @@ export const pakistanToKualaLumpurFlightGuide: BlogPostSeed = {
       text: "KL and its islands, planned with flights and visa in one thread. Message our desk.",
     },
   ],
+  faqs: [
+    { q: "Which airlines fly from Pakistan to Kuala Lumpur?", a: "PIA flies nonstop from Karachi with frequencies shifting seasonally, while Gulf and Bangkok connections compete hard on price. The nonstop saves hours; the one-stops often save rupees." },
+    { q: "How much does a Pakistan to Kuala Lumpur return ticket cost?", a: "Typically PKR 90,000 to 150,000 return economy, with sales dipping lower when the connectors compete. Book six to eight weeks out for the reasonable end." },
+    { q: "How many weeks ahead should I book flights from Pakistan?", a: "Two months for normal travel, four for peak. The exact day matters far less than the window: prices climb steadily as departure approaches." },
+    { q: "How do I find the cheapest fares from Pakistan?", a: "Flexible dates beat every trick: shift the trip three days and fares can halve. Add fare alerts, compare one-stops, and check departures from Islamabad against the other Pakistani hubs." },
+  ],
 };

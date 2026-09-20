@@ -55,4 +55,10 @@ export const soloFemaleTravelGuidePakistaniWomen: BlogPostSeed = {
       text: "Solo, supported, superbly planned, that is the women's desk standard. Message us.",
     },
   ],
+  faqs: [
+    { q: "Can Pakistani women travel internationally alone?", a: "Yes, and thousands do: the practical keys are visa files that show strong ties, daytime arrivals, pre-booked first nights, and dress calibrated to the destination." },
+    { q: "Which destinations suit Pakistani women's first solo trips?", a: "The Gulf for language and cultural ease, Malaysia and Turkey for solo-traveller infrastructure, and the Maldives for simplicity. Confidence builds fastest where friction is lowest." },
+    { q: "What should my savings be before an overseas trip?", a: "Save the full itinerary cost plus one month of your salary as the floor. Trips budgeted tighter than that convert every surprise into a crisis." },
+    { q: "Do I need a local SIM card when travelling abroad?", a: "A local SIM or eSIM pays for itself in the first day of navigation alone. Airport counters activate them in minutes with your passport." },
+  ],
 };

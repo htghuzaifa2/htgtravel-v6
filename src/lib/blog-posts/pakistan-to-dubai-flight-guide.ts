@@ -55,4 +55,10 @@ export const pakistanToDubaiFlightGuide: BlogPostSeed = {
       text: "The corridor we know best. Quoted daily, visa included. Try us on your dates.",
     },
   ],
+  faqs: [
+    { q: "Which airlines fly direct from Pakistan to Dubai?", a: "Emirates, PIA, and flydubai link Karachi, Lahore, and Islamabad to Dubai multiple times daily, making it one of the busiest corridors out of Pakistan. The short two-to-three-hour hop keeps connections easy." },
+    { q: "How much does a Pakistan to Dubai return ticket cost?", a: "Commonly PKR 45,000 to 90,000 return economy, with the usual Eid and school-holiday spikes. Booking six weeks out keeps you near the lower end." },
+    { q: "Is it cheaper to book a round trip or two one-way flights?", a: "Round trips carry the pricing logic on most routes out of Lahore. Two one-ways occasionally beat them during sales, which is why the comparison takes a minute." },
+    { q: "When should I book international flights from Pakistan?", a: "Book eight weeks out and hold refundable everything around it. Peak seasons from Lahore punish late bookers with the year's highest fares." },
+  ],
 };

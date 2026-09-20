@@ -55,4 +55,10 @@ export const indonesiaBaliTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The tropical trip with the halal map drawn in. Ours, included. Message us.",
     },
   ],
+  faqs: [
+    { q: "What is the ideal season for Bali?", a: "April to October is the dry season across Bali; July and August add peak crowds and peak rates to the same beaches. Shoulder months reward the patient." },
+    { q: "How do Pakistanis handle the visa for Bali?", a: "Indonesia requires advance application for Pakistanis, with roughly USD 100 in fees through the electronic process. Arrange it before ticketing, since the approval feeds the airline check." },
+    { q: "Is Bali expensive for Pakistani travellers?", a: "Bali mixes both worlds: PKR 12,000 to 25,000 a day covers mid-range comfort depending on which side of the island you sleep on. Flights remain the big variable." },
+    { q: "Can I cover Bali properly in a week?", a: "Seven to ten days balances one island base with day trips to temples, volcanoes, and the beach clubs. Two bases beat one rushed circuit every time." },
+  ],
 };

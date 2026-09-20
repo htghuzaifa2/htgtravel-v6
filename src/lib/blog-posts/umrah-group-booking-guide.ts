@@ -56,4 +56,10 @@ export const umrahGroupBookingGuide: BlogPostSeed = {
       text: "Bring us your jamaat. We have moved hundreds. Ask for the group rate sheet.",
     },
   ],
+  faqs: [
+    { q: "Is a group Umrah cheaper than booking privately?", a: "Usually yes in peak season, since operators hold room blocks and bulk airline seats. Off-peak, private itineraries sometimes undercut groups once you drop the shared-bus ziyarat and city transfers you never use." },
+    { q: "What should a group Umrah contract include?", a: "Hotel names with distances, room-sharing counts, the meal plan, transport inclusions, the ziyarat policy, the operator's Saudi partner details, and a written cancellation schedule. Refuse verbal promises; every reputable operator prints all of it." },
+    { q: "Do I need to know Arabic for Umrah?", a: "No, and hundreds of thousands manage yearly without a word of it. Learn the Talbiyah if you wish, lean on your group leader otherwise, and let the ritual carry the rest." },
+    { q: "Will my mobile phone work in Saudi Arabia?", a: "Yes, once you sort data: buy a local SIM at arrival or an eSIM from Pakistan beforehand. Download Nusuk, offline maps, and prayer times before you fly." },
+  ],
 };

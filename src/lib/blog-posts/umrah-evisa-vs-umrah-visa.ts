@@ -55,4 +55,10 @@ export const umrahEvisaVsUmrahVisa: BlogPostSeed = {
       text: "Right visa, right journey. The consultation costs nothing. Ask us.",
     },
   ],
+  faqs: [
+    { q: "Should I get a Saudi tourist eVisa or an Umrah visa?", a: "The eVisa suits independent travellers: apply online, insurance is included, validity runs 90 days, and Umrah is allowed outside Hajj. The Umrah visa runs through licensed operators and fits group packages. Frequent visitors and Dubai-based Pakistanis lean eVisa." },
+    { q: "Can I perform Umrah on a Saudi tourist eVisa?", a: "Yes. Outside the Hajj window, Saudi rules explicitly allow Umrah on the tourist eVisa, entering through any international airport. Buy or wear ihram before crossing the miqat, since you land as a tourist and change state on the way to Makkah." },
+    { q: "Can women travel for Umrah without a mahram?", a: "Yes, within group structures. Saudi regulations no longer demand a mahram for Umrah, and licensed female-group departures from Pakistan are routine. Check that your specific operator allows it." },
+    { q: "Does Umrah travel need extra insurance cover?", a: "The eVisa's bundled cover handles emergencies thinly; a proper Pakistani policy adds hospitalisation, baggage, and cancellation. Elders should not travel on the bundled minimum." },
+  ],
 };

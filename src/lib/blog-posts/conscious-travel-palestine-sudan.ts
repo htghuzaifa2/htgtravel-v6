@@ -88,4 +88,10 @@ export const consciousTravelPalestineSudan: BlogPostSeed = {
       text: "Movement is a privilege. Gratitude is how you spend it.",
     },
   ],
+  faqs: [
+    { q: "What is conscious travel in practice?", a: "Spending so locals keep it: family guesthouses over foreign chains, local guides on the trail, and respect for places carrying hard histories. The intention is to arrive as a guest, not a consumer." },
+    { q: "How can Pakistani travellers stay connected to Palestine and Sudan?", a: "By choosing Palestinian and Sudanese-run products where available, learning the history before the hashtags, and carrying the story home honestly. Mindful travel continues after the boarding pass ends." },
+    { q: "How should Pakistani travellers carry money overseas?", a: "Three layers: card, card, cash, never stored together. Notify your bank of travel dates so the first card does not die at a foreign terminal." },
+    { q: "Can I combine two destinations in one trip?", a: "Combining works when geography cooperates. Two neighbouring countries in twelve days beat two separate trips in both money and memories." },
+  ],
 };
