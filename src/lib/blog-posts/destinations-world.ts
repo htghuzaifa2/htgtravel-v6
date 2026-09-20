@@ -303,7 +303,7 @@ export const destinationsWorld: BlogPostSeed[] = [
       },
       {
         type: "p",
-        text: "The Schengen visa makes Spain your main-destination application when the nights stack up there. Our desk builds that file with the itinerary embedded. Spring and autumn are Andalusia's seasons; summer in the south is for the committed. Halal dining lives comfortably in the cities. Centuries of Andalusi memory plus new immigrant communities. The high-speed trains connect the country brilliantly. One desk, one file, one unforgettable route. Ours.",
+        text: "The Schengen visa makes Spain your main-destination application when the nights stack up there. Our desk builds that file with the itinerary embedded. Spring and autumn are Andalusia's seasons; summer in the south is for the committed. Halal dining lives comfortably in the cities. Centuries of Andalusi memory plus new immigrant communities. The high-speed trains connect the country brilliantly. One desk, one file, one route. Ours.",
       },
       {
         type: "quote",

@@ -440,7 +440,7 @@ export const umrahPractical: BlogPostSeed[] = [
     content: [
       {
         type: "p",
-        text: "Logistics carry you to the Haram; adab carries you inside it. The two holy cities run on a code of manners older than the marble, and pilgrims who learn it find the crowds softer, the spaces opened, and the journey elevated.",
+        text: "Logistics carry you to the Haram; adab carries you inside it. The two holy cities run on a code of manners older than the marble, and pilgrims who learn it find the crowds softer, the spaces open, the journey gentler.",
       },
       {
         type: "h2",

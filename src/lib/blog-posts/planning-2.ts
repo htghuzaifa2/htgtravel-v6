@@ -59,7 +59,7 @@ export const planningTwo: BlogPostSeed[] = [
     title: "Luxury Travel Destinations From Pakistan Worth the Splurge",
     category: "Travel",
     metaDescription:
-      "Luxury destinations within reach of Pakistan, where five-star money buys genuine transformation, from overwater villas to Alpine spas.",
+      "Luxury destinations within reach of Pakistan, where five-star money goes far, from overwater villas to Alpine spas.",
     keywords: [
       "luxury travel Pakistan",
       "luxury destinations from Pakistan",
@@ -439,7 +439,7 @@ export const planningTwo: BlogPostSeed[] = [
     ],
     promo: {
       headline: "Overseas Pakistanis: We Handle the Trips Home and the Files Abroad",
-      body: "Whether you're renewing from Dubai, London, or Toronto and planning the next trip (Umrah, home, or onward) our desk coordinates the travel around your document reality. Overseas Pakistanis are half our clientele; message us from wherever the passport needs renewing.",
+      body: "Renewing from Dubai, London, or Toronto and planning the next trip (Umrah, home, or onward)? Our desk coordinates the travel around your document reality. Overseas Pakistanis are half our clientele; message us from wherever the passport needs renewing.",
       cta: "Plan around my renewal",
       waText: "Assalam o Alaikum! I am an overseas Pakistani renewing my passport. Please help me plan travel around it.",
     },
