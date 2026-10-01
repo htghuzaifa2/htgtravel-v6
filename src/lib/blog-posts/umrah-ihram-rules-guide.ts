@@ -45,6 +45,10 @@ export const umrahIhramRulesGuide: BlogPostSeed = {
       ],
     },
     {
+      type: "p",
+      text: "The voice of ihram is the talbiyah, recited from the miqat onward: Labbayk Allahumma labbayk, labbayka la shareeka laka labbayk, inna al-hamda wa ni'mata laka wal-mulk, la shareeka lak. It answers Allah's call in the words pilgrims have used for millennia: here I am, You have no partner, all praise and blessing and sovereignty are Yours. Learn it before the flight; recite it until the Tawaf begins.",
+    },
+    {
       type: "h2",
       text: "Mistakes and Mercy",
     },

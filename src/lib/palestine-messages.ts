@@ -428,6 +428,14 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "The Gulf's skylines shine because peace holds them up. As you enjoy Dubai or Doha, keep Palestine and Sudan in your prayers and in your giving.",
   "costa-rica-first-international-trip":
     "Pura vida means gratitude for a peaceful day. Spare a prayer for Palestine and Sudan, where families are still waiting for theirs, and give where you can.",
+  "bahrain-visit-visa-requirements-2026":
+    "Bahrain's pearls came from divers who held their breath for minutes; Palestine's families have held theirs for decades. Both deserve to surface.",
+  "bahrain-visa-rejected-reasons":
+    "A refused application is not a refused person, and Palestine knows that difference better than anyone. We pray the world's checkpoints learn mercy.",
+  "bahrain-visa-for-gcc-residents":
+    "Expats know the ache of living between two homes; Palestine's refugees have carried theirs for 78 years. From Gulf desks everywhere, we pray for them.",
+  "last-minute-flight-deals-pakistan":
+    "Some travel by choice, some by exile; Palestine's displaced have waited generations for a boarding call. Keep them in your prayers as you fly.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

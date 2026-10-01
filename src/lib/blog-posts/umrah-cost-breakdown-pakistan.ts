@@ -51,6 +51,27 @@ export const umrahCostBreakdownPakistan: BlogPostSeed = {
       text: "Travel in the quieter Islamic months. Prices soften dramatically outside Ramadan, school holidays, and December. Share rooms between family members rather than booking singles: the biggest per-person saving available. Choose hotels a shuttle-ride from the Haram with good reviews over brand names far away. And book as a group: mosques, extended families, and offices open group rates that solo pilgrims never see.",
     },
     {
+      type: "h2",
+      text: "What the Tiers Cost in 2026",
+    },
+    {
+      type: "ul",
+      items: [
+        "Economy, 7 to 10 nights, quad sharing, hotels 1 to 3 km out: PKR 145,000 to 180,000 in the quiet months",
+        "Mid-range, 10 to 14 nights, triple sharing with closer hotels: PKR 200,000 to 290,000",
+        "Premium, 7 to 14 nights, walking-distance brands like the Pullman ZamZam and Movenpick towers: PKR 155,000 to 335,000",
+        "Extended luxury, 21 to 25 nights at Clock Tower and Dallah Taibah tier addresses: PKR 240,000 to 435,000",
+      ],
+    },
+    {
+      type: "p",
+      text: "The tiers overlap on purpose, because duration moves the number as much as hotel grade: the 14-night economy package most families book starts near PKR 185,000, while a 7-night quad-sharing departure in Muharram can dip under that. Booking directly on Saudi's Nusuk platform is worth a look too; its own listings showed 5-night packages from about SAR 3,592, near PKR 265,000, as of late September 2026. Compare both doors before paying either.",
+    },
+    {
+      type: "p",
+      text: "Season math is the quiet lever. Ramadan hotel rates can run toward three to five times the off-peak rate, while Muharram through Rajab softens packages by 30 to 50 percent. And route your flights smartly: fly into Madinah and return from Jeddah. The reverse routing burns a travel day getting back to Makkah for the flight home.",
+    },
+    {
       type: "quote",
       text: "Honest pricing is our whole reputation. Ask for a live quote. You will get the real breakdown, not a sales pitch.",
     },
@@ -60,5 +81,6 @@ export const umrahCostBreakdownPakistan: BlogPostSeed = {
     { q: "Which costs do Umrah packages usually hide?", a: "Ziyarat tours, Zamzam wrapping, laundry, food outside the meal plan, and tips are the usual extras. Ask for the inclusion list in writing before paying, and treat any quote without hotel names and their distance in metres as unfinished." },
     { q: "Is food expensive in Makkah and Madinah?", a: "Restaurants near the Harams keep a full plate well under SAR 30, and buffet spreads run reasonable set rates. What gets expensive is hotel-room dining and airport food." },
     { q: "Do I need the Nusuk app during Umrah?", a: "It became the pilgrim's control panel: permits, prayer slots, and crowd updates in one app. Download and register before your flight so login issues never eat arrival day." },
+    { q: "Can I book Umrah directly through Nusuk from Pakistan?", a: "Yes. Nusuk lists official packages directly, with 5-night options starting near SAR 3,592 as of late September 2026. Compare against operator quotes, though: local packages bundle Pakistan-side flights and shared rooms differently." },
   ],
 };

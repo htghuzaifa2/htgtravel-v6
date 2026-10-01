@@ -55,6 +55,41 @@ export const umrahPackageInclusionsGuide: BlogPostSeed = {
       text: "Ask what the price excludes before you celebrate what it includes. Room sharing configurations, how many beds for how many people, change the real cost per head. Hotel 'ratings' in Makkah are self-declared; distance and reviews outvote stars. And the question that separates agencies: what happens when a flight delays or a hotel overbooks? The answer reveals whether you bought a package or a partner. Ours, you are welcome to test.",
     },
     {
+      type: "h2",
+      text: "The Costs That Arrive After Landing",
+    },
+    {
+      type: "p",
+      text: "All-inclusive has no fixed meaning in this industry; it is a label, not a standard. Budget packages make their margin back on the ground, so walk in knowing what lands on your own bill:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Meals beyond breakfast: BB means breakfast only, and lunch plus dinner runs 50 to 100 SAR per person daily",
+        "City transport: a hotel 2 km from the Haram means taxis at roughly 40 to 60 SAR each way, several times a day if you rest between prayers",
+        "Laundry at 5 to 10 SAR per item, or the hotel sink and a travel clothesline",
+        "A SIM card: the fair price is 80 to 100 SAR, and airport vendors happily charge double",
+        "Sealed 5-litre Zamzam boxes at the airport, roughly SAR 12 to 15 each, on top of the allowance rules",
+        "Ziyarat tours that some packages include and others sell as add-ons after arrival; ask which type yours is before paying",
+      ],
+    },
+    {
+      type: "h2",
+      text: "The Quad-Sharing Reality",
+    },
+    {
+      type: "p",
+      text: "Budget pricing assumes quad sharing: four people, one bathroom, and everyone waking for the same Fajr. Solo travellers often find it beautiful, sharing suhoor with pilgrims from across the world. Couples and elderly parents usually find it costs them the first rakah. Upgrading to a double adds roughly PKR 40,000 to 60,000 per person, and for anyone with parents on the trip it is frequently the best money of the entire journey.",
+    },
+    {
+      type: "h2",
+      text: "How Near Is Near the Haram?",
+    },
+    {
+      type: "p",
+      text: "To some agencies near means 500 metres; to others, 5 kilometres. Even the Clock Tower complex, literally overlooking the Haram, takes about 10 minutes to actually reach the congregation once elevator waits and crowd navigation are counted. So ask the questions that have numbers for answers: how many metres exactly, is the walk uphill, and is a shuttle included or extra. The spiritual math is simple: you came to pray, not to arrive exhausted.",
+    },
+    {
       type: "quote",
       text: "Itemized quotes, named hotels, real distances. Ask ours, then compare with anyone.",
     },

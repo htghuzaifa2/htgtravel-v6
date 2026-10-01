@@ -27,7 +27,7 @@ export const umrahVsHajjDifferencesExplained: BlogPostSeed = {
   content: [
     {
       type: "p",
-      text: "Both journeys circle the same House, but they differ in obligation, calendar, and shape. Understanding the difference deepens the intention for both.",
+      text: "Both journeys circle the same House, but they differ in obligation, calendar, and shape. Umrah ends where Hajj's opening ends; the greater journey continues into Mina, Arafat, and Muzdalifah, and those extra days change everything about how you prepare. Understanding the difference deepens the intention for both.",
     },
     {
       type: "h2",
