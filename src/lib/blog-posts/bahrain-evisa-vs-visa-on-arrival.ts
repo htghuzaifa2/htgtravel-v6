@@ -48,7 +48,7 @@ export const bahrainEvisaVsVisaOnArrival: BlogPostSeed = {
       items: [
         "How you apply: the eVisa online at evisa.gov.bh, the visa on arrival in person at the immigration counter",
         "Processing time: 3 to 5 working days for the eVisa, versus 10 to 15 minutes at the counter before queue time",
-        "Cost: both routes charge around BHD 9, roughly USD 24, for a 14-day single entry",
+        "Cost: both routes charge around BHD 9 for eligible nationalities, roughly USD 24, on a 14-day single entry; Pakistani eVisa applicants are assessed a higher tier around BHD 29",
         "Pre-approval: the eVisa is granted before you fly; the arrival visa is decided at the border",
         "Eligible countries: the eVisa portal accepts applicants from 209 nationalities, while the arrival route covers 69",
         "Validity: eVisa options run 14 days, 30 days, or a full year of multiple entries; the arrival stamp gives 14 days, extendable once",
@@ -64,7 +64,7 @@ export const bahrainEvisaVsVisaOnArrival: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Fees are tiered by visa type: around BHD 9 for a two-week single entry, BHD 12 for a 30-day single entry, BHD 16 for a 30-day multiple entry, and BHD 44 for a one-year multiple-entry visa with up to 90 days per stay. The reward for the online legwork is walking straight past the visa counter at the airport, through immigration, and into your trip without a single question mark over your passport.",
+      text: "Fees are tiered by visa type: around BHD 9 for a two-week single entry on the standard tier, BHD 12 for a 30-day single entry, BHD 16 for a 30-day multiple entry, and BHD 44 for a one-year multiple-entry visa with up to 90 days per stay, while Pakistani passports are assessed a higher visit tier around BHD 29. The reward for the online legwork is walking straight past the visa counter at the airport, through immigration, and into your trip without a single question mark over your passport.",
     },
     {
       type: "h2",
@@ -127,7 +127,7 @@ export const bahrainEvisaVsVisaOnArrival: BlogPostSeed = {
   ],
   faqs: [
     { q: "Do Pakistani passports qualify for Bahrain visa on arrival?", a: "No. Pakistan sits outside the 69 nationalities eligible for arrival stamps, so Pakistani travellers apply for the eVisa through evisa.gov.bh instead, whether departing from Pakistan or from the UK, US, or Gulf. The portal accepts 209 nationalities, including Pakistan." },
-    { q: "Is the Bahrain eVisa cheaper than the visa on arrival?", a: "Neither route wins on price. Both charge around BHD 9, roughly USD 24, for a 14-day single entry. The difference is timing and certainty: the eVisa approves before departure while the arrival visa decides at the counter." },
+    { q: "Is the Bahrain eVisa cheaper than the visa on arrival?", a: "Neither route wins on price: eligible nationalities pay around BHD 9 on both, while Pakistani passports are assessed a higher eVisa tier around BHD 29. The difference is timing and certainty: the eVisa approves before departure while the arrival visa decides at the counter." },
     { q: "How long is the wait at the Bahrain arrival visa counter?", a: "The stamp itself takes 10 to 15 minutes when the documents are in order. Thursday and Friday evenings and holiday arrivals push queues to 30 or 45 minutes, so travellers with tight connections should budget accordingly." },
     { q: "Which Bahrain visa suits a last-minute trip?", a: "Eligible nationalities can use the arrival route and fly the same day, carrying the passport, return ticket, hotel proof, bank statement, and insurance for the counter. Everyone else, including Pakistani passports, should file the eVisa at least a week ahead of departure." },
   ],

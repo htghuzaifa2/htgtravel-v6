@@ -240,6 +240,13 @@ import { bestTimeToBookInternationalFlights } from "./blog-posts/best-time-to-bo
 import { oneWayVsRoundTripTickets } from "./blog-posts/one-way-vs-round-trip-tickets";
 import { hiddenBaggageFeesGuide } from "./blog-posts/hidden-baggage-fees-guide";
 import { umrahHalqTaqsirGuide } from "./blog-posts/umrah-halq-taqsir-guide";
+import { bahrainVisaProcessingTime } from "./blog-posts/bahrain-visa-processing-time";
+import { bahrainBusinessVisaGuide } from "./blog-posts/bahrain-business-visa-guide";
+import { bahrainVisaExtensionGuide } from "./blog-posts/bahrain-visa-extension-guide";
+import { cheapestMonthsToFlyFromPakistan } from "./blog-posts/cheapest-months-to-fly-from-pakistan";
+import { flightPriceAlertsGuide } from "./blog-posts/flight-price-alerts-guide";
+import { nusukUmrahPlatformDiyVsAgency } from "./blog-posts/nusuk-umrah-platform-diy-vs-agency";
+import { umrahSaiSafaMarwahGuide } from "./blog-posts/umrah-sai-safa-marwah-guide";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -447,6 +454,13 @@ const SEEDS: BlogPostSeed[] = [
   oneWayVsRoundTripTickets,
   hiddenBaggageFeesGuide,
   umrahHalqTaqsirGuide,
+  bahrainVisaProcessingTime,
+  bahrainBusinessVisaGuide,
+  bahrainVisaExtensionGuide,
+  cheapestMonthsToFlyFromPakistan,
+  flightPriceAlertsGuide,
+  nusukUmrahPlatformDiyVsAgency,
+  umrahSaiSafaMarwahGuide,
 ];
 
 // Auto-generate IDs for all posts at runtime

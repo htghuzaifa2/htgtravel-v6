@@ -452,6 +452,20 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "We weigh our bags in kilograms at the counter; Palestine carries a weight no scale can ever read. As you pack, keep Gaza in your prayers and giving.",
   "umrah-halq-taqsir-guide":
     "Hair falls at the Haram in an act of humility; may pride fall from every heart the same way. Pray for Palestine and Sudan as your Umrah completes.",
+  "bahrain-visa-processing-time":
+    "We count working days waiting for a stamp; Palestine's families have counted generations for a way home. Spare them a dua while your file is in queue.",
+  "bahrain-business-visa-guide":
+    "Trade built Manama's fortune on pearls and open ports; Palestine's olives still wait at closed ones. Pray for Gaza as your business travels.",
+  "bahrain-visa-extension-guide":
+    "We ask Bahrain for a few more days; Palestine's exiles have asked for one road home for 78 years. Hold them in your dua as your stay extends.",
+  "cheapest-months-to-fly-from-pakistan":
+    "We hunt the month that saves a few rupees; Palestine's displaced would give every fare for one flight home. Remember them as you pick your dates.",
+  "flight-price-alerts-guide":
+    "Our phones ping when fares fall; no alert will ever sound for Palestine's families waiting to return. Keep them in your prayers as fares drop.",
+  "nusuk-umrah-platform-diy-vs-agency":
+    "A booking confirms on a screen in seconds; Palestine still waits on promises made decades ago. As your Umrah is confirmed, hold Gaza in your dua.",
+  "umrah-sai-safa-marwah-guide":
+    "Seven laps honour a mother who never stopped trying; may that same mercy reach Palestine's mothers today. Keep Gaza close in every lap you walk.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

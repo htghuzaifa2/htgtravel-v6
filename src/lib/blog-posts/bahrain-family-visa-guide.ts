@@ -66,7 +66,7 @@ export const bahrainFamilyVisaGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Children submit the same documents on their own passports, and parents apply on behalf of minors. No separate child visa category exists for tourist visits, which simplifies the file considerably. Fees follow the standard eVisa schedule: around BHD 9 to 10 per person for a two-week visit, or BHD 44 for a one-year multiple-entry visa. Processing runs 3 to 5 working days, so file for the whole family at least a week before departure.",
+      text: "Children submit the same documents on their own passports, and parents apply on behalf of minors. No separate child visa category exists for tourist visits, which simplifies the file considerably. Fees follow the eVisa schedule by nationality: Pakistani passports are assessed around BHD 29 per person for a two-week visit, with lower tiers applying to some other nationalities and BHD 44 for a one-year multiple-entry visa. Processing runs 3 to 5 working days, so file for the whole family at least a week before departure.",
     },
     {
       type: "h2",
@@ -128,7 +128,7 @@ export const bahrainFamilyVisaGuide: BlogPostSeed = {
   ],
   faqs: [
     { q: "Can I apply for Bahrain visas for my whole family together?", a: "Yes, though not as a single application. Each family member, children included, files an individual eVisa through evisa.gov.bh with their own passport, photo, return ticket, accommodation proof, and bank statement. Parents complete the submissions for minors, and filing all at once keeps approvals aligned." },
-    { q: "Do children need a separate Bahrain eVisa?", a: "Yes. Every child travels on their own passport with their own visa, and the documents mirror an adult application. No separate child visa category exists for tourist visits, so the process and the fee, around BHD 9 to 10 for two weeks, stay the same." },
+    { q: "Do children need a separate Bahrain eVisa?", a: "Yes. Every child travels on their own passport with their own visa, and the documents mirror an adult application. No separate child visa category exists for tourist visits, so the process and the per-person fee, around BHD 29 on Pakistani passports, stay the same as an adult's." },
     { q: "What salary is required to sponsor family residency in Bahrain?", a: "Generally around BHD 400 per month to sponsor a spouse and children, though some categories now require closer to BHD 1,000, and parents demand higher income with stronger proof of support. Thresholds move, so verify the current figure with LMRA before assembling documents." },
     { q: "How much does a Bahrain dependent residency permit cost?", a: "Approximately BHD 95 per dependant in government fees, a BHD 90 service charge plus BHD 5 administration, plus a separate adult medical examination. LMRA processes in around 3 working days directly, or up to 7 through a typing centre, and renewals repeat the fee every 1 to 2 years." },
   ],

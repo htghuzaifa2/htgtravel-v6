@@ -29,7 +29,7 @@ export const bahrainVisaFeesGuide: BlogPostSeed = {
   content: [
     {
       type: "p",
-      text: "Wondering exactly what the Bahrain visa stage costs? Here is the honest answer: between BHD 9 and BHD 44, roughly USD 24 to USD 117, depending on the route you take and how long you stay. Below that range sits a trap or two, and above it sits the agent economy. This is the complete fee picture across all three application channels, with no guesswork and no surprise charges.",
+      text: "Wondering exactly what the Bahrain visa stage costs? Here is the honest answer: between BHD 9 and BHD 44, roughly USD 24 to USD 117, for travellers on the standard fee tiers, while Pakistani passports are assessed a higher visit eVisa tier at around BHD 29, roughly USD 80. Below that range sits a trap or two, and above it sits the agent economy. This is the complete fee picture across all three application channels, with no guesswork and no surprise charges.",
     },
     {
       type: "h2",
@@ -38,7 +38,7 @@ export const bahrainVisaFeesGuide: BlogPostSeed = {
     {
       type: "ul",
       items: [
-        "eVisa, 14-day single entry: BHD 9 to 10, about USD 24 to 27, with nothing extra when filed directly on evisa.gov.bh",
+        "eVisa, 14-day single entry: BHD 9 to 10 on the standard tier, about USD 24 to 27, with nothing extra when filed directly on evisa.gov.bh; Pakistani passports are assessed around BHD 29, roughly USD 80",
         "eVisa, 30-day single entry: around BHD 12 on the official portal",
         "eVisa, one-year multiple entry: BHD 44, with up to 90 days per visit",
         "Visa on arrival, 14-day single entry: BHD 9 at the counter for eligible nationalities",
@@ -109,7 +109,7 @@ export const bahrainVisaFeesGuide: BlogPostSeed = {
     },
   ],
   faqs: [
-    { q: "What is the cheapest way to get a Bahrain visa?", a: "Filing directly on the official evisa.gov.bh portal, which charges only the government fee: around BHD 9 for a 14-day entry and BHD 44 for a year of multiple entries. Unofficial sites charge USD 54 and up for the same approval, so the address bar is the first money-saver." },
+    { q: "What is the cheapest way to get a Bahrain visa?", a: "Filing directly on the official evisa.gov.bh portal, which charges only the government fee: around BHD 9 for a 14-day entry on the standard tier, BHD 29 for Pakistani passports, and BHD 44 for a year of multiple entries. Unofficial sites charge USD 54 and up for the same approval, so the address bar is the first money-saver." },
     { q: "Are Bahrain eVisa fees refundable if the application is rejected?", a: "No. The fee is non-refundable whether the application succeeds or fails, which is why a document review before submission pays for itself. A refused file repays the full fee on reapplication, so accuracy beats speed on the first attempt." },
     { q: "How much is the one-year multiple-entry Bahrain visa?", a: "Around BHD 44, roughly USD 117, covering multiple visits of up to 90 days each over a full year. Travellers who cross more than twice a year, causeway regulars especially, recover the difference over two trips." },
     { q: "Why do agent websites charge more than the official Bahrain portal?", a: "Because the markup is their business model: unofficial sites add USD 45 or higher service fees on top of the same government visa. Genuine agent value lies in document handling, complex cases, and bundling with flights and hotels, not in reselling a BHD 9 visa." },

@@ -71,7 +71,7 @@ export const bahrainVisaForGccResidents: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "The eVisa through evisa.gov.bh is the recommended door: select the GCC resident option, upload the documents, pay, and wait. A 2-week single entry costs around BHD 9, roughly USD 24, while a 1-year multiple-entry visa runs near BHD 44, about USD 117. Eligible residents can also be stamped on arrival at Bahrain International Airport, where a 2-week entry costs around BHD 5 and a 3-month multiple entry around BHD 12.",
+      text: "The eVisa through evisa.gov.bh is the recommended door: select the GCC resident option, upload the documents, pay, and wait. A 2-week single entry costs around BHD 9, roughly USD 24, while a 1-year multiple-entry visa runs near BHD 44, about USD 117. Eligible residents can also be stamped on arrival at Bahrain International Airport, where a 2-week entry costs around BHD 5 and a 3-month multiple entry around BHD 12. One caveat for Pakistani readers: these resident-track rates differ from the standard nationality tier, where a Pakistani passport applying without a GCC permit is assessed around BHD 29.",
     },
     {
       type: "p",
@@ -117,7 +117,7 @@ export const bahrainVisaForGccResidents: BlogPostSeed = {
     },
   ],
   faqs: [
-    { q: "Can UAE residents get a Bahrain visa on arrival?", a: "Yes, when the residence permit is at least 3 months old, retains 3 months validity, and the listed profession is not labourer grade. The airport counter stamps 2-week entries at around BHD 5." },
+    { q: "Do UAE iqama holders qualify for Bahrain arrival visas?", a: "Yes, when the residence permit is at least 3 months old, retains 3 months validity, and the listed profession is not labourer grade. The airport counter stamps 2-week entries at around BHD 5." },
     { q: "How fast is the GCC resident eVisa for Bahrain?", a: "Typically 1 to 3 working days, against the standard 3 to 5, with some UAE-based approvals reported inside 24 hours. Apply a week before travel for comfortable margin." },
     { q: "What does a 1-year multiple-entry Bahrain visa cost?", a: "Around BHD 44, roughly USD 117, versus about BHD 9 for the 2-week single entry. Frequent weekenders and causeway regulars recover the difference within two trips." },
     { q: "Can I work in Bahrain on a GCC resident visa?", a: "No. This route covers tourism, family visits, business meetings, and medical trips only. Employment requires a Bahraini employer to sponsor a separate work visa before any work begins." },

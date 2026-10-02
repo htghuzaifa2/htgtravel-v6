@@ -36,7 +36,7 @@ export const nusukPermitGuideUmrah: BlogPostSeed = {
     {
       type: "ul",
       items: [
-        "Rawdah visit permits. Released in limited daily slots, mornings and evenings, free of charge",
+        "Rawdah visit permits. Released in limited batches, currently opening weekly on Fridays, with morning and evening slots, free of charge",
         "Umrah permits when required by current regulations for your visa type",
         "Prayer permits at restricted times during Hajj season windows",
         "Your pilgrim profile. The digital identity your visa and permits attach to",
