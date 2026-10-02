@@ -47,7 +47,8 @@ export const umrahZiyaratGuideMakkahMadinah: BlogPostSeed = {
       type: "ul",
       items: [
         "Jabal al-Noor and the Cave of Hira, where the first revelation came to the Prophet; the climb is steep, so many visitors view and pray at the base instead",
-        "Jabal al-Rahmah at Arafat, the plain where the Prophet delivered his final sermon; standing here on a normal day still gives you goosebumps",
+        "Jabal al-Thawr, the cave where the Prophet and Abu Bakr (RA) sheltered during the migration; viewed from outside, it carries one of the most moving stories in the Seerah",
+        "Arafat and Jabal al-Rahmah, the plain where the Prophet delivered his final sermon; standing here on a normal day, with no Hajj crowds, just stillness and heat shimmering over the horizon, still gives you goosebumps",
         "Mina and Muzdalifah, the tent city and the sacred valley of Hajj, quiet and reflective outside the Hajj season",
         "Jannat al-Mu'alla, the historic cemetery where Khadijah (RA), the Prophet's beloved first wife, is buried",
         "Masjid al-Taneem, also called Masjid Aisha, the nearest miqat, where pilgrims enter ihram for a second Umrah",
@@ -61,15 +62,15 @@ export const umrahZiyaratGuideMakkahMadinah: BlogPostSeed = {
       type: "ul",
       items: [
         "Masjid Quba, the first mosque ever built in Islam; praying here carries special reward, and it is beautiful in the morning light",
-        "Mount Uhud, site of the famous battle and the resting place of Hamza (RA), the Prophet's uncle",
+        "Mount Uhud, site of the famous battle and the resting place of Hamza (RA) and the martyrs at its foot; sunset here is something special",
         "Masjid Qiblatain, where the qiblah direction was changed during prayer; history happened mid salah here",
         "The Seven Mosques, a cluster of small mosques marking the Battle of the Trench",
-        "Jannat al-Baqi, the historic cemetery beside Masjid an-Nabawi, where many family members and companions of the Prophet rest; visiting hours for women are limited, so plan ahead",
+        "Jannat al-Baqi, the historic cemetery beside Masjid an-Nabawi, where many family members and companions of the Prophet rest; visiting hours are limited, typically after Fajr and Asr, and women's times can be restricted, so your guide should know the current schedule",
       ],
     },
     {
       type: "p",
-      text: "And if time allows, the Madinah date market. Not sacred, perhaps, but you will return home with the best Ajwa dates of your life.",
+      text: "And if time allows, the Madinah date market. Not sacred, perhaps, but the Ajwa dates there are better quality and better priced than anything at the airport, and most tours end at one by design. Buy there, not at departures; trust every pilgrim who has learned this the expensive way.",
     },
     {
       type: "h2",
@@ -82,10 +83,11 @@ export const umrahZiyaratGuideMakkahMadinah: BlogPostSeed = {
     {
       type: "ul",
       items: [
-        "A knowledgeable guide who explains, not just drives; the difference between a driver and a storyteller is the difference between a bus ride and a lesson you will remember forever",
-        "Air-conditioned transport, especially in summer, when Makkah's heat is no joke",
+        "A knowledgeable guide who explains, not just drives; the difference between a driver and a storyteller is the difference between a bus ride and a lesson you will remember forever. Ask for Urdu or English specifically, in the language your family actually thinks in",
+        "Air-conditioned transport with water on board, especially in summer, when Makkah's heat is no joke",
         "Real time at each stop, fifteen to twenty minutes minimum, not a photo-from-the-window drive-by",
         "A clear itinerary listing every site by name",
+        "A prayer stop built into the schedule, especially at Masjid Quba, where praying carries its own reward",
         "No hidden charges: ask upfront whether ziyarat is included free in your Umrah package or costs extra",
       ],
     },
@@ -112,6 +114,10 @@ export const umrahZiyaratGuideMakkahMadinah: BlogPostSeed = {
     {
       type: "p",
       text: "So when comparing Umrah packages, look beyond hotel stars and ask what the ziyarat tour includes. The answer will tell you a great deal about the operator, and about the day you will remember longest from your journey.",
+    },
+    {
+      type: "p",
+      text: "One last thing, before you pack your bags. Our hearts and prayers remain with the people of Palestine and Sudan, who are living through hardships most of us can barely imagine. As you walk the blessed streets where the Prophet's story unfolded, please keep them in your duas, and if you are able, support a trusted humanitarian relief effort. No prayer is too small, and no act of kindness is ever wasted.",
     },
   ],
   faqs: [

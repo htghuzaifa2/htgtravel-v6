@@ -273,6 +273,21 @@ import { umrahBeforeBigLifeChange } from "./blog-posts/umrah-before-big-life-cha
 import { foodAroundHaramMakkahMadinahGuide } from "./blog-posts/food-around-haram-makkah-madinah-guide";
 import { saudiCultureTipsForPilgrims } from "./blog-posts/saudi-culture-tips-for-pilgrims";
 import { signsUmrahAccepted } from "./blog-posts/signs-umrah-accepted";
+import { businessClassForEconomyPrice } from "./blog-posts/business-class-for-economy-price";
+import { umrahPackagesUk3StarOr5Star } from "./blog-posts/umrah-packages-uk-3-star-or-5-star";
+import { umrahVisaRequirements2026 } from "./blog-posts/umrah-visa-requirements-2026";
+import { talbiyahMeaningAndStory } from "./blog-posts/talbiyah-meaning-and-story";
+import { minaMuzdalifahArafatHajjStages } from "./blog-posts/mina-muzdalifah-arafat-hajj-stages";
+import { esimInternetGuideUmrah } from "./blog-posts/esim-internet-guide-umrah";
+import { umrahHearingVisuallyImpairedGuide } from "./blog-posts/umrah-hearing-visually-impaired-guide";
+import { storyOfTheKaaba } from "./blog-posts/story-of-the-kaaba";
+import { prophetUmrahJourneysTimeline } from "./blog-posts/prophet-umrah-journeys-timeline";
+import { jabalAlNoorCaveHiraGuide } from "./blog-posts/jabal-al-noor-cave-hira-guide";
+import { umrahWhileFastingGuide } from "./blog-posts/umrah-while-fasting-guide";
+import { newbornBabyUmrahGuide } from "./blog-posts/newborn-baby-umrah-guide";
+import { secondUmrahWhyItFeelsDifferent } from "./blog-posts/second-umrah-why-it-feels-different";
+import { servingPilgrimsMakkahReward } from "./blog-posts/serving-pilgrims-makkah-reward";
+import { duaNotAnsweredAtKaaba } from "./blog-posts/dua-not-answered-at-kaaba";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -513,6 +528,21 @@ const SEEDS: BlogPostSeed[] = [
   foodAroundHaramMakkahMadinahGuide,
   saudiCultureTipsForPilgrims,
   signsUmrahAccepted,
+  businessClassForEconomyPrice,
+  umrahPackagesUk3StarOr5Star,
+  umrahVisaRequirements2026,
+  talbiyahMeaningAndStory,
+  minaMuzdalifahArafatHajjStages,
+  esimInternetGuideUmrah,
+  umrahHearingVisuallyImpairedGuide,
+  storyOfTheKaaba,
+  prophetUmrahJourneysTimeline,
+  jabalAlNoorCaveHiraGuide,
+  umrahWhileFastingGuide,
+  newbornBabyUmrahGuide,
+  secondUmrahWhyItFeelsDifferent,
+  servingPilgrimsMakkahReward,
+  duaNotAnsweredAtKaaba,
 ];
 
 // Auto-generate IDs for all posts at runtime

@@ -53,7 +53,7 @@ export const umrahVisaToTawafSequencePakistan: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Ihram is a state, not just an outfit. Men wear two unstitched white cloths; women wear modest clothing covering everything except hands and face. Before the Miqat boundary, pray two rak'ahs and make your niyyah. Inside Ihram the rules are a reset: no cutting hair or nails, no perfume, no arguing. Ordinary life stays at the border.",
+      text: "Ihram is a state, not just an outfit. Men wear two unstitched white cloths, the izar and the rida, with simple sandals; women wear modest loose clothing with the face remaining uncovered. Flying in, the airline announces the miqat about an hour before landing, and pilgrims change in their seats or the lavatory. Before the boundary, pray two rak'ahs and make your intention aloud: Labbayka Allahumma Umrah, here I am, O Allah, for Umrah. Then begin the Talbiyah, Labbayk Allahumma labbayk, and keep it on your lips softly all the way to the Haram; it stays with you until you reach the Kaaba. Inside Ihram the rules are a reset: no cutting hair or nails, no perfume, no arguing. Ordinary life stays at the border.",
     },
     {
       type: "h2",
@@ -61,7 +61,11 @@ export const umrahVisaToTawafSequencePakistan: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Tawaf begins at the Black Stone (a gesture from a distance counts, with Allahu Akbar) and runs seven counterclockwise circuits with the Kaaba on your left, duas from the heart, then two rak'ahs at Maqam Ibrahim. Sa'i follows: seven laps between Safa and Marwah, about 450 metres each way, retracing Hajar's search for water. It is remembrance, not a race; hydrate.",
+      text: "After wudu and a rest at your hotel, head to the Mataf. Tawaf begins at the Black Stone line, a raised right hand with Allahu Akbar from a distance is perfectly valid when the crowd is thick, and runs seven counterclockwise circuits with the Kaaba on your left. Men may walk briskly for the first three circuits if space allows. Pray naturally in whatever language your heart speaks; there is no fixed dua for each circuit, despite what many first-timers believe. And one huge relief for beginners: the Mataf now has digital counters displaying your current circuit, so you will never lose track.",
+    },
+    {
+      type: "p",
+      text: "When you finish, pray two rak'ahs behind Maqam Ibrahim, or anywhere in the mosque if it is crowded, then drink Zamzam; it is free and flowing everywhere. Sa'i follows: seven laps between Safa and Marwah, starting at Safa and ending at Marwah, retracing Hajar's desperate search for water. Between the green lights men jog lightly while everyone else walks normally; the corridor is air-conditioned, fully wheelchair accessible, and clearly marked, so elderly parents can complete it comfortably. It is remembrance, not a race; hydrate.",
     },
     {
       type: "h2",
@@ -69,7 +73,20 @@ export const umrahVisaToTawafSequencePakistan: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Halq (shaving the head) or Taqsir (trimming; women cut a fingertip's length) completes the Umrah and closes Ihram. Visa filed to final trim, the whole journey fits ten days to two weeks door to door.",
+      text: "Halq (shaving the head) or Taqsir (trimming all over; women cut a fingertip's length) completes the Umrah and closes Ihram. Barbers line the streets outside the Haram; agree on the price first. The moment it is done, all ihram restrictions lift and normal clothes return. Visa filed to final trim, the whole journey fits ten days to two weeks door to door.",
+    },
+    {
+      type: "h2",
+      text: "The Mistakes Beginners Make",
+    },
+    {
+      type: "ul",
+      items: [
+        "Fighting the crowd at the Black Stone. Pointing from a distance counts fully; you do not need to touch it, and the crush there is genuinely intense",
+        "Rushing. Nothing requires Tawaf and Sa'i back to back. Rest, eat, pray, then continue; splitting them across the day is completely valid",
+        "Thinking Arabic is compulsory. Your sincere duas in Urdu or English are completely valid; Allah hears the heart, not the accent",
+        "Losing count during Sa'i. Each lap is clearly signed; glance up, do not guess",
+      ],
     },
     {
       type: "h2",
@@ -82,6 +99,14 @@ export const umrahVisaToTawafSequencePakistan: BlogPostSeed = {
     {
       type: "quote",
       text: "The paperwork takes a week. The rituals take a day. The meaning stays.",
+    },
+    {
+      type: "p",
+      text: "Learn the sequence tonight, ihram, Tawaf, two rak'ahs and Zamzam, Sa'i, then halq or taqsir, and practice the Talbiyah until it flows. Walk in with that much preparation and you will perform Umrah with confidence and a full heart, present where you are instead of anxious about what comes next.",
+    },
+    {
+      type: "p",
+      text: "And as you raise your hands in the Haram, please remember the people of Palestine and Sudan in your duas. They are enduring hardships most of us can scarcely imagine, and our prayers are with them for relief, safety, and peace. If you are able, support a trusted humanitarian relief effort; no kindness is ever wasted.",
     },
   ],
   faqs: [

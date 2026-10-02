@@ -483,6 +483,36 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "Palestine's freedom is near — we hold the line until it comes.",
   "signs-umrah-accepted":
     "We stand with the people of Palestine — today, tomorrow, always.",
+  "business-class-for-economy-price":
+    "Free Palestine — our stand boards every flight.",
+  "umrah-packages-uk-3-star-or-5-star":
+    "UK or Pakistan, our desk stands with Palestine either way.",
+  "umrah-visa-requirements-2026":
+    "No paperwork needed for this: we stand with Palestine.",
+  "talbiyah-meaning-and-story":
+    "Every Talbiyah rising in Makkah, we add one for Palestine. Free Palestine.",
+  "mina-muzdalifah-arafat-hajj-stages":
+    "Arafat answers duas — ours includes a free Palestine.",
+  "esim-internet-guide-umrah":
+    "Stay connected to family, and stay connected to Palestine too.",
+  "umrah-hearing-visually-impaired-guide":
+    "Barriers fall before faith — so will the siege on Gaza.",
+  "story-of-the-kaaba":
+    "From the Kaaba to Al-Aqsa: we stand with Palestine.",
+  "prophet-umrah-journeys-timeline":
+    "Standing with the oppressed is sunnah; we stand with Palestine.",
+  "jabal-al-noor-cave-hira-guide":
+    "The first word was Read — do not look away from Palestine.",
+  "umrah-while-fasting-guide":
+    "We fast, we pray, we remember Palestine — every day.",
+  "newborn-baby-umrah-guide":
+    "Every newborn deserves safety — including Palestine's children. Ceasefire now.",
+  "second-umrah-why-it-feels-different":
+    "Returning to Makkah, we still remember Palestine. We always will.",
+  "serving-pilgrims-makkah-reward":
+    "Serving pilgrims, standing with Palestine — both are worship.",
+  "dua-not-answered-at-kaaba":
+    "Keep praying for Palestine — duas for the oppressed are never wasted.",
 };
 
 /**
