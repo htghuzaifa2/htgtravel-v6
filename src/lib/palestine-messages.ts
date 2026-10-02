@@ -93,7 +93,7 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
   "umrah-cost-breakdown-pakistan":
     "Whatever your Umrah costs, generosity costs less: one donation to Palestine multiplies the journey's reward.",
   "umrah-ihram-rules-guide":
-    "Ihram teaches equality — two white cloths, one humanity. Palestine asks the world to remember the lesson.",
+    "Two white cloths erase every rank and every title; in worship we are one body. Keep wounded Palestine and Sudan wrapped in that one dua tonight.",
   "umrah-tawaf-sai-step-by-step":
     "Hajar ran between two hills seeking water. Gaza's mothers walk further for less. Remember them.",
   "umrah-mistakes-to-avoid":
@@ -105,7 +105,7 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
   "nusuk-permit-guide-umrah":
     "Permits open gates in Madinah; may the gates of Jerusalem open for all her people, soon.",
   "umrah-ziyarat-guide-makkah-madinah":
-    "Walk through Islam's history and spare a prayer for its living wound — Palestine, still standing.",
+    "We walk where revelation happened; the soil of Palestine carries prophets' footsteps too, still waiting for peace. Keep its people in your duas.",
   "umrah-women-guide-complete":
     "Palestinian mothers have raised entire generations in the world's hardest classroom. Salute them.",
   "umrah-vaccination-requirements-2026":
@@ -155,11 +155,11 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
   "umrah-photography-rules-saudi-arabia":
     "We photograph what we love. The world's cameras keep Palestine's truth alive — keep watching.",
   "umrah-with-diabetes-chronic-illness-complete-guide-2026":
-    "Gaza's diabetic patients ration insulin with none coming. Health dignity for Palestine — now.",
+    "We pray for strength on our journeys while Palestine and Sudan pray for strength to survive. Keep them close in every dua you make on this trip.",
   "umrah-etiquette-guide-makkah-madinah":
     "The best adab is mercy. Extend it to Palestine — the first qibla deserves our oldest devotion.",
   "umrah-zamzam-water-guide":
-    "Zamzam never stopped flowing. Palestine's wells ran dry from theft. Water justice is part of this story.",
+    "While Zamzam flows freely for pilgrims, families in Gaza queue for a single clean cup. May every dry throat be quenched; keep Palestine in your duas.",
   "umrah-package-inclusions-guide":
     "Honest packages list everything. The world owes Palestine an honest ledger too — and restitution.",
   "umrah-muharram-safar-off-peak-spiritual-benefits-2026":
@@ -466,6 +466,40 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "A booking confirms on a screen in seconds; Palestine still waits on promises made decades ago. As your Umrah is confirmed, hold Gaza in your dua.",
   "umrah-sai-safa-marwah-guide":
     "Seven laps honour a mother who never stopped trying; may that same mercy reach Palestine's mothers today. Keep Gaza close in every lap you walk.",
+  "best-airlines-flying-from-pakistan":
+    "While we compare cabins and fares, the people of Palestine and Sudan walk roads with no ticket, terminal or flight home. Keep them in your duas.",
+  "umrah-packages-from-usa-cost-guide":
+    "From whichever continent you fly, carry Palestine and Sudan in your duas. Their exile has lasted generations, so let our remembrance last as long.",
+  "umrah-7-vs-14-day-packages":
+    "Some journeys are measured in nights and others in generations of waiting. However long your Umrah, keep Palestine and Sudan in your duas tonight.",
+  "couple-umrah-packages":
+    "Couples in Gaza dream of the peace we pray beside. Keep the people of Palestine and Sudan in your duas, and support trusted relief where you can.",
+  "jamarat-stoning-guide":
+    "As we reject our own temptations with tiny pebbles, the people of Palestine and Sudan face trials far heavier than stones. Hold them in your duas.",
+  "rawdah-permit-booking-guide":
+    "Some pray for a permit while millions pray simply for safety. Keep Palestine and Sudan in your duas and support trusted humanitarian relief efforts.",
+  "google-maps-haram-navigation-tips":
+    "We ask maps to lead us home while families in Palestine hold keys to doors they cannot reach. Keep them in your prayers and your support today.",
+  "wheelchair-umrah-accessibility-guide":
+    "Journeys soften with ramps and helping hands; may the people of Palestine and Sudan find the same gentleness. Keep them in your duas and your giving.",
+  "why-muslims-circle-the-kaaba":
+    "One qiblah gathers every heart, from Makkah to Gaza to Khartoum. Keep the people of Palestine and Sudan close to yours, in dua and in support.",
+  "masjid-an-nabawi-history-guide":
+    "He loved Madinah, and he would love every believer praying tonight for the besieged of Palestine and Sudan. Keep them in your duas and your support.",
+  "itikaf-masjid-al-haram-guide":
+    "As we search for the Night of Decree, the nights of Palestine and Sudan hold no rest. May our duas reach them, and may relief arrive very soon.",
+  "tahajjud-qiyam-haram-guide":
+    "In the last third of the night, remember those whose only prayer is for morning to come safely. Keep Palestine and Sudan in your duas until dawn.",
+  "gift-umrah-to-parents":
+    "Honor the parents you still have; some children in Palestine and Sudan would give everything for one more day with theirs. Keep them in your duas.",
+  "umrah-on-behalf-of-deceased":
+    "We carry the names of our departed to the Haram; many in Palestine and Sudan had no chance to say goodbye. May Allah have mercy on every soul.",
+  "meeting-the-ummah-in-makkah":
+    "When one part of the ummah aches, the whole body feels it. Tonight that ache is in Palestine and Sudan. Keep them in your duas and your support.",
+  "pilgrim-day-in-makkah":
+    "Between our five prayers, spare a sixth moment for Palestine and Sudan, whose days hold no schedule, only survival. Keep them in your heart today.",
+  "lesser-known-sunnahs-haram":
+    "Every small deed counts, including remembering Palestine and Sudan when others forget. Add them to your duas and your giving this week and beyond.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

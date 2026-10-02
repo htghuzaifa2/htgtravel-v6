@@ -247,6 +247,23 @@ import { cheapestMonthsToFlyFromPakistan } from "./blog-posts/cheapest-months-to
 import { flightPriceAlertsGuide } from "./blog-posts/flight-price-alerts-guide";
 import { nusukUmrahPlatformDiyVsAgency } from "./blog-posts/nusuk-umrah-platform-diy-vs-agency";
 import { umrahSaiSafaMarwahGuide } from "./blog-posts/umrah-sai-safa-marwah-guide";
+import { bestAirlinesFlyingFromPakistan } from "./blog-posts/best-airlines-flying-from-pakistan";
+import { umrahPackagesFromUsaCostGuide } from "./blog-posts/umrah-packages-from-usa-cost-guide";
+import { umrahSevenVsFourteenDayPackages } from "./blog-posts/umrah-7-vs-14-day-packages";
+import { coupleUmrahPackages } from "./blog-posts/couple-umrah-packages";
+import { jamaratStoningGuide } from "./blog-posts/jamarat-stoning-guide";
+import { rawdahPermitBookingGuide } from "./blog-posts/rawdah-permit-booking-guide";
+import { googleMapsHaramNavigationTips } from "./blog-posts/google-maps-haram-navigation-tips";
+import { wheelchairUmrahAccessibilityGuide } from "./blog-posts/wheelchair-umrah-accessibility-guide";
+import { whyMuslimsCircleTheKaaba } from "./blog-posts/why-muslims-circle-the-kaaba";
+import { masjidAnNabawiHistoryGuide } from "./blog-posts/masjid-an-nabawi-history-guide";
+import { itikafMasjidAlHaramGuide } from "./blog-posts/itikaf-masjid-al-haram-guide";
+import { tahajjudQiyamHaramGuide } from "./blog-posts/tahajjud-qiyam-haram-guide";
+import { giftUmrahToParents } from "./blog-posts/gift-umrah-to-parents";
+import { umrahOnBehalfOfDeceased } from "./blog-posts/umrah-on-behalf-of-deceased";
+import { meetingTheUmmahInMakkah } from "./blog-posts/meeting-the-ummah-in-makkah";
+import { pilgrimDayInMakkah } from "./blog-posts/pilgrim-day-in-makkah";
+import { lesserKnownSunnahsHaram } from "./blog-posts/lesser-known-sunnahs-haram";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -461,6 +478,23 @@ const SEEDS: BlogPostSeed[] = [
   flightPriceAlertsGuide,
   nusukUmrahPlatformDiyVsAgency,
   umrahSaiSafaMarwahGuide,
+  bestAirlinesFlyingFromPakistan,
+  umrahPackagesFromUsaCostGuide,
+  umrahSevenVsFourteenDayPackages,
+  coupleUmrahPackages,
+  jamaratStoningGuide,
+  rawdahPermitBookingGuide,
+  googleMapsHaramNavigationTips,
+  wheelchairUmrahAccessibilityGuide,
+  whyMuslimsCircleTheKaaba,
+  masjidAnNabawiHistoryGuide,
+  itikafMasjidAlHaramGuide,
+  tahajjudQiyamHaramGuide,
+  giftUmrahToParents,
+  umrahOnBehalfOfDeceased,
+  meetingTheUmmahInMakkah,
+  pilgrimDayInMakkah,
+  lesserKnownSunnahsHaram,
 ];
 
 // Auto-generate IDs for all posts at runtime
