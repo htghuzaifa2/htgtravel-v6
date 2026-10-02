@@ -22,7 +22,7 @@ export const umrahEvisaVsUmrahVisa: BlogPostSeed = {
     headline: "We File Both Types Daily, and We'll Tell You Which Fits",
     body: "The right Saudi visa depends on your purpose, duration, and whether you plan only worship or worship plus exploration. Send us your plan and we will match you to the correct visa before you pay for anything. Wrong visa types waste weeks. This consultation is free.",
     cta: "Pick my visa type",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Umrah visa comparison. Please advise which visa type fits my plan.",
   },
   content: [
     {

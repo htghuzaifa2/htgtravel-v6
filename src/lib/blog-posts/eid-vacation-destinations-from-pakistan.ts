@@ -22,7 +22,7 @@ export const eidVacationDestinationsFromPakistan: BlogPostSeed = {
     headline: "Eid Seats Sell Out Weeks Early — We Hold Them for Our Travellers",
     body: "Eid is the most competed travel window in Pakistan. Flights double, hotels fill, and the unbooked watch from home. Our desk holds Eid allocations on key routes and packages them before the rush peaks. Message us before the calendar beats you to it.",
     cta: "Book my Eid trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Eid guide. Please hold Eid options for. Travellers for Eid.",
   },
   content: [
     {

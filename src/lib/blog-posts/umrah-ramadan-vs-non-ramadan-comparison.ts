@@ -22,7 +22,7 @@ export const umrahRamadanVsNonRamadanComparison: BlogPostSeed = {
     headline: "Tell Us Your Priorities — We'll Match You to the Right Season",
     body: "Reward-seekers, budget-travellers, first-timers wary of crowds, families bound to school holidays. Each belongs in a different month, and we book them all. One message describing your priorities gets an honest recommendation with live rates. No upselling, just matching.",
     cta: "Match me to a season",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Ramadan comparison guide. Please recommend the right Umrah season for me.",
   },
   content: [
     {

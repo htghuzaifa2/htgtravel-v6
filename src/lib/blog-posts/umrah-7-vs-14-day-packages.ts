@@ -23,7 +23,8 @@ export const umrahSevenVsFourteenDayPackages: BlogPostSeed = {
     body:
       "The right Umrah duration depends on your leave balance, your knees, and who is traveling with you, and the price gap between seven and fourteen days is smaller than most pilgrims assume. Tell us your dates and constraints and we will map both options with real hotel quotes, so the decision stops being a guess and starts being arithmetic.",
     cta: "Match my duration",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I have limited leave and cannot decide between a 7-day and a 14-day Umrah package. Please compare total cost and pacing for my dates and the people traveling with me.",
   },
   content: [
     {

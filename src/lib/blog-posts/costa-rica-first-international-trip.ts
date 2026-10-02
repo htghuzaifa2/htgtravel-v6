@@ -22,7 +22,8 @@ export const costaRicaFirstInternationalTrip: BlogPostSeed = {
     headline: "Costa Rica, Without the Planning Weight",
     body: "Flights from your US city, lodges arranged around the Arenal, Monteverde, and Manuel Antonio triangle, shuttle transfers timed to mountain roads, and zip-line mornings booked before you land. Tell us your week; we will handle the rest of the jungle.",
     cta: "Plan my Costa Rica trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I want to plan a Costa Rica trip from the US: Arenal, Monteverde and Manuel Antonio. Please arrange everything.",
   },
   content: [
     {

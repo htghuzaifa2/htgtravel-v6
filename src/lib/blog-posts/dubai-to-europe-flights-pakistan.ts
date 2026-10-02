@@ -22,7 +22,7 @@ export const dubaiToEuropeFlightsPakistan: BlogPostSeed = {
     headline: "Europe Via Dubai — With a Free Stopover Engineered In",
     body: "Gulf connections to Europe often beat direct fares from Pakistan, and with a 96-hour Dubai transit visa, the layover becomes a bonus holiday. Our desk prices the whole structure: Pakistan to Dubai to Europe, with the stopover timed to your visa. One message, three countries.",
     cta: "Price my routing",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Dubai-Europe routing guide. Please price my trip with a stopover.",
   },
   content: [
     {

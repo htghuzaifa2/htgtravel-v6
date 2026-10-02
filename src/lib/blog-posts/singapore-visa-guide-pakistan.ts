@@ -22,7 +22,7 @@ export const singaporeVisaGuidePakistan: BlogPostSeed = {
     headline: "Singapore Is a Weekend-Size Wonder. We'll Handle the Visa",
     body: "Singapore packs a continent into an island: hawker food in Little India, Gardens by the Bay glowing at midnight. Send us your travel dates and we will prepare your visa file and lock flights from Karachi or Lahore. The city is small; the memories are not.",
     cta: "Plan my Singapore trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Singapore visa guide. Please help with my visa and flights.",
   },
   content: [
     {

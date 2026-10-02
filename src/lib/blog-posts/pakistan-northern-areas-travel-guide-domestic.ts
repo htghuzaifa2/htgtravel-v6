@@ -22,7 +22,7 @@ export const pakistanNorthernAreasTravelGuideDomestic: BlogPostSeed = {
     headline: "The North, Arranged by the Desk That Books It Weekly",
     body: "Flights to Skardu sell out for summer by spring, the road routes need sequencing, and the best guesthouses move through relationships. Our desk arranges the north weekly. Flights, stays, and the itinerary that respects mountains and timelines. Ask about this summer.",
     cta: "Plan my northern trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your northern areas guide. Please plan my Hunza/Skardu trip.",
   },
   content: [
     {

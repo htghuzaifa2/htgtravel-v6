@@ -22,7 +22,7 @@ export const umrahAfterRamadanShawwalMuharramComparison2026: BlogPostSeed = {
     headline: "The Shawwal Window Is Open, and It's the Best Deal of the Year",
     body: "The two weeks after Eid are our favourite recommendation: the Haram exhales, hotel rates drop sharply, and the weather is still gentle. Our Shawwal packages carry premium positions at off-season prices. Message us before the window, and the rates, close.",
     cta: "Grab the Shawwal window",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your post-Ramadan guide. Please quote Shawwal Umrah rates.",
   },
   content: [
     {

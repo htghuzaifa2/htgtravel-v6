@@ -22,7 +22,7 @@ export const umrahFirstTimeCompleteGuide: BlogPostSeed = {
     headline: "Your First Umrah Should Be Planned by People Who've Sent Thousands",
     body: "First-time pilgrims carry questions that no blog fully answers, so our packages include a pre-departure orientation and a WhatsApp group where our team answers everything, from niyyah to Nusuk permits. Flights, visa, Haram-side hotels, and guidance included. Start your journey with a message.",
     cta: "Plan my first Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! This will be my first Umrah. Please guide me to the right package.",
   },
   content: [
     {

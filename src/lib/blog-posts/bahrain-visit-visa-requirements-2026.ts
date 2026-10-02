@@ -23,7 +23,8 @@ export const bahrainVisitVisaRequirements2026: BlogPostSeed = {
     body:
       "Most Bahrain refusals we see are document problems: a bank statement in the wrong name, a passport too close to expiry, a hotel booking with dates that do not match. Send us your checklist before you apply and we will fix the file first, then file it once.",
     cta: "Check my Bahrain file",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am applying for a Bahrain visit visa. Please review my documents and confirm my file is complete before I submit.",
   },
   content: [
     {

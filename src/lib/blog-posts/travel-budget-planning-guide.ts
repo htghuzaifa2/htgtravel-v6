@@ -22,7 +22,7 @@ export const travelBudgetPlanningGuide: BlogPostSeed = {
     headline: "We Quote the Whole Trip — So the Budget Has No Surprise Chapter",
     body: "The budget that survives is the one that sees everything upfront: flights, hotels, visa, transfers, daily costs. Our desk quotes the full structure in writing, then tells you honestly where the leaks hide and which corners cut cleanly. Message us with your dream and your ceiling.",
     cta: "Budget my trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your budget guide. Please quote a full trip against my budget of —",
   },
   content: [
     {

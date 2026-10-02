@@ -22,7 +22,7 @@ export const pakistanToIstanbulFlightGuide: BlogPostSeed = {
     headline: "Istanbul With Flights, Visa Route, and Hotels — One Chat",
     body: "Turkey trips from Pakistan hinge on two things: the right flight and the right visa route. Remember the eVisa needs a valid US/UK/Schengen visa. Our desk handles both plus hotels and inter-city trains. One message, whole Turkish itinerary. Send your dates.",
     cta: "Fly me to Istanbul",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Istanbul flight guide. Please plan my Turkey trip with flights.",
   },
   content: [
     {

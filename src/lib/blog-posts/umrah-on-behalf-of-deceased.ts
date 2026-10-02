@@ -23,7 +23,8 @@ export const umrahOnBehalfOfDeceased: BlogPostSeed = {
     body:
       "Adding a proxy Umrah to your own trip means extra days, transport to Masjid Aisha at Taneem, and flexible hotel nights, small logistics that are easy to get wrong at the end of a tiring journey. We build these itineraries for families all the time, from Pakistan and abroad. Tell us the names you are carrying, and we will help you carry them there.",
     cta: "Plan a proxy Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I want to perform Umrah on behalf of my late father after completing my own Umrah. Please plan the extra days, the transport to Masjid Aisha, and any permits I will need for both journeys.",
   },
   content: [
     {

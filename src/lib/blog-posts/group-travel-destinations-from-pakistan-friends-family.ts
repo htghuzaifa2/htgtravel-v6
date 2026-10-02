@@ -22,7 +22,7 @@ export const groupTravelDestinationsFromPakistanFriendsFamily: BlogPostSeed = {
     headline: "Groups of 10+ Open Our Best Rates. Bring Yours",
     body: "Group trips are our desk's home ground: blocked fares, hotel room-clusters, shared transfers, and one WhatsApp thread for the whole jamaat. Friends' getaways, family reunions, office retreats. Bring the headcount; we bring the structure and the savings.",
     cta: "Plan our group trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your group destinations guide. We are (number) people planning a trip for (destination).",
   },
   content: [
     {

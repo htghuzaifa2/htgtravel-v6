@@ -22,7 +22,7 @@ export const soloFemaleTravelGuidePakistaniWomen: BlogPostSeed = {
     headline: "Pakistan's Women Travel Solo Through Our Desk — Safely and Superbly",
     body: "Women travellers are among our most adventurous clients, and our desk supports them with vetted hotels, 24/7 WhatsApp support on the ground, and itineraries built around both safety and joy. Tell us where you dream of going; we will build the version your family can say yes to.",
     cta: "Plan my solo trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your solo female travel guide. Please plan my safe solo trip.",
   },
   content: [
     {

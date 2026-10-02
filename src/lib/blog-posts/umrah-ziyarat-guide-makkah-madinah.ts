@@ -23,7 +23,8 @@ export const umrahZiyaratGuideMakkahMadinah: BlogPostSeed = {
     body:
       "The difference between seeing a mountain and understanding the mountain is a guide who knows the story. Our packages include structured ziyarat of both cities with guides who explain rather than just drive: air-conditioned transport, real time at each stop, and every site named on the itinerary before you fly. Ask what your dates include.",
     cta: "Add proper ziyarat",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Ziyarat matters as much to me as the rituals themselves. Please build my Umrah package with guided tours of the Makkah and Madinah sites, with a knowledgeable guide and real time at each stop.",
   },
   content: [
     {

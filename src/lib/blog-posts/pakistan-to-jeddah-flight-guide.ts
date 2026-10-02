@@ -22,7 +22,7 @@ export const pakistanToJeddahFlightGuide: BlogPostSeed = {
     headline: "Umrah Flights Plus Hotels Plus Visa — One Package, One Desk",
     body: "Pilgrim fares are our daily business: we hold Umrah allocations on the Jeddah route and package them with Haram-side hotels and visa processing. Message us your city and travel month. Today's package rates come back same-day, with the flight schedule attached.",
     cta: "Get Umrah fares",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Jeddah flight guide. Please share Umrah package fares with flights.",
   },
   content: [
     {

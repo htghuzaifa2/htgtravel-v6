@@ -22,7 +22,7 @@ export const umrahGroupBookingGuide: BlogPostSeed = {
     headline: "We Organize Mosque and Family Groups — Hundreds Every Year",
     body: "Group Umrah is our specialty: unified flights, hotel blocks near the Haram, shared transfers, and a group leader from our team on the ground. Mosques, extended families, and offices. Bring us your numbers and dates, and we will structure the package around your community.",
     cta: "Organize my group",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your group booking guide. We are planning a group Umrah. Please share group package rates.",
   },
   content: [
     {

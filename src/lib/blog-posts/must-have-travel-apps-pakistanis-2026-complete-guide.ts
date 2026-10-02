@@ -22,7 +22,7 @@ export const mustHaveTravelAppsPakistanis2026CompleteGuide: BlogPostSeed = {
     headline: "We Configure Your Phone Before You Fly",
     body: "Our pre-departure briefings include the app setup: Nusuk configured, prayer times localized, offline maps downloaded, and the WhatsApp line saved. Technology that serves from the first hour, that is the standard our travellers fly with. Message us for your briefing.",
     cta: "Get the app briefing",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your travel apps guide. Please set up my app briefing before my trip.",
   },
   content: [
     {

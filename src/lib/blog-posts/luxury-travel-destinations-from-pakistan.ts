@@ -22,7 +22,7 @@ export const luxuryTravelDestinationsFromPakistan: BlogPostSeed = {
     headline: "Luxury Is Our Quiet Speciality — Ask About the Villas We've Booked",
     body: "The luxury tier is where our desk's relationships pay for themselves: overwater villas, Haram-view suites, and Alpine hotels at rates the internet cannot see. Tell us the splurge and the occasion; we will return the options that justify the adjective. Discreetly, of course.",
     cta: "Plan my luxury trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your luxury guide. Please share luxury options for my occasion.",
   },
   content: [
     {

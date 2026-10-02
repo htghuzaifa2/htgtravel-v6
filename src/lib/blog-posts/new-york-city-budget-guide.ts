@@ -22,7 +22,7 @@ export const newYorkCityBudgetGuide: BlogPostSeed = {
     headline: "The Full New York, Minus the Bill",
     body: "Flights timed right, a bed in the borough that makes sense, and an itinerary built around the free skyline, not the $70 version of it. Tell us your dates; we will do the arithmetic.",
     cta: "Plan my budget New York",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want New York City on a realistic budget. Please plan my trip around the free stuff.",
   },
   content: [
     {

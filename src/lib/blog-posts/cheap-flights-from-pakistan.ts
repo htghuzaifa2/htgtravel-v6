@@ -22,7 +22,7 @@ export const cheapFlightsFromPakistan: BlogPostSeed = {
     headline: "Stop Searching: Let Us Watch the Fares for You",
     body: "Fare hunting from Pakistan is a full-time job, so we made it ours. Tell us your route and rough dates once, and our desk monitors the fares and pings you the moment they dip. Same-day quotes, honest advice on when to book, and zero obligation. Try the human fare-alert.",
     cta: "Watch my fares",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your cheap flights guide. Please watch fares for my route and dates.",
   },
   content: [
     {

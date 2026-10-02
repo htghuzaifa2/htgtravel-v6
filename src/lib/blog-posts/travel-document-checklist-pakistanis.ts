@@ -22,7 +22,7 @@ export const travelDocumentChecklistPakistanis: BlogPostSeed = {
     headline: "The Checklist, Personalized and Checked by Our Desk",
     body: "Every trip we book comes with its document checklist. Personalized for your destination's requirements and verified against the current rules before you fly. No missing-certificate surprises, no airport heartbreak. Travel with your paperwork professionally checked: message us.",
     cta: "Check my documents",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your document checklist. Please verify my documents for my trip.",
   },
   content: [
     {

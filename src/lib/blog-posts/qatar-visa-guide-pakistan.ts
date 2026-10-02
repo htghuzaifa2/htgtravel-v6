@@ -22,7 +22,8 @@ export const qatarVisaGuidePakistan: BlogPostSeed = {
     headline: "Doha Without the Counter Gamble",
     body: "The arrival-visa era ended in March 2026, so Qatar now rewards travellers who file properly: a Hayya e-visa approved before you fly, flights and hotels aligned with it, and entry documents printed and ready. Send us your dates; our desk arranges Doha trips every week.",
     cta: "Arrange my Hayya visa",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I need a Qatar Hayya e-visa for my Doha trip. Please arrange it with my flights and hotel.",
   },
   content: [
     {

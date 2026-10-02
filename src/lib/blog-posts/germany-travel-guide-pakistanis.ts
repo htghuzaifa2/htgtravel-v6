@@ -22,7 +22,7 @@ export const germanyTravelGuidePakistanis: BlogPostSeed = {
     headline: "German Files Demand Precision — Precision Is Our Desk's Native Language",
     body: "Germany's visa officers read every line, and files built by professionals stand taller in that light. Our desk builds the German Schengen file with the reconciled itinerary and finances officers respect, then maps the halal scene in each city. Deutschland, properly filed. Message us.",
     cta: "File for Germany",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Germany guide. Please build my German visa file and itinerary.",
   },
   content: [
     {

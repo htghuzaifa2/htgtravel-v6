@@ -22,7 +22,8 @@ export const eidHolidays2026LongWeekendGuide: BlogPostSeed = {
     headline: "Your Eid 2026 Window, Held Before It Sells Out",
     body: "Eid week is the most competed travel window in Pakistan: northern flights vanish by February, Gulf fares spike, and hotels impose minimum stays. Tell us which Eid you are targeting and how many days you have. We hold the seats, rooms, and routes while you decide what to pack.",
     cta: "Hold my Eid 2026 seats",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Please help me plan the Eid 2026 long weekend. Which dates, which route, and what should I book first?",
   },
   content: [
     {

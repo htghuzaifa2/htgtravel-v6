@@ -22,7 +22,7 @@ export const umrahVsHajjDifferencesExplained: BlogPostSeed = {
     headline: "Umrah Now, Hajj When Allah Wills — We Plan Both",
     body: "Many of our clients perform Umrah first and stand for Hajj years later, with our desk planning each journey in its season. Hajj guidance, registration monitoring, and packages built through licensed channels. When the intention ripens, we are the desk to bring it to.",
     cta: "Plan either journey",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Umrah vs Hajj guide. Please guide me on planning my journey.",
   },
   content: [
     {

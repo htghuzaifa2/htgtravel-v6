@@ -23,7 +23,8 @@ export const bahrainFamilyVisaGuide: BlogPostSeed = {
     body:
       "Family visa files multiply: every member needs the right form, the right statement, the right photo rules. Send us the whole family's documents once and we file each application correctly, whether it is a holiday eVisa run or an LMRA dependent case with attested certificates. You pack; we handle the paperwork per person.",
     cta: "File my family's visas",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am applying for Bahrain visas for my family, spouse and children. Please guide us to the right route and review each application.",
   },
   content: [
     {

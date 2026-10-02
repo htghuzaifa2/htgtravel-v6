@@ -23,7 +23,8 @@ export const giftUmrahToParents: BlogPostSeed = {
     body:
       "We have arranged countless Umrah journeys for parents: accessible rooms close to the Haram, gentle itineraries with rest days, wheelchair support where needed, and family rooms so children traveling along stay near. Tell us your parents' ages and needs and we will plan around them, because that is the part we love most about this work.",
     cta: "Plan my parents' Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I want to send my parents for Umrah and take care of everything for them. They are elderly, so please plan a gentle trip with a hotel close to the Haram and support on the ground.",
   },
   content: [
     {

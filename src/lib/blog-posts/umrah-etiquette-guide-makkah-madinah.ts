@@ -22,7 +22,7 @@ export const umrahEtiquetteGuideMakkahMadinah: BlogPostSeed = {
     headline: "Travel With the Adab of the Old Pilgrims",
     body: "Our pre-departure briefings cover the manners as thoroughly as the logistics, because pilgrims remember how they behaved in Makkah longer than where they stayed. Packages with guidance baked in, from a desk that reveres this journey. Ask about our next guided departures.",
     cta: "Travel with guidance",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your etiquette guide. Please share guided package departures.",
   },
   content: [
     {

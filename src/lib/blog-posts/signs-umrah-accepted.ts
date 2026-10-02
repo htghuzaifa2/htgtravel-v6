@@ -23,7 +23,8 @@ export const signsUmrahAccepted: BlogPostSeed = {
     body:
       "The companions prayed for months after their deeds, asking Allah to accept what had already been completed, and our relationship with pilgrims is built the same way. We stay in touch after the return: the dua lists made in Makkah, the questions that surface weeks later, and, for many, planning the next journey when the longing grows loud enough. Acceptance belongs to Allah; the journey that keeps calling you back is our department.",
     cta: "Plan my return journey",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Since returning from Umrah I feel drawn to go back. Please help me plan my next journey to the Haram, with dates and a hotel that suit a quieter, longer stay for extra worship.",
   },
   content: [
     {

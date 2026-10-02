@@ -22,7 +22,8 @@ export const turkeyBeyondIstanbul: BlogPostSeed = {
     headline: "Beyond Istanbul, Booked Properly",
     body: "We check the e-visa condition first, then wire the route: internal flights at $30 to 50 a leg, a cave hotel with a view of the balloons, the Pamukkale entry timed for 8 am, and the coast to slow down in. Ten days, one thread.",
     cta: "Plan my Türkiye route",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I want Türkiye beyond Istanbul: Cappadocia, Pamukkale and the coast. Please check my e-visa route and plan it.",
   },
   content: [
     {

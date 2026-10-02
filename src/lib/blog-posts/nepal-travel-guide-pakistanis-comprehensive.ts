@@ -22,7 +22,7 @@ export const nepalTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "The Himalayas Next Door — Flights and Hotels in One Quote",
     body: "Nepal is the mountain trip Pakistanis forget is barely ninety minutes away. Visa on arrival, gentle prices, and the world's greatest skyline. Our desk arranges Kathmandu and Pokhara trips with the mountain flights included. Ask about the Himalayan weekend that fits Pakistani calendars.",
     cta: "Plan my Nepal trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Nepal guide. Please plan my Kathmandu and Pokhara trip.",
   },
   content: [
     {

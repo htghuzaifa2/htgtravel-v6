@@ -22,7 +22,8 @@ export const japanFirstTimersGuide: BlogPostSeed = {
     headline: "Ten Days in Japan, Done Properly",
     body: "Point-to-point Shinkansen tickets instead of the rail pass you probably do not need, a Suica card waiting at the airport, sunrise timing at Fushimi Inari, and a visa file with the detailed itinerary the embassy expects. Send us your ten days; we will spend them well.",
     cta: "Plan my Japan trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I want to do Japan in 10 days: Tokyo, Kyoto and Osaka. Please build my visa file, flights and stays.",
   },
   content: [
     {

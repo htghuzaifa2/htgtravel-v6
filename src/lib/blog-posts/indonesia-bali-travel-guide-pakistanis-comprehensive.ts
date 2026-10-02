@@ -22,7 +22,7 @@ export const indonesiaBaliTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Bali and Beyond — The Island Trip With the Halal Map Included",
     body: "Bali confuses Muslim travellers needlessly. Our desk hands you the halal restaurant map, the mosque locations, and the villa-and-flight package in one quote. Indonesia is the world's largest Muslim country; Bali is its Hindu jewel. Both are yours. Ask us how.",
     cta: "Plan my Bali trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Indonesia guide. Please plan my Bali trip with the halal map.",
   },
   content: [
     {

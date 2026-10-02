@@ -23,7 +23,8 @@ export const studentFlightDiscountsGuide: BlogPostSeed = {
     body:
       "Airlines do not advertise their student tiers loudly, and the best of them often sit with agencies rather than on public websites. We hold consolidated student fares for the UK, Canada, Australia and the US, quote them against every published sale price, and confirm the extra baggage allowance in writing before you pay. One honest comparison is usually worth more than a week of fare hunting.",
     cta: "Find my student fare",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am a student flying abroad for my studies. Please check the airline student fares and extra baggage allowances available on my route and dates, and book me the best verified fare.",
   },
   content: [
     {

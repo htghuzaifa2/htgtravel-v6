@@ -23,7 +23,8 @@ export const umrahZamzamWaterGuide: BlogPostSeed = {
     body:
       "Where to buy the sealed bottles, how the airport allowance works, packing it for the flight home. Our pilgrims learn the whole Zamzam process before they fly, so no litre is left behind in confusion. Travel with a desk that sweats these details. Message us for current packages.",
     cta: "Plan with the details handled",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Please help me plan an Umrah where I can drink Zamzam with intention and bring a sealed five-litre bottle home for my family. Please share your current Umrah packages.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const pakistanTourismBestKeptSecret: BlogPostSeed = {
     headline: "See It Before Everyone Else Does",
     body: "We run the north the way locals do: vetted hotels in Hunza and Skardu, drivers who know the passes, and itineraries that fold Lahore in without wasting a day. Tell us your dates; the valley logistics are ours to solve.",
     cta: "Plan my Pakistan trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want to visit Pakistan's north. Please suggest a route and dates.",
   },
   content: [
     {

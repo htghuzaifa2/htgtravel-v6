@@ -22,7 +22,7 @@ export const irelandVisaGuidePakistan: BlogPostSeed = {
     headline: "Ireland Rewards Airtight Files. Airtight Is Our Middle Name",
     body: "Ireland's visa process is old-school paperwork through AVATS, and it rewards applicants whose every document lines up. We assemble Irish files for Pakistanis (finances, employment, itinerary, accommodation) and track the embassy timeline for you. The cliffs of Moher deserve a properly built application.",
     cta: "Build my Ireland file",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Ireland visa guide. Please help me prepare my application.",
   },
   content: [
     {

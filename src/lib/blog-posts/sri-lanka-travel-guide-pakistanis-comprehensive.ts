@@ -22,7 +22,7 @@ export const sriLankaTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "The Island Trip That Fits Every Pakistani Budget",
     body: "Sri Lanka pairs South Asian familiarity with island magic (tea hills, leopard safaris, and beaches) at prices that fit modest budgets. Our desk arranges the entry process, flights, and the hill-country route. One message starts the island plan.",
     cta: "Plan my Sri Lanka trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Sri Lanka guide. Please plan my trip with flights.",
   },
   content: [
     {

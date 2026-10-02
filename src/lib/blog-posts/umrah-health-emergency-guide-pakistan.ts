@@ -22,7 +22,7 @@ export const umrahHealthEmergencyGuidePakistan: BlogPostSeed = {
     headline: "Travel Insurance for Umrah — Ask Us, It's Cheaper Than Regret",
     body: "Umrah travel insurance costs a fraction of one night's hotel, and covers the ambulance, clinic visit, or medicine that would otherwise shadow your whole trip. We arrange Saudi-accepted policies for pilgrims in minutes. Add it to any package: message us.",
     cta: "Add Umrah insurance",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Umrah health guide. Please add travel insurance to my package.",
   },
   content: [
     {

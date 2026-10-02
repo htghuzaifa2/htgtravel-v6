@@ -22,7 +22,8 @@ export const fiveDaysAnnualLeaveTrip: BlogPostSeed = {
     headline: "Five Days of Leave, Stretched Properly",
     body: "Send us your five days and your city. We come back with an energy-smart plan: overnight flights that waste zero leave, one well-chosen base with day trips, a central hotel, and only the sell-out experiences pre-booked. Short trips are our favourite puzzle.",
     cta: "Stretch my five days",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I have five days of annual leave. Please build me a trip that feels twice as long, flights and hotel included.",
   },
   content: [
     {

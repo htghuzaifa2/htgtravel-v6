@@ -22,7 +22,7 @@ export const ukVisitorVisaGuidePakistan: BlogPostSeed = {
     headline: "Get Your UK Visa File Checked Before You Pay the Fee",
     body: "One weak bank statement or missing sponsorship letter is all it takes to lose your fee and get a refusal stamp. Our team has prepared hundreds of UK applications from Pakistan. We audit your documents, fix the gaps, and book your biometrics appointment for you.",
     cta: "Check my UK visa file",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your UK visitor visa guide. Please review my documents before I apply.",
   },
   content: [
     {

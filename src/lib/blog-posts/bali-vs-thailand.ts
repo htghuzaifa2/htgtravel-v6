@@ -22,7 +22,8 @@ export const baliVsThailand: BlogPostSeed = {
     headline: "Two Islands, One Honest Recommendation",
     body: "Tell us your dates, your budget, and whether this trip is for resting or roaming. We come back with a side-by-side quote: Thailand e-visa filed, Bali paperwork arranged, flights compared from Karachi, Lahore, and Islamabad. You pick the island; we handle the rest.",
     cta: "Compare both for me",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am torn between Bali and Thailand. Can you compare visa work, flights, and cost from Pakistan for my dates and budget?",
   },
   content: [
     {

@@ -23,7 +23,8 @@ export const bahrainVisaFeesGuide: BlogPostSeed = {
     body:
       "The Bahrain visa costs BHD 9 on the government portal, yet travellers routinely pay double on copycat sites and agent markups. We file directly through the official route, then bundle the visa with flights and hotel at real prices, so every dinar you spend is on the trip itself. Send your dates and see the honest total.",
     cta: "Get the honest total",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I want the cheapest Bahrain visa route for my stay. Please confirm the official fees for my visa type and bundle it with my flights and hotel.",
   },
   content: [
     {

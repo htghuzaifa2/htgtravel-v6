@@ -23,7 +23,8 @@ export const hajj2026CompleteGuide: BlogPostSeed = {
     body:
       "Hajj is the journey of a lifetime, and it rewards preparation over impulse. Our desk monitors the 2027 scheme announcements, explains government versus private honestly, and prepares our pilgrims physically and spiritually for the five days that matter, including guided group movement between Mina, Arafat and Muzdalifah. When registration opens, the prepared travel first.",
     cta: "Get Hajj-ready",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I read your Hajj guide and am planning for the next Hajj season. Please register me for Hajj guidance and updates, including the scheme announcements and preparation timeline.",
   },
   content: [
     {

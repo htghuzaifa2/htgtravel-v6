@@ -22,7 +22,7 @@ export const kuwaitBahrainVisaGuidePakistan: BlogPostSeed = {
     headline: "Gulf Visa Routes Decoded in One Free Message",
     body: "Kuwait needs a sponsor, Bahrain needs a form, and most applicants guess which is which. Send us your Gulf travel plan and we will map the exact route, documents, and realistic timeline for each country before you commit to either.",
     cta: "Map my Gulf visa",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Kuwait and Bahrain guide. Please advise the best route for my trip.",
   },
   content: [
     {

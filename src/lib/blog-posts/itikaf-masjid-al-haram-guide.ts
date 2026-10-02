@@ -23,7 +23,8 @@ export const itikafMasjidAlHaramGuide: BlogPostSeed = {
     body:
       "Itikaf succeeds or fails on logistics: the right flights, a hotel near the gates you enter from, a permit registered the week registration opens. We track the Nusuk windows, arrange the travel around your ten nights, and stay reachable throughout Ramadan. You bring the intention; we handle the administration that protects it.",
     cta: "Arrange my itikaf",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! InshaAllah I want to observe itikaf during the last ten nights of Ramadan at Masjid al-Haram. Please arrange my flights, hotel, and permit registration around those dates.",
   },
   content: [
     {

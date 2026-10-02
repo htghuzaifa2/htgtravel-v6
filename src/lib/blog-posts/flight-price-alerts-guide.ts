@@ -23,7 +23,8 @@ export const flightPriceAlertsGuide: BlogPostSeed = {
     body:
       "Alerts tell you a fare dropped; they do not tell you the total price, the baggage trap, or how long the fare survives. Our desk does all three. When your alert fires, send it over and we verify the real total, check the airline direct, and book before the window closes. The dip is only a saving if someone catches it.",
     cta: "Book my alert fare",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! A fare alert just fired on my route. Please verify the total price with bags and book it for me before it changes.",
   },
   content: [
     {

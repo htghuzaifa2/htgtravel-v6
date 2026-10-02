@@ -23,7 +23,8 @@ export const tahajjudQiyamHaramGuide: BlogPostSeed = {
     body:
       "Night prayer is one reason hotel distance matters more than pilgrims think. Ten minutes away, a 3 a.m. Tahajjud is easy; forty minutes with traffic, it becomes a project. That is exactly why we prioritize hotels within walking distance of the Haram and plan Ramadan trips around Taraweeh and Qiyam schedules, so the worship you dreamed about actually fits the trip.",
     cta: "Place me near the Haram",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Night prayer in the Haram is the heart of my Umrah plan. Please find me a hotel within easy walking distance so I can join Tahajjud and Fajr comfortably every night of my trip.",
   },
   content: [
     {

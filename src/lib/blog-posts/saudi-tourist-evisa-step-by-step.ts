@@ -22,7 +22,7 @@ export const saudiTouristEvisaStepByStep: BlogPostSeed = {
     headline: "Not Sure Which Saudi Visa Fits Your Passport? Ask Us, It's Free",
     body: "Tourist eVisa, Umrah visa, personal visit visa: the right route depends on your purpose, your documents, and sometimes a second passport's stamps. Tell us your plan on WhatsApp and we will point you to the exact visa you need in minutes, no guesswork, no wasted fees.",
     cta: "Find my Saudi visa route",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Saudi eVisa guide. Which Saudi visa route is right for me?",
   },
   content: [
     {

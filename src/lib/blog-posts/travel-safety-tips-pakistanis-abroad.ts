@@ -22,7 +22,7 @@ export const travelSafetyTipsPakistanisAbroad: BlogPostSeed = {
     headline: "Safety Is Preparation — Our Briefings Cover All of It",
     body: "Every traveller through our desk receives the safety briefing: emergency numbers for their destination, the embassy's contacts, document backups, and the scam patterns of their specific route. Travel with the desk that briefs before you fly. Message us for your next trip.",
     cta: "Travel briefed",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your safety guide. Please brief me fully for my upcoming trip.",
   },
   content: [
     {

@@ -23,7 +23,8 @@ export const umrahTawafSaiStepByStep: BlogPostSeed = {
     body:
       "The first time you stand before the Kaaba, your heart races and your mind goes blank. Our pre-travel briefing exists for exactly that moment: the steps, the counting, the duas, the quiet hours, rehearsed before you fly, with our team reachable on WhatsApp for every question that arises between the miqat and Sa'i. Packages with real guidance and hotels near the Haram. Ask what is departing this month.",
     cta: "Book a guided package",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am preparing for my first Umrah and want the ritual side fully covered: Tawaf steps, Sa'i counting, and quiet-hour timing. Please share guided package options with hotels near the Haram.",
   },
   content: [
     {

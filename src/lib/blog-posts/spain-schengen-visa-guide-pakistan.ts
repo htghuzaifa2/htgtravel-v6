@@ -22,7 +22,7 @@ export const spainSchengenVisaGuidePakistan: BlogPostSeed = {
     headline: "We File Spain Visas Weekly From Pakistan",
     body: "Spain is consistently one of the most rewarding Schengen approvals for Pakistani travellers, and one of the most appointment-starved. We monitor BLS slots across Islamabad, Karachi, and Lahore, prepare your complete file, and book you the moment a window opens. Miss a season waiting; or don't.",
     cta: "Get my Spain appointment",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Spain visa guide. Please help me get a BLS appointment and prepare my file.",
   },
   content: [
     {

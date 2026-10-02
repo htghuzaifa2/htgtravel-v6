@@ -22,7 +22,7 @@ export const travelInsuranceClaimProcessPakistan: BlogPostSeed = {
     headline: "We Help Our Travellers File Claims That Actually Pay",
     body: "A claim is a paperwork exam taken under stress, and travellers who bought their policy through a desk get help writing it. Our team assists our policyholders through documentation and submission, with the insurer relationships that move files. Buy the policy where the service continues after the sale. Ours does.",
     cta: "Get covered properly",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your claims guide. Please set up my travel insurance properly.",
   },
   content: [
     {

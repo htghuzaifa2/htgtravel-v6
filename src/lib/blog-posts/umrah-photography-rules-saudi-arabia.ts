@@ -23,7 +23,8 @@ export const umrahPhotographyRulesSaudiArabia: BlogPostSeed = {
     body:
       "Our team briefs every pilgrim on the current Haram photography etiquette: where cameras fly, where they rest, which hours give the golden light without the crowds, and how to keep your tawaf yours. It is one small part of a pre-departure session that covers rituals, apps and manners, from people who are on the ground in Makkah every season. Ask what your dates include.",
     cta: "Travel informed",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! For my Umrah, please brief me on the current photography etiquette for the Haramain, and suggest where and when I can take calm photos without disturbing worshippers.",
   },
   content: [
     {

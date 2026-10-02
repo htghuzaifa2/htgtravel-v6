@@ -22,7 +22,7 @@ export const corporateTravelManagementGuide: BlogPostSeed = {
     headline: "Our Corporate Desk: One Account, Every Flight, Every Report",
     body: "Pakistani companies lose millions annually to unmanaged travel. Retail fares, scattered bookings, zero visibility. Our corporate desk delivers negotiated fares, consolidated invoicing, and monthly reporting, with a dedicated account manager on WhatsApp. One meeting starts the structure. Book it.",
     cta: "Set up our corporate desk",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your corporate travel guide. Our company wants to discuss a corporate travel account.",
   },
   content: [
     {

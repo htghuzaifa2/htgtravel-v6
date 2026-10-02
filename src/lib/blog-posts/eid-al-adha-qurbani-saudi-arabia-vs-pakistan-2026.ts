@@ -22,7 +22,7 @@ export const eidAlAdhaQurbaniSaudiArabiaVsPakistan2026: BlogPostSeed = {
     headline: "Traveling for Hajj or Umrah This Eid Season? Let's Plan It Right",
     body: "Eid season travel carries both spiritual and practical weight. The journey itself, the qurbani arrangements at home, and the calendar that holds both together. Our desk plans Eid-season trips for families every year, with the qurbani question answered before departure. Message us about your Eid plans.",
     cta: "Plan Eid season travel",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your qurbani guide. Please help me plan Eid season travel with my family.",
   },
   content: [
     {

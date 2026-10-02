@@ -22,7 +22,7 @@ export const umrahWomenGuideComplete: BlogPostSeed = {
     headline: "Women-First Umrah Groups, Guided End to End",
     body: "Our women-only and family Umrah groups travel with female staff on the ground, mahram-compliant arrangements, and hotels chosen for safety and proximity. Sisters, mothers, daughters. Ask about the next women's departure and travel with a desk that has done this thousands of times.",
     cta: "Join a women's group",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Umrah for women guide. Please share women's group departure dates.",
   },
   content: [
     {

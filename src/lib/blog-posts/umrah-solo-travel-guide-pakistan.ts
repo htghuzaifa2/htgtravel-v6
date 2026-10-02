@@ -22,7 +22,7 @@ export const umrahSoloTravelGuidePakistan: BlogPostSeed = {
     headline: "Solo in Spirit, Supported in Logistics",
     body: "Going alone does not mean going unaided: our solo Umrah packages keep a WhatsApp line open for your entire journey. Transfers, permits, hotel fixes, and a voice when plans wobble. Solo pilgrims are our most frequent guests. Tell us your dates and travel light in every sense.",
     cta: "Travel solo, supported",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I am planning a solo Umrah. Please share solo traveller packages.",
   },
   content: [
     {

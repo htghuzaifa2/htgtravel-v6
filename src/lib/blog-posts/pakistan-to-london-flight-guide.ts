@@ -22,7 +22,7 @@ export const pakistanToLondonFlightGuide: BlogPostSeed = {
     headline: "London Fares Are Our Daily Bread — Quote Yours Today",
     body: "We quote Pakistan–London routes every single day and know exactly when the direct option wins and when the Gulf connection saves enough to matter. Family visits, student intakes, business trips. Send us your dates and get today's real fares, not yesterday's screenshots.",
     cta: "Quote my London flight",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your London flight guide. Please quote fares for my dates.",
   },
   content: [
     {

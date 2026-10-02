@@ -22,7 +22,7 @@ export const summerVacationDestinationsFromPakistan: BlogPostSeed = {
     headline: "Summer Is Booking Season — Our Desk Moves Fastest",
     body: "School-holiday summers are the year's most demanded travel window, and the families who message us by spring travel where they want; the ones who wait take what remains. Northern packages, international escapes: send us your June-to-August plan today.",
     cta: "Plan my summer escape",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your summer guide. Please plan our summer escape for June/July/August.",
   },
   content: [
     {

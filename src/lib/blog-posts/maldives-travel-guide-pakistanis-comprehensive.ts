@@ -22,7 +22,7 @@ export const maldivesTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Maldives Honeymoons Are Our Signature — Ask the Hundreds",
     body: "The 30-day visa on arrival makes the Maldives the easiest paradise on the green passport, and our honeymoon packages make it the smartest: overwater villas, speedboat transfers, and flights from Karachi, quoted together. Honeymoon season books out early. Message us before the villas do.",
     cta: "Plan my Maldives trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Maldives guide. Please quote a honeymoon package for my dates.",
   },
   content: [
     {

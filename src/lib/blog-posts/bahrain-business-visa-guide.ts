@@ -23,7 +23,8 @@ export const bahrainBusinessVisaGuide: BlogPostSeed = {
     body:
       "A business trip has enough moving parts without visa paperwork. Send us your invitation letter and we will pressure-test it before the NPRA ever sees it: the host's CR details, the purpose wording, the cost coverage line, every field that decides approval. Complete file, right category, filed on schedule while you prepare for the meetings that matter.",
     cta: "Handle my file",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I need a Bahrain business visit visa for company meetings. Please review my invitation letter and documents before we submit.",
   },
   content: [
     {

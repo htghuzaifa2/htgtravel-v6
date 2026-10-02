@@ -23,7 +23,8 @@ export const googleMapsHaramNavigationTips: BlogPostSeed = {
     body:
       "Half of getting lost in Makkah is solved before you fly, by where you sleep. We book our pilgrims into hotels within easy walking distance of the Haram whenever budgets allow, brief first-timers on gates, permits and routines before departure, and stay reachable on WhatsApp throughout the trip. When we say you cannot get lost, we mean the hotel is practically a landmark itself.",
     cta: "Put me steps away",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! For my Umrah, please arrange a hotel within easy walking distance of the Haram gates, and brief me on which gates suit my rituals and daily routine so I never lose my bearings.",
   },
   content: [
     {

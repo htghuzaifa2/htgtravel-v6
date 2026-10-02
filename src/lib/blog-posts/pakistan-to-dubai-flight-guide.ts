@@ -22,7 +22,7 @@ export const pakistanToDubaiFlightGuide: BlogPostSeed = {
     headline: "Dubai Routes Quoted in Minutes, Daily",
     body: "The Pakistan–UAE corridor is our highest-volume route: we hold fares, arrange UAE visas in 24–48 hours, and package flights with hotels for weekends and weddings alike. Send your dates. The same-day quote includes the visa. One desk, whole desert city sorted.",
     cta: "Price my Dubai flights",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Dubai flight guide. Please quote flights and visa for my dates.",
   },
   content: [
     {

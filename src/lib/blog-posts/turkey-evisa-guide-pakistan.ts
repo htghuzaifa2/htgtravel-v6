@@ -22,7 +22,7 @@ export const turkeyEvisaGuidePakistan: BlogPostSeed = {
     headline: "Istanbul Is 5 Hours Away. Let's Check Your eVisa Route First",
     body: "Turkish coffee, bazaars, and Bosphorus sunsets are closer than most Pakistanis realize, but the eVisa has a catch most agents won't explain. Send us your passport and visa pages and we will confirm your Turkey route in minutes, then lock flights that fit it. Honest answers, daily fares.",
     cta: "Check my Turkey route",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Turkey eVisa guide. Please check my eligibility for Istanbul.",
   },
   content: [
     {

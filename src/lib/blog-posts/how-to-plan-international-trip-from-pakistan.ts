@@ -22,7 +22,7 @@ export const howToPlanInternationalTripFromPakistan: BlogPostSeed = {
     headline: "The Whole Sequence, Handled by One Desk",
     body: "This sequence is literally our job description. Destination, visa, flights, hotels, insurance, transfers, and the briefing before departure. The DIY version takes weeks; our version takes one WhatsApp thread. Tell us where you are in the sequence; we will take it from there.",
     cta: "Start my sequence",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your trip planning guide. Please take over my trip planning.",
   },
   content: [
     {

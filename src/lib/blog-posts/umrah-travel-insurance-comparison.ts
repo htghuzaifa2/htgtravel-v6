@@ -22,7 +22,7 @@ export const umrahTravelInsuranceComparison: BlogPostSeed = {
     headline: "Umrah Insurance in Minutes — Because Peace of Mind Is Sunnah-Adjacent",
     body: "Umrah insurance costs less than a Makkah dinner for two, and covers the ambulance, clinic, or extended stay that would otherwise follow a health surprise. Our desk issues pilgrim-appropriate policies with Saudi-accepted providers in minutes. Add it to any package: one message.",
     cta: "Insure my Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! Please add appropriate travel insurance to my Umrah package.",
   },
   content: [
     {

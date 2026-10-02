@@ -22,7 +22,7 @@ export const greeceSchengenVisaGuidePakistan: BlogPostSeed = {
     headline: "Santorini Sunsets Are Real. So Is the Paperwork",
     body: "Greek visa files for Pakistanis are refreshingly achievable when the island itinerary, hotels, and finances tell one story. We build that story, monitor Greek appointment availability in Pakistan, and get your file in ahead of the island-hopping season. Blue domes, white file. Ask us how.",
     cta: "File for Greece",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Greece visa guide. Please help me plan and file my Greek trip.",
   },
   content: [
     {

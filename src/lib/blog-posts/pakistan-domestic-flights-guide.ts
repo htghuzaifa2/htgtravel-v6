@@ -22,7 +22,7 @@ export const pakistanDomesticFlightsGuide: BlogPostSeed = {
     headline: "Domestic and International, One Desk Handles Both",
     body: "Positioning flights to Karachi for your international departure, Skardu seats for the summer, or the domestic leg of a family trip. We book domestic routes every day and know the schedule quirks by heart. Message us your route; same-day quotes, real schedules, honest alternatives.",
     cta: "Book domestic flights",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your domestic flights guide. Please quote my domestic route.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const karakoramHighwayRoadTrip: BlogPostSeed = {
     headline: "The Eighth Wonder, Driven Properly",
     body: "We run the KKH with drivers who have taken it a hundred times: vetted hotels in Hunza and Passu, buffer days for landslides, and the Babusar-versus-Besham call made from current road reports, not guesswork. Tell us how many days you have; we will pace the road for you.",
     cta: "Plan my KKH drive",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want to drive the Karakoram Highway to Khunjerab. Please plan the route and hotels with me.",
   },
   content: [
     {

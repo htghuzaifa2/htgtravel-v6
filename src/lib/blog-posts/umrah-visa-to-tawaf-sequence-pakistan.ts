@@ -22,7 +22,7 @@ export const umrahVisaToTawafSequencePakistan: BlogPostSeed = {
     headline: "Nusuk to the Mataf, Handled by One Desk",
     body: "We file the Nusuk visa, match the hotel to your budget, and walk your family through the sequence before you fly. Pakistan-side paperwork and Saudi-side timing, handled together. Ask about upcoming departures.",
     cta: "File my Umrah visa",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! Please help me plan Umrah from Pakistan: visa, hotels, and the full sequence.",
   },
   content: [
     {

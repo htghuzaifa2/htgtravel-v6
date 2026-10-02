@@ -23,7 +23,8 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
     body:
       "We arrange wheelchair-friendly Umrah packages every season: accessible hotel rooms near the Haram, airport assistance booked in advance, ground transport with space for folding chairs, and itineraries paced around energy rather than timetables. Tell us the traveler's needs upfront, and we will build the trip around them, not the other way around.",
     cta: "Arrange accessible Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am planning Umrah for a wheelchair user. Please arrange an accessible room near the Haram, airport wheelchair assistance, and transport with space for the chair on all transfers.",
   },
   content: [
     {

@@ -23,7 +23,8 @@ export const lesserKnownSunnahsHaram: BlogPostSeed = {
     body:
       "Anyone can book flights and a hotel; the pilgrims who return changed are the ones who arrived knowing what to do with the hours between prayers. Our packages include guidance on exactly these quieter acts alongside Haram-side hotels, permits and every booking, so your attention stays on worship, where it belongs.",
     cta: "Plan a worship-full trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I want my Umrah to be full of sunnah revival, not just the main rituals. Please plan a trip that gives me real time for the quieter acts inside the Haram, with a hotel close enough to return easily.",
   },
   content: [
     {

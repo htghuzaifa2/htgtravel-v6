@@ -23,7 +23,8 @@ export const bahrainVisaProcessingTime: BlogPostSeed = {
     body:
       "A visa filed on the wrong day loses a week to Bahrain's weekend, and one filed in the Grand Prix rush loses more. Send us your flight date and we work backwards: the right filing day, a complete file so no request for extra documents ever arrives, and status tracking until approval lands. You pack; we watch the clock.",
     cta: "Time my application",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am planning my Bahrain trip around set travel dates. Please review my timeline and file my visa application at the right moment.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const maldivesHoneymoonBudgetPakistan: BlogPostSeed = {
     headline: "Paradise, Priced for Two",
     body: "We build Maldives honeymoons from this exact budget: guesthouses chosen for value each season, transfers pre-booked, flights timed midweek, and a surprise dinner on the sand if you don't tell us not to. Tell us your dates and your ceiling.",
     cta: "Price our honeymoon",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! We are planning a Maldives honeymoon on a budget. Please share what PKR 450,000 gets two of us.",
   },
   content: [
     {

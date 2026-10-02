@@ -23,7 +23,8 @@ export const bahrainVisaForGccResidents: BlogPostSeed = {
     body:
       "Expats in Dubai, Riyadh, and Doha message us for the same thing: a fast, clean Bahrain break. We handle the eVisa against your residence permit, the flight that fits the weekend, and a Manama hotel worth the hour in the air. One thread, sorted.",
     cta: "Plan my Gulf weekend",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am a GCC resident and want to visit Bahrain for a weekend. Please guide me on the visa and flights.",
   },
   content: [
     {

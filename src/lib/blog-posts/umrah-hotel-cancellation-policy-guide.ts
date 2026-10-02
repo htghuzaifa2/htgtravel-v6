@@ -22,7 +22,7 @@ export const umrahHotelCancellationPolicyGuide: BlogPostSeed = {
     headline: "Our Cancellation Terms Are Printed Before You Pay",
     body: "We put refund deadlines and penalty schedules in writing with every quote, because travel plans change and pilgrims deserve to know the cost of change in advance. Book Umrah with an agency that shows you the exit before asking for the entrance. Ask for our terms alongside any quote.",
     cta: "See clear terms",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your cancellation guide. Please share your Umrah booking and cancellation terms.",
   },
   content: [
     {

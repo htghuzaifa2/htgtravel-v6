@@ -22,7 +22,7 @@ export const thailandTouristVisaGuidePakistan: BlogPostSeed = {
     headline: "Bangkok Trips Are Our Most-Booked Route — Visa Included",
     body: "We handle Thailand e-visas for Pakistani travellers every week, then pair them with the best airfares from Karachi, Lahore and Islamabad. One WhatsApp message gets you the full picture: visa file, flights, and hotels that fit your budget. Before the baht rates move.",
     cta: "Plan my Thailand trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Thailand visa guide. Please help with my Thai e-visa and flights.",
   },
   content: [
     {

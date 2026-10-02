@@ -74,7 +74,7 @@ export default function DestinationsPage() {
             <div className="bg-card rounded-2xl p-12 text-center border border-border/60">
               <p className="text-foreground mb-4">No routes found matching your search.</p>
               <WhatsAppButton
-                message="Hi HTG Travels, I need travel support."
+                message="Hi HTG Travels, I'm looking for a flight route that I couldn't find on your site. Can you help?"
                 variant="primary"
                 size="md"
               >

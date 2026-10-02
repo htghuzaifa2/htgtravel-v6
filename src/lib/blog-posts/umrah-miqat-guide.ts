@@ -23,7 +23,8 @@ export const umrahMiqatGuide: BlogPostSeed = {
     body:
       "The Miqat crossing is the one moment of Umrah that cannot be improvised. Tell us your dates and cities, and we route your flights so the boundary stays calm: Madinah first for a ground entry at Dhul Hulayfah, or a direct flight with the timing explained before you board. Prepared pilgrims make peaceful pilgrims.",
     cta: "Plan my Miqat route",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am planning Umrah. Please confirm which Miqat my flight route crosses and help me plan my Ihram timing.",
   },
   content: [
     {

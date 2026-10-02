@@ -23,7 +23,8 @@ export const umrahBeforeBigLifeChange: BlogPostSeed = {
     body:
       "A farewell Umrah only works if the dates hold: before the visa interview, before the flight, before the wedding cards print. We coordinate Umrah timing with relocation schedules and departure dates every month, arrange visas quickly, and pace the trip so the duas that matter get the hours they deserve. Bring us the deadline; we will protect the journey in front of it.",
     cta: "Fit Umrah to my timeline",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! A major life change is ahead of me and I want to perform Umrah before it. Please help me fit the trip around my timeline, with dates confirmed well before my departure.",
   },
   content: [
     {

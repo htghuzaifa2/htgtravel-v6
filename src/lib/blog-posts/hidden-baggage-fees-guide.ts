@@ -23,7 +23,8 @@ export const hiddenBaggageFeesGuide: BlogPostSeed = {
     body:
       "A USD 60 fare with a USD 70 carry-on fee loses to a USD 100 ticket that includes the bag, yet the booking page never shows you that. We compare total trip cost across airlines with allowances matched to how you actually pack, prepay every bag online, and keep the gate counter out of your story. The real cheapest flight, bag included.",
     cta: "Quote with bags included",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Please quote my route with baggage allowance included and tell me the total cost with bags, so I can avoid gate fees and surprises.",
   },
   content: [
     {

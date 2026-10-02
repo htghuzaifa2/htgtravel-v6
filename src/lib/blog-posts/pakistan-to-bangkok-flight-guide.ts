@@ -22,7 +22,7 @@ export const pakistanToBangkokFlightGuide: BlogPostSeed = {
     headline: "Bangkok Plus Phuket, Planned in One Message",
     body: "Thailand trips from Pakistan are a desk specialty. The visa file, the flights, island connections, and hotels that fit the budget. Our travellers get same-day quotes on the full package. Send us your dates and travel party; the itinerary comes back before your chai cools.",
     cta: "Quote my Thailand trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Bangkok flight guide. Please quote flights and a Thailand itinerary.",
   },
   content: [
     {

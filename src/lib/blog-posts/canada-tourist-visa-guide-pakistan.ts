@@ -22,7 +22,7 @@ export const canadaTouristVisaGuidePakistan: BlogPostSeed = {
     headline: "Canada Files Fail on Ties. We Build Yours Properly",
     body: "Canadian refusals for Pakistanis almost always cite the same line: 'not satisfied you will leave Canada.' That is a document story problem, and story-building is what we do. We structure your IRCC file (finances, employment, family ties, purpose) the way officers are trained to read it. Start with a free assessment.",
     cta: "Assess my Canada file",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Canada visa guide. Please assess my profile before I apply to IRCC.",
   },
   content: [
     {

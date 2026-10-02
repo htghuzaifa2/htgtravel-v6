@@ -22,7 +22,7 @@ export const northernPakistanHospitalityChai: BlogPostSeed = {
     headline: "Be a Guest, Not a Tourist",
     body: "We place travellers in homestays and community-run guesthouses across Swat, Hunza, and Chitral, with guides who grew up on these codes. You will be fed like family; we make sure the room, the route, and the return flight are as sorted as the welcome.",
     cta: "Take me north",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want to experience northern Pakistan hospitality: homestays in Swat or Hunza. Please plan it.",
   },
   content: [
     {

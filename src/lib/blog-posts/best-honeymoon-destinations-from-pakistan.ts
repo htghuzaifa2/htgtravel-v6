@@ -22,7 +22,7 @@ export const bestHoneymoonDestinationsFromPakistan: BlogPostSeed = {
     headline: "Honeymoons Are Our Signature — Hundreds of Couples Strong",
     body: "We plan honeymoons end-to-end: the visa file built as a couple, the hotels that read like romance, and the photos that age beautifully. Maldives, Baku, Istanbul, Bali. Tell us the budget and the vibe; the package comes back today. You handle the shaadi; we handle everything after.",
     cta: "Design our honeymoon",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! We are planning our honeymoon. Budget and vibe. Please send package options.",
   },
   content: [
     {

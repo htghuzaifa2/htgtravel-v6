@@ -22,7 +22,7 @@ export const switzerlandBudgetGuide: BlogPostSeed = {
     headline: "Alpine Views Without the Alpine Bill",
     body: "We plan Switzerland the value way: the right valley to base in, rail passes bought only when the maths beats point-to-point, and guesthouses that include breakfast. Scenery maximised, second mortgage avoided. Send us your dates and your ceiling.",
     cta: "Plan my budget Switzerland",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want Switzerland on a realistic budget: valleys, passes, and guesthouses. Please plan it with me.",
   },
   content: [
     {

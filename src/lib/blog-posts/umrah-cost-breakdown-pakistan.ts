@@ -22,7 +22,7 @@ export const umrahCostBreakdownPakistan: BlogPostSeed = {
     headline: "Ask Us for Today's Live Umrah Rates — Not Last Season's",
     body: "Umrah pricing moves with the riyal, the season, and hotel availability. The numbers you saw on Facebook last month are already stale. Send us your month, hotel preference, and group size, and we will quote today's real rates across budget, standard, and premium tiers. No hidden charges, ever.",
     cta: "Get live Umrah rates",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Umrah cost guide. Please quote current rates for my travel month.",
   },
   content: [
     {

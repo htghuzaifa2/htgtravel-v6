@@ -125,8 +125,5 @@ export const contactInquiry = (data: {
 export const routeInquiry = (routeCode: string, routeName: string) =>
   `Hi HTG Travels, I need a live fare for:\n\nRoute: ${routeCode} — ${routeName}\n\nPlease share today's best rate.`;
 
-// One unified, direct support message — used by the header, footer, and every
-// generic CTA site-wide. Keep it short and support-focused (no marketing copy).
-export const SUPPORT_MESSAGE = "Hi HTG Travels, I need travel support.";
-
-export const generalInquiry = () => SUPPORT_MESSAGE;
+export const generalInquiry = () =>
+  `Hi HTG Travels, I have a travel inquiry. Please assist.`;

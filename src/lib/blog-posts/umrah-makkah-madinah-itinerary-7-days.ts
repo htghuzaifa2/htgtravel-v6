@@ -22,7 +22,7 @@ export const umrahMakkahMadinahItinerary7Days: BlogPostSeed = {
     headline: "Itineraries Like This, Built for Your Exact Dates",
     body: "This template is our starting point. Your dates, hotel positions, and family's pace adjust it into something personal. Every package we book includes a planned day-by-day structure with flexibility where it matters. Tell us your travel window; we will draft yours today.",
     cta: "Draft my itinerary",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your 7-day itinerary. Please draft one for my travel dates.",
   },
   content: [
     {

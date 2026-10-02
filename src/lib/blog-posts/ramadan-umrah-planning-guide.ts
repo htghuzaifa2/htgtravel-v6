@@ -22,7 +22,7 @@ export const ramadanUmrahPlanningGuide: BlogPostSeed = {
     headline: "Ramadan Packages Sell Out Months Early — We Are Already Booking",
     body: "The last ten nights of Ramadan are the most demanded dates in the Islamic travel calendar. Hotels near the Haram sell out by winter. Our Ramadan Umrah packages for Pakistani families go fast because they pair Haram-side hotels with honest pricing. Message us now, even for next Ramadan, and lock today's rates.",
     cta: "Reserve Ramadan Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Ramadan Umrah guide. Please share Ramadan package options and rates.",
   },
   content: [
     {

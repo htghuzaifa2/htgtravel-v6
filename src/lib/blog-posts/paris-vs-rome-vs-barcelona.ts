@@ -22,7 +22,8 @@ export const parisVsRomeVsBarcelona: BlogPostSeed = {
     headline: "One Schengen Visa, Three Cities",
     body: "Tell us which city fits your travel style and we will handle the rest: the Schengen file with a day-by-day itinerary, flights priced in shoulder season, hotels near the old centres, and museum tickets booked before the queues form. One team, one application, three capitals.",
     cta: "Help me pick my city",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I cannot decide between Paris, Rome and Barcelona. Please help me pick one and plan the whole trip, visa included.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const winterVacationDestinationsFromPakistan: BlogPostSeed = {
     headline: "Winter Umrah and Winter Escapes — Our Seasonal Specialty",
     body: "December is the desk's high season: winter Umrah packages, Dubai's perfect weather, Baku's snow-dusted roofs, and the December fare waves we track daily. Tell us your winter (spiritual, snowy, or sunny) and we will quote it before the season prices itself.",
     cta: "Plan my winter",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your winter guide. Please plan my winter trip for December/January.",
   },
   content: [
     {

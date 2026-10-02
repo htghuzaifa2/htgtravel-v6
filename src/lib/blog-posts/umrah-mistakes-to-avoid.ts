@@ -22,7 +22,7 @@ export const umrahMistakesToAvoid: BlogPostSeed = {
     headline: "Avoid Every Mistake on This List — Travel With a Desk That Briefs You",
     body: "Most of these mistakes happen because nobody told the pilgrim before departure. Our packages include a proper pre-travel briefing, an on-ground WhatsApp line, and itineraries built by people who have sent thousands of Pakistanis. Depart informed; return transformed. Ask about this month's packages.",
     cta: "Travel mistake-free",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Umrah mistakes guide. Please share packages with full guidance included.",
   },
   content: [
     {

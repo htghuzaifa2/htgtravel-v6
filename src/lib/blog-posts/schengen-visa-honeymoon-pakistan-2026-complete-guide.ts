@@ -22,7 +22,7 @@ export const schengenVisaHoneymoonPakistan2026CompleteGuide: BlogPostSeed = {
     headline: "Your Honeymoon Should Be the Easy Part of the Wedding",
     body: "Shaadi season leaves zero energy for embassy paperwork, so hand it over. We run honeymoon files for Pakistani couples end-to-end: joint applications, honeymoon-proof itineraries, hotel bookings that read like romance not templates, and appointments timed around your wedding dates. Focus on the mehndi; we will handle the visas.",
     cta: "Plan our honeymoon",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! We are planning our honeymoon in Europe. Please handle our visa applications.",
   },
   content: [
     {

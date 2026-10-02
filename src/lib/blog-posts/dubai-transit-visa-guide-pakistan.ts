@@ -22,7 +22,7 @@ export const dubaiTransitVisaGuidePakistan: BlogPostSeed = {
     headline: "Booking a Dubai Stopover? We Engineer These Daily",
     body: "The sweetest Dubai trips hide inside your layovers, if the visa and timing are built right. We book your flights with legal 96-hour stopovers, arrange the transit visa through the airline, and suggest a hotel that fits both your budget and your departure gate. One message, whole mini-vacation planned.",
     cta: "Build my stopover",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Dubai transit visa guide. Please build a stopover trip for my dates.",
   },
   content: [
     {

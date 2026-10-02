@@ -22,7 +22,7 @@ export const schengenBiometricAppointmentPakistanGuide: BlogPostSeed = {
     headline: "We Watch Appointment Calendars So You Don't Have To",
     body: "Schengen appointment slots in Islamabad, Karachi, and Lahore disappear within hours of opening. Travellers lose entire seasons to refresh-button fatigue. Our desk monitors the calendars, prepares your file to appointment-ready status, and books the first available window. You show up once; we handle the stalking.",
     cta: "Track my appointment",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your biometric appointment guide. Please track a Schengen slot for me.",
   },
   content: [
     {

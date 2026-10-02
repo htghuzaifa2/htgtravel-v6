@@ -22,7 +22,7 @@ export const australiaTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "The Longest Trip on Earth — Planned by a Desk That Respects Distance",
     body: "Australia punishes improvised itineraries with wasted days on the world's longest flights. Our desk sequences Sydney, Melbourne, and the Reef so every kilometre pays. Visa file for subclass 600, the routing, and the halal map: one thread. G'day. Message us.",
     cta: "Plan my Australia trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Australia guide. Please plan my trip with the visa file.",
   },
   content: [
     {

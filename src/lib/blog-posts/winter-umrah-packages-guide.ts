@@ -22,7 +22,7 @@ export const winterUmrahPackagesGuide: BlogPostSeed = {
     headline: "Winter Umrah Packages — Our Seasonal Specialty",
     body: "December's cool mornings around the Kaaba are the reward for booking early. Winter packages from Pakistan sell out before autumn ends. Family rooms near the Haram, school-holiday flights, and ziyarat in perfect weather: message us now and lock the season's best rates.",
     cta: "Reserve winter Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your winter Umrah guide. Please share December and January package rates.",
   },
   content: [
     {

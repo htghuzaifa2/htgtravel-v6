@@ -22,7 +22,7 @@ export const hajj2026OverseasPakistanis: BlogPostSeed = {
     headline: "Your Hajj File, Handled From Abroad",
     body: "Overseas pilgrims have a different paperwork path, and we walk it daily: Nusuk bookings, government-scheme registration through family in Pakistan, licensed operators vetted, flights locked early. Tell us where you live; we will map the cleanest route to Arafah.",
     cta: "Start my Hajj plan",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I am a Pakistani living abroad and want to plan Hajj 2026. Please guide me on booking and costs.",
   },
   content: [
     {

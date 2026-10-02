@@ -22,7 +22,7 @@ export const japanTouristVisaPakistan: BlogPostSeed = {
     headline: "Japan Files Are Our Favourite Challenge. Bring Yours",
     body: "A Japan visa from Pakistan is absolutely achievable when the file is airtight. We build the day-by-day itinerary, hotel list, and financial story that Japanese consular officers expect, then keep your application within every rule. Sakura season or ski season, start with us.",
     cta: "Build my Japan file",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Japan visa guide. Please help me build my application file.",
   },
   content: [
     {

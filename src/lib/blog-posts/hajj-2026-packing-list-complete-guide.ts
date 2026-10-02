@@ -22,7 +22,7 @@ export const hajj2026PackingListCompleteGuide: BlogPostSeed = {
     headline: "Our Hajj Pilgrims Pack From a List We've Refined for Years",
     body: "Every pilgrim we send for Hajj receives our field-tested packing list and pre-departure briefing. Refined through seasons of feedback about what actually helped in Mina and what stayed unused in the hotel. Guidance is part of the package. Ask about our Hajj season preparation.",
     cta: "Get the briefing",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Hajj packing guide. Please include me in your Hajj preparation and briefing.",
   },
   content: [
     {

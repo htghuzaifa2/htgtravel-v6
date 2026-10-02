@@ -23,7 +23,8 @@ export const bahrainEvisaVsVisaOnArrival: BlogPostSeed = {
     body:
       "The wrong Bahrain route costs either a week of waiting or a tense twenty minutes at the counter. Send us your passport, dates, and stay length, and we will say which route fits, check the documents the officer actually asks for, and file the application where it belongs. No guesswork left in the plan.",
     cta: "Pick my visa route",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! For my Bahrain trip, please confirm whether the eVisa or visa on arrival fits my passport and dates, and check my documents.",
   },
   content: [
     {

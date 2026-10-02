@@ -23,7 +23,8 @@ export const umrahIhramRulesGuide: BlogPostSeed = {
     body:
       "Our Umrah packages include a full pre-departure session where the team walks you through ihram, the rituals, Nusuk permits and every practical question, because a prepared pilgrim prays better. Flights, hotels, visa and guidance: one package, zero confusion. Ask about upcoming guided departures.",
     cta: "Walk me through ihram",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Please walk me through the ihram rules before my Umrah, from the grooming before the miqat to what is still allowed while wearing it, and plan my guided departure with me.",
   },
   content: [
     {

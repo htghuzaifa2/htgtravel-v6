@@ -22,7 +22,7 @@ export const italyTravelGuidePakistanis: BlogPostSeed = {
     headline: "Italy Done Right: The Route, the File, the Pasta Budget",
     body: "Italy rewards the sequenced itinerary and punishes the improvised one. The Vatican's tickets, the Uffizi's queues, the coast's seasons. Our desk builds the Schengen file and the Rome-to-Amalfi route together, with halal dining mapped in each city. One thread. La dolce vita, filed properly.",
     cta: "Plan my Italy trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Italy guide. Please plan my Italy itinerary with the visa file.",
   },
   content: [
     {

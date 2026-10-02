@@ -22,7 +22,7 @@ export const schengenVisaInterviewTipsPakistan: BlogPostSeed = {
     headline: "Practise the Interview Before the Interview",
     body: "Most Schengen refusals happen in ninety seconds of rambling, not in the document folder. We run mock interviews using the exact question patterns Pakistani applicants face, then sharpen your answers until every response is short, honest, and consistent with your file. One session, visibly different confidence.",
     cta: "Book a mock interview",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Schengen interview guide. I want to book a mock interview session.",
   },
   content: [
     {

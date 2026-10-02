@@ -23,7 +23,8 @@ export const bestTimeToBookInternationalFlights: BlogPostSeed = {
     body:
       "Fare data tells us when your route bottoms out, and our desk watches it daily. Share your destination and rough travel month, and we will tell you the window when that route is historically cheapest, then alert you the moment a fare enters it. Timing, handled by people who track it for a living.",
     cta: "Time my booking",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I plan to travel internationally in the coming months. Based on booking-window data, when should I book my route for the lowest fare?",
   },
   content: [
     {

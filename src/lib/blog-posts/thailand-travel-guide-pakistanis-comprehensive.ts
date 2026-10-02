@@ -22,7 +22,7 @@ export const thailandTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Thailand Packages: Visa, Flights, Hotels — One Thread",
     body: "Thailand is the first international trip we recommend to new travellers. Affordable, halal-friendly, and endlessly fun. Our packages pair the visa file with the right flights and hotels for Pakistani budgets. Tell us your dates; the itinerary comes back same-day with today's prices.",
     cta: "Build my Thailand trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Thailand guide. Please build a package for my dates.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const umrahBudgetWhatToSaveOn: BlogPostSeed = {
     headline: "A Beautiful Umrah, Priced Honestly",
     body: "Off-season dates, a hotel distance that fits your budget, and flights booked months ahead: we build Umrah around what the journey actually needs, not what a brochure wants to sell. Share your ceiling; we will show you where every rupee lands.",
     cta: "Price my Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want to do Umrah on a budget. Please tell me where I should save and where I should spend.",
   },
   content: [
     {

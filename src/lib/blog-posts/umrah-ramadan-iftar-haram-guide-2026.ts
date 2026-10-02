@@ -22,7 +22,7 @@ export const umrahRamadanIftarHaramGuide2026: BlogPostSeed = {
     headline: "Ramadan Umrah Packages Built Around the Iftar Experience",
     body: "Our Ramadan packages position you inside the rhythm of the Haram. Hotels close enough to claim iftar carpet, guidance on the ground, and a team that knows where the dates land first. Ramadan in Makkah sells out in winter; message us and hold your place in the season's most wanted journey.",
     cta: "Book Ramadan Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your iftar guide. Please share Ramadan Umrah package options.",
   },
   content: [
     {

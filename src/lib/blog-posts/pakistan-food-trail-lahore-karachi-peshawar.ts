@@ -22,7 +22,7 @@ export const pakistanFoodTrailLahoreKarachiPeshawar: BlogPostSeed = {
     headline: "The Trail, Without the Guesswork",
     body: "Food tours are our favourite brief. We route you to the nihari shop that opens at dawn, the karahi counter Peshawar actually queues for, and hotels minutes from each food street. No wasted meals, no tourist traps.",
     cta: "Plan my food tour",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want to do the Lahore, Karachi, and Peshawar food trail. Please plan it with me.",
   },
   content: [
     {

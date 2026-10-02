@@ -22,7 +22,7 @@ export const umrahHotelBookingTips: BlogPostSeed = {
     headline: "One WhatsApp Message Books Your Whole Umrah Stay",
     body: "Hotel inventory around the Haram is our daily business. Room types, real distances, group rates, and cancellation terms we negotiate for you in advance. Send us your dates and family size; we will send options with everything confirmed in writing before you pay a rupee.",
     cta: "Book my hotels",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your hotel booking tips. Please help me book Umrah hotels for my dates.",
   },
   content: [
     {

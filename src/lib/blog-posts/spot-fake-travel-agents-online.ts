@@ -22,7 +22,8 @@ export const spotFakeTravelAgentsOnline: BlogPostSeed = {
     headline: "The Agency That Shows Its Papers First",
     body: "Written itineraries before you pay the balance, company invoices after you do, registration numbers on request, and a WhatsApp desk that replies faster after your payment than before it. That is how a real agency behaves. Ask us for the paperwork; we keep it ready.",
     cta: "Verify us, then book",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Before booking, may I see your company registration details, a sample itinerary, and an invoice format? I want to do this properly.",
   },
   content: [
     {

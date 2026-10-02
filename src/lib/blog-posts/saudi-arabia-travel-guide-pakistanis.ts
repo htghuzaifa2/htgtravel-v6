@@ -22,7 +22,7 @@ export const saudiArabiaTravelGuidePakistanis: BlogPostSeed = {
     headline: "Saudi Beyond the Ihram — Ask Us About the Right Route",
     body: "Tourist eVisa, Umrah visa plus exploration, visit visa through sponsors. The right Saudi route depends on your passport and plans. Tell us what you want to see, and we will map the visa, flights, and hotels that legally get you there. The Kingdom is opening; walk in through the right door.",
     cta: "Plan Saudi tourism",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Saudi tourism guide. Please map my route to visit beyond Umrah.",
   },
   content: [
     {

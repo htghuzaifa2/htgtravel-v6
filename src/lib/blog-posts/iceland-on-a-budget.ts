@@ -22,7 +22,8 @@ export const icelandOnABudget: BlogPostSeed = {
     headline: "Iceland, Planned Before the Wallet Panics",
     body: "We map the multi-leg route from Pakistan, time the Schengen file, match a camper to your dates, and build the day-plan that keeps you near $100 a day: free waterfalls, local pools, and your own aurora hunt. The thermals you bring yourself.",
     cta: "Plan my Iceland route",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I want to see Iceland on a budget. Please plan my flights, visa and camper route, around $100 a day.",
   },
   content: [
     {

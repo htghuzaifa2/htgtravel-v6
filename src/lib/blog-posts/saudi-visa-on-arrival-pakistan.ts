@@ -22,7 +22,7 @@ export const saudiVisaOnArrivalPakistan: BlogPostSeed = {
     headline: "Know Your Saudi Entry Route Before You Board",
     body: "Getting turned back at Jeddah's counter is an expensive story, and it happens to eligible travellers who carried the wrong documents. Send us your passport and visa pages before you fly and we will confirm your visa-on-arrival eligibility, or set you up with the right visa before departure instead.",
     cta: "Verify my eligibility",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Saudi visa on arrival guide. Please verify my eligibility before I fly.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const umrahPackageInclusionsGuide: BlogPostSeed = {
     headline: "Our Quotes List Every Inclusion, and Every Exclusion",
     body: "We itemize: flights, hotels with walking distance in minutes, visa, transfers, food, ziyarat, and guidance, with the exclusions printed as honestly as the inclusions. Compare any quote against ours line by line. Transparent pricing is the whole reason families return to us every season.",
     cta: "Get a transparent quote",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your inclusions guide. Please send a fully itemized Umrah quote.",
   },
   content: [
     {

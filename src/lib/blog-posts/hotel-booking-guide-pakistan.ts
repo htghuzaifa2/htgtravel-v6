@@ -22,7 +22,7 @@ export const hotelBookingGuidePakistan: BlogPostSeed = {
     headline: "We Book Hotels the Internet Cannot See",
     body: "The best inventory (Haram-side rooms, Makkah blocks, honeymoon villas) moves through agency channels before the booking sites wake up. Our desk holds those rooms, negotiates the terms, and confirms every bed in writing. One message books what the internet misses.",
     cta: "Reserve my hotel rooms",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your hotel guide. Please book hotels for my trip to —",
   },
   content: [
     {

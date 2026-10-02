@@ -2,7 +2,6 @@
 
 import { WhatsAppButton } from "@/components/shared/whatsapp-button";
 import { FadeIn, MotionButton } from "@/components/animations";
-import { openWhatsApp, generalInquiry } from "@/lib/whatsapp";
 import { cn } from "@/lib/utils";
 
 type FinalCTAProps = {
@@ -44,7 +43,13 @@ export function FinalCTA({ heading, body, buttonLabel, icon, variant = "sand" }:
         </h2>
         <p className={cn("text-base mb-6", bodyColor)}>{body}</p>
         <MotionButton
-          onClick={() => openWhatsApp(generalInquiry())}
+          onClick={() => {
+            window.open(
+              "https://wa.me/923251480148?text=" + encodeURIComponent("Hi HTG Travels, I need a travel consultation."),
+              "_blank",
+              "noopener,noreferrer"
+            );
+          }}
           className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
         >
           {icon}

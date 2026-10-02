@@ -23,7 +23,8 @@ export const bahrainVisaExtensionGuide: BlogPostSeed = {
     body:
       "The best trips are the ones you want longer, and the worst endings are overstay fines at departure. Tell us your visa expiry the moment longer stays cross your mind, and we will prepare the extension file, book the NPRA appointment, and follow the request through to approval while you enjoy what you came for.",
     cta: "Extend my stay",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am in Bahrain and my visa is running out before my plans do. Please prepare my visa extension and guide me through the process.",
   },
   content: [
     {

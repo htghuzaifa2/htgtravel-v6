@@ -22,7 +22,7 @@ export const italySchengenVisaGuidePakistan: BlogPostSeed = {
     headline: "Rome, Florence, Venice: In That Order, With Us Behind the File",
     body: "Italy itineraries from Pakistan practically write themselves, until the visa file needs writing. We build Italian applications with the right hotel chains, flight reservations, and financial story, then monitor appointment availability in your city. Your job is choosing between the Colosseum at dawn or dusk.",
     cta: "Start my Italy file",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Italy visa guide. Please help me with my application and itinerary.",
   },
   content: [
     {

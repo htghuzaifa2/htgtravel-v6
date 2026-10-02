@@ -22,7 +22,7 @@ export const consciousTravelPalestineSudan: BlogPostSeed = {
     headline: "Travel That Pays the People Who Host You",
     body: "Our northern Pakistan tours are built with the families who host them: Hunza and Swat homestays, guides from the valleys themselves, and prices agreed with the community, not around it. Tell us where you want to go; we make sure your money stays home.",
     cta: "Plan travel that gives back",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want my trip to support local communities in Pakistan. Please help me plan it responsibly.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const germanySchengenVisaGuidePakistan: BlogPostSeed = {
     headline: "German Files Are Precise. So Is Our Desk",
     body: "Germany's visa officers are famously exact: every document cross-checked, every figure reconciled. It is exactly the environment where professionally prepared files shine. We build German applications for Pakistani travellers and students with the precision the embassy expects, then track your appointment so you don't wait months for a slot.",
     cta: "Prepare my Germany file",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Germany visa guide. Please prepare my Schengen application.",
   },
   content: [
     {

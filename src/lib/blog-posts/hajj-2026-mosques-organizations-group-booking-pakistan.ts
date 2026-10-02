@@ -22,7 +22,7 @@ export const hajj2026MosquesOrganizationsGroupBookingPakistan: BlogPostSeed = {
     headline: "We Organize Institutional Hajj Groups — Licensed and Experienced",
     body: "Mosques, jamats, and organizations trust us with their Hajj groups because we combine licensed channels with group discipline: unified flights, adjacent Mina tents where allocation allows, and a dedicated group leader. Bring us your community's numbers. We will bring structure to the journey.",
     cta: "Organize our group",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! Our mosque/organization is planning a Hajj group. Please share institutional group options.",
   },
   content: [
     {

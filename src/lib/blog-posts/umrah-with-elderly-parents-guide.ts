@@ -22,7 +22,7 @@ export const umrahWithElderlyParentsGuide: BlogPostSeed = {
     headline: "Parents' Umrah, Planned Like It's Our Own Family's",
     body: "Taking your parents for Umrah is an amaanat, and it deserves planning beyond a brochure. Our team arranges elderly-friendly packages: ground-floor-adjacent rooms, wheelchair support, direct transfers, and pacing that respects their energy. Tell us their ages and needs; we will build the journey around them.",
     cta: "Plan parents' Umrah",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I want to take my parents for Umrah. Please plan an elderly-friendly journey.",
   },
   content: [
     {

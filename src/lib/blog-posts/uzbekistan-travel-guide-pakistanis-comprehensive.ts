@@ -22,7 +22,7 @@ export const uzbekistanTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Samarkand: The City Our Ancestors Knew — Now Reachable",
     body: "Babur's homeland, the Silk Road's crown, and an eVisa that welcomes Pakistani travellers — Uzbekistan is the emotional trip of the decade for Pakistanis. Our desk arranges the eVisa, flights through the hubs, and the Samarkand-Bukhara route. Ask about the journey your history books promised.",
     cta: "Walk the Silk Road",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Uzbekistan guide. Please plan my Samarkand and Bukhara journey.",
   },
   content: [
     {

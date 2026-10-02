@@ -22,7 +22,8 @@ export const pakistanVisaForForeignTravelers: BlogPostSeed = {
     headline: "Your Invitation Letter, Handled",
     body: "The accommodation proof stalls more applications than anything else. Book your trip through our desk and the hotel confirmations, invitation documents, and portal paperwork arrive ready to upload, with a team tracking the application beside you until approval lands.",
     cta: "Get my visa sorted",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! I am a foreign traveler planning to visit Pakistan. Can you help with my visa documents, invitation letter, and itinerary?",
   },
   content: [
     {

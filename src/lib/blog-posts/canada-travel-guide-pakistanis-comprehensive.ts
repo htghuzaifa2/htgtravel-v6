@@ -22,7 +22,7 @@ export const canadaTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Canada Files Run on Ties — Our Desk Builds Them Properly",
     body: "Canadian refusals cite the same line: 'not satisfied you will leave.' Our desk structures the IRCC file (finances, employment, family anchors) the way officers are trained to read, then builds the Toronto-to-Rockies itinerary for after the approval. Both halves, one desk. Message us.",
     cta: "Plan my Canada trip",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your Canada guide. Please assess my profile and plan my trip.",
   },
   content: [
     {

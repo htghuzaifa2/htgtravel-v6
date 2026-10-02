@@ -23,7 +23,8 @@ export const ramadanUmrah2027BookingTimeline: BlogPostSeed = {
     body:
       "Ramadan allocations reach operators before they reach the public, and the hotels within walking distance of the Haram are gone first, every single year. We lock in early-bird rates, arrange installment plans so the total spreads comfortably across months, and hold rooms near the gates while they still exist. For Ramadan Umrah 2027 the honest advice is simple: the earlier you confirm, the closer you pray.",
     cta: "Hold my Ramadan seat",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText:
+      "Assalam o Alaikum! Please share availability and pricing for Ramadan Umrah 2027, ideally covering the last ten nights, departing from Pakistan, with a hotel close to the Haram and an installment plan if possible.",
   },
   content: [
     {

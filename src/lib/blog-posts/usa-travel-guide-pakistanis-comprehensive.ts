@@ -22,7 +22,7 @@ export const usaTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "The US Trip Starts With the Interview — Practise It With Us",
     body: "The B1/B2 interview is three minutes that decide a continent, and our mock interviews rehearse exactly those minutes with Pakistani applicants. DS-160 review, document story, and the itinerary that matches it. The American trip, prepared properly. Message our desk.",
     cta: "Prepare for the USA",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your USA guide. Please prepare me for the US visa interview.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const umrahMadinah40PrayersGuide: BlogPostSeed = {
     headline: "Stay Long Enough for the Full Madinah Experience",
     body: "Itineraries that rush Madinah in two nights miss its entire blessing. Our packages balance Makkah and Madinah properly, with hotels near the Markaziya and pacing that lets you pray, visit, and absorb. Tell us how long you can stay; we will build the journey that honours it.",
     cta: "Extend my Madinah stay",
-    waText: "Hi HTG Travels, I need travel support.",
+    waText: "Assalam o Alaikum! I read your 40 prayers guide. Please build my itinerary with a full Madinah stay.",
   },
   content: [
     {
