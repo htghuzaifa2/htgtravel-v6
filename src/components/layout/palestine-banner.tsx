@@ -4,22 +4,32 @@ import { usePathname } from "next/navigation";
 import {
   PALESTINE_BLOG_MESSAGES,
   PALESTINE_GENERAL_MESSAGES,
+  PALESTINE_ROUTE_MESSAGES,
 } from "@/lib/palestine-messages";
 
 /**
  * Palestine solidarity banner.
  *
- * On blog pages it displays that post's own unique solidarity message;
- * on every other page it rotates through the general message set —
- * deterministic per route, so server and client always agree.
+ * Lookup order (all messages are direct support statements):
+ * 1. Main site routes — fixed unique message per page (PALESTINE_ROUTE_MESSAGES)
+ * 2. Blog posts — that post's own unique message (PALESTINE_BLOG_MESSAGES)
+ * 3. Everything else — deterministic rotation per route, so server and
+ *    client always agree.
  */
 export function PalestineBanner() {
-  const pathname = usePathname() ?? "/";
+  const rawPath = usePathname() ?? "/";
+  // Normalize trailing slash ("/flights/" -> "/flights") so route keys match
+  // in both dev and static-export (trailingSlash) modes.
+  const pathname = rawPath !== "/" && rawPath.endsWith("/")
+    ? rawPath.replace(/\/+$/, "")
+    : rawPath;
 
   const blogMatch = pathname.match(/^\/blog\/([^/]+)/);
   let message: string;
 
-  if (blogMatch && PALESTINE_BLOG_MESSAGES[blogMatch[1]]) {
+  if (PALESTINE_ROUTE_MESSAGES[pathname]) {
+    message = PALESTINE_ROUTE_MESSAGES[pathname];
+  } else if (blogMatch && PALESTINE_BLOG_MESSAGES[blogMatch[1]]) {
     message = PALESTINE_BLOG_MESSAGES[blogMatch[1]];
   } else {
     // Stable rotation per route — same message on SSR and hydration.

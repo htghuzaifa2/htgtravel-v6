@@ -1,547 +1,533 @@
 /**
  * Palestine solidarity messages.
  *
- * Every blog post carries its OWN unique message (PALESTINE_BLOG_MESSAGES),
- * shown in the site's top banner when that post is open. Non-blog pages
- * rotate through PALESTINE_GENERAL_MESSAGES. One cause, many voices.
+ * Direct support statements — one unique message per blog post
+ * (PALESTINE_BLOG_MESSAGES), shown in the site's top banner while that post
+ * is open. Non-blog pages rotate through PALESTINE_GENERAL_MESSAGES.
  */
 
 export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
-  // ── Visa guides ──────────────────────────────────────────────
   "uk-visitor-visa-guide-pakistan":
-    "Borders decide who crosses; humanity decides who stands. We stand with Palestine.",
+    "We stand with Palestine. Free Palestine.",
   "schengen-visa-checklist-pakistan":
-    "Every checkpoint in this world should lead home safely. For the people of Palestine, we keep praying.",
+    "HTG Travels stands with the people of Palestine — today and every day.",
   "uae-tourist-visa-30-vs-60-days":
-    "The people of Gaza measure time in resilience, not validity periods. Palestine, you are not forgotten.",
+    "Free Palestine. Ceasefire now.",
   "saudi-tourist-evisa-step-by-step":
-    "May every journey we plan carry a dua for Palestine — the land that waits with patience we cannot fathom.",
+    "We do not forget Gaza. Palestine is not forgotten.",
   "business-visa-vs-tourist-visa":
-    "Trade routes built this region; Palestine's olive oil still travels on the world's oldest ones.",
+    "Pakistan stands with Palestine — and so do we.",
   "usa-b1-b2-visa-guide-pakistan":
-    "Three minutes decide a visa. Generations of Palestinians wait far longer for justice — we wait with them.",
+    "O Allah, free Palestine and protect her people. Ameen.",
   "thailand-tourist-visa-guide-pakistan":
-    "No stamp in any passport equals the right of return. Free, free Palestine.",
+    "Our duas carry Palestine tonight and every night.",
   "qatar-visa-guide-pakistan":
-    "Doha holds Gaza's offices open; Qatar's kindness reminds the ummah what solidarity looks like.",
+    "Solidarity with Gaza and all of Palestine — unconditional.",
   "oman-tourist-visa-guide-pakistan":
-    "Frankincense once travelled these routes from Palestine's shores. The land's gifts outlast its wounds.",
+    "The people of Palestine have our full support.",
   "malaysia-tourist-visa-guide-pakistan":
-    "Malaysia speaks for Palestine in every hall it enters. Small nations can carry great courage.",
+    "We stand with Palestinian families who have lost everything.",
   "kuwait-bahrain-visa-guide-pakistan":
-    "Two neighbours treating one passport differently — Palestine reminds the world what division costs.",
+    "Justice for Palestine is overdue. Ceasefire now.",
   "saudi-visa-on-arrival-pakistan":
-    "Some doors open at arrival; Palestine's doors have been closed for 75 years. We remember.",
+    "HTG Travels supports Palestine openly and without hesitation.",
   "japan-tourist-visa-pakistan":
-    "Palestinian children fold paper boats to cross seas of hope. The world owes them calmer waters.",
+    "Every Pakistani heart stands with Palestine.",
   "singapore-visa-guide-pakistan":
-    "Gardens grow even in concrete. Gaza's rooftop farms prove it. Palestine plants life amid loss.",
+    "We refuse to stay silent. Free Palestine.",
   "canada-tourist-visa-guide-pakistan":
-    "Canada's maple leaf, Palestine's olive branch — trees of different lands, same longing for peace.",
+    "Gaza, you are not alone. We stand with you.",
   "australia-tourist-visa-guide-pakistan":
-    "From Karachi to Canberra, hearts carry the same dua: peace and dignity for Palestine.",
+    "Support Palestine: donate, speak up, and never forget.",
   "turkey-evisa-guide-pakistan":
-    "Istanbul's fleets carried aid to Gaza; Anatolia's conscience never needed a visa to care.",
+    "Palestinian children deserve safety, food, and peace — today.",
   "dubai-transit-visa-guide-pakistan":
-    "A 96-hour stopover changes a trip. For Gaza, every hour of aid changes a life. Keep giving.",
+    "We pray for Palestine's freedom in every salah.",
   "visa-free-countries-pakistani-passport-2026":
-    "The green passport asks for visas everywhere; Palestine asks for one thing only — to be free.",
+    "Our desk stands with Palestine — no hesitation, no conditions.",
   "ireland-visa-guide-pakistan":
-    "Ireland recognises Palestine because it knows occupation's face. Irish empathy, Palestinian strength.",
+    "Free Palestine — our stand is simple and permanent.",
   "spain-schengen-visa-guide-pakistan":
-    "Andalusia's olive trees still remember their Palestinian cousins. Roots outlast every empire.",
+    "We stand with the people of Gaza and all of Palestine.",
   "germany-schengen-visa-guide-pakistan":
-    "Berlin's streets echo 'Free Palestine' in every language — including hope's.",
+    "Palestine's freedom is a matter of justice. We stand with her people.",
   "italy-schengen-visa-guide-pakistan":
-    "Palestinian olive wood carvings reach Bethlehem's churches and Rome's basilicas. Craft is heritage.",
+    "From Sialkot to Gaza — our solidarity is with Palestine.",
   "france-schengen-visa-guide-pakistan":
-    "Paris marches for Palestine in hundreds of thousands. Some causes refuse quiet.",
+    "Muslims everywhere raise one dua: free Palestine.",
   "switzerland-visa-guide-pakistan":
-    "Geneva debates, Gaza endures. The world's paperwork cannot outlast a people's will.",
+    "We support Palestine's right to live in peace and dignity.",
   "greece-schengen-visa-guide-pakistan":
-    "Aegean fishermen and Gaza's share one sea, one God, one prayer for safe waters.",
-
-  // ── Visa process guides ──────────────────────────────────────
+    "Ceasefire now. Aid to Gaza now. Justice for Palestine always.",
   "schengen-visa-interview-tips-pakistan":
-    "Answer truthfully, travel freely — freedoms Palestine has been denied for too long. Ceasefire now.",
+    "The people of Palestine are in our prayers every single day.",
   "schengen-visa-itinerary-template-pakistan":
-    "Every itinerary assumes you may return. Palestine's greatest prayer is a home to return to.",
+    "Standing with the oppressed is never wrong. We stand with Palestine.",
   "schengen-visa-refusal-reasons-pakistan":
-    "A refused visa disappoints a season; a stolen homeland wounds generations. We stand with Palestine.",
+    "HTG Travels stands with Gaza's resilience and Palestine's right to freedom.",
   "schengen-biometric-appointment-pakistan-guide":
-    "Twenty minutes, ten fingerprints. Palestinians hold only one identity the world cannot erase — theirs.",
+    "Free Palestine — the truth is simple and so is our stand.",
   "schengen-visa-from-dubai-guide":
-    "From Dubai to the Pyrenees, one dua follows us: salaam upon Palestine, upon every people under siege.",
+    "We remember the martyrs of Palestine and pray for the living.",
   "schengen-visa-honeymoon-pakistan-2026-complete-guide":
-    "Gaza's grooms marry in borrowed suits and borrowed tents — love insisting on existing. Honour it.",
+    "Pakistan's solidarity with Palestine runs deep — so does ours.",
   "uk-visa-refusal-appeal-pakistan":
-    "Refusals carry appeal routes; Palestine's case appeals to conscience. Answer it.",
+    "Our platform is small, but our support for Palestine is loud.",
   "student-visa-guide-pakistan":
-    "Gaza's students study by candlelight and still top their classes. Education is Palestine's quiet victory.",
+    "Ameen to every dua for Palestine's freedom.",
   "uk-student-visa-guide-pakistan":
-    "Palestinian universities stand destroyed, and enrolment never stopped. Knowledge cannot be besieged.",
+    "We stand with Palestine because standing with the oppressed is a duty.",
   "germany-student-visa-free-tuition-guide":
-    "Refaat wrote poems between airstrikes and taught his students hope. Palestine's teachers teach still.",
-
-  // ── Umrah core ───────────────────────────────────────────────
+    "Gaza's strength humbles us. Palestine's freedom will come.",
   "umrah-packing-list-complete-guide":
-    "Pack light, as the people of Gaza have learned to live — and hold Palestine in every dua you carry.",
+    "The people of Palestine need action, not words alone — we act.",
   "umrah-first-time-complete-guide":
-    "When you weep at the Kaaba, spare one tear for Al-Aqsa — the Prophet's first qibla, still waiting.",
+    "Every booking we handle carries a dua for Palestine.",
   "ramadan-umrah-planning-guide":
-    "This Ramadan, break your fast remembering Gaza's iftar tables — emptier, but never abandoned by hope.",
+    "We stand with Gaza's journalists reporting truth under fire.",
   "umrah-cost-breakdown-pakistan":
-    "Whatever your Umrah costs, generosity costs less: one donation to Palestine multiplies the journey's reward.",
+    "Free Palestine — every hostage, every prisoner, every family. Humanity first.",
   "umrah-ihram-rules-guide":
-    "Two white cloths erase every rank and every title; in worship we are one body. Keep wounded Palestine and Sudan wrapped in that one dua tonight.",
+    "Our team prays for Palestine after every prayer.",
   "umrah-tawaf-sai-step-by-step":
-    "We circle the Kaaba in safety and freedom; Gaza's families circle survival daily. Keep Palestine and Sudan in your duas with every circuit you walk.",
+    "Palestine deserves peace, statehood, and dignity — we support all three.",
   "umrah-mistakes-to-avoid":
-    "The pilgrim's best habit is remembrance — and Palestine is easiest to remember: just say her name.",
+    "The ummah stands with Palestine — and so does every one of us.",
   "best-hotels-near-haram-makkah-madinah":
-    "A five-minute walk to the Haram is luxury; Palestine's families have waited a lifetime for a road home. Keep them close in your duas as you book.",
+    "We reject silence. We stand with Palestine.",
   "umrah-hotel-booking-tips":
-    "Comfort is a blessing; remember those with no roof left to book. Palestine, we have not looked away.",
+    "Solidarity is not a trend for us — Palestine is in our daily duas.",
   "nusuk-permit-guide-umrah":
-    "Permits open gates in Madinah; may the gates of Jerusalem open for all her people, soon.",
+    "The children of Gaza are everyone's children. Protect them.",
   "umrah-ziyarat-guide-makkah-madinah":
-    "We walk where revelation happened; the soil of Palestine carries prophets' footsteps too, still waiting for peace. Keep its people in your duas.",
+    "We stand with Gaza's doctors and nurses who never abandoned their patients.",
   "umrah-women-guide-complete":
-    "Palestinian mothers have raised entire generations in the world's hardest classroom. Salute them.",
+    "O Allah, ease the suffering of the people of Gaza. Ameen.",
   "umrah-vaccination-requirements-2026":
-    "Gaza's hospitals heal with what little remains. Health for Palestine is a dua and a duty.",
-
-  // ── Umrah family & seasonal ──────────────────────────────────
+    "Home is everything — and Palestine deserves hers. Free Palestine.",
   "umrah-with-elderly-parents-guide":
-    "Care for your elders as Gaza's children care for theirs — with almost nothing, and everything.",
+    "We speak for Palestine because united voices cannot be ignored.",
   "best-time-to-book-umrah-2026":
-    "There is a right season for every journey. For justice, the season is always now. Palestine.",
+    "Palestine is not a headline — it is a people we stand with.",
   "umrah-haramain-train-guide":
-    "Two hours between two holy cities. Gaza's patients wait years for two kilometres of open road.",
+    "Humanitarian aid to Gaza must flow now. Ceasefire now.",
   "umrah-group-booking-guide":
-    "Travel in jamaat, pray in jamaat — and stand for Palestine in jamaat. Unity is the ummah's power.",
+    "Our position is clear: we stand with Palestine.",
   "family-umrah-tips-with-children":
-    "Our children walk the Haram's marble while Gaza's children learn war too young. Hold them closer tonight, and keep Palestine's families in your duas.",
+    "We stand with Palestine in Ramadan, Eid, and every ordinary day.",
   "umrah-with-infants-toddlers-guide":
-    "A baby's cry in the Haram is hope. May every Palestinian baby sleep without the sound of drones.",
+    "Freedom for Palestine is the dua on every Muslim's tongue.",
   "umrah-during-summer-survival-guide":
-    "Gaza endures summers without water, shade, or mercy. Our small discomforts are reminders to give.",
+    "We remember the families of Gaza tonight and always.",
   "winter-umrah-packages-guide":
-    "Winter brings pilgrims to Makkah — bring Palestine's families blankets, fuel, and dua this winter.",
+    "HTG Travels' position: Palestine deserves freedom, justice, and peace.",
   "umrah-ramadan-2026-laylatul-qadr-guide":
-    "On the Night of Decree ask for the morning Palestine has waited decades for. Keep Gaza and Sudan in your duas through every odd night you stand.",
+    "The people of Palestine will rebuild — with the world beside them.",
   "umrah-ramadan-iftar-haram-guide-2026":
-    "A million plates at the Haram's iftar — let one intention be shared: food for Gaza tonight.",
+    "We stand with Palestine's right to return, to live, and to thrive.",
   "umrah-after-ramadan-shawwal-muharram-comparison-2026":
-    "Peace after hardship is the pattern of faith. May Shawwal bring Palestine the peace it has earned.",
+    "No border decides whose life matters. Free Palestine.",
   "umrah-madinah-40-prayers-guide":
-    "Forty prayers teach patience. Seventy-five years have not exhausted Palestine's. Extraordinary people.",
+    "We stand with Palestine — openly, permanently, without apology.",
   "umrah-after-rituals-post-umrah-guide":
-    "A journey's end should change the traveller. Let your Umrah end with Palestine in your daily duas.",
-
-  // ── Umrah practical ──────────────────────────────────────────
+    "Every trip we plan carries a dua for Palestine.",
   "umrah-makkah-madinah-itinerary-7-days":
-    "Plan your days with gratitude; the people of Gaza plan theirs around survival. Pray for them daily.",
+    "Gaza's aid corridors must open and stay open. Ceasefire now.",
   "umrah-transportation-jeddah-makkah-madinah":
-    "Safe roads between holy cities — may Palestine's roads carry food, not fear, one day soon.",
+    "We stand with the mothers of Gaza — their strength carries a nation.",
   "umrah-solo-travel-guide-pakistan":
-    "Solo pilgrims find company in the Haram. Gaza's loneliness under rubble is a company we owe them: ours.",
+    "Palestine taught the world dignity under pressure. We stand with her people.",
   "umrah-currency-exchange-sar-pkr-guide":
-    "Exchange rates change daily; Palestine's worth in our hearts never does. Constant, like our dua.",
+    "Solidarity is daily, not seasonal. We choose Palestine daily.",
   "umrah-mobile-apps-guide-pakistan":
-    "One app books our permits; one share carries Palestine's story past every blackout. Post Gaza's truth, keep Sudan close, and give where it counts.",
+    "Justice for Palestine is coming — we will keep standing until it arrives.",
   "umrah-health-emergency-guide-pakistan":
-    "The ambulance number 997 works in Saudi; Gaza's ambulances have been silenced. Medicine is a right.",
+    "We stand with Palestinian students studying in refugee tents.",
   "umrah-photography-rules-saudi-arabia":
-    "Our cameras keep memories alive; Gaza's cameras keep truth alive. Photograph gently, share honestly, and hold Palestine and Sudan in your duas.",
+    "Our WhatsApp answers travelers; our duas rise for Palestine.",
   "umrah-with-diabetes-chronic-illness-complete-guide-2026":
-    "We pray for strength on our journeys while Palestine and Sudan pray for strength to survive. Keep them close in every dua you make on this trip.",
+    "Pakistan sends aid to Gaza — our nation stands with Palestine.",
   "umrah-etiquette-guide-makkah-madinah":
-    "The best adab is mercy. Extend it to Palestine — the first qibla deserves our oldest devotion.",
+    "We will never normalize occupation. Free Palestine.",
   "umrah-zamzam-water-guide":
-    "While Zamzam flows freely for pilgrims, families in Gaza queue for a single clean cup. May every dry throat be quenched; keep Palestine in your duas.",
+    "From Karachi to Gaza's shore: one people, one cause.",
   "umrah-package-inclusions-guide":
-    "Honest packages list everything. The world owes Palestine an honest ledger too — and restitution.",
+    "We stand with Palestine's farmers who keep planting under fire.",
   "umrah-muharram-safar-off-peak-spiritual-benefits-2026":
-    "In sacred months, war was forbidden by revelation. May the ummah's calendar bring Palestine's ceasefire.",
+    "Our dua after every Jummah: free Palestine. Join us.",
   "umrah-ramadan-vs-non-ramadan-comparison":
-    "Every season suits a pilgrim. Every season suits solidarity. Palestine needs us now, as always.",
+    "The children of Gaza have seen too much. Ceasefire now.",
   "umrah-evisa-vs-umrah-visa":
-    "Choose your visa wisely; Palestine's people never chose their siege. Choice is a privilege — use it well.",
+    "We stand with Palestine because silence is complicity.",
   "umrah-vs-hajj-differences-explained":
-    "Ibrahim rebuilt the Kaaba with his son; his Palestinian descendants keep rebuilding Gaza with their hands.",
+    "Every umrah group we send prays for Palestine at the Haram.",
   "umrah-hotel-cancellation-policy-guide":
-    "Flexible terms are a kindness. Palestine asks for one term only: to stay alive on its own land.",
-
-  // ── Hajj ─────────────────────────────────────────────────────
+    "Palestine's next chapter must be freedom. We stand for it.",
   "hajj-2026-complete-guide":
-    "At Arafah millions stand as one body; may their single plea include Palestine's freedom. Keep Gaza and Sudan in your duas this Hajj season and always.",
+    "We support full humanitarian access to Gaza. Aid is not negotiable.",
   "hajj-2026-registration-pakistan":
-    "Pakistan's Hajj quota fills with hope. May Palestine's quotas — of aid, of freedom — finally be lifted.",
+    "Standing with Palestine costs nothing and means everything.",
   "hajj-2026-packing-list-complete-guide":
-    "Pack for Mina remembering Makkah's poorest neighbour: Palestine's displaced carry their homes in bundles.",
+    "We stand with the aid workers of Gaza risking everything to feed families.",
   "hajj-2026-mosques-organizations-group-booking-pakistan":
-    "Mosques organise journeys; may they also organise mercy — Palestine's relief funds first in every khutbah.",
+    "We stand with Palestine — in business hours and beyond them.",
   "eid-al-adha-qurbani-saudi-arabia-vs-pakistan-2026":
-    "Ibrahim's sacrifice is honoured in our qurbani — Palestine's daily sacrifices deserve the world's honour too.",
-
-  // ── Flights ──────────────────────────────────────────────────
+    "Free Palestine — we will keep saying it until it comes true.",
   "cheap-flights-from-pakistan":
-    "While we hunt for cheaper seats, Palestine's airports have been closed for decades. Safe skies for all.",
+    "Every journey we arrange begins with a dua for Palestine.",
   "pakistan-domestic-flights-guide":
-    "Skardu's morning flights carry wonder. May Gaza's skies one day carry passenger planes, not warplanes.",
+    "Gaza's hospitals must be protected. Healthcare is never a target.",
   "group-travel-booking-guide":
-    "Groups travel cheaper together; the ummah stands stronger together. Unity for Palestine.",
+    "We remember generations of dispossession — and stand with the right of return.",
   "flight-date-change-guide-pakistan":
-    "Date changes are small mercies. Palestine's decades-long wait is the mercy the world still owes.",
+    "The people of Palestine are not invisible. We see them, we stand with them.",
   "pakistan-to-london-flight-guide":
-    "London protests for Palestine louder than any city in Europe. The message flies farther than we do.",
+    "We stand with Palestinian fishermen denied their own waters.",
   "pakistan-to-jeddah-flight-guide":
-    "Five hours to the House of Allah — carry Palestine in your heart as cabin baggage, always.",
+    "Aid convoys for Gaza must move safely. Ceasefire now.",
   "pakistan-to-bangkok-flight-guide":
-    "Fly east with a western worry: Palestine's dawn will come. Dua has no boarding time.",
+    "Our team has prayed for Palestine for years — and we always will.",
   "pakistan-to-madinah-flight-guide":
-    "Landing in Madinah, the city of mercy — pray that mercy reaches Al-Aqsa's courtyards.",
+    "We stand with Palestine's prisoners and their families.",
   "pakistan-to-istanbul-flight-guide":
-    "Fly over the Bosphorus knowing aid ships once sailed from it to Gaza. The route of conscience.",
+    "Dehumanization of Palestinians must end — in media and in life.",
   "pakistan-to-dubai-flight-guide":
-    "Two hours to Dubai; one dua to Gaza. Distance means nothing to hearts that carry Palestine.",
+    "Travel taught us empathy — give yours to Palestine today.",
   "pakistan-to-kuala-lumpur-flight-guide":
-    "Malaysia keeps Palestine on its diplomatic tongue. A small country's big consistency.",
+    "We stand with the people of the West Bank facing eviction.",
   "pakistan-to-japan-flight-guide":
-    "Japanese origami cranes travelled to Gaza's hospitals as symbols. Folded wings carry real hope.",
+    "Jerusalem's Palestinian families belong in their homes. We stand with them.",
   "dubai-to-europe-flights-pakistan":
-    "Connections link continents. Every conscience should connect to Palestine — the world's longest layover.",
-
-  // ── Insurance ────────────────────────────────────────────────
+    "Palestine is a people, not a problem. We stand with her people.",
   "travel-insurance-schengen-requirement":
-    "Insurance protects travellers. Who insures a whole people? Conscience does. Stand for Palestine.",
+    "We stand with Gaza's bakers feeding a city under siege.",
   "flight-cancellation-insurance-guide":
-    "We insure what we value. The world must insure Palestine's children — with action, not words.",
+    "One dua, repeated daily: O Allah, free Palestine. Ameen.",
   "annual-multi-trip-insurance-guide":
-    "Frequent flyers wrap the year in cover. Gaza's families wrap their year in patience. Incredible people.",
+    "Every ticket we issue carries a prayer for Palestine.",
   "travel-insurance-claim-process-pakistan":
-    "Claims are about what is owed. The greatest unsettled claim in our era belongs to Palestine.",
+    "The world's governments hesitate — we do not. Free Palestine.",
   "travel-insurance-medical-emergency-guide":
-    "Emergency care is a right we brief for. Gaza's emergency rooms run on courage alone. Support them.",
+    "We stand with Gaza's teachers holding classes wherever they can.",
   "travel-insurance-lost-luggage-guide":
-    "Lost luggage returns within weeks. Lost homelands take generations — Palestine's keys still hang on necks.",
+    "Boycott what harms Palestine; support what helps her.",
   "travel-insurance-pre-existing-conditions-guide":
-    "Gaza's healthcare survives on mercy and improvisation. Medical dignity for Palestine is long overdue.",
+    "Gaza needs water, electricity, food, and freedom — now.",
   "umrah-travel-insurance-comparison":
-    "Insurance is tawakkul with paperwork. For Palestine, tawakkul plus action: donate, speak, remember.",
-
-  // ── Destinations: Asia & Gulf ────────────────────────────────
+    "We stand with Gaza's nurses who delivered babies through airstrikes.",
   "saudi-arabia-travel-guide-pakistanis":
-    "Beyond Umrah lies AlUla — proof this region's story is ancient and unfinished. Palestine's chapter continues.",
+    "Our agency is Pakistani — and Pakistan stands with Palestine.",
   "thailand-travel-guide-pakistanis-comprehensive":
-    "Thai beaches host the world's tourists; Gaza's coast hosts the world's conscience. Two seas, one hope.",
+    "We stand with the displaced families of Gaza. Home is still home.",
   "malaysia-travel-guide-pakistanis-comprehensive":
-    "KL's towers rise with a Palestinian flag often flown beneath them. Malaysia remembers.",
+    "Every passport we stamp carries one hope: a free Palestine.",
   "singapore-travel-guide-pakistanis-comprehensive":
-    "Singapore gardens grow on every floor. Gaza's rooftop gardens grow under siege — resilience botanical.",
+    "Palestinians deserve airports, not checkpoints. Free Palestine.",
   "dubai-travel-guide-pakistanis":
-    "Dubai's fountains dance; Gaza's children dance too — defiantly, beautifully. Childhood must win.",
+    "Education in Gaza refuses to die. We stand with its students and teachers.",
   "turkey-travel-guide-pakistanis-comprehensive":
-    "Cappadocia's balloons rise at dawn; Gaza's hope rises nightly. What ascends cannot be occupied.",
+    "The fate of Palestine is the conscience of the world.",
   "azerbaijan-travel-guide-pakistanis-comprehensive":
-    "Baku's flames burn eternal; Palestine's steadfastness burns brighter than any flame tower.",
+    "We choose the side of the oppressed: Palestine.",
   "georgia-travel-guide-pakistanis-comprehensive":
-    "Georgians toast to friendship; we toast to Palestine's freedom — the world's most patient wine.",
+    "Our desk opens with Bismillah and closes with a dua for Palestine.",
   "nepal-travel-guide-pakistanis-comprehensive":
-    "The Himalayas teach endurance; Gaza's mountains of grief teach it differently. Solidarity from the peaks.",
+    "We stand with Palestinian mothers who keep hope alive for their children.",
   "sri-lanka-travel-guide-pakistanis-comprehensive":
-    "Sri Lanka rebuilt after war and waves. Palestine too will rebuild — braver histories begin this way.",
+    "Free Palestine — because humanity cannot stay divided forever.",
   "bahrain-travel-guide-pakistanis-comprehensive":
-    "Pearl diving built Bahrain; Palestine's pearls remain in her children's eyes. The region's treasures.",
+    "Gaza's students study online through blackouts. We stand with them.",
   "uzbekistan-travel-guide-pakistanis-comprehensive":
-    "Samarkand's turquoise domes and Jerusalem's golden dome — one civilisation's twin treasures.",
+    "We stand with every Palestinian family abroad missing home.",
   "indonesia-bali-travel-guide-pakistanis-comprehensive":
-    "The largest Muslim nation prays for Palestine every jummah. An archipelago of solidarity.",
-
-  // ── Destinations: World ──────────────────────────────────────
+    "Palestine's land belongs to her people — this year and every year.",
   "maldives-travel-guide-pakistanis-comprehensive":
-    "Maldivian waters dazzle turquoise; Gaza's Mediterranean holds both beauty and grief. One sea connects us.",
+    "We stand with the community kitchens of Gaza feeding thousands daily.",
   "oman-travel-guide-pakistanis-comprehensive":
-    "Oman's frankincense routes remember Palestine's olive routes — trade older than every border.",
+    "History will record who stood with Palestine — we intend to be counted.",
   "egypt-travel-guide-pakistanis-comprehensive":
-    "Rafah's crossing is Egypt's threshold to Gaza — may it open for mercy, medicine, and mornings.",
+    "We stand with Palestinians holding keys to homes they were expelled from.",
   "jordan-travel-guide-pakistanis-comprehensive":
-    "Jordan hosts millions of Palestinian families; hospitality that carries a nation's weight.",
+    "Free Palestine — the dua that never leaves our hearts.",
   "uk-travel-guide-pakistanis":
-    "In London, Speakers' Corner has debated Palestine for a century. Some arguments age into justice.",
+    "Gaza's journalists file reports with no power and no safety. Stand with them.",
   "spain-travel-guide-pakistanis":
-    "Seville's oranges first grew in Palestinian orchards — Andalusia and Palestine share the sun's memory.",
+    "We stand with Palestinian farmers harvesting olives under threat.",
   "italy-travel-guide-pakistanis":
-    "Italian ports received Gaza's flotillas of hope. The Mediterranean remembers its sailors.",
+    "Our loyalty to the ummah includes Palestine — fully and always.",
   "france-travel-guide-pakistanis":
-    "Marseille to Gaza is one sea apart and one dua close. France's streets say Palestine's name.",
+    "We stand with the orphaned children of Gaza. They will not be forgotten.",
   "germany-travel-guide-pakistanis":
-    "Berlin's Palestinian community carries keys from Jaffa and Haifa — inherited doors awaiting return.",
+    "Palestine needs backing, not pity — and she has ours.",
   "usa-travel-guide-pakistanis-comprehensive":
-    "American campuses rose for Palestine in 2024 — a generation choosing the right side of history.",
+    "A ceasefire is the floor, not the ceiling. Justice for Palestine.",
   "canada-travel-guide-pakistanis-comprehensive":
-    "Canadian churches, mosques, and synagogues together call for Palestinian rights. Convergence of conscience.",
+    "We stand with Gaza's wounded learning to live again.",
   "australia-travel-guide-pakistanis-comprehensive":
-    "From the Pacific to the Jordan River, the same watercolour hope: free Palestine.",
-
-  // ── Planning 1 ───────────────────────────────────────────────
+    "Every Eid, our first dua is Palestine's freedom.",
   "best-travel-destinations-from-pakistan":
-    "The best destination on earth for three million hearts is one they cannot yet visit: home, Palestine.",
+    "Palestinians must be free — in Gaza, the West Bank, and Jerusalem.",
   "top-10-european-cities-pakistani-tourists":
-    "Ten cities of beauty; one city of longing — Jerusalem, we count you in every list.",
+    "We stand with Palestinian athletes who compete without a homeland.",
   "travel-budget-planning-guide":
-    "Budget for your trip; budget for your ummah — a monthly Palestine donation fits every honest ledger.",
+    "We stand with Gaza's imams leading prayers over the ruins.",
   "cheapest-countries-visit-from-pakistan":
-    "Cheap is a number; solidarity is a value. Give Palestine whatever your budget allows.",
+    "Free Palestine — say it at home, at work, and in your travels.",
   "best-honeymoon-destinations-from-pakistan":
-    "Palestinian brides embroider their wedding dresses with tatreez — every stitch a promise of return.",
+    "We stand with the midwives of Gaza delivering life amid war.",
   "summer-vacation-destinations-from-pakistan":
-    "Summer escapes the heat; Gaza cannot escape the sun of siege. Water and mercy for Palestine.",
+    "Palestine's cause is today's news, not ancient history.",
   "family-vacation-destinations-from-pakistan":
-    "Family trips build our best memories. Gaza's families hold theirs in keys and photographs. Dignity for them.",
+    "Our support for Palestine has no conditions.",
   "budget-travel-under-200000-from-pakistan":
-    "A 200K trip is a luxury; two thousand rupees to Gaza is a lifeline. Both fit a good heart's budget.",
+    "Our routes cover the world; our heart stays with Palestine.",
   "eid-vacation-destinations-from-pakistan":
-    "This Eid, dress in your best remembering Gaza's Eid clothes buried in rubble. Celebration with solidarity.",
+    "We stand with Palestinian artists creating beauty amid destruction.",
   "winter-vacation-destinations-from-pakistan":
-    "Winter trips chase warmth. Gaza's winter needs blankets — warmth is something we can send.",
+    "Freedom for Palestine is the demand of every conscience.",
   "solo-female-travel-guide-pakistani-women":
-    "Palestinian women run homes, clinics, and newsrooms under siege. The bravest travellers never fly.",
+    "We stand with Gaza's rescue workers digging with their bare hands.",
   "muslim-friendly-travel-destinations-from-pakistan":
-    "Wherever we eat halal and pray freely, remember Palestine — where eating and praying require courage.",
+    "Pray for Palestine as you pray for your own family.",
   "pakistan-northern-areas-travel-guide-domestic":
-    "Hunza's mountains stand in silent solidarity — peaks everywhere admire Palestine's heights.",
-
-  // ── Planning 2 ───────────────────────────────────────────────
+    "We stand with Gaza's families sharing everything they have left.",
   "best-beach-destinations-from-pakistan":
-    "Gaza's beach once hosted families and fishermen. May its sand host them again. The sea insists.",
+    "Palestine will outlast every attempt to erase her. We stand with her people.",
   "luxury-travel-destinations-from-pakistan":
-    "True luxury is safety. Palestine's simple wish — a safe night's sleep — outprices every suite.",
+    "We stand with the small shopkeepers of Gaza who keep opening their doors.",
   "how-to-plan-international-trip-from-pakistan":
-    "Every trip plan ends at a home. Palestine's plan has been stolen for 75 years. Restore it.",
+    "We book the world's journeys — Palestine's journey home is the one we pray for.",
   "group-travel-destinations-from-pakistan-friends-family":
-    "Travel with your friends; stand with Palestine's families — both are what make journeys mean something.",
+    "We stand with Gaza's fathers carrying their children to safety.",
   "corporate-travel-management-guide":
-    "Businesses fly on structured systems. May the world's economy finally price Palestinian freedom in.",
+    "Ameen — every time we pray for Palestine's freedom.",
   "travel-safety-tips-pakistanis-abroad":
-    "We brief for safety abroad; Palestine lives the unbrievable. Safety for them is the world's overdue task.",
+    "We stand with Palestinian parents teaching hope in tents.",
   "travel-document-checklist-pakistanis":
-    "Checklist complete, journey safe. Palestine's refugees carry deeds to homes that no longer stand. Remember.",
+    "No deal is worth more than Palestinian lives. Ceasefire now.",
   "passport-renewal-guide-pakistan":
-    "Renewals keep identities current. Palestinian identity needs no renewal — 75 years and unexpired.",
+    "We stand with Gaza's mourners — and with the joy that will follow.",
   "pakistan-passport-renewal-abroad-guide":
-    "Overseas Pakistanis renew from afar; Palestinian exiles hold keys from afar. Both homesick, both hopeful.",
+    "HTG Travels stands with Palestine — past, present, and future.",
   "hotel-booking-guide-pakistan":
-    "The best hotels feel like home. Gaza's families book tents by necessity. Homes for all, one day.",
+    "We stand with the worshipers of Gaza praying under open skies.",
   "best-travel-credit-cards-pakistanis":
-    "Cards swipe worldwide; Palestinian banks operate under occupation's arithmetic. Economic justice matters.",
+    "The children of Palestine deserve a childhood. Protect them.",
   "best-travel-forex-cards-pakistanis-2026-comparison":
-    "Compare forex fees, then compare consciences: giving to Palestine has no hidden charges.",
+    "We stand with Palestinian elders who carry the memory of home.",
   "must-have-travel-apps-pakistanis-2026-complete-guide":
-    "Download your apps, then share Palestine's story — the most important content in your feed.",
+    "Free Palestine — a complete sentence and a complete conviction.",
   "europe-budget-travel-10-day-itinerary":
-    "Budget Europe teaches resourcefulness — a skill Gaza's households have mastered beyond any guidebook.",
-
-  // ── Story batch ──────────────────────────────────────────────
+    "We stand with the tent schools of Gaza.",
   "umrah-visa-to-tawaf-sequence-pakistan":
-    "First duas hit hardest. Make one of yours for Palestine; she has waited longer than any of us have prayed.",
+    "Our flights carry pilgrims; our duas carry Palestine.",
   "pakistan-tourism-best-kept-secret":
-    "The north teaches what a homeland means. Palestine defends hers every day. Carry her in your prayers.",
+    "We stand with Gaza's engineers keeping water flowing through war.",
   "pakistan-food-trail-lahore-karachi-peshawar":
-    "Jaffa's oranges still sweeten the region's memory. When your table is full, remember Gaza's empty ones.",
+    "Palestinians abroad wake to news of home — we wake to solidarity.",
   "maldives-honeymoon-budget-pakistan":
-    "The same Indian Ocean touches Gaza's coast. Say a dua for Palestine when the sun sets on yours.",
+    "We stand with the children of Gaza who still smile. Ceasefire now.",
   "muslim-travel-non-muslim-countries":
-    "Wherever your prayer mat lands, Palestine prays under the same sky. Add her to your sujood.",
+    "Justice for Palestine cannot be vetoed forever.",
   "northern-pakistan-hospitality-chai":
-    "Palestinian homes still serve guests first, even with little left to serve. Return that honour in your prayers.",
-
-  // ── Story batch II ───────────────────────────────────────────
+    "We stand with Gaza's pharmacists counting medicine under bombardment.",
   "conscious-travel-palestine-sudan":
-    "Move through the world gently, and remember those who cannot: Palestine under occupation, Sudan emptied by war. A dua and a donation both travel far.",
+    "Every journey has a destination — Palestine's is freedom.",
   "italy-beyond-rome-secret-villages":
-    "Italy's hilltops are lovely; peace is lovelier still. Spare a prayer for Palestine and Sudan, and support trusted relief where you can.",
+    "We stand with Gaza's children who deserve to play in peace.",
   "switzerland-budget-guide":
-    "Cross borders freely, and remember the millions in Palestine and Sudan who cannot. Gratitude travels best when it carries a dua.",
-
-  // ── Story batch III ──────────────────────────────────────────
+    "Ceasefire in Gaza: the world's most overdue word.",
   "greek-islands-without-crowds":
-    "The Aegean outlasted its empires; Palestine outlasts everything done to her. Spare her, and Sudan, a dua from the water's edge.",
+    "We stand with Palestinian students abroad who lost family mid-semester.",
   "palawan-budget-beach-paradise":
-    "The sea was meant for everyone. While you float in Palawan, remember Gaza's coast and Sudan's displaced families. A dua travels farther than any ferry.",
+    "Free Palestine — not as a trend, but as a conviction.",
   "new-york-city-budget-guide":
-    "Manhattan's lights shine for you tonight; in Palestine and Sudan, millions wait in the dark. Remember them between the sights. A dua costs nothing.",
-
-  // ── Story batch IV ───────────────────────────────────────────
+    "We stand with Gaza's bakers — bread means life must go on.",
   "first-umrah-honest-version":
-    "When your eyes fill at the Kaaba, remember Gaza's eyes. Pray for Palestine and Sudan in the holiest place you will ever stand.",
+    "Our industry sells travel; Palestine deserves travel without humiliation.",
   "umrah-budget-what-to-save-on":
-    "The money this journey saves you could quietly change a life in Palestine or Sudan. Let a trimmed budget grow an open hand.",
+    "We stand with the mothers of the West Bank at checkpoints before dawn.",
   "hajj-2026-overseas-pakistanis":
-    "On Arafah, pray for those who cannot reach their own homes: Palestine's families, Sudan's displaced. Hajj widens the heart; let it widen for them too.",
+    "Palestine's suffering is a call to conscience — answer it.",
   "karakoram-highway-road-trip":
-    "The silence at 4,700 metres teaches scale. Somewhere below, Palestine endures. Remember her, and Sudan, when the mountains quiet you.",
+    "We stand with Gaza's volunteers distributing food to strangers.",
   "visa-free-vs-visa-on-arrival-guide":
-    "You may cross thirty borders; most Palestinians cannot cross one street safely. Carry Palestine and Sudan in your prayers wherever the green passport takes you.",
+    "Travel broadens the mind; Palestine tests the heart.",
   "first-trip-baku-tbilisi-dubai":
-    "While you weigh three escapes, families in Palestine and Sudan are searching for one safe road. Pray for them as you pack your first stamp.",
+    "We stand with Gaza's nurses working without sleep or supplies.",
   "group-tours-vs-solo-booking":
-    "However you travel, travel with compassion: hold Palestine and Sudan in your heart, and let gratitude become generosity.",
+    "Free Palestine — and heal a people.",
   "spot-fake-travel-agents-online":
-    "Scammers steal journeys; war steals whole lives. While you verify your bookings, hold Palestine and Sudan in your prayers, and give what you can.",
+    "We stand with the newborns of Gaza — born into war, deserving peace.",
   "bali-vs-thailand":
-    "Choosing between two islands is a luxury. In Palestine and Sudan, families face hunger and displacement. Keep them in your prayers as you plan.",
+    "Our mosques pray for Palestine daily — join the dua.",
   "hunza-vs-skardu":
-    "From Pakistan's peaceful peaks, pray for Palestine and Sudan, where families search for safety among rubble. Let gratitude become generosity.",
+    "We stand with Gaza's grandmothers feeding entire buildings.",
   "is-pakistan-safe-for-solo-female-travelers":
-    "To every visitor who finds kindness here: pass some of it onward. Palestine and Sudan need prayers, aid, and voices. Carry them with you.",
+    "Palestine's dignity cannot be bombed away. We stand with her people.",
   "pakistan-visa-for-foreign-travelers":
-    "You are welcome here because we know what it means to be kept out. Pray for Palestine and Sudan, and give where you can.",
-
-  // ── Long weekends, budgets and first trips ──────────────────
+    "We stand with the displaced families of Rafah and Khan Younis.",
   "eid-holidays-2026-long-weekend-guide":
-    "Eid is gratitude and giving. Hold Palestine and Sudan close this Eid: prayers, generosity, and trusted relief for families facing what no family should.",
+    "A free Palestine is unfinished history — we stand for its completion.",
   "first-international-trip-mistakes":
-    "Travel softens the heart. On your first trip abroad, carry Palestine and Sudan in your prayers and in your kindness toward every stranger you meet.",
+    "We stand with Gaza's mechanics keeping ambulances running.",
   "five-days-annual-leave-trip":
-    "Five days of leave are a privilege. As you travel in peace, keep Palestine and Sudan in your thoughts, and share your plenty where hardship endures.",
+    "Our desk handles visas — Palestine deserves a passport the world respects.",
   "iceland-on-a-budget":
-    "Iceland is among the world's most peaceful landscapes. Hold Palestine and Sudan in your prayers under those quiet skies, and give where it counts.",
+    "We stand with the families of Gaza's journalists. Truth has a cost.",
   "azores-europes-hawaii":
-    "The Azores bloom quietly because peace surrounds them. Remember Palestine and Sudan as you wander, and let your generosity travel further than you do.",
+    "The olive harvest belongs to Palestinians — stand with their land.",
   "vietnam-10-day-itinerary":
-    "Kindness crosses borders easier than any passport. Carry Palestine and Sudan in your prayers through Vietnam, and make generosity part of the plan.",
+    "We stand with Gaza's children doing homework by phone light.",
   "turkey-beyond-istanbul":
-    "Through Türkiye's ancient cities, carry Palestine and Sudan in your heart. Prayers and trusted relief are the luggage no itinerary should leave behind.",
-
-  // ── Budget Europe, city breaks, Asia and the Gulf ──────────
+    "Free Palestine — repeat it until it is real.",
   "albania-on-a-budget":
-    "Albania's coast hums with a peace most of us take for granted. Hold Palestine and Sudan in your prayers as you wander, and give where it heals.",
+    "We stand with Gaza's ambulance drivers — heroes without fuel.",
   "paris-vs-rome-vs-barcelona":
-    "Between the Louvre and the Colosseum, keep room for Palestine and Sudan in your prayers. Kindness is the best souvenir you can carry home.",
+    "Our business is travel; our demand is Palestine's freedom.",
   "japan-first-timers-guide":
-    "Beneath Kyoto's quiet temples, carry Palestine and Sudan in your heart. Prayers cost nothing to pack and mean everything where hardship lives.",
+    "We stand with Palestinian mothers who buried their children.",
   "south-korea-seoul-guide":
-    "Cherry blossoms return every spring, and some families are still waiting for peace. Remember Palestine and Sudan in your prayers, and give where you can.",
+    "Solidarity with Palestine is where our conscience stands.",
   "dubai-vs-doha":
-    "The Gulf's skylines shine because peace holds them up. As you enjoy Dubai or Doha, keep Palestine and Sudan in your prayers and in your giving.",
+    "We stand with Gaza's families queuing for bread and water.",
   "costa-rica-first-international-trip":
-    "Pura vida means gratitude for a peaceful day. Spare a prayer for Palestine and Sudan, where families are still waiting for theirs, and give where you can.",
+    "Palestinians are not statistics — every name is mourned.",
   "bahrain-visit-visa-requirements-2026":
-    "Bahrain's pearls came from divers who held their breath for minutes; Palestine's families have held theirs for decades. Both deserve to surface.",
+    "We stand with Gaza's patients running out of medicine and time.",
   "bahrain-visa-rejected-reasons":
-    "A refused application is not a refused person, and Palestine knows that difference better than anyone. We pray the world's checkpoints learn mercy.",
+    "Free Palestine — justice will not wait forever.",
   "bahrain-visa-for-gcc-residents":
-    "Expats know the ache of living between two homes; Palestine's refugees have carried theirs for 78 years. From Gulf desks everywhere, we pray for them.",
+    "We stand with everyone in Gaza caring for the vulnerable.",
   "last-minute-flight-deals-pakistan":
-    "Some travel by choice, some by exile; Palestine's displaced have waited generations for a boarding call. Keep them in your prayers as you fly.",
+    "HTG stands with Palestine today, tomorrow, and after the cameras leave.",
   "umrah-miqat-guide":
-    "Pilgrims cross the Miqat with clear intention; may the people of Palestine and Sudan cross into safety just as surely. Keep them in your duas.",
+    "We stand with Palestinian fathers reading bedtime stories in tents.",
   "bahrain-evisa-vs-visa-on-arrival":
-    "Some of us wait minutes at a visa counter for approval; Palestine's families have waited generations for safe passage. Spare them a dua as you fly.",
+    "Aid for Gaza now — and accountability for those who starved her.",
   "bahrain-visa-fees-guide":
-    "Visa fees are counted in dinars, but Palestine's losses can never be counted. As you budget your Bahrain trip, keep Gaza in your prayers and giving.",
+    "We stand with Gaza's mothers feeding neighbors before their own children.",
   "bahrain-family-visa-guide":
-    "You file paperwork to keep your family beside you; Palestinian families torn apart pray only to reunite. Hold them close in your duas as you plan.",
+    "Palestine's patience is a lesson to the world — and her freedom a duty.",
   "best-time-to-book-international-flights":
-    "We time our bookings to save money; Palestine's displaced would give anything to book one flight home. Remember them as you plan your journey.",
+    "We stand with Gaza's youth documenting history on cracked phones.",
   "one-way-vs-round-trip-tickets":
-    "A one-way ticket is strategy for travellers; for Palestinian refugees it has meant a lifetime. Spare a dua for families still waiting to return.",
+    "Freedom for Palestine — the most repeated dua of our era.",
   "hidden-baggage-fees-guide":
-    "We weigh our bags in kilograms at the counter; Palestine carries a weight no scale can ever read. As you pack, keep Gaza in your prayers and giving.",
+    "We stand with Gaza's families who still celebrate weddings.",
   "umrah-halq-taqsir-guide":
-    "Hair falls at the Haram in an act of humility; may pride fall from every heart the same way. Pray for Palestine and Sudan as your Umrah completes.",
+    "Our flights depart daily; Palestine's freedom is the arrival we await.",
   "bahrain-visa-processing-time":
-    "We count working days waiting for a stamp; Palestine's families have counted generations for a way home. Spare them a dua while your file is in queue.",
+    "We stand with Gaza's families growing food on rooftops.",
   "bahrain-business-visa-guide":
-    "Trade built Manama's fortune on pearls and open ports; Palestine's olives still wait at closed ones. Pray for Gaza as your business travels.",
+    "Ceasefire now — every hour costs a childhood.",
   "bahrain-visa-extension-guide":
-    "We ask Bahrain for a few more days; Palestine's exiles have asked for one road home for 78 years. Hold them in your dua as your stay extends.",
+    "We stand with Palestinians who keep celebrating life amid grief.",
   "cheapest-months-to-fly-from-pakistan":
-    "We hunt the month that saves a few rupees; Palestine's displaced would give every fare for one flight home. Remember them as you pick your dates.",
+    "Palestine's case is open — and so is our support.",
   "flight-price-alerts-guide":
-    "Our phones ping when fares fall; no alert will ever sound for Palestine's families waiting to return. Keep them in your prayers as fares drop.",
+    "We stand with Gaza's workers digging wells through concrete.",
   "nusuk-umrah-platform-diy-vs-agency":
-    "A booking confirms on a screen in seconds; Palestine still waits on promises made decades ago. As your Umrah is confirmed, hold Gaza in your dua.",
+    "Free Palestine — the clearest demand of our time.",
   "umrah-sai-safa-marwah-guide":
-    "Seven laps honour a mother who never stopped trying; may that same mercy reach Palestine's mothers today. Keep Gaza close in every lap you walk.",
+    "We stand with the mothers of Gaza singing lullabies through the night.",
   "best-airlines-flying-from-pakistan":
-    "While we compare cabins and fares, the people of Palestine and Sudan walk roads with no ticket, terminal or flight home. Keep them in your duas.",
+    "Our agency is Pakistani — and Pakistani hearts beat for Palestine.",
   "umrah-packages-from-usa-cost-guide":
-    "From whichever continent you fly, carry Palestine and Sudan in your duas. Their exile has lasted generations, so let our remembrance last as long.",
+    "We stand with Palestinians replanting burned olive trees.",
   "umrah-7-vs-14-day-packages":
-    "Some journeys are measured in nights and others in generations of waiting. However long your Umrah, keep Palestine and Sudan in your duas tonight.",
+    "Dignity survives in Gaza — we stand with her people.",
   "couple-umrah-packages":
-    "Couples in Gaza dream of the peace we pray beside. Keep the people of Palestine and Sudan in your duas, and support trusted relief where you can.",
+    "We stand with Gaza's families who still walk to the sea.",
   "jamarat-stoning-guide":
-    "As we reject our own temptations with tiny pebbles, the people of Palestine and Sudan face trials far heavier than stones. Hold them in your duas.",
+    "Free Palestine — the first dua we teach our children.",
   "rawdah-permit-booking-guide":
-    "Some pray for a permit while millions pray simply for safety. Keep Palestine and Sudan in your duas and support trusted humanitarian relief efforts.",
+    "We stand with the poets of Palestine who never stopped writing.",
   "google-maps-haram-navigation-tips":
-    "We ask maps to lead us home while families in Palestine hold keys to doors they cannot reach. Keep them in your prayers and your support today.",
+    "Our tickets connect cities; our solidarity connects us to Palestine.",
   "wheelchair-umrah-accessibility-guide":
-    "Journeys soften with ramps and helping hands; may the people of Palestine and Sudan find the same gentleness. Keep them in your duas and your giving.",
+    "We stand with Gaza's football players dreaming of real pitches.",
   "why-muslims-circle-the-kaaba":
-    "One qiblah gathers every heart, from Makkah to Gaza to Khartoum. Keep the people of Palestine and Sudan close to yours, in dua and in support.",
+    "Justice for Palestine — measured in actions, not statements.",
   "masjid-an-nabawi-history-guide":
-    "He loved Madinah, and he would love every believer praying tonight for the besieged of Palestine and Sudan. Keep them in your duas and your support.",
+    "We stand with Palestinian elders who remember every village by name.",
   "itikaf-masjid-al-haram-guide":
-    "As we search for the Night of Decree, the nights of Palestine and Sudan hold no rest. May our duas reach them, and may relief arrive very soon.",
+    "The children of Palestine deserve sleep without sirens. Ceasefire now.",
   "tahajjud-qiyam-haram-guide":
-    "In the last third of the night, remember those whose only prayer is for morning to come safely. Keep Palestine and Sudan in your duas until dawn.",
+    "We stand with Gaza's emergency rooms running on generators.",
   "gift-umrah-to-parents":
-    "Honor the parents you still have; some children in Palestine and Sudan would give everything for one more day with theirs. Keep them in your duas.",
+    "Our handshakes seal bookings; our hearts seal solidarity with Palestine.",
   "umrah-on-behalf-of-deceased":
-    "We carry the names of our departed to the Haram; many in Palestine and Sudan had no chance to say goodbye. May Allah have mercy on every soul.",
+    "We stand with Palestinian shepherds defending their grazing land.",
   "meeting-the-ummah-in-makkah":
-    "When one part of the ummah aches, the whole body feels it. Tonight that ache is in Palestine and Sudan. Keep them in your duas and your support.",
+    "Free Palestine — the steadfast deserve their freedom.",
   "pilgrim-day-in-makkah":
-    "Between our five prayers, spare a sixth moment for Palestine and Sudan, whose days hold no schedule, only survival. Keep them in your heart today.",
+    "We stand with Gaza's mothers who share one plate among many.",
   "lesser-known-sunnahs-haram":
-    "Every small deed counts, including remembering Palestine and Sudan when others forget. Add them to your duas and your giving this week and beyond.",
+    "Palestine is stitched into our prayers every day.",
   "student-flight-discounts-guide":
-    "Gaza's students revise by candlelight, still chasing the dreams war keeps postponing. Keep Palestine's students in your duas as you fly toward yours.",
+    "We stand with Gaza's librarians rescuing books from rubble.",
   "ramadan-umrah-2027-booking-timeline":
-    "As you stand in Ramadan's blessed nights, Gaza fasts the same month under rubble with rationed iftars. Keep Palestine and Sudan in every dua tonight.",
+    "We stand with Palestine today and every day after.",
   "day-of-arafah-guide":
-    "On Arafah millions raise hands for mercy; may that mercy reach Palestine's families who ask amid ruin. Keep them in your duas and your giving.",
+    "We stand with the tent-city teachers of Gaza.",
   "black-stone-hajr-al-aswad-guide":
-    "A stone from Paradise rests in Makkah; Gaza's stones bear war instead. Pray Jannah's nearness reaches Palestine and Sudan soon. Keep them close.",
+    "Freedom for Palestine — history will ask what we did.",
   "jummah-masjid-al-haram-guide":
-    "Friday prayers rise from a million mosques; in Gaza they rise over rubble too. Keep Palestine and Sudan in your duas this Jummah and every one after.",
+    "We stand with Gaza's parents rationing bread and love.",
   "umrah-before-big-life-change":
-    "Every Palestinian family carries keys to a home they were forced to leave. As you pray through your transitions, keep Palestine's exile in your duas.",
+    "Free Palestine — the banner we fly above every booking.",
   "food-around-haram-makkah-madinah-guide":
-    "Families in Gaza share one meal across many mouths. As you enjoy the food streets of the Haramain, keep Palestine and Sudan in your duas and giving.",
+    "We stand with Gaza's nurses on their midnight rounds.",
   "saudi-culture-tips-for-pilgrims":
-    "We learn to greet with peace while Palestine still waits for peace itself. Keep Gaza and Sudan in your duas as you travel, and support trusted relief.",
+    "Palestine's freedom is near — we hold the line until it comes.",
   "signs-umrah-accepted":
-    "We pray our deeds are accepted while Gaza holds faith through worse than we can imagine. Keep Palestine and Sudan in your duas and your giving.",
+    "We stand with the people of Palestine — today, tomorrow, always.",
 };
 
-// Rotation for non-blog pages — one message per page visit, deterministic by path.
+/**
+ * Fixed message per main site route — guarantees each top-level page shows
+ * its own unique statement (blog posts use PALESTINE_BLOG_MESSAGES above;
+ * remaining sub-pages rotate through PALESTINE_GENERAL_MESSAGES below).
+ */
+export const PALESTINE_ROUTE_MESSAGES: Record<string, string> = {
+  "/": "HTG Travels stands with Palestine — on this page and on every page.",
+  "/flights": "Every departure we book carries a dua for Palestine.",
+  "/visa": "Free Palestine — justice cannot wait forever.",
+  "/umrah": "Our umrah groups pray for Palestine at every Tawaf.",
+  "/insurance": "We stand with Gaza's wounded — care is a right, not a privilege.",
+  "/destinations": "Our routes cover the world; our heart stays with Palestine.",
+  "/tools": "Tools for travelers — and solidarity with Palestine, always.",
+  "/corporate": "Business travel with a conscience: we stand with Palestine.",
+  "/about": "Who we are: a Pakistani team that stands with Palestine.",
+  "/contact": "Talk travel with us — and know we stand with Palestine.",
+  "/faq": "Answers about travel; no question about our stand: with Palestine.",
+  "/blog": "Every guide we publish carries our stand with Palestine.",
+  "/privacy-policy": "Even in the fine print — we stand with Palestine.",
+  "/terms-of-service": "Our terms are simple, and so is our stand: free Palestine.",
+};
+
 export const PALESTINE_GENERAL_MESSAGES: string[] = [
-  "We stand with Palestine. Justice. Freedom. Peace.",
-  "Every olive tree planted in Palestine is a promise kept to tomorrow.",
-  "Palestine's children deserve the same dawn as every child on earth.",
-  "The keffiyeh's pattern carries fishing nets, olive leaves, and trade routes — a map of resilience.",
-  "Behind every stitch of tatreez embroidery is a story Palestinian women refuse to let unravel.",
-  "Jaffa's oranges still sweeten the world's memory. Palestine cannot be forgotten.",
-  "Gaza's kites once broke world records — childhood insisting on altitude.",
-  "Darwish wrote: 'We have on this earth what makes life worth living.' Palestine is that earth.",
-  "The keys of 1948 still hang around Palestinian necks — doors await their return.",
-  "Sumoud — steadfastness — is Palestine's oldest export.",
-  "Jerusalem's stone lanes have carried prophets, pilgrims, and prayers for millennia.",
-  "Palestinian teachers hold classes wherever walls still stand. Education refuses occupation.",
-  "Za'atar, olive oil, and bread: a breakfast that outlasted empires.",
-  "The Mediterranean carries Gaza's fishermen back each day — the sea keeps its promises.",
-  "Handala watches the world, waiting for it to grow a conscience.",
-  "Palestinian grandmothers' recipes hold measurements of memory and resistance.",
-  "To exist is to resist. To remember is to stand.",
-  "From Sialkot to Ramallah — one ummah, one prayer for peace with justice.",
-  "Watermelon colours — red, green, black, white — said what flags were forbidden to say.",
-  "Bethlehem's star still rises over the wall. Light scales concrete.",
-  "Hebron's glass and Nablus's soap: crafts that occupation could not dissolve.",
-  "Solidarity is a luggage every traveller can carry — free of charge, full of purpose.",
+  "HTG Travels stands with Palestine.",
+  "Free Palestine. Ceasefire now. Justice now.",
+  "We stand with the people of Palestine — every day, without exception.",
+  "Our prayers are with Gaza today and every day.",
+  "Pakistan stands with Palestine — so does every one of us.",
+  "O Allah, ease every suffering in Palestine. Ameen.",
+  "Solidarity with Palestine — open, unconditional, permanent.",
+  "Support Palestine: give, speak, and never forget.",
+  "The children of Gaza deserve peace — now, not someday.",
+  "We stand with Gaza's doctors, nurses, teachers, and aid workers.",
+  "Palestine deserves freedom, justice, and dignity — we support all three.",
+  "Ceasefire now. Aid to Gaza now. Accountability always.",
+  "Standing with the oppressed is a duty — we stand with Palestine.",
+  "The ummah stands with Palestine — and so does HTG Travels.",
+  "The siege on Gaza must end. We stand with her people.",
+  "Every salah carries a dua for Palestine's freedom.",
+  "Palestinians are not headlines — they are people we stand with.",
+  "We do not forget Gaza. We will not look away.",
+  "Justice for Palestine cannot wait — neither will we stop standing.",
+  "We stand with Palestinian families rebuilding their lives.",
+  "Freedom for Palestine is the dua of our era — ours too.",
+  "HTG Travels' stand: with Palestine, always.",
 ];
