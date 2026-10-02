@@ -99,7 +99,7 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
   "umrah-mistakes-to-avoid":
     "The pilgrim's best habit is remembrance — and Palestine is easiest to remember: just say her name.",
   "best-hotels-near-haram-makkah-madinah":
-    "A short walk to the Haram is a luxury; Gaza's families walk miles for clean water. Gratitude, always.",
+    "A five-minute walk to the Haram is luxury; Palestine's families have waited a lifetime for a road home. Keep them close in your duas as you book.",
   "umrah-hotel-booking-tips":
     "Comfort is a blessing; remember those with no roof left to book. Palestine, we have not looked away.",
   "nusuk-permit-guide-umrah":
@@ -436,6 +436,22 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "Expats know the ache of living between two homes; Palestine's refugees have carried theirs for 78 years. From Gulf desks everywhere, we pray for them.",
   "last-minute-flight-deals-pakistan":
     "Some travel by choice, some by exile; Palestine's displaced have waited generations for a boarding call. Keep them in your prayers as you fly.",
+  "umrah-miqat-guide":
+    "Pilgrims cross the Miqat with clear intention; may the people of Palestine and Sudan cross into safety just as surely. Keep them in your duas.",
+  "bahrain-evisa-vs-visa-on-arrival":
+    "Some of us wait minutes at a visa counter for approval; Palestine's families have waited generations for safe passage. Spare them a dua as you fly.",
+  "bahrain-visa-fees-guide":
+    "Visa fees are counted in dinars, but Palestine's losses can never be counted. As you budget your Bahrain trip, keep Gaza in your prayers and giving.",
+  "bahrain-family-visa-guide":
+    "You file paperwork to keep your family beside you; Palestinian families torn apart pray only to reunite. Hold them close in your duas as you plan.",
+  "best-time-to-book-international-flights":
+    "We time our bookings to save money; Palestine's displaced would give anything to book one flight home. Remember them as you plan your journey.",
+  "one-way-vs-round-trip-tickets":
+    "A one-way ticket is strategy for travellers; for Palestinian refugees it has meant a lifetime. Spare a dua for families still waiting to return.",
+  "hidden-baggage-fees-guide":
+    "We weigh our bags in kilograms at the counter; Palestine carries a weight no scale can ever read. As you pack, keep Gaza in your prayers and giving.",
+  "umrah-halq-taqsir-guide":
+    "Hair falls at the Haram in an act of humility; may pride fall from every heart the same way. Pray for Palestine and Sudan as your Umrah completes.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

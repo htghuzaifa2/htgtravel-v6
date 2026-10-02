@@ -232,6 +232,14 @@ import { bahrainVisitVisaRequirements2026 } from "./blog-posts/bahrain-visit-vis
 import { bahrainVisaRejectedReasons } from "./blog-posts/bahrain-visa-rejected-reasons";
 import { bahrainVisaForGccResidents } from "./blog-posts/bahrain-visa-for-gcc-residents";
 import { lastMinuteFlightDealsPakistan } from "./blog-posts/last-minute-flight-deals-pakistan";
+import { umrahMiqatGuide } from "./blog-posts/umrah-miqat-guide";
+import { bahrainEvisaVsVisaOnArrival } from "./blog-posts/bahrain-evisa-vs-visa-on-arrival";
+import { bahrainVisaFeesGuide } from "./blog-posts/bahrain-visa-fees-guide";
+import { bahrainFamilyVisaGuide } from "./blog-posts/bahrain-family-visa-guide";
+import { bestTimeToBookInternationalFlights } from "./blog-posts/best-time-to-book-international-flights";
+import { oneWayVsRoundTripTickets } from "./blog-posts/one-way-vs-round-trip-tickets";
+import { hiddenBaggageFeesGuide } from "./blog-posts/hidden-baggage-fees-guide";
+import { umrahHalqTaqsirGuide } from "./blog-posts/umrah-halq-taqsir-guide";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -431,6 +439,14 @@ const SEEDS: BlogPostSeed[] = [
   bahrainVisaRejectedReasons,
   bahrainVisaForGccResidents,
   lastMinuteFlightDealsPakistan,
+  umrahMiqatGuide,
+  bahrainEvisaVsVisaOnArrival,
+  bahrainVisaFeesGuide,
+  bahrainFamilyVisaGuide,
+  bestTimeToBookInternationalFlights,
+  oneWayVsRoundTripTickets,
+  hiddenBaggageFeesGuide,
+  umrahHalqTaqsirGuide,
 ];
 
 // Auto-generate IDs for all posts at runtime
