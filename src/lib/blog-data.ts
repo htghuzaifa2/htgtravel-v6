@@ -264,6 +264,15 @@ import { umrahOnBehalfOfDeceased } from "./blog-posts/umrah-on-behalf-of-decease
 import { meetingTheUmmahInMakkah } from "./blog-posts/meeting-the-ummah-in-makkah";
 import { pilgrimDayInMakkah } from "./blog-posts/pilgrim-day-in-makkah";
 import { lesserKnownSunnahsHaram } from "./blog-posts/lesser-known-sunnahs-haram";
+import { studentFlightDiscountsGuide } from "./blog-posts/student-flight-discounts-guide";
+import { ramadanUmrah2027BookingTimeline } from "./blog-posts/ramadan-umrah-2027-booking-timeline";
+import { dayOfArafahGuide } from "./blog-posts/day-of-arafah-guide";
+import { blackStoneHajrAlAswadGuide } from "./blog-posts/black-stone-hajr-al-aswad-guide";
+import { jummahMasjidAlHaramGuide } from "./blog-posts/jummah-masjid-al-haram-guide";
+import { umrahBeforeBigLifeChange } from "./blog-posts/umrah-before-big-life-change";
+import { foodAroundHaramMakkahMadinahGuide } from "./blog-posts/food-around-haram-makkah-madinah-guide";
+import { saudiCultureTipsForPilgrims } from "./blog-posts/saudi-culture-tips-for-pilgrims";
+import { signsUmrahAccepted } from "./blog-posts/signs-umrah-accepted";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -495,6 +504,15 @@ const SEEDS: BlogPostSeed[] = [
   meetingTheUmmahInMakkah,
   pilgrimDayInMakkah,
   lesserKnownSunnahsHaram,
+  studentFlightDiscountsGuide,
+  ramadanUmrah2027BookingTimeline,
+  dayOfArafahGuide,
+  blackStoneHajrAlAswadGuide,
+  jummahMasjidAlHaramGuide,
+  umrahBeforeBigLifeChange,
+  foodAroundHaramMakkahMadinahGuide,
+  saudiCultureTipsForPilgrims,
+  signsUmrahAccepted,
 ];
 
 // Auto-generate IDs for all posts at runtime

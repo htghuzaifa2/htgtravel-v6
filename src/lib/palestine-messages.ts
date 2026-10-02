@@ -95,7 +95,7 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
   "umrah-ihram-rules-guide":
     "Two white cloths erase every rank and every title; in worship we are one body. Keep wounded Palestine and Sudan wrapped in that one dua tonight.",
   "umrah-tawaf-sai-step-by-step":
-    "Hajar ran between two hills seeking water. Gaza's mothers walk further for less. Remember them.",
+    "We circle the Kaaba in safety and freedom; Gaza's families circle survival daily. Keep Palestine and Sudan in your duas with every circuit you walk.",
   "umrah-mistakes-to-avoid":
     "The pilgrim's best habit is remembrance — and Palestine is easiest to remember: just say her name.",
   "best-hotels-near-haram-makkah-madinah":
@@ -121,7 +121,7 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
   "umrah-group-booking-guide":
     "Travel in jamaat, pray in jamaat — and stand for Palestine in jamaat. Unity is the ummah's power.",
   "family-umrah-tips-with-children":
-    "Hold your children tighter tonight. Gaza's children taught the world what childhood should never cost.",
+    "Our children walk the Haram's marble while Gaza's children learn war too young. Hold them closer tonight, and keep Palestine's families in your duas.",
   "umrah-with-infants-toddlers-guide":
     "A baby's cry in the Haram is hope. May every Palestinian baby sleep without the sound of drones.",
   "umrah-during-summer-survival-guide":
@@ -129,7 +129,7 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
   "winter-umrah-packages-guide":
     "Winter brings pilgrims to Makkah — bring Palestine's families blankets, fuel, and dua this winter.",
   "umrah-ramadan-2026-laylatul-qadr-guide":
-    "On the Night of Power, ask for the gift Palestine awaits: a morning of freedom.",
+    "On the Night of Decree ask for the morning Palestine has waited decades for. Keep Gaza and Sudan in your duas through every odd night you stand.",
   "umrah-ramadan-iftar-haram-guide-2026":
     "A million plates at the Haram's iftar — let one intention be shared: food for Gaza tonight.",
   "umrah-after-ramadan-shawwal-muharram-comparison-2026":
@@ -149,11 +149,11 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
   "umrah-currency-exchange-sar-pkr-guide":
     "Exchange rates change daily; Palestine's worth in our hearts never does. Constant, like our dua.",
   "umrah-mobile-apps-guide-pakistan":
-    "One app connects pilgrims to permits; one share connects Palestine's stories to the world. Post it.",
+    "One app books our permits; one share carries Palestine's story past every blackout. Post Gaza's truth, keep Sudan close, and give where it counts.",
   "umrah-health-emergency-guide-pakistan":
     "The ambulance number 997 works in Saudi; Gaza's ambulances have been silenced. Medicine is a right.",
   "umrah-photography-rules-saudi-arabia":
-    "We photograph what we love. The world's cameras keep Palestine's truth alive — keep watching.",
+    "Our cameras keep memories alive; Gaza's cameras keep truth alive. Photograph gently, share honestly, and hold Palestine and Sudan in your duas.",
   "umrah-with-diabetes-chronic-illness-complete-guide-2026":
     "We pray for strength on our journeys while Palestine and Sudan pray for strength to survive. Keep them close in every dua you make on this trip.",
   "umrah-etiquette-guide-makkah-madinah":
@@ -175,7 +175,7 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
 
   // ── Hajj ─────────────────────────────────────────────────────
   "hajj-2026-complete-guide":
-    "At Arafat, millions stand as one. Let one shared plea rise for Palestine this Hajj season.",
+    "At Arafah millions stand as one body; may their single plea include Palestine's freedom. Keep Gaza and Sudan in your duas this Hajj season and always.",
   "hajj-2026-registration-pakistan":
     "Pakistan's Hajj quota fills with hope. May Palestine's quotas — of aid, of freedom — finally be lifted.",
   "hajj-2026-packing-list-complete-guide":
@@ -500,6 +500,24 @@ export const PALESTINE_BLOG_MESSAGES: Record<string, string> = {
     "Between our five prayers, spare a sixth moment for Palestine and Sudan, whose days hold no schedule, only survival. Keep them in your heart today.",
   "lesser-known-sunnahs-haram":
     "Every small deed counts, including remembering Palestine and Sudan when others forget. Add them to your duas and your giving this week and beyond.",
+  "student-flight-discounts-guide":
+    "Gaza's students revise by candlelight, still chasing the dreams war keeps postponing. Keep Palestine's students in your duas as you fly toward yours.",
+  "ramadan-umrah-2027-booking-timeline":
+    "As you stand in Ramadan's blessed nights, Gaza fasts the same month under rubble with rationed iftars. Keep Palestine and Sudan in every dua tonight.",
+  "day-of-arafah-guide":
+    "On Arafah millions raise hands for mercy; may that mercy reach Palestine's families who ask amid ruin. Keep them in your duas and your giving.",
+  "black-stone-hajr-al-aswad-guide":
+    "A stone from Paradise rests in Makkah; Gaza's stones bear war instead. Pray Jannah's nearness reaches Palestine and Sudan soon. Keep them close.",
+  "jummah-masjid-al-haram-guide":
+    "Friday prayers rise from a million mosques; in Gaza they rise over rubble too. Keep Palestine and Sudan in your duas this Jummah and every one after.",
+  "umrah-before-big-life-change":
+    "Every Palestinian family carries keys to a home they were forced to leave. As you pray through your transitions, keep Palestine's exile in your duas.",
+  "food-around-haram-makkah-madinah-guide":
+    "Families in Gaza share one meal across many mouths. As you enjoy the food streets of the Haramain, keep Palestine and Sudan in your duas and giving.",
+  "saudi-culture-tips-for-pilgrims":
+    "We learn to greet with peace while Palestine still waits for peace itself. Keep Gaza and Sudan in your duas as you travel, and support trusted relief.",
+  "signs-umrah-accepted":
+    "We pray our deeds are accepted while Gaza holds faith through worse than we can imagine. Keep Palestine and Sudan in your duas and your giving.",
 };
 
 // Rotation for non-blog pages — one message per page visit, deterministic by path.

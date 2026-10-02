@@ -29,7 +29,15 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
   content: [
     {
       type: "p",
-      text: "Here is the first thing you need to hear: a wheelchair does not disqualify you from Umrah, not even slightly. The Haram is one of the most accessible religious buildings on earth, with ramps, elevators and staff who have assisted millions of pilgrims with mobility needs. This guide walks through everything, honestly and practically.",
+      text: "Here is the first thing you need to hear: a wheelchair does not disqualify you from Umrah, not even slightly. Neither does recovering from surgery or any condition that limits walking, because millions with limited mobility perform Umrah every year, and the Haram is one of the most accessible religious buildings on earth, with ramps, elevators and staff who have assisted millions. This guide walks through everything, honestly and practically.",
+    },
+    {
+      type: "h2",
+      text: "Recovering From Surgery? Get the Doctor's Blessing First",
+    },
+    {
+      type: "p",
+      text: "If surgery was recent, this step is non-negotiable. Most surgeons recommend waiting until wounds are fully healed and cleared for travel, often six to eight weeks after a major procedure, because flying too soon risks blood clots on long flights. Ask three questions: am I fit to fly, can I walk short distances with support, and what medications must I carry. Get a signed letter listing medicines and diagnoses for airport security, and keep everything in hand luggage in original packaging.",
     },
     {
       type: "h2",
@@ -37,7 +45,7 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Both Masjid al-Haram and Masjid an-Nabawi were built with disabled pilgrims in mind. Dedicated wheelchair entrances, elevators to every prayer level, smooth marble throughout, and accessible washrooms; the infrastructure is genuinely impressive. Many pilgrims actually say their wheelchair Umrah felt more peaceful than their able-bodied ones years earlier. You are moved gently through the crowds, seated comfortably, and free to focus entirely on worship. One gentleman we worked with called it the first Hajj of my life where my knees were not the main topic of conversation.",
+      text: "Both Masjid al-Haram and Masjid an-Nabawi were built with disabled pilgrims in mind: dedicated entrances, elevators to every prayer level, smooth marble throughout, and accessible washrooms. One gentleman we worked with called his wheelchair Hajj the first of his life where his knees were not the main topic of conversation. You are moved gently through the crowds, seated comfortably, and free to focus entirely on worship.",
     },
     {
       type: "h2",
@@ -47,9 +55,8 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
       type: "ul",
       items: [
         "Notify your airline in advance; wheelchair assistance at the airport is free, and ground staff escort you through immigration",
-        "Tape a note with your name and contact number inside the frame, in case the chair is set down anywhere in transit",
+        "Tape a note with your name and contact number inside the frame in case the chair is set down in transit",
         "Pack a small repair kit: a spare inner tube, basic tools, and any custom seat cushions you depend on",
-        "Puncture-proof tires are worth considering if you travel often",
       ],
     },
     {
@@ -58,7 +65,7 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "No chair? No problem. Wheelchair rental counters operate around the Haram, and electric wheelchairs are available too, at reasonable daily and weekly rates. Even better known is the push service: strong-shouldered local workers who wheel you through Tawaf, Sa'i and between locations for a fee. A few honest notes from experience: rates run per round or per route, so agree on the price before you start, firmly but politely. These men work hard in brutal conditions, and a fair tip is genuinely appreciated. And ask your hotel or group leader to arrange someone trusted rather than negotiating amid the crowd.",
+      text: "No chair? No problem. Rental counters around the Haram offer manual and electric chairs by the day or week, and the push service is even better known: strong-shouldered local workers who wheel you through Tawaf, Sa'i and between locations for a fee. Agree the rate before you start, firmly but politely, because these men work hard in brutal conditions and a fair tip is appreciated. Ask your hotel or group leader to arrange someone trusted rather than negotiating amid the crowd.",
     },
     {
       type: "h2",
@@ -66,7 +73,15 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "The ground-floor Mataf around the Kaaba is the most crowded spot in the entire mosque, and wheelchairs move slowly through it. Here is what experienced pilgrims do instead: perform Tawaf from the first-floor mezzanine, which circles directly above the Mataf. It is fully valid, far less congested, has elevators leading right to it, and gives you an uninterrupted view of the Kaaba the entire time. For wheelchair users and elderly pilgrims alike, this is the smart route. The same principle applies at Sa'i, where the upper levels are wider and calmer.",
+      text: "The ground-floor Mataf around the Kaaba is the most crowded spot in the entire mosque, and wheelchairs move slowly through it. Experienced pilgrims instead perform Tawaf from the first-floor mezzanine, directly above the Mataf. It is fully valid, far less congested, has elevators leading right to it, and gives an uninterrupted view of the Kaaba the entire time. For wheelchair users and elderly pilgrims alike, this is the smart route, and the same applies at Sa'i, where the upper levels are wider and calmer.",
+    },
+    {
+      type: "h2",
+      text: "Pacing the Rituals Gently",
+    },
+    {
+      type: "p",
+      text: "You do not have to do everything at ground level or at peak speed. Split worship into shorter sessions with rest between, perform Sa'i early morning when corridors are emptiest, and build rest days in: a ten-day trip with recovery beats seven crowded ones. Requesting help is not weakness: the Harams are staffed specifically to assist elderly and disabled pilgrims, wheelchair users receive priority at most service points, and Nusuk lets you request assistance in advance. The only real mistake is struggling in silence.",
     },
     {
       type: "h2",
@@ -75,15 +90,15 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
     {
       type: "ul",
       items: [
-        "Taxis: ask for a car with boot space for a folding chair; most sedans manage it fine",
-        "Trains: the Haramain High-Speed Railway between Makkah, Jeddah and Madinah has designated wheelchair spaces; book them when you reserve your ticket",
-        "Hotels: always confirm an accessible room with a roll-in shower, not just ground floor; doormats, shower lips and narrow bathroom doors are the usual culprits",
-        "Timing: visit the Haram during quiet hours, after Isha or before Fajr, when moving through gates is easy instead of a squeeze",
+        "Taxis: ask for a car with boot space for a folding chair; most sedans manage fine",
+        "The Haramain high-speed railway carries designated wheelchair spaces; reserve them when you book",
+        "Hotels: confirm a roll-in shower, not just a ground-floor room; shower lips and narrow doors are the usual culprits",
+        "Timing: after-Isha or pre-Fajr hours make gate movement easy instead of a squeeze",
       ],
     },
     {
       type: "p",
-      text: "In Madinah, you will find Masjid an-Nabawi wonderfully manageable: wide courtyards, ramps at most gates, and dedicated wheelchair sections overlooking the Rawdah area. Remember that Rawdah visits still require their own permit, booked free through Nusuk with accessibility slots available.",
+      text: "In Madinah, Masjid an-Nabawi is wonderfully manageable: wide courtyards, ramps at most gates, and dedicated wheelchair sections near the Rawdah. Rawdah visits still need their own permit, booked free through Nusuk with accessibility slots.",
     },
     {
       type: "h2",
@@ -91,7 +106,7 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "You matter in this journey too. Rotate pushing duties if you are traveling as a family, and let able-bodied members take turns performing rituals while someone stays with the wheelchair pilgrim; trade-offs like these are normal, and both moments count. Pack light on the chair itself: a cup holder, a small pouch for water and zamzam, and a light blanket for the air-conditioned halls. Small comforts add up over long prayer sessions.",
+      text: "You matter in this journey too. Rotate pushing duties if you are traveling as a family, and let able-bodied members take turns performing rituals while someone stays with the wheelchair pilgrim; both moments count. A cup holder, a small pouch for water and zamzam, and a light blanket for the air-conditioned halls are small comforts that add up over long prayer sessions. Traveling with a companion who manages logistics and medications saves your energy for worship itself.",
     },
     {
       type: "quote",
@@ -106,6 +121,7 @@ export const wheelchairUmrahAccessibilityGuide: BlogPostSeed = {
     { q: "Is Tawaf valid from the Haram's upper floors?", a: "Yes, completely. The first-floor mezzanine circles directly above the ground Mataf, and performing Tawaf there is fully valid while being far less congested. Elevators reach it easily, and the view of the Kaaba stays unbroken for all seven circuits, which is why experienced wheelchair users prefer it." },
     { q: "Can I rent a wheelchair at the Haram?", a: "Yes. Rental counters around both mosques offer manual and electric chairs by the day or week at reasonable rates. A push service is also available, where local workers wheel you through the rituals for a fee; agree the rate before starting and arrange through your hotel for someone trusted." },
     { q: "Do Haramain trains have wheelchair spaces?", a: "Yes, the high-speed railway between Makkah, Jeddah and Madinah carries designated wheelchair positions, which you should reserve at the time of booking rather than on the day. Station platforms align level with the trains, and staff assist with boarding when asked in advance." },
+    { q: "How soon after surgery can I fly for Umrah?", a: "Most surgeons clear travel six to eight weeks after a major procedure, once wounds are healed, sometimes longer for orthopedic cases. Get written fit-to-fly clearance, carry a signed letter for medications, and ask about compression socks for the flight, because clot risk is the real danger doctors watch on long-haul routes." },
     { q: "What should accessible Umrah hotel rooms include?", a: "Confirm a roll-in shower with a fold-down bench, wide doorways for the chair, and grab rails, not merely a ground-floor room. Shower lips and narrow bathrooms are the most common obstacles, so ask for measurements in writing, and prioritize distance to the Haram above everything else." },
   ],
 };

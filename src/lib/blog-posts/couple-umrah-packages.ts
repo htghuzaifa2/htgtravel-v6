@@ -67,6 +67,18 @@ export const coupleUmrahPackages: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Duas That Belong to Two People",
+    },
+    {
+      type: "p",
+      text: "Come prepared with duas written for your marriage specifically. The Quran hands couples the exact words: Rabbana hab lana min azwajina wa dhurriyyatina qurrata a'yun, our Lord, grant us joy in our spouses and offspring, and make us leaders of the righteous. Carry the dua the Prophet taught for newlyweds as well: Barakallahu laka wa baraka 'alayka wa jama'a baynakuma fi khayr. Then add your private list: the marriage you want, the children you hope for, the parents you are joining. One beautiful practice: split your duas, each praying for the other's family and dreams, and by the last lap of Sa'i you will know each other's hearts better than a hundred dinners revealed.",
+    },
+    {
+      type: "p",
+      text: "Two practical notes worth keeping. Carry your marriage certificate: some Saudi hotels ask couples for proof at check-in, especially when surnames differ. And if your itinerary includes the sites around Arafat, stop at Jabal Rahmah, where tradition holds Adam and Hawwa found each other again; two people whose paths Allah crossed, standing where reunion began, hits differently in the first month of a marriage.",
+    },
+    {
+      type: "h2",
       text: "The Honest Cost",
     },
     {
@@ -91,11 +103,11 @@ export const coupleUmrahPackages: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "The rituals are shared, but the memories are yours. Hold the water bottles while your spouse makes wudu. Trade off carrying shoes between prayers. Stand together after Tawaf and make dua for your future: children, rizq, patience, everything. And here is a tip couples always thank us for: visit the Haram rooftop or courtyard on a quiet weeknight. Less crowd, cool night air, and the two of you with the Kaaba in view. Unhurried, unforgettable.",
+      text: "The rituals are shared, but the memories are yours. Hold the water bottles while your spouse makes wudu. Trade off carrying shoes between prayers. Alternate your energies, one day one of you leads the Fajr push, the next day the other, because newlyweds burn out fast when a single person plans everything. Plan one slow day entirely free of rituals: the courtyard after Isha, dates and karak, a conversation about the future with Makkah as the backdrop. Small disagreements about gates and timings will still come, and letting them go quickly in the city of forgiveness is a head start most couples never get.",
     },
     {
       type: "quote",
-      text: "Umrah as a couple is not about luxury; it is about presence, protected.",
+      text: "Our Lord, grant us joy in our spouses and offspring, and make us leaders of the righteous. Quran 25:74",
     },
     {
       type: "p",
@@ -106,6 +118,7 @@ export const coupleUmrahPackages: BlogPostSeed = {
     { q: "Do couple Umrah packages cost more per person?", a: "Usually a little, because the quad-sharing discount disappears once you take a private double room. The room itself costs the operator the same either way, so the difference lands on two shoulders instead of four, typically modest rather than dramatic." },
     { q: "Can newlyweds book an Umrah honeymoon package?", a: "Yes, and increasing numbers do. A honeymoon Umrah swaps beach mornings for Fajr at the Haram, and operators can add Haram-view rooms and private transfers to mark the occasion. Off-peak months make the romantic version far friendlier on a wedding budget." },
     { q: "Will our package guarantee one real double bed?", a: "Only if it is confirmed in writing before payment. Many Makkah hotels serve twin rooms pushed together, so ask your operator to specify the bed type with the hotel booking. A proper double or king should be named on the confirmation, never assumed." },
+    { q: "Do Saudi hotels ask couples for a marriage certificate?", a: "Some do, especially when the two surnames differ. Carry the original nikahnama or marriage certificate in your hand luggage, and keep a phone photo as backup. Hotels rarely ask, but the one evening they do is not the evening to be explaining at the desk." },
     { q: "Which hotels suit couples on a mid-range budget?", a: "A 4-star property five minutes' walk from the Haram usually beats a distant 5-star on both price and experience, since the walk-back-for-a-nap freedom is what couples value most. Ask for a high floor away from the elevator lobby for quiet nights." },
   ],
 };

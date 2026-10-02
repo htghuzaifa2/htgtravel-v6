@@ -1,16 +1,16 @@
 import type { BlogPostSeed } from "../blog-data";
 
 /**
- * Blog post: "Laylatul Qadr in the Haram: The Night Worth Planning For"
+ * Blog post: "The Last 10 Nights of Ramadan: A Night-by-Night Guide"
  * Category: Umrah
  * Live at /blog/umrah-ramadan-2026-laylatul-qadr-guide
  */
 export const umrahRamadan2026LaylatulQadrGuide: BlogPostSeed = {
   slug: "umrah-ramadan-2026-laylatul-qadr-guide",
-  title: "Laylatul Qadr in the Haram: The Night Worth Planning For",
+  title: "The Last 10 Nights of Ramadan: A Night-by-Night Guide",
   category: "Umrah",
   metaDescription:
-    "Seeking Laylatul Qadr in Makkah. The odd nights strategy, crowd reality of the last ten, and how to physically survive until Fajr.",
+    "A night-by-night plan for the last ten nights of Ramadan in Makkah: Laylatul Qadr strategy, crowd reality, and why these rooms book out months ahead.",
   keywords: [
     "Laylatul Qadr Umrah",
     "last ten nights Ramadan",
@@ -20,44 +20,85 @@ export const umrahRamadan2026LaylatulQadrGuide: BlogPostSeed = {
   ],
   promo: {
     headline: "We Reserve Last-Ten-Night Packages Before They Exist Publicly",
-    body: "The last ten nights of Ramadan are the most requested Umrah dates on earth, and our repeat clients reserve them with us months ahead of publication. If your heart is set on Laylatul Qadr in the Haram, message us now: tonight's inventory is next year's sold-out sign.",
+    body:
+      "The last ten nights of Ramadan are the most requested Umrah dates on earth, and our repeat clients reserve them with us months ahead of publication, because hotels for these nights are often fully committed six to nine months out. If your heart is set on Laylatul Qadr in the Haram, message us now: tonight's inventory is next year's sold-out sign.",
     cta: "Reserve the last ten nights",
-    waText: "Assalam o Alaikum! I want to be in the Haram for the last ten nights of Ramadan. Please reserve my package.",
+    waText:
+      "Assalam o Alaikum! I want to spend the last ten nights of Ramadan at the Haram. Please share package options with a hotel close to the mosque and advise how early I must confirm for the odd nights.",
   },
   content: [
     {
       type: "p",
-      text: "One night better than a thousand months. It stands to reason that the seeking of it fills the Haram to its marble seams. The last ten nights of Ramadan are the most crowded, most electrifying, most logistically demanding nights in the Islamic world.",
+      text: "Somewhere around the twentieth evening of Ramadan, Makkah transforms. The Haram stops sleeping, hotels empty into the Mataf, and two million people begin searching for a single night worth more than a lifetime. If you are planning to be there, or dreaming of it, here is your night-by-night guide to doing the last ten nights right.",
     },
     {
       type: "h2",
-      text: "The Odd-Nights Strategy",
+      text: "What You Are Actually Searching For",
+    },
+    {
+      type: "p",
+      text: "Laylatul Qadr, the Night of Decree, is better than a thousand months, but its exact date is deliberately hidden. The Prophet directed us to seek it in the odd nights of the last ten, so the wise plan covers all ten with extra fire on the odd ones. Learn the dua Aisha was taught for these nights and repeat it until your tongue does it alone: Allahumma innaka 'afuwwun tuhibbul 'afwa fa'fu 'anni, O Allah, You are Most Forgiving, and You love forgiveness, so forgive me.",
+    },
+    {
+      type: "h2",
+      text: "Your Night-by-Night Plan",
     },
     {
       type: "ul",
       items: [
-        "The odd nights (21st, 23rd, 25th, 27th, 29th) carry the heaviest expectation",
-        "The 27th is the people's choice: book nothing else around it without resolve",
-        "Serious seekers treat all ten as the goal. The night hides, so the effort cannot",
-        "I'tikaf registrations in the Haram are managed and limited. Apply through official channels early",
-        "Sleep strategy: rest after Dhuhr, nap before Iftar, and pace for standing until Fajr",
+        "Night 21: the search begins. I'tikaf starts and the mosque fills with people staying in until the end of Ramadan; settle your spot, set your rhythm, and pace yourself for a marathon",
+        "Night 22: protect the momentum. Even nights count too, and heavy Quran recitation tonight keeps the heart warm for what is coming",
+        "Night 23: bring your best. Many scholars consider this the strongest candidate of all; sleep less, stand longer, and pour out the duas you have been saving",
+        "Night 24: the giving night. Sponsor an iftar, feed fasting families, give quietly, then review your dua list and add the names you love who are missing from it",
+        "Night 25: go inward. Find a quiet corner for the deeply personal duas you would never say out loud",
+        "Night 26: the unsung night. Many narrations point here; pray as if it is the one, and treat nothing as certain",
+        "Night 27: the famous one. Expect absolute capacity; arrive hours before Isha, take water and patience, and know that standing calmly outside the closed gates is also worship",
+        "Night 28: do not coast. Fatigue is real by now, and even nights get abandoned; pray for acceptance of everything you have done so far",
+        "Night 29: the possible last. Write your closing ask, the one thing you want from this Ramadan more than anything",
+        "Night 30: if it comes, gratitude. Spend the bonus night in thanks, for the month, the nights, and the chance to be standing there at all",
       ],
+    },
+    {
+      type: "h2",
+      text: "What Makkah Feels Like at 2 AM",
+    },
+    {
+      type: "p",
+      text: "No description fully prepares you. The Mataf glows under floodlights, tawaf never stops, and suhoor appears around the Haram, dates, laban and strong Saudi coffee passed hand to hand among strangers who feel like brothers. A few practical realities worth knowing: gates genuinely close when the mosque fills, so being inside before Isha is the only guarantee. The upper floors and courtyards are calmer than the Mataf and completely valid for prayer. Suhoor ends at Fajr and the Haram empties only briefly before the day's cycle restarts. And if you are extending to Madinah, Rawdah visits need a Nusuk permit booked well ahead, because slots vanish in minutes during these nights.",
     },
     {
       type: "h2",
       text: "Surviving Until Fajr",
     },
     {
+      type: "ul",
+      items: [
+        "Claim your spot hours before Taraweeh with a mat, water, and layers for the post-midnight chill",
+        "Sleep strategy: rest after Dhuhr, nap before Iftar, and pace yourself for standing until Fajr",
+        "The odd nights carry the heaviest expectation; the 27th is the people's choice, so book nothing else around it without resolve",
+        "I'tikaf registrations in the Haram are managed and limited, so apply through official channels early",
+        "Elderly family members should station in the outer courtyards with a companion rather than the inner crush",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Book Before the Crowds Do",
+    },
+    {
       type: "p",
-      text: "The courtyards fill after Taraweeh and stay full. Claim your spot hours before, with a mat, water, and layers for the post-midnight chill. The crowds at Suhoor move like a tide; eat early or carry dates and water for the wait. Elderly family members should station in the outer courtyards with a companion rather than the inner crush. And the deepest advice the Haram teaches: this night is not endurance theatre. Sit when tired, weep when moved, and let the night be what it came to be.",
+      text: "Here is the pattern every year: pilgrims who decide in Shaban pay double and stay far from the Haram. Hotels for the last ten nights are often fully reserved six to nine months ahead, and flight prices climb weekly as Ramadan approaches. Deciding your dates now, even tentatively, is the single most profitable act of planning in the entire Umrah calendar.",
     },
     {
       type: "quote",
       text: "The nights are fixed; the rooms are not. Reserve Laylatul Qadr with us before the world does.",
     },
+    {
+      type: "p",
+      text: "Cover all ten nights, peak on the odd ones, guard night 27 with patience, and never let an even night go to waste. Whoever stands every night has guaranteed the prize, because Laylatul Qadr cannot hide from someone who never sat down.",
+    },
   ],
   faqs: [
-    { q: "When is Laylatul Qadr in Ramadan 2026?", a: "The exact night is unknown by design; the Prophet pointed to the odd nights of the last ten. Ramadan 2026 is expected to run from mid-February to mid-March, putting the odd nights roughly between 8 and 18 March, so serious pilgrims stay through the final ten." },
+    { q: "When should the last ten nights be booked for?", a: "Six to nine months ahead of Ramadan, whenever possible. Hotels for the final ten nights commit their rooms long before public demand wakes up, and the closer the dates, the higher the rate and the longer the shuttle distance. Early decisions are the cheapest ones." },
     { q: "How do I get a spot in the Haram on the odd nights?", a: "Enter two to three hours before Isha, sit in the courtyards or upper floors rather than fighting the main hall, and hold your spot with a prayer mat. A hotel inside 300 metres matters more than any strategy on these nights." },
     { q: "Should I get a Saudi SIM for Umrah?", a: "Roaming works but bills brutally. The routine is a Saudi SIM from the airport or a mall stall, SAR 50 to 100 for a month of generous data, or an eSIM bought before departure." },
     { q: "Is it possible to extend my Umrah trip?", a: "Extension room depends on your document: generous on the tourist eVisa, narrow on the Umrah visa. Decide your full itinerary before ticketing and the question never arises." },

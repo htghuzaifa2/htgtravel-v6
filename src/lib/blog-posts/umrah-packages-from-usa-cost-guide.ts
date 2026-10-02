@@ -29,7 +29,7 @@ export const umrahPackagesFromUsaCostGuide: BlogPostSeed = {
   content: [
     {
       type: "p",
-      text: "Every year, thousands of American Muslims, many of them Pakistani Americans, make the journey of a lifetime to Makkah. The question is never whether to go. It is what you can afford, and what is actually worth paying for. Here is the honest breakdown of Umrah packages from the USA in 2026, from budget to luxury.",
+      text: "Every year, thousands of American Muslims, many of them Pakistani Americans, make the journey of a lifetime to Makkah. The question is never whether to go; it is what you can afford, and what is actually worth paying for. Here is the honest breakdown, from budget to luxury.",
     },
     {
       type: "h2",
@@ -50,7 +50,7 @@ export const umrahPackagesFromUsaCostGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "For many first-time pilgrims, this is enough, because you spend most of your day at the Haram anyway. Travelers on modest budgets routinely come home with hearts fuller than those in five-star suites. Just know the trade-offs going in: longer walks, longer waits, tighter rooms.",
+      text: "For many first-time pilgrims this is enough, because you spend your day at the Haram anyway. Travelers on modest budgets routinely come home with hearts fuller than those in five-star suites. Just know the trade-offs: longer walks, longer waits, tighter rooms.",
     },
     {
       type: "h2",
@@ -58,7 +58,7 @@ export const umrahPackagesFromUsaCostGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "This is where most families land, and for good reason. Between $2,000 and $3,500 per person you get 4-star hotels within walking distance of the Haram, better flight times, and triple or quad rooms that bring the per-person cost down nicely. A typical split is 7 nights in Makkah and 5 to 7 in Madinah. Being able to walk back to your room for a nap between prayers, instead of waiting for a shuttle, is worth every extra dollar, especially with kids or elderly parents.",
+      text: "This is where most families land, and for good reason. Between $2,000 and $3,500 per person you get 4-star hotels within walking distance of the Haram, better flight times, and triple or quad rooms that bring the per-person cost down nicely. A typical split is 7 nights in Makkah and 5 to 7 in Madinah. Walking back to your room for a nap between prayers, instead of waiting for a shuttle, is worth every extra dollar with kids or elderly parents.",
     },
     {
       type: "h2",
@@ -79,7 +79,7 @@ export const umrahPackagesFromUsaCostGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Is it necessary? No. Is it extraordinary? For anniversaries, milestone birthdays, or once-in-a-lifetime trips with aging parents, luxury packages remove every ounce of friction from a physically demanding journey, and that has a value of its own.",
+      text: "Is it necessary? No. Is it extraordinary? For anniversaries and once-in-a-lifetime trips with aging parents, luxury removes every ounce of friction from a physically demanding journey, and that has a value of its own.",
     },
     {
       type: "h2",
@@ -93,6 +93,28 @@ export const umrahPackagesFromUsaCostGuide: BlogPostSeed = {
         "Visa and processing through the official Nusuk platform, generally a few hundred dollars with service fees",
         "Transport and meals; some packages include breakfast, most leave food to you, so budget $15 to $30 a day",
       ],
+    },
+    {
+      type: "h2",
+      text: "The DIY Route: Under $1,500 Is Real",
+    },
+    {
+      type: "p",
+      text: "Plenty of pilgrims complete the entire journey from America on their own for under $1,500, and the difference is never luck; it is timing and a few smart choices. Here is what a realistic 7 to 10 day budget from the East Coast looks like:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Round-trip flight, off-peak and midweek: $700 to $900",
+        "Umrah visa with insurance: roughly $150 to $180",
+        "Hotel, 7 to 8 nights in budget or shared rooms: $200 to $300",
+        "Food, eaten where locals eat: $100 to $130",
+        "Local transport, buses over trains: $50 to $80",
+      ],
+    },
+    {
+      type: "p",
+      text: "That lands between $1,250 and $1,550 all-in. Tight, yes, but genuinely possible, especially in the sweet-spot windows: late January through February, and the weeks right after Hajj, when hotel rates drop to a fraction of Ramadan pricing. Fly Tuesday or Wednesday, check one-stop routes through Istanbul, Cairo, Doha or Amman that undercut direct Jeddah flights by $200 or more, and book eight to twelve weeks out.",
     },
     {
       type: "h2",
@@ -111,8 +133,10 @@ export const umrahPackagesFromUsaCostGuide: BlogPostSeed = {
       items: [
         "Travel as a group of four and share rooms",
         "Stay flexible on departure cities; New York, Chicago and Houston can differ by hundreds of dollars",
-        "Compare three or four quotes before committing, and read exactly what is included",
-        "Book flights and hotels yourself only if you are confident, because a botched visa timeline costs far more than you saved",
+        "Try the split stay: two nights within walking distance of the Haram to soak in the atmosphere, then a budget hotel with a free shuttle for the rest",
+        "Lean on Madinah, where hotels near Masjid an-Nabawi run noticeably cheaper than Makkah equivalents",
+        "Eat like the locals: the streets around the Haram are lined with kitchens where $5 to $8 fills you up properly, while hotel restaurants quietly destroy budgets at $15 to $25 a meal",
+        "Compare three or four quotes before committing, and read exactly what is included; a cheap deal without visa, transfers or baggage often costs more",
       ],
     },
     {
@@ -121,7 +145,7 @@ export const umrahPackagesFromUsaCostGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Umrah from the USA in 2026 does not have to cost a fortune. $1395 gets you there with dignity, and every upgrade after that is about comfort, not acceptance. Your pilgrimage is measured in intention, and intention travels free in every fare class.",
+      text: "Umrah from the USA does not have to cost a fortune. The DIY route lands near $1,500 with care, $1,395 packages get you there with dignity, and every upgrade after that is about comfort, not acceptance. Intention travels free in every fare class.",
     },
   ],
   faqs: [
