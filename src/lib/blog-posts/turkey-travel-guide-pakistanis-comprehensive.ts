@@ -22,7 +22,7 @@ export const turkeyTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Turkey Trips Built Around the eVisa Catch — Handled",
     body: "Turkey's eVisa needs a valid US/UK/Schengen visa. A catch that surprises half our callers. Our desk checks your route first, then builds the Istanbul-Cappadocia-Antalya itinerary with flights that fit it. Send your passport pages and dates; the plan comes back today.",
     cta: "Plan my Turkey trip",
-    waText: "Assalam o Alaikum! I read your Turkey guide. Please check my eVisa route and plan my trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

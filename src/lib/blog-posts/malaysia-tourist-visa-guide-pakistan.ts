@@ -22,7 +22,7 @@ export const malaysiaTouristVisaGuidePakistan: BlogPostSeed = {
     headline: "KL Trips From Pakistan: Visa, Flights and Hotels in One Chat",
     body: "Malaysia's eVisa is straightforward, but the flight timing is where money hides. Kuala Lumpur fares from Karachi and Lahore swing wildly by season, and we track them daily. Message us with your dates and we will handle the eVisa file AND lock the best airfare before it moves.",
     cta: "Start my KL trip",
-    waText: "Assalam o Alaikum! I read your Malaysia visa guide. Please help with my eVisa and flights to Kuala Lumpur.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

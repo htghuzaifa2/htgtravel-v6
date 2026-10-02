@@ -22,7 +22,7 @@ export const dubaiTravelGuidePakistanis: BlogPostSeed = {
     headline: "Dubai Weekends Are Our Most-Quoted Trip — Yours Next?",
     body: "Visa in 24–48 hours, flights under two hours, and hotel options for every budget. Our desk assembles Dubai trips daily for Pakistani travellers. Long weekend, family week, or wedding season: send dates and get the whole package quoted today.",
     cta: "Quote my Dubai trip",
-    waText: "Assalam o Alaikum! I read your Dubai guide. Please quote a trip for my dates and budget.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

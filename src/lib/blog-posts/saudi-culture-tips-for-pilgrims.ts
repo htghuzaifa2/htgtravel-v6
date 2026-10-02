@@ -23,8 +23,7 @@ export const saudiCultureTipsForPilgrims: BlogPostSeed = {
     body:
       "Paperwork gets you into Saudi Arabia; understanding its people gets you welcomed there. Our pre-departure sessions cover the greetings, the prayer-time rhythms, the coffee etiquette and the souk rules that turn polite transactions into warm exchanges. Pilgrims who arrive culturally fluent move differently through the holy cities, and the drivers, hosts and shopkeepers they meet notice the difference immediately.",
     cta: "Brief me like a local",
-    waText:
-      "Assalam o Alaikum! Before my Umrah, please give me a full pre-departure briefing covering Saudi culture: greetings, prayer-time routines, dress norms and souk etiquette, so I can travel respectfully and confidently.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

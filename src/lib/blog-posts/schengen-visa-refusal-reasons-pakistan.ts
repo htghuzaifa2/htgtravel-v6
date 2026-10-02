@@ -22,7 +22,7 @@ export const schengenVisaRefusalReasonsPakistan: BlogPostSeed = {
     headline: "Refused Once? Let Us Read the Stamp Before You Reapply",
     body: "Every refusal letter cites numbered reasons, and most applicants misread them, then repeat the same file into a second refusal. Bring your refusal letter to us: we decode the exact codes, rebuild the weak sections of your file, and tell you honestly whether to reapply now or wait for stronger circumstances. Second attempts deserve first-class preparation.",
     cta: "Decode my refusal",
-    waText: "Assalam o Alaikum! I got a Schengen refusal. Here is my letter. Please tell me what went wrong and what to fix.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

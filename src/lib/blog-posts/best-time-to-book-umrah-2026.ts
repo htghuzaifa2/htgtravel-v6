@@ -22,7 +22,7 @@ export const bestTimeToBookUmrah2026: BlogPostSeed = {
     headline: "Tell Us Your Month — We'll Tell You Today's Rate",
     body: "Umrah pricing swings by the season, and the difference between a smart month and a popular one can be a full hotel tier. Message us with your preferred month and we will quote live package rates for it, plus the neighbouring weeks that might save you more.",
     cta: "Price my month",
-    waText: "Assalam o Alaikum! I read your Umrah timing guide. Please quote rates for my preferred month.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

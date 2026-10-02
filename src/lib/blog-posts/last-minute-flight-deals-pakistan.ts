@@ -23,8 +23,7 @@ export const lastMinuteFlightDealsPakistan: BlogPostSeed = {
     body:
       "Family emergencies, visa interviews, sudden meetings: urgent travel is our desk's daily bread. We query live inventory across airlines, catch consolidator seats the public sites never list, and send real options in minutes, not evenings. Try the fast route first.",
     cta: "Find me a seat now",
-    waText:
-      "Assalam o Alaikum! I need to travel urgently within the next few days. Please check the best available fares for my route.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

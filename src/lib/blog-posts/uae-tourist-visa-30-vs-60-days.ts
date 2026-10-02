@@ -22,7 +22,7 @@ export const uaeTouristVisa30Vs60Days: BlogPostSeed = {
     headline: "UAE Visa in 24–48 Hours, Handled by Us",
     body: "Send your passport scan and photo on WhatsApp. We process UAE tourist visas for Pakistani travellers every day, at rates that beat hotel desks and random agents. 30 or 60 days, single or multiple entry, we will also tell you which type actually saves you money on your specific dates.",
     cta: "Get my UAE visa",
-    waText: "Assalam o Alaikum! I need a UAE tourist visa. Please share rates for 30 and 60 days.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

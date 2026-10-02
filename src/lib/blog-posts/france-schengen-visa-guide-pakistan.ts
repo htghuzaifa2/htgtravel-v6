@@ -22,7 +22,7 @@ export const franceSchengenVisaGuidePakistan: BlogPostSeed = {
     headline: "Paris in Spring Starts With a Winter Appointment",
     body: "France's visa appointments from Pakistan vanish the moment travel season nears. Travellers lose more months to slot-hunting than to processing. We watch the calendars, prepare your complete French file, and move the moment a window opens. The Eiffel Tower can wait for no one, but appointments can be caught.",
     cta: "Catch my France slot",
-    waText: "Assalam o Alaikum! I read your France visa guide. Please track a France appointment for me.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

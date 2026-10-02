@@ -22,7 +22,7 @@ export const groupTravelBookingGuide: BlogPostSeed = {
     headline: "Groups of 10+ Get Our Desk's Best Work",
     body: "Group bookings are where travel agencies still decisively beat the internet: blocked seats, group fares, name-flexibility windows, and one WhatsApp thread instead of ten bookings. Weddings abroad, office trips, family reunions. Bring us the headcount and watch the savings appear.",
     cta: "Quote my group",
-    waText: "Assalam o Alaikum! We are a group planning travel. Please quote group fares for us.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

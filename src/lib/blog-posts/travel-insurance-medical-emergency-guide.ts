@@ -22,7 +22,7 @@ export const travelInsuranceMedicalEmergencyGuide: BlogPostSeed = {
     headline: "Medical Cover Arranged Before You Need It Desperately",
     body: "The worst time to learn what your policy covers is from a hospital bed abroad. Our desk sets up medical cover with the emergency numbers and procedures briefed before departure. For Umrah, Europe, and every journey between. Insurance costs minutes to arrange and repays a lifetime. Message us.",
     cta: "Arrange medical cover",
-    waText: "Assalam o Alaikum! I read your medical emergency guide. Please arrange proper medical cover for my trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

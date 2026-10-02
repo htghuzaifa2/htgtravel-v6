@@ -22,7 +22,7 @@ export const flightCancellationInsuranceGuide: BlogPostSeed = {
     headline: "Flexible Tickets or Cancellation Cover — We Advise Honestly on Both",
     body: "Some trips deserve cancellation insurance; others deserve a flexible fare, and a good desk tells you which instead of selling both. Our team prices the fares AND the cover side by side, then recommends the cheaper protection. Honest advice, one message away.",
     cta: "Assess my trip risk",
-    waText: "Assalam o Alaikum! I read your cancellation insurance guide. Should I take cover or a flexible fare for my trip?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

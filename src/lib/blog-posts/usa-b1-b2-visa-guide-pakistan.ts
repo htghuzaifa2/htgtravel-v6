@@ -22,7 +22,7 @@ export const usaB1B2VisaGuidePakistan: BlogPostSeed = {
     headline: "Mock Interview + DS-160 Review Before You Face the Embassy",
     body: "The US interview is 3 minutes that decide everything, and most Pakistanis walk in having never practised the actual questions. We run a full mock interview with you, review your DS-160 line by line, and rebuild your document story around genuine ties. That preparation is the closest thing to confidence you can buy.",
     cta: "Book my US visa prep",
-    waText: "Assalam o Alaikum! I read your US B1/B2 guide. I want mock interview preparation and a DS-160 review.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

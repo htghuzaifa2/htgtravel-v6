@@ -22,7 +22,7 @@ export const umrahDuringSummerSurvivalGuide: BlogPostSeed = {
     headline: "Smart Pilgrims Book Summer Umrah With Heat-Proof Planning",
     body: "Summer Umrah rewards the flexible with low prices and lighter crowds, when the itinerary respects the sun. Our summer packages schedule rituals around the heat: night Tawaf, dawn Sa'i, midday rest, and hotels close enough to nap in. Ask about summer savings before the season peaks.",
     cta: "Book heat-smart Umrah",
-    waText: "Assalam o Alaikum! I read your summer Umrah guide. Please share heat-smart summer package rates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

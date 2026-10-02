@@ -23,8 +23,7 @@ export const rawdahPermitBookingGuide: BlogPostSeed = {
     body:
       "Rawdah slots are released in limited batches and vanish within hours, and pilgrims who land without a booking queue in disappointment at the gates. We register your Nusuk profile before you fly, set alarms on the release windows, check for cancelations daily, and walk you through every step on WhatsApp. Ten minutes of our day, one less thing on yours, and a Madinah hotel steps from the gates to match.",
     cta: "Sort my Rawdah permit",
-    waText:
-      "Assalam o Alaikum! Visiting the Rawdah in Madinah means a lot to me during my upcoming Umrah. Please help me with the Nusuk permit process, arrange a hotel near Masjid an-Nabawi, and build the rest of my trip around it.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

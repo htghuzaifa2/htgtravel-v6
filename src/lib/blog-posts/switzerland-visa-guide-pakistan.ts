@@ -22,7 +22,7 @@ export const switzerlandVisaGuidePakistan: BlogPostSeed = {
     headline: "The Alps Demand One Thing: A Precisely Built File",
     body: "Swiss applications from Pakistan succeed on detail: reconciled finances, airtight bookings, and an itinerary the mountains can justify. Our team prepares Swiss files with that exact discipline, then tracks appointment windows so your scenic-rail summer doesn't slip a year. Jungfrau waits; appointments don't.",
     cta: "Prepare my Swiss file",
-    waText: "Assalam o Alaikum! I read your Switzerland visa guide. Please prepare my application.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

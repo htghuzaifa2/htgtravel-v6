@@ -23,8 +23,7 @@ export const oneWayVsRoundTripTickets: BlogPostSeed = {
     body:
       "Every serious quote we issue checks three numbers: the round-trip fare, two one-ways on separate carriers, and any safe split through a competitive hub. Travellers are often surprised which one wins on their route. Send us the itinerary and we will show you the honest comparison with the risks spelled out.",
     cta: "Compare both ways",
-    waText:
-      "Assalam o Alaikum! For my trip, please compare the round-trip fare against two one-way tickets and any safe split option, and book whichever total is lower.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -23,7 +23,7 @@ export const greekIslandsWithoutCrowds: BlogPostSeed = {
     headline: "The Greece Before the Cruise Ships",
     body: "We build island routes the quiet way: ferry chains timed so you never sprint, shoulder-season dates, Naxos farm stays and Milos cliff villages in one thread. Tell us how slow you like it.",
     cta: "Plan my quiet Greece",
-    waText: "Assalam o Alaikum! I want the Greek islands without the crowds: Naxos, Milos, Folegandros. Please plan my route.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const jordanTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Jordan's highlights, Packaged With the Right Visa Route",
     body: "Jordan pairs Petra's wonder with desert nights and a float in the Dead Sea, and the visa route benefits from professional handling. Our desk arranges the entry process, the Amman-Petra-Wadi Rum structure, and desert camps worth writing home about. Ask about the rose-red city.",
     cta: "Plan my Jordan trip",
-    waText: "Assalam o Alaikum! I read your Jordan guide. Please plan my Petra and Wadi Rum journey.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

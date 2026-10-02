@@ -22,8 +22,7 @@ export const dubaiVsDoha: BlogPostSeed = {
     headline: "Two Gulf Cities, One Honest Call",
     body: "We track the Gulf's visa rules so you do not get caught out, then build the break that fits you: Doha's museums and half-price five-star stays, or Dubai's desert safaris and skyline. Flights, hotels, and tours arranged in one place, whichever way the coin lands.",
     cta: "Advise me on my Gulf trip",
-    waText:
-      "Assalam o Alaikum! I am deciding between Dubai and Doha for my next trip. Please advise on visas and plan the better option for my dates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

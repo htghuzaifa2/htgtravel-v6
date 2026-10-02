@@ -23,8 +23,7 @@ export const jamaratStoningGuide: BlogPostSeed = {
     body:
       "The Jamarat days are where unprepared pilgrims get hurt and prepared pilgrims walk calmly. Our Hajj packages include ritual orientations that cover exactly this: the how, the why, the pebble counts, and the pitfalls, plus Mina arrangements and group support on the ground. You arrive knowing the plan instead of improvising one inside a crowd of millions.",
     cta: "Prepare me for Hajj",
-    waText:
-      "Assalam o Alaikum! I am planning for Hajj and want to understand every ritual properly before I travel, especially the Jamarat days in Mina. Please share your Hajj package options and orientation sessions.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

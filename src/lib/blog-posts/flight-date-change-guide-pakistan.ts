@@ -22,7 +22,7 @@ export const flightDateChangeGuidePakistan: BlogPostSeed = {
     headline: "Plans Change — Our Desk Rebooks in Minutes",
     body: "When your dates move, you want a human who can see every airline's rule at once and rebook you in the same chat. Our desk handles date changes for our travellers daily. Fare differences, change fees, and the timing that minimizes both. Book flexible travel; message us when it moves.",
     cta: "Change my dates",
-    waText: "Assalam o Alaikum! I need to change my flight dates. Please help me rebook.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

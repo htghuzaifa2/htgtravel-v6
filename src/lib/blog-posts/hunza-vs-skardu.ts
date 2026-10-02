@@ -22,8 +22,7 @@ export const hunzaVsSkardu: BlogPostSeed = {
     headline: "Both Valleys, One Honest Verdict",
     body: "Tell us your dates and your days, and we come back with a route: the Karakoram Highway driven properly, the Skardu flight timed around weather windows, hotels picked for the views you actually came for. Ten to twelve days and torn between both? We do the combined circuit every summer.",
     cta: "Help me pick a valley",
-    waText:
-      "Assalam o Alaikum! I am deciding between Hunza and Skardu. I have this many days free in this month. Which route do you recommend for me?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

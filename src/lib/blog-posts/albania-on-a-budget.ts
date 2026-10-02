@@ -22,8 +22,7 @@ export const albaniaOnABudget: BlogPostSeed = {
     headline: "Albania, Sorted for the Price of a Pizza",
     body: "The e-visa filed early, furgon routes mapped between Berat and Gjirokaster, Riviera rooms booked after September's price drop, and a byrek shortlist worth the flight itself. Tell us your dates; we will build the cheapest Europe trip you have ever taken.",
     cta: "Plan my Albania trip",
-    waText:
-      "Assalam o Alaikum! I want to do Albania on a budget: Tirana, Berat, Gjirokaster and Sarande. Please arrange the e-visa, buses and stays.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

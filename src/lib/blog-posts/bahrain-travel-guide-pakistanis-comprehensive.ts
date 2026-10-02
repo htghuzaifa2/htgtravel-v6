@@ -22,7 +22,7 @@ export const bahrainTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Bahrain eVisa Plus Weekend Flights — Sorted in One Thread",
     body: "Bahrain's eVisa is genuinely available to Pakistani travellers, and the flight is barely two hours. Our desk handles the eVisa, flights, and island hotels, including the Formula 1 weekend plan when the season calls. Message us for the Gulf's easiest weekend.",
     cta: "Plan my Bahrain trip",
-    waText: "Assalam o Alaikum! I read your Bahrain guide. Please plan my trip with the eVisa.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

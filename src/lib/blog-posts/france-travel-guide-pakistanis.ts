@@ -22,7 +22,7 @@ export const franceTravelGuidePakistanis: BlogPostSeed = {
     headline: "Paris in Spring, Filed in Winter — Our Desk's Speciality",
     body: "France appointments from Pakistan vanish first among all Schengen missions. Our desk monitors the calendar while building your file, so the Eiffel Tower happens this season, not next. Visa, itinerary, and the halal map of Paris: one thread. Message us before the slots go.",
     cta: "Plan my France trip",
-    waText: "Assalam o Alaikum! I read your France guide. Please handle my France appointment and itinerary.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

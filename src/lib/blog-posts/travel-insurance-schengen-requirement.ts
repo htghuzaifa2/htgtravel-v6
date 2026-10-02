@@ -22,7 +22,7 @@ export const travelInsuranceSchengenRequirement: BlogPostSeed = {
     headline: "Embassy-Ready Schengen Insurance, Issued Same-Day",
     body: "Schengen insurance is a visa gatekeeper. The wrong policy stalls the application even when everything else is perfect. We issue embassy-accepted Schengen-compliant policies for Pakistani travellers same-day, with the certificate formatted the way consulates read it. Add it to any visa file: message us.",
     cta: "Get Schengen insurance",
-    waText: "Assalam o Alaikum! I read your Schengen insurance guide. Please issue me a Schengen-compliant policy.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

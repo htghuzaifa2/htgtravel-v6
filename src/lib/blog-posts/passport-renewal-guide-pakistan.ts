@@ -22,7 +22,7 @@ export const passportRenewalGuidePakistan: BlogPostSeed = {
     headline: "Renewing for Travel? We Time It Against Your Trip",
     body: "Passport timing is travel's hidden dependency. Visas refuse passports with under-six-month validity, and renewals during travel season slow to a crawl. Our desk times your renewal against your trip plan and proceeds with the visa file the moment the new passport lands. One thread, timed right: message us.",
     cta: "Time my renewal",
-    waText: "Assalam o Alaikum! I read your passport renewal guide. I am planning travel, when should I renew?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

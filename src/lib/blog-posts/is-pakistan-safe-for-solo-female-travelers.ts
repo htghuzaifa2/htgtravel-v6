@@ -22,8 +22,7 @@ export const isPakistanSafeForSoloFemale: BlogPostSeed = {
     headline: "A Local Desk Behind Your Solo Trip",
     body: "Experienced solo women mix independent days with planned segments: we handle the mountain legs, the vetted hotels, the private pickups, and the route calls when weather moves. Your family gets a WhatsApp line that knows where you are. Wander free; stay backed.",
     cta: "Plan my trip safely",
-    waText:
-      "Assalam o Alaikum! I am a foreign woman planning to travel Pakistan solo, or partly solo. Can you handle the tricky legs and the mountain routes for me?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

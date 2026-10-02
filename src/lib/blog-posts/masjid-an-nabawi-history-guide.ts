@@ -23,8 +23,7 @@ export const masjidAnNabawiHistoryGuide: BlogPostSeed = {
     body:
       "A pilgrim who knows the history prays differently: deeper, calmer, more connected to the ground under their feet. Our Umrah packages include guidance on exactly these sites, alongside hotels near the Prophet's Mosque, Rawdah permit help, and every booking from flights to transfers. Learn the stories before you go; pray inside them when you arrive.",
     cta: "Plan my Madinah days",
-    waText:
-      "Assalam o Alaikum! I want to spend meaningful days in Madinah at Masjid an-Nabawi. Please help with a hotel near the mosque, the Rawdah permit, and a full Umrah itinerary built around my time there.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

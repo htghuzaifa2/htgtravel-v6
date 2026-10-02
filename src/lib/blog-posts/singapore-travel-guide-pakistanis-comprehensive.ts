@@ -22,7 +22,7 @@ export const singaporeTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Singapore Sorted: Visa, Flights, and a Budget That Survives It",
     body: "Singapore is priced like a first-class destination, but our desk knows the food courts, the hotels, and the routing that make it surprisingly achievable for Pakistani travellers. Visa file, flights, and a realistic daily budget in one quote. Ask us how the city becomes affordable.",
     cta: "Make Singapore achievable",
-    waText: "Assalam o Alaikum! I read your Singapore guide. Please quote a realistic Singapore trip for my dates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

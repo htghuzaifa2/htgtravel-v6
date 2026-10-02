@@ -22,7 +22,7 @@ export const umrahVaccinationRequirements2026: BlogPostSeed = {
     headline: "We Track Every Requirement — Including the Ones Nobody Told You About",
     body: "Visa rules, vaccination rules, permit rules. The checklist for a compliant Umrah changes quietly every season. Our packages are built around the current requirements, and our team tells you exactly what to get, where, and when. Travel with a desk that reads the rules so you can read your duas.",
     cta: "Check my requirements",
-    waText: "Assalam o Alaikum! I read your vaccination guide. Please confirm current Umrah health requirements for my trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

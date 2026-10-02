@@ -22,7 +22,7 @@ export const pakistanPassportRenewalAbroadGuide: BlogPostSeed = {
     headline: "Overseas Pakistanis: We Handle the Trips Home and the Files Abroad",
     body: "Renewing from Dubai, London, or Toronto and planning the next trip (Umrah, home, or onward)? Our desk coordinates the travel around your document reality. Overseas Pakistanis are half our clientele; message us from wherever the passport needs renewing.",
     cta: "Plan around my renewal",
-    waText: "Assalam o Alaikum! I am an overseas Pakistani renewing my passport. Please help me plan travel around it.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

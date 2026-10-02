@@ -22,7 +22,7 @@ export const budgetTravelUnder200000FromPakistan: BlogPostSeed = {
     headline: "The 200K Club — Our Desk's Most-Quoted Challenge",
     body: "Two hundred thousand rupees is our favourite brief: enough for a genuinely good international trip when the planning is professional. Send us the budget and your city. We will return the shortlist with full-cost breakdowns. The club has members; join them.",
     cta: "Quote my 200K trip",
-    waText: "Assalam o Alaikum! I read your 200K guide. Please quote the best trip under 200,000 for me.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

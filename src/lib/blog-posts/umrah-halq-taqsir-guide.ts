@@ -23,8 +23,7 @@ export const umrahHalqTaqsirGuide: BlogPostSeed = {
     body:
       "Most packages end at the hotel lobby, yet the last step of Umrah still lies ahead. Our groups get the full sequence walked through before departure, on-ground staff in Makkah who point you to honest barbers at fair prices, and a number to call when a question lands mid-ritual. Finish the journey properly, with people who know it.",
     cta: "Guide my full Umrah",
-    waText:
-      "Assalam o Alaikum! This is my first Umrah. Please suggest a package with on-ground support that also guides me through halq or taqsir near the Haram.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -23,8 +23,7 @@ export const nusukUmrahPlatformDiyVsAgency: BlogPostSeed = {
     body:
       "Nusuk made DIY Umrah possible; it did not remove the decisions. Portal registration, package selection, hotel categories, Rawdah permit windows, and flight connections from Karachi, Lahore, or Islamabad all still need answering. We file the whole platform on your behalf, then stay reachable on the ground. Official system, human backup, one WhatsApp message to start.",
     cta: "File my Nusuk Umrah",
-    waText:
-      "Assalam o Alaikum! I want to perform Umrah through the Nusuk platform. Please register me, choose the right package, and arrange my flights from Pakistan.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

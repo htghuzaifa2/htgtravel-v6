@@ -22,7 +22,7 @@ export const ukVisaRefusalAppealPakistan: BlogPostSeed = {
     headline: "Bring Us the Refusal Letter. We'll Bring the Plan",
     body: "UK refusals cite precise paragraphs of the rules, and each paragraph has a known fix, but only if you read it correctly. Our desk decodes refusal notices for Pakistanis daily, then either rebuilds your reapplication around the cited gaps or tells you honestly to wait for stronger circumstances. Straight answers, no false hope.",
     cta: "Review my refusal",
-    waText: "Assalam o Alaikum! My UK visa was refused. Please review my refusal letter and advise my next step.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

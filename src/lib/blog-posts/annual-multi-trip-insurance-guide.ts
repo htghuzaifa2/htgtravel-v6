@@ -22,7 +22,7 @@ export const annualMultiTripInsuranceGuide: BlogPostSeed = {
     headline: "Flying 3+ Times a Year? Let's Price the Annual Policy",
     body: "The math on annual multi-trip cover turns positive somewhere around your third international trip, and our travellers cross that line constantly. Send us your expected travel year and we will price annual versus per-trip honestly. Frequent flyers deserve frequent savings.",
     cta: "Price annual cover",
-    waText: "Assalam o Alaikum! I travel frequently. Please price annual multi-trip insurance for me.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

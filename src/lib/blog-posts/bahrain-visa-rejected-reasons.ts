@@ -23,8 +23,7 @@ export const bahrainVisaRejectedReasons: BlogPostSeed = {
     body:
       "Rejections are usually one fixable flaw: a thin statement, a date mismatch, a scan too blurry to read. We review refused Bahrain files, tell you honestly what sank them, and re-file them properly. The second attempt should be your last.",
     cta: "Diagnose my refusal",
-    waText:
-      "Assalam o Alaikum! My Bahrain visa was refused. Please review my documents and tell me what to fix before I reapply.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

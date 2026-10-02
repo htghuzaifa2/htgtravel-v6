@@ -22,7 +22,7 @@ export const palawanBudgetBeachParadise: BlogPostSeed = {
     headline: "Turquoise Water, Filipino Prices",
     body: "We handle the awkward legs: Manila connections, El Nido flights, ferry seats between towns, and guesthouses that keep the budget honest. You handle the snorkelling. Tell us when you want to go.",
     cta: "Plan my Palawan trip",
-    waText: "Assalam o Alaikum! I want Palawan: El Nido and Coron on a budget, from Pakistan. Please plan it with me.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const ukStudentVisaGuidePakistan: BlogPostSeed = {
     headline: "CAS to Heathrow, Handled From Sialkot or Anywhere",
     body: "UK student files die on technicalities: funds held 28 days, CAS details mismatched, interviews fumbled. Our team runs Pakistani students through the full sequence: funds structuring, CAS verification, credibility interview prep, and priority submission. Your career deserves a file with zero surprises.",
     cta: "Start my UK student file",
-    waText: "Assalam o Alaikum! I read your UK student visa guide. Please help me with my application.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const schengenVisaItineraryTemplatePakistan: BlogPostSeed = {
     headline: "Your Itinerary, Built to Survive Consular Scrutiny",
     body: "A Schengen itinerary is not a wishlist. It is evidence. We build day-by-day plans for Pakistani applicants where hotels, ferries, trains, and budgets all reconcile with your bank statements and cover letter. The version of your trip that officers believe is the version we build. Try us on your dates.",
     cta: "Build my itinerary",
-    waText: "Assalam o Alaikum! I read your Schengen itinerary guide. Please build a visa-ready itinerary for my trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

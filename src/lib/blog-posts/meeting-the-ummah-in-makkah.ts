@@ -23,8 +23,7 @@ export const meetingTheUmmahInMakkah: BlogPostSeed = {
     body:
       "Every season our groups fly home carrying new friendships from four continents, and the only thing we book is the journey itself: flights, hotels, visas and permits from Pakistan or anywhere you live. The meeting of the ummah happens inside the Haram, and it belongs to whoever shows up. Tell us your dates and take your place in the circle.",
     cta: "Book my place in it",
-    waText:
-      "Assalam o Alaikum! I would love to experience the global gathering of the ummah at the Haram. Please help me plan an Umrah trip during a season when the mosque is at its most international.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

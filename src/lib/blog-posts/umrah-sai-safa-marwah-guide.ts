@@ -23,8 +23,7 @@ export const umrahSaiSafaMarwahGuide: BlogPostSeed = {
     body:
       "Sa'i at the wrong hour means 3 kilometres through the densest crowd in Makkah; at the right hour it means space, calm, and dua you can actually feel. Our packages plan your rituals around the Masaa's quiet windows, put you near the right gates, and brief you on every step before you walk it. The walk carries enough meaning already; the logistics should carry none of the stress.",
     cta: "Plan my ritual timing",
-    waText:
-      "Assalam o Alaikum! For my first Umrah, please plan my Sa'i and Tawaf around the quiet hours and arrange a hotel close to the right Haram gates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

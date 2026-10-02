@@ -22,7 +22,7 @@ export const omanTouristVisaGuidePakistan: BlogPostSeed = {
     headline: "We Check Your Oman Eligibility Before You Apply",
     body: "Oman's rules for Pakistani passports depend heavily on what other visas sit in your passport, and applying through the wrong route wastes fees. Send us a photo of your passport's visa pages and your travel history; we will tell you within minutes which Oman door is actually open to you.",
     cta: "Check my Oman options",
-    waText: "Assalam o Alaikum! I read your Oman visa guide. Here are my visa pages. Which Oman route can I use?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

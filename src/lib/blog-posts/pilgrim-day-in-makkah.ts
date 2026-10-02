@@ -23,8 +23,7 @@ export const pilgrimDayInMakkah: BlogPostSeed = {
     body:
       "Much of this day depends on one decision: where you sleep. Minutes from the Haram means naps between prayers, easy mornings and energy that lasts to Isha. We plan Umrah trips around exactly this rhythm, with well-located hotels, sensible pacing, permits and every booking handled for pilgrims from Pakistan and abroad. You live the day; we engineer it.",
     cta: "Live it, we plan it",
-    waText:
-      "Assalam o Alaikum! I want my Makkah days to flow around prayer times without exhaustion. Please plan my Umrah with a hotel near the Haram and a realistic daily rhythm I can actually sustain for the whole trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

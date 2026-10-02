@@ -23,8 +23,7 @@ export const bestAirlinesFlyingFromPakistan: BlogPostSeed = {
     body:
       "Every route out of Pakistan has one airline that fits it best, and the answer changes with your budget, your bags and who is flying with you. We compare PIA, Qatar, Emirates, Turkish, Saudia and the budget carriers daily, quote with baggage included, and book direct or connecting fares that beat the online price. Tell us the destination; we will name the airline.",
     cta: "Shortlist my airline",
-    waText:
-      "Assalam o Alaikum! I am flying from Pakistan in 2026 and weighing my airline options. Please compare direct versus connecting flights on my route and find me the best fare with baggage included for my dates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

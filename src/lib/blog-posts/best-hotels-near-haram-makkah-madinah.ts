@@ -22,7 +22,7 @@ export const bestHotelsNearHaramMakkahMadinah: BlogPostSeed = {
     headline: "We Book the Hotels You Can't Find on Booking Sites",
     body: "The best Haram-side inventory never appears on public booking engines. It moves through agencies like ours, months ahead of travel dates. Tell us your month, budget, and room needs; we will send real options with honest distances quoted in walking minutes, not marketing words.",
     cta: "Find my Haram hotel",
-    waText: "Assalam o Alaikum! I read your Haram hotels guide. Please send hotel options for my Umrah dates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

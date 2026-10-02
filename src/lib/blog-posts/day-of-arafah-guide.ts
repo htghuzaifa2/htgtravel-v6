@@ -23,8 +23,7 @@ export const dayOfArafahGuide: BlogPostSeed = {
     body:
       "Ask returning pilgrims their most powerful moment and the answer is almost never the Kaaba; it is Arafat. Our Hajj planning works the same way. We start from the standing: camps positioned with the day in mind, transport timed to the movement windows, and briefings that prepare your duas before your feet ever reach the plain. Everything else in the itinerary is arranged around the day the journey is judged by.",
     cta: "Prepare my Arafah day",
-    waText:
-      "Assalam o Alaikum! I am preparing for Hajj and want to understand the Day of Arafah arrangements properly, especially the camp position at Arafat and the day's schedule. Please guide me on packages built around the standing.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

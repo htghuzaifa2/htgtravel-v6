@@ -22,7 +22,7 @@ export const umrahPackingListCompleteGuide: BlogPostSeed = {
     headline: "Book Your Umrah With People Who Have Walked You Through It",
     body: "Flights, visa, hotels near the Haram, and a pre-departure briefing that answers every question this list raises, that is what our Umrah packages include. Message us your travel month and we will send today's live rates before seats near the Haram disappear.",
     cta: "Get Umrah rates",
-    waText: "Assalam o Alaikum! I read your Umrah packing guide. Please share Umrah package rates for my dates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -22,8 +22,7 @@ export const vietnam10DayItinerary: BlogPostSeed = {
     headline: "Vietnam, Arranged Bowl by Bowl",
     body: "The e-visa filed, the Ha Long cruise picked for overnight magic rather than day-trip chaos, internal flights timed to the route, and a table shortlist for the food you came for. Tell us your ten days; we will spend them properly.",
     cta: "Build my Vietnam route",
-    waText:
-      "Assalam o Alaikum! I want to do Vietnam in 10 days. Please arrange the e-visa, flights and the overnight Ha Long cruise.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

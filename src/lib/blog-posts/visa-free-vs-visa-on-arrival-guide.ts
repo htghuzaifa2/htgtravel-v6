@@ -22,7 +22,7 @@ export const visaFreeVsVisaOnArrivalGuide: BlogPostSeed = {
     headline: "Every Door, Opened in Order",
     body: "We file eTAs and eVisas before you pack, check VOA document rules against the latest advisories, and book flights that match your paperwork, not the other way round. Tell us the destination; we will tell you which door it uses and what it asks for.",
     cta: "Check my entry route",
-    waText: "Assalam o Alaikum! I want to know my visa options for a visa-free or visa-on-arrival trip on a Pakistani passport. Please advise.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

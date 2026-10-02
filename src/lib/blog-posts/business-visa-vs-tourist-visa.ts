@@ -22,7 +22,7 @@ export const businessVisaVsTouristVisa: BlogPostSeed = {
     headline: "One Wrong Visa Category = Refusal on Your Record",
     body: "A refusal follows every future application, so the category decision matters more than people think. Tell us your actual trip: meeting, exhibition, family wedding, conference. We will pick the correct visa type and build the matching document story before you apply.",
     cta: "Choose my visa type",
-    waText: "Assalam o Alaikum! I read your business vs tourist visa guide. My trip is for (meetings / family / exhibition). Which visa should I apply for?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

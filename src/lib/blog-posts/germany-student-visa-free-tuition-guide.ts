@@ -22,7 +22,7 @@ export const germanyStudentVisaFreeTuitionGuide: BlogPostSeed = {
     headline: "Germany: the Best Deal in Higher Education, If the File Is Right",
     body: "Tuition-free degrees, top-ranked engineering, and a real work visa afterwards. Germany rewards Pakistani students who plan eighteen months ahead. We guide the full sequence: university shortlisting, blocked account setup, APS, and the embassy appointment that decides everything. Start early, start with us.",
     cta: "Plan my Germany admission",
-    waText: "Assalam o Alaikum! I read your Germany study guide. Please help me plan my admission and visa timeline.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

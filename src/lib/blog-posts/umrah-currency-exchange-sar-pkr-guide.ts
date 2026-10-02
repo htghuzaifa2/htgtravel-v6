@@ -22,7 +22,7 @@ export const umrahCurrencyExchangeSarPkrGuide: BlogPostSeed = {
     headline: "We Quote Every Package in Real Money — No Surprises Later",
     body: "Our Umrah quotes itemize flights, hotels, visa, and transfers in rupees you can plan against, and we tell you honestly how much riyal to carry for food, transport, and gifts. Message us for a full cost picture, not just a package price.",
     cta: "Get the full cost picture",
-    waText: "Assalam o Alaikum! I read your currency guide. Please share a full cost breakdown for my Umrah.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

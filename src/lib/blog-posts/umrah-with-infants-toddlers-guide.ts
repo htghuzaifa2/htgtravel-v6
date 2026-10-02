@@ -22,7 +22,7 @@ export const umrahWithInfantsToddlersGuide: BlogPostSeed = {
     headline: "Babies Change Everything — Including How We Build Packages",
     body: "Travelling for Umrah with an infant? We arrange cribs, lift-accessible rooms, ground transfers instead of shuttles, and flexible timing that respects feeding schedules. Our family packages have carried babies as young as three months. Tell us your little one's age and we will plan around them.",
     cta: "Plan baby-friendly Umrah",
-    waText: "Assalam o Alaikum! We are planning Umrah with our baby. Please arrange an infant-friendly package.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -23,8 +23,7 @@ export const jummahMasjidAlHaramGuide: BlogPostSeed = {
     body:
       "A stressful Jummah is almost always a logistics failure, not a faith one. We place pilgrims in hotels within walking distance of the gates, plan the slow Friday morning in advance, wudu at the hotel, an unhurried walk, a calm spot secured early, and keep the group together through the exit crush. The reward of early arrival belongs to the prepared; the peace afterward is the bonus.",
     cta: "Plan my Friday right",
-    waText:
-      "Assalam o Alaikum! Please plan my Umrah itinerary around a smooth Jummah at Masjid al-Haram, with a hotel within walking distance of the gates and a schedule that lets me arrive well before the khutbah without rushing.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

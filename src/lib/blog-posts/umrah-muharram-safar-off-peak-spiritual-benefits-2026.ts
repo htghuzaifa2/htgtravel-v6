@@ -22,7 +22,7 @@ export const umrahMuharramSafarOffPeakSpiritualBenefits2026: BlogPostSeed = {
     headline: "The Quietest Haram of the Year. At the Year's Best Rates",
     body: "Muharram and Safar packages carry off-peak pricing with full spiritual weight. Nearer hotels for less, Tawaf with breathing room, ziyarat without queues. If your calendar is flexible, this is the window we recommend first. Ask for the early-year rates.",
     cta: "Book the quiet season",
-    waText: "Assalam o Alaikum! I read your off-peak guide. Please share Muharram and Safar Umrah rates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

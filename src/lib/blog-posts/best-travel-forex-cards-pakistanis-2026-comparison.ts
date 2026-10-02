@@ -22,7 +22,7 @@ export const bestTravelForexCardsPakistanis2026Comparison: BlogPostSeed = {
     headline: "Forex, Cash, Cards — Our Desk Structures the Whole Mix",
     body: "The forex card is one instrument in a well-orchestrated money strategy, and our desk structures the full arrangement per trip: the exchange at honest rates, the card advice, and the cash split. Money handled before the flight, not during the trip. Message us with your destination.",
     cta: "Structure my travel money",
-    waText: "Assalam o Alaikum! I read your forex card guide. Please structure my travel money for —",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

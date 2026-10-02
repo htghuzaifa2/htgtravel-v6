@@ -22,8 +22,7 @@ export const firstInternationalTripMistakes: BlogPostSeed = {
     headline: "First Trip, Zero Rookie Mistakes",
     body: "Every first-timer we brief gets the checklist I learned the expensive way: bank alerts before departure, a backup card, insurance priced against one clinic bill, an eSIM for landing, and an itinerary with room to breathe. One WhatsApp thread with us before you book anything.",
     cta: "Brief me before I fly",
-    waText:
-      "Assalam o Alaikum! It is my first international trip. Please brief me on money, cards, insurance and packing before I book anything.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

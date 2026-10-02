@@ -23,8 +23,7 @@ export const umrahWithDiabetesChronicIllnessCompleteGuide2026: BlogPostSeed = {
     body:
       "Pilgrims managing diabetes, heart conditions or mobility limits need itineraries written around their health: nearer hotels, night rituals, rest days built in, and insurance that actually covers them. Our desk plans medical-aware Umrahs every season. Tell us the condition; we will tell you the plan.",
     cta: "Plan a safe Umrah",
-    waText:
-      "Assalam o Alaikum! I manage diabetes and want to perform Umrah safely. Please plan a trip with a hotel near the Haram, a gentle pace, and guidance on carrying my medication and sugar supplies.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

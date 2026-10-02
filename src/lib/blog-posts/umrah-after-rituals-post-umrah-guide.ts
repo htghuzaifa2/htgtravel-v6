@@ -22,7 +22,7 @@ export const umrahAfterRitualsPostUmrahGuide: BlogPostSeed = {
     headline: "The Journey Ends at the Airport, or It Doesn't",
     body: "The best Umrah packages plan the return as carefully as the departure: the right flight times, the right last night near the Haram, and a team that treats your farewell Tawaf as the trip's true finale. Travel with a desk that plans endings properly. Ask about our upcoming departures.",
     cta: "Plan my full journey",
-    waText: "Assalam o Alaikum! I read your post-Umrah guide. Please share upcoming package departures.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

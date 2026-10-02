@@ -22,7 +22,7 @@ export const egyptTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Egypt: The Bucket-List Trip, Priced Like a Region Flight",
     body: "Egypt rewards Pakistani travellers with bucket-list sights at regional prices, and our desk arranges the visa, the Cairo-Luxor-Aswan structure, and Nile cruises that fit real budgets. The pyramids wait 4,500 years already; message us so they wait no longer.",
     cta: "Plan my Egypt trip",
-    waText: "Assalam o Alaikum! I read your Egypt guide. Please plan my Cairo and Nile trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

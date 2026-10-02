@@ -22,7 +22,7 @@ export const bestTravelCreditCardsPakistanis: BlogPostSeed = {
     headline: "Cards, Cash, or a Mix? Our Desk Advises Per Destination",
     body: "Every destination has its own money strategy. The cards that work in Dubai differ from the cash-first reality of Makkah's souqs. Our desk advises the currency mix per trip and arranges the exchange at honest rates. Money strategy, included with every itinerary: ask us.",
     cta: "Advise my money mix",
-    waText: "Assalam o Alaikum! I read your travel cards guide. What money mix should I carry for —?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

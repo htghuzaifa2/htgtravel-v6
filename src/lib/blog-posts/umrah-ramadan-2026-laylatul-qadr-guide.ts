@@ -23,8 +23,7 @@ export const umrahRamadan2026LaylatulQadrGuide: BlogPostSeed = {
     body:
       "The last ten nights of Ramadan are the most requested Umrah dates on earth, and our repeat clients reserve them with us months ahead of publication, because hotels for these nights are often fully committed six to nine months out. If your heart is set on Laylatul Qadr in the Haram, message us now: tonight's inventory is next year's sold-out sign.",
     cta: "Reserve the last ten nights",
-    waText:
-      "Assalam o Alaikum! I want to spend the last ten nights of Ramadan at the Haram. Please share package options with a hotel close to the mosque and advise how early I must confirm for the odd nights.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

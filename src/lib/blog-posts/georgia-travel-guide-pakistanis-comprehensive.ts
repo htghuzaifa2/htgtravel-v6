@@ -22,7 +22,7 @@ export const georgiaTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Georgia: Mountains, Hospitality, and Visa Strategy — Ours to Handle",
     body: "Georgia's visa terms for Pakistani passports carry conditions that trip up unprepared travellers. Our desk maps the current route honestly, then builds the Tbilisi-Kazbegi itinerary around it. Ask about the Caucasian gem before the crowds price it up.",
     cta: "Check my Georgia route",
-    waText: "Assalam o Alaikum! I read your Georgia guide. Please check my visa route and plan my trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

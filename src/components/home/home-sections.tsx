@@ -10,7 +10,7 @@ import { SectionHeading } from "@/components/shared/section-heading";
 import { WhatsAppButton } from "@/components/shared/whatsapp-button";
 import { FadeIn, Stagger, StaggerItem, HoverLift, MotionButton, AnimatedCounter } from "@/components/animations";
 import { POPULAR_ROUTES, WHY_HTG_FEATURES, HOW_IT_WORKS_STEPS, AIRLINES } from "@/lib/data";
-import { routeInquiry } from "@/lib/whatsapp";
+import { openWhatsApp, generalInquiry, routeInquiry } from "@/lib/whatsapp";
 
 const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
   Plane, FileCheck, ShieldCheck, Building2, Briefcase, PlaneTakeoff,
@@ -382,13 +382,7 @@ export function FinalCTA() {
         </p>
         <div className="mt-8">
           <MotionButton
-            onClick={() => {
-              window.open(
-                "https://wa.me/923251480148?text=" + encodeURIComponent("Hi HTG Travels, I need a travel consultation."),
-                "_blank",
-                "noopener,noreferrer"
-              );
-            }}
+            onClick={() => openWhatsApp(generalInquiry())}
             className="inline-flex items-center justify-center gap-2 rounded-full bg-gold px-7 py-3.5 text-sm font-semibold text-navy hover:brightness-110 hover:shadow-lg hover:-translate-y-0.5 shadow-md active:scale-95 transition-all duration-300 ease-out"
           >
             <MessageCircle className="h-4 w-4" />

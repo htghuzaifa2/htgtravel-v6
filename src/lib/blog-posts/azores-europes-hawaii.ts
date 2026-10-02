@@ -22,8 +22,7 @@ export const azoresEuropesHawaii: BlogPostSeed = {
     headline: "Europe's Hawaii, Routed From Pakistan",
     body: "The Schengen file through Portugal, the connections that actually line up, a car booked for the right days, and the Sao Miguel and Pico stops placed in the right order. The Azores reward planning, and planning is our whole job.",
     cta: "Plan my Azores trip",
-    waText:
-      "Assalam o Alaikum! I want to visit the Azores from Pakistan. Please guide me on the Schengen route, flights and the Sao Miguel plan.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -23,8 +23,7 @@ export const familyUmrahTipsWithChildren: BlogPostSeed = {
     body:
       "Hotels with lifts that fit strollers, family rooms with real beds, transfers that do not test patience. Family Umrah is its own engineering, and ours includes it. Tell us your children's ages and we will build the package around nap times and school breaks, confirm child fares and family rooms in writing, and pick hotels a five-minute flat walk from the gates. Families have enough to carry without package surprises.",
     cta: "Plan family Umrah",
-    waText:
-      "Assalam o Alaikum! We are planning Umrah with our children. Please arrange a family-friendly package with connecting or family rooms, a hotel a short walk from the Haram, and child fares confirmed for their ages.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

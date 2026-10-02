@@ -22,7 +22,7 @@ export const top10EuropeanCitiesPakistaniTourists: BlogPostSeed = {
     headline: "Europe, Engineered Around One Schengen File",
     body: "The ten-city dream runs on one visa and one coherent itinerary. Our desk builds both, with the main-destination rule respected and the train routes mapped. Tell us which three cities call you loudest; the file and the route come back together.",
     cta: "Build my Europe route",
-    waText: "Assalam o Alaikum! I read your European cities guide. Please build my Schengen file and route.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

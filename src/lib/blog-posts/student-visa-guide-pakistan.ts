@@ -22,7 +22,7 @@ export const studentVisaGuidePakistan: BlogPostSeed = {
     headline: "Admission Letter to Airport: One Desk for the Whole Journey",
     body: "Student files are marathons: admissions, fees, embassy interviews, and the visa that ends them. We guide Pakistani students through the full sequence: country selection, document timelines, financial structuring, and the final application. Book a free profile assessment and leave the paperwork anxiety to us.",
     cta: "Assess my profile",
-    waText: "Assalam o Alaikum! I read your student visa guide. Please assess my study-abroad profile.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

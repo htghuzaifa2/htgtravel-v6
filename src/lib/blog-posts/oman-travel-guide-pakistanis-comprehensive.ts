@@ -22,7 +22,7 @@ export const omanTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Oman's Visa Routes Are Conditional — We Know Which One Fits You",
     body: "Oman's eVisa eligibility depends on your other visas and residencies. A puzzle our desk solves in minutes before you spend a rial. Then: Muscat hotels, wadi tours, and the Jebel Akhdar cool air, packaged with flights. Arabia's kindest face, opened properly. Message us.",
     cta: "Check my Oman route",
-    waText: "Assalam o Alaikum! I read your Oman guide. Please check my visa route and plan my trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const muslimTravelNonMuslimCountries: BlogPostSeed = {
     headline: "Travel That Keeps Pace With Your Prayers",
     body: "Half our clients plan around prayer windows without saying so: flight timings that land before Maghrib, hotels near a mosque, meal plans that need no negotiating. Tell us the city; we build around the salah, not the other way round.",
     cta: "Plan around my salah",
-    waText: "Assalam o Alaikum! I am planning a trip to a non-Muslim country. Please help me plan around prayers and halal food.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

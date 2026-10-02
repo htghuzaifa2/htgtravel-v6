@@ -22,8 +22,7 @@ export const southKoreaSeoulGuide: BlogPostSeed = {
     headline: "Seoul, Planned Like a Drama Episode",
     body: "The embassy visa checklist handled step by step, Naver Map installed before you land, a Nami Island day tour with hotel pickup, and a table shortlist running from Gwangjang bindaetteok to Myeongdong hotteok. Tell us your dates; we will write your Korea episode.",
     cta: "Plan my Seoul trip",
-    waText:
-      "Assalam o Alaikum! I want to visit Seoul for the K-drama locations and food streets. Please help with the Korea visa and the full plan.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

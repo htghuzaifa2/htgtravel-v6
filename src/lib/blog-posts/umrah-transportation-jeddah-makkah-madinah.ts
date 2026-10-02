@@ -22,7 +22,7 @@ export const umrahTransportationJeddahMakkahMadinah: BlogPostSeed = {
     headline: "Every Transfer Pre-Arranged, Door to Marble",
     body: "The difference between arriving serene and arriving stressed is who planned the car. Our packages include airport pickups, inter-city transfers, and drivers who know pilgrim logistics, with a WhatsApp line if anything shifts. Travel door-to-door without negotiating a single fare. Ask what your dates include.",
     cta: "Arrange my transfers",
-    waText: "Assalam o Alaikum! I read your Umrah transportation guide. Please arrange my transfers with a package.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

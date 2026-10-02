@@ -23,8 +23,7 @@ export const foodAroundHaramMakkahMadinahGuide: BlogPostSeed = {
     body:
       "Location decides dinner as much as it decides prayer. We brief every pilgrim on the streets around their specific hotel: where the value meals are, which lanes stay open after Isha, where families eat comfortably late, and which corners to walk straight past. A hotel five minutes from the right gate serves your stomach as faithfully as your salah. Tell us your dates and your appetite.",
     cta: "Find my food-street hotel",
-    waText:
-      "Assalam o Alaikum! For my Umrah trip, please suggest hotels close to the Haram gates with good, affordable food streets nearby for family dinners after Isha, and brief me on the areas around each option.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

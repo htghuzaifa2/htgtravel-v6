@@ -22,7 +22,7 @@ export const firstUmrahHonestVersion: BlogPostSeed = {
     headline: "The Version We Tell Our Own Families",
     body: "We brief every first-timer the honest way: a hotel distance that suits your legs, dates that are kind to your knees, permits booked before you fly, and a WhatsApp line that answers at midnight. Ask the awkward questions; we have heard them all.",
     cta: "Prep my first Umrah",
-    waText: "Assalam o Alaikum! This will be my first Umrah. Please help me prepare honestly: hotel distance, dates, and permits.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

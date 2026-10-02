@@ -22,7 +22,7 @@ export const pakistanToJapanFlightGuide: BlogPostSeed = {
     headline: "Japan Journeys: Flights Plus the Airtight Visa File",
     body: "Japan rewards travellers who plan, and no leg matters more than the visa file and the long-haul routing. Our desk builds both: the document story the consulate respects, and the connection that fits your endurance. Sakura or ski season. Start with a message.",
     cta: "Plan my Japan journey",
-    waText: "Assalam o Alaikum! I read your Japan flight guide. Please help plan my Japan trip with flights and visa.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const cheapestCountriesVisitFromPakistan: BlogPostSeed = {
     headline: "The Full-Cost Ranking, Quoted Live for Your Dates",
     body: "Cheap is a total-trip number, not a hotel price, and our desk computes it with live fares daily. Tell us your ceiling and we will rank the genuinely affordable options for your specific dates. The cheapest good trip, found same-day.",
     cta: "Rank my options",
-    waText: "Assalam o Alaikum! I read your cheapest countries guide. My budget ceiling is. What fits?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

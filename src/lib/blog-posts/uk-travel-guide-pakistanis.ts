@@ -22,7 +22,7 @@ export const ukTravelGuidePakistanis: BlogPostSeed = {
     headline: "The UK Trip Begins With the Visa File — Ours Are Legendary",
     body: "The UK rewards the well-filed and disappoints the improvised. Our desk builds the visa file, then the itinerary: London's halal scene, Edinburgh's hills, and the countryside villages. Family visit or first tour, message us and both halves get handled.",
     cta: "Plan my UK trip",
-    waText: "Assalam o Alaikum! I read your UK guide. Please help with my visa file and UK itinerary.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

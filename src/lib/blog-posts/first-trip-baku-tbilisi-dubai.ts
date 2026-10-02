@@ -22,7 +22,7 @@ export const firstTripBakuTbilisiDubai: BlogPostSeed = {
     headline: "The First Stamp, Chosen Properly",
     body: "We compare the three with your actual numbers: visa timelines that match your dates, flights that fit your leave, and hotels in districts that suit a first-timer. Tell us your budget and your nerves; we will recommend honestly, even when the answer is the cheapest option.",
     cta: "Help me pick my first trip",
-    waText: "Assalam o Alaikum! I am planning my first trip abroad and torn between Baku, Tbilisi, and Dubai. Please compare them for me.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

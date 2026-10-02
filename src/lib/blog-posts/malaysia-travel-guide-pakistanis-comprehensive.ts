@@ -22,7 +22,7 @@ export const malaysiaTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Malaysia: The Easiest Family Trip East of Karachi",
     body: "Malaysia's halal certainty, English familiarity, and gentle prices make it our top family recommendation, and our packages cover the eVisa, flights, and Langkawi extensions in one quote. Tell us the family size and dates; the full plan comes back today.",
     cta: "Plan family Malaysia",
-    waText: "Assalam o Alaikum! I read your Malaysia guide. Please plan our family trip with eVisa and flights.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

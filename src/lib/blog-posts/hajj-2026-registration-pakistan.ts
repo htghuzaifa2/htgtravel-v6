@@ -22,7 +22,7 @@ export const hajj2026RegistrationPakistan: BlogPostSeed = {
     headline: "We Track Every Registration Window — So You Never Miss One",
     body: "Hajj seats from Pakistan are quota-bound and calendar-cruel: the families who register in the first week travel; the ones who wait a month watch the draw from home. Our desk tracks the 2026 announcements, prepares your documents to spec, and files the day windows open. Message us now to be on the ready list.",
     cta: "Join the ready list",
-    waText: "Assalam o Alaikum! I read your Hajj registration guide. Please add me to your Hajj 2026 ready list.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

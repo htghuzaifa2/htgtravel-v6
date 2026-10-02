@@ -23,8 +23,7 @@ export const blackStoneHajrAlAswadGuide: BlogPostSeed = {
     body:
       "The difference between wrestling half an hour for a kiss and greeting the stone in peace is timing, and timing is planning. Our itineraries place pilgrims near the Mataf gates, schedule tawaf for the calm hours, and, for elderly pilgrims and families, arrange pre-dawn attempts through the marshal-managed lanes. The stone has greeted every circuit since Ibrahim; the least it deserves is a calm minute of yours.",
     cta: "Time my visit right",
-    waText:
-      "Assalam o Alaikum! For my upcoming Umrah, please arrange a hotel close to the Mataf gates and plan my tawaf timing around the calm windows, including a peaceful slot to greet the Black Stone.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

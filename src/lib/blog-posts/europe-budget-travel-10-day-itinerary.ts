@@ -22,7 +22,7 @@ export const europeBudgetTravel10DayItinerary: BlogPostSeed = {
     headline: "The Budget Europe File — Our Desk's Most Requested Build",
     body: "Budget Europe is an engineering project: the Schengen file that gets approved, the city sequence that saves euros, the hostels-and-trains structure that keeps the dream under the ceiling. Our desk builds this exact file weekly. Tell us your ceiling; Europe answers within it.",
     cta: "Build my budget Europe",
-    waText: "Assalam o Alaikum! I read your budget Europe guide. Please build my trip within my ceiling of —",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

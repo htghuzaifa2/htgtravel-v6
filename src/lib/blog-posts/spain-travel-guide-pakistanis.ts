@@ -22,7 +22,7 @@ export const spainTravelGuidePakistanis: BlogPostSeed = {
     headline: "Spain: Muslim History Plus European Energy — Filed by Us",
     body: "Andalusia is the emotional heart of Spain for Muslim travellers. The Mezquita, the Alhambra, eight centuries of memory. Our desk builds the Schengen file and the Andalusia itinerary together: the visa that opens the door and the route that honours what's behind it. Ask us.",
     cta: "Plan my Spain trip",
-    waText: "Assalam o Alaikum! I read your Spain guide. Please plan my Andalusia and Spain trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

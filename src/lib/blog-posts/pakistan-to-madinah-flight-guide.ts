@@ -22,7 +22,7 @@ export const pakistanToMadinahFlightGuide: BlogPostSeed = {
     headline: "Madinah-First Umrah Itineraries — Our Favourite Structure",
     body: "Landing in Madinah, settling into the city, then travelling to Makkah for Umrah. It is the itinerary our pilgrims thank us for most. Ask about Madinah-first packages: flights, hotels near the Markaziya, and the pacing that lets the journey begin gently.",
     cta: "Plan Madinah-first",
-    waText: "Assalam o Alaikum! I read your Madinah flight guide. Please plan a Madinah-first Umrah itinerary.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

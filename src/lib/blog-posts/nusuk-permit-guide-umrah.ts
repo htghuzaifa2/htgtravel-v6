@@ -22,7 +22,7 @@ export const nusukPermitGuideUmrah: BlogPostSeed = {
     headline: "Our Team Books Your Permits Before You Even Pack",
     body: "Rawdah permits for the Prophet's Mosque vanish online within minutes of release, and pilgrims who land without them queue in disappointment. Our packages include permit assistance: we register your Nusuk profile, set the booking windows, and walk you through it on WhatsApp. Departure-to-return support, included.",
     cta: "Get permit help",
-    waText: "Assalam o Alaikum! I read your Nusuk guide. Please help with Rawdah permits for my Umrah trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

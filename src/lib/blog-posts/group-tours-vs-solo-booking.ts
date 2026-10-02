@@ -22,7 +22,7 @@ export const groupToursVsSoloBooking: BlogPostSeed = {
     headline: "We Price Both, Honestly",
     body: "We run group departures where sharing genuinely saves money, and we build solo itineraries where it does not, and we will tell you which one your trip is. Send us your destination and dates; you get both numbers and an honest recommendation, not the option that pays us more.",
     cta: "Compare both prices",
-    waText: "Assalam o Alaikum! I cannot decide between a group tour and booking solo. Please price both options for my next trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -23,8 +23,7 @@ export const cheapestMonthsToFlyFromPakistan: BlogPostSeed = {
     body:
       "Most travellers obsess over airlines and booking tricks while ignoring the lever that moves fares most: the month on the ticket. Share your route and how flexible your dates are, and we will name its cheapest months with real numbers, then watch that window until a fare worth booking appears. Timing, handled by people who track it daily.",
     cta: "Find my cheap month",
-    waText:
-      "Assalam o Alaikum! My travel dates are flexible. Please tell me the cheapest months to fly on my route and watch fares in that window for me.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

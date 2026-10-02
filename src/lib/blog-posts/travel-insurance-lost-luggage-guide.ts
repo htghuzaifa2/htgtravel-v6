@@ -22,7 +22,7 @@ export const travelInsuranceLostLuggageGuide: BlogPostSeed = {
     headline: "Travel With Cover That Answers When the Belt Stops",
     body: "The carousel's final revolution with your bag absent is a specific kind of misery, and the right policy turns it into reimbursement instead of regret. Our desk arranges baggage cover with clear claim support for Pakistani travellers. Add it to your next trip: one message.",
     cta: "Add baggage cover",
-    waText: "Assalam o Alaikum! I read your lost luggage guide. Please add baggage cover to my travel insurance.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

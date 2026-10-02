@@ -22,7 +22,7 @@ export const australiaTouristVisaGuidePakistan: BlogPostSeed = {
     headline: "Sydney Dreams Start With a Well-Built ImmiAccount File",
     body: "Australia reads applications through one lens: genuine visitor, real intent to return. Our team builds subclass 600 files for Pakistanis every season, covering funds story, employment evidence, ties, and itinerary, and submits them through ImmiAccount correctly the first time. Get your file started with a free chat today.",
     cta: "Start my Australia file",
-    waText: "Assalam o Alaikum! I read your Australia visa guide. Please help me with my subclass 600 application.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

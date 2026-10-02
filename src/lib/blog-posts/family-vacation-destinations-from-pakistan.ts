@@ -22,7 +22,7 @@ export const familyVacationDestinationsFromPakistan: BlogPostSeed = {
     headline: "The Whole Family, One Package, Zero Arguments",
     body: "Family trips are logistics wearing a smile. Flights that match nap times, hotels that fit everyone, and pacing that keeps grandparents and toddlers equally happy. Our family packages handle the engineering. Tell us the generations travelling and the dates; we handle the rest.",
     cta: "Plan our family trip",
-    waText: "Assalam o Alaikum! I read your family guide. Please plan a trip for our family of (number) going to (destination).",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

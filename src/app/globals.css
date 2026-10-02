@@ -141,7 +141,7 @@
   --teal: #14B8B8;
   --gold: #F5A623;
   --sand: #142A52;
-  --charcoal: #E8F0FA;
+  --charcoal: #123540; /* deep green-teal — keeps the FinalCTA gradient greenish like light mode (was #E8F0FA = silver band) */
   --muted-grey: #93B4D8;
   --success: #4ADE80;
   --error: #EF4444;

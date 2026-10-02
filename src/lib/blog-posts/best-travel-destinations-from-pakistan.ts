@@ -22,7 +22,7 @@ export const bestTravelDestinationsFromPakistan: BlogPostSeed = {
     headline: "Tell Us Your Budget — We'll Tell You Your Destination",
     body: "The right destination is a function of your budget, dates, and visa reality, and our desk computes it daily with live fares and honest visa advice. Message us with your range; get back a shortlist that actually fits, quoted same-day.",
     cta: "Find my destination",
-    waText: "Assalam o Alaikum! I read your destinations guide. My budget is, where should I travel?",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

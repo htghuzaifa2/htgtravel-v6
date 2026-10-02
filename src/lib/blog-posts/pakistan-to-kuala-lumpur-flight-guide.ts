@@ -22,7 +22,7 @@ export const pakistanToKualaLumpurFlightGuide: BlogPostSeed = {
     headline: "Malaysia eVisa Plus Flights — Handled Together",
     body: "KL trips need two things coordinated: the eVisa file and the flight timing. Our desk handles both, plus Langkawi connections and hotels that fit Pakistani budgets beautifully. Message your dates and get the full Malaysia plan with today's fares.",
     cta: "Plan my Malaysia trip",
-    waText: "Assalam o Alaikum! I read your KL flight guide. Please plan my Malaysia trip with flights and eVisa.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

@@ -22,7 +22,7 @@ export const umrahHaramainTrainGuide: BlogPostSeed = {
     headline: "Train Tickets and Umrah Packages, Booked Together",
     body: "The Haramain train turns the Makkah–Madinah transfer into a two-hour glide, when tickets are actually available. We book train seats with our Umrah packages so your inter-city travel is locked before you fly. Ask for train-inclusive packages when you message us.",
     cta: "Book train-inclusive Umrah",
-    waText: "Assalam o Alaikum! I read your Haramain train guide. Please include train tickets in my Umrah package.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

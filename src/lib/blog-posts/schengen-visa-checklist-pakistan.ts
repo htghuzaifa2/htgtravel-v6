@@ -22,7 +22,7 @@ export const schengenVisaChecklistPakistan: BlogPostSeed = {
     headline: "We File Schengen Applications Every Single Week",
     body: "Choosing the wrong embassy, booking actual flights instead of reservations, or submitting unstamped bank statements: these mistakes cost Pakistani applicants millions in lost fees every year. Our team handles your full file, from cover letter to appointment, so your application goes in right the first time.",
     cta: "Start my Schengen file",
-    waText: "Assalam o Alaikum! I read your Schengen visa checklist. Please help me prepare my application.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

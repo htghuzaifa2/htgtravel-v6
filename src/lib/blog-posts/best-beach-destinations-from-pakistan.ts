@@ -22,7 +22,7 @@ export const bestBeachDestinationsFromPakistan: BlogPostSeed = {
     headline: "The Beach Trip, Quoted With the Sunscreen Logic Included",
     body: "Beach trips fail on the boring details. Transfer costs, island-hopping timing, monsoon calendars. Our desk handles the details with the beaches: Maldives, Bali, Sri Lanka quoted with full structure for your dates. The sea is calling; answer with a plan.",
     cta: "Plan my beach trip",
-    waText: "Assalam o Alaikum! I read your beach guide. Please plan my beach trip for my dates.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

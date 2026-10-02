@@ -23,8 +23,7 @@ export const umrahMobileAppsGuidePakistan: BlogPostSeed = {
     body:
       "Saudi Arabia runs almost entirely on apps now, and registration at the airport, on crowded wifi, with a queue behind you, is nobody's idea of a spiritual start. Our pre-departure briefing includes setting up Nusuk, verifying your profile, registering permits, configuring your Saudi SIM, and downloading every offline pack that matters, so the technology serves you from the first hour you land. Packages with real preparation, from people who use these apps daily. Ask about upcoming departures.",
     cta: "Get app-ready with us",
-    waText:
-      "Assalam o Alaikum! Before my Umrah, please walk me through the full app setup: Nusuk registration and permits, offline maps of both cities, and connectivity, so my phone is completely ready before I fly.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

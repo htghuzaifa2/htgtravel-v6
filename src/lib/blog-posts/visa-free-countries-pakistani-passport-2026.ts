@@ -22,7 +22,7 @@ export const visaFreeCountriesPakistaniPassport2026: BlogPostSeed = {
     headline: "Zero-Visa Trips, Planned Before You Finish Your Chai",
     body: "Visa-free does not mean planning-free. Tickets still sell out, and Maldives resorts still need booking months ahead. Send us any destination from this list with your dates, and we will price flights, hotels, and transfers together. The visa is free; the trip should still be flawless.",
     cta: "Plan a visa-free trip",
-    waText: "Assalam o Alaikum! I read your visa-free countries list. I want to visit (country name). Please plan my trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

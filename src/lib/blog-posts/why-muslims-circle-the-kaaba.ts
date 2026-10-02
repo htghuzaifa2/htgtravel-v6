@@ -23,8 +23,7 @@ export const whyMuslimsCircleTheKaaba: BlogPostSeed = {
     body:
       "Anyone can walk seven circuits; walking them while knowing what they mean is a different pilgrimage entirely. Our Umrah packages come with proper guidance on the meaning behind every act, from the niyyah at the miqat to the dua between the Yemeni corner and the Black Stone, alongside every flight, visa and hotel booking. Rituals handled by us, meaning explained to you.",
     cta: "Teach me the rituals",
-    waText:
-      "Assalam o Alaikum! I want to perform Umrah understanding the meaning behind each ritual, starting with Tawaf. Please share packages that include proper religious guidance along with the bookings.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

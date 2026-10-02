@@ -22,7 +22,7 @@ export const azerbaijanTravelGuidePakistanisComprehensive: BlogPostSeed = {
     headline: "Baku: The European Weekend at Asian Prices",
     body: "Azerbaijan is our top recommendation for a first 'European-feeling' trip. Visa-friendly to Pakistanis, priced gently, and unfairly pretty. Flights, hotels in the old city, and the mountain extensions arranged in one quote. Message us your dates for this year's best-kept destination.",
     cta: "Plan my Baku trip",
-    waText: "Assalam o Alaikum! I read your Azerbaijan guide. Please plan my Baku and Caucasus trip.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

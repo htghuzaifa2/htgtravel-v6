@@ -23,7 +23,7 @@ export const italyBeyondRomeSecretVillages: BlogPostSeed = {
     headline: "The Italy the Tour Buses Miss",
     body: "We build Italy the slow way: Ravello instead of Positano in peak weeks, farm stays in the Val d'Orcia, and the ferries, buses, and train legs solved before you fly. Tell us your dates and how far beyond Rome you want to go.",
     cta: "Plan my secret Italy",
-    waText: "Assalam o Alaikum! I want Italy beyond Rome: quiet Amalfi, the Val d'Orcia, and the small villages. Please plan my route.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

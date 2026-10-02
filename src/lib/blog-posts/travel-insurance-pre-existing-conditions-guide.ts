@@ -22,7 +22,7 @@ export const travelInsurancePreExistingConditionsGuide: BlogPostSeed = {
     headline: "Diabetes, Hypertension, Heart History — We Still Get You Covered",
     body: "Pre-existing conditions narrow the insurance market but never close it. The right insurer with the right disclosure still issues solid cover, and our desk knows which insurers welcome which histories. Tell us your condition confidentially; we will find the policy that honours it.",
     cta: "Find my cover",
-    waText: "Assalam o Alaikum! I have a pre-existing condition. Please find travel insurance that covers me properly.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

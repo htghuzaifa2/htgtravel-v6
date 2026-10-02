@@ -22,7 +22,7 @@ export const schengenVisaFromDubaiGuide: BlogPostSeed = {
     headline: "UAE-Based and Europe-Bound? We Handle Files Across Both",
     body: "Pakistani residents of Dubai and Abu Dhabi get different Schengen treatment than applicants back home: different queues, different credibility, different strategy. Our team handles Europe files for UAE-based Pakistanis with itineraries, bookings, and financials framed for an Emirates salary profile. Message us from Dubai like hundreds of clients do.",
     cta: "File from the UAE",
-    waText: "Assalam o Alaikum! I am a Pakistani resident in the UAE and read your Schengen from Dubai guide. Please help me apply.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

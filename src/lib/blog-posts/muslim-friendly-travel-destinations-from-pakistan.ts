@@ -21,7 +21,7 @@ export const muslimFriendlyTravelDestinationsFromPakistan: BlogPostSeed = {
   promo: {
     headline: "Halal-Certified Travel Planning — Our Native Fluency",
     body: "Halal-conscious travel is our default setting: the destinations we recommend, the hotels we vet for prayer spaces, the halal kitchens we trust. Tell us what Muslim-friendly means to you; we will plan the trip that honours it. From Sialkot, for the ummah. Message our desk.",
-    waText: "Assalam o Alaikum! I read your Muslim-friendly destinations guide. Please plan a trip that honours my values.",
+    waText: "Hi HTG Travels, I need travel support.",
     cta: "Plan halal-first travel",
   },
   content: [

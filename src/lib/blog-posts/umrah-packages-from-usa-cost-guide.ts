@@ -23,8 +23,7 @@ export const umrahPackagesFromUsaCostGuide: BlogPostSeed = {
     body:
       "The same $1395 headline price can mean a shuttle-ride hotel or a ten-minute walk to the Haram, and the difference only shows in the fine print. We quote American families line by line: what the flights cost from your departure city, what the hotel distance really is, and what the visa and ground services add. Compare quotes with someone who reads them for a living.",
     cta: "Quote my USA Umrah",
-    waText:
-      "Assalam o Alaikum! We are planning Umrah from the United States in 2026, most likely as a family. Please suggest packages that fit our budget and preferred travel window, with flights from our nearest city.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {

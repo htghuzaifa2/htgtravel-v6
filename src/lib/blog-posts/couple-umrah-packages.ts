@@ -23,8 +23,7 @@ export const coupleUmrahPackages: BlogPostSeed = {
     body:
       "Couple Umrah planning fails on the small print: twin beds pushed together and called a double, transfers shared with forty strangers, a schedule built for someone else's rhythm. We confirm proper double rooms in writing, arrange private transfers between the cities, and pace the trip around the two of you rather than a bus timetable.",
     cta: "Plan our couple Umrah",
-    waText:
-      "Assalam o Alaikum! My spouse and I want a private Umrah package with a proper double room and our own pacing. Please share options near the Haram for our dates and confirm the room type in writing.",
+    waText: "Hi HTG Travels, I need travel support.",
   },
   content: [
     {
