@@ -66,7 +66,7 @@
   --secondary: #0B1F2A;
   --secondary-foreground: #FFFFFF;
   --muted: #F7F3EC;
-  --muted-foreground: #6B7B85;
+  --muted-foreground: #54646E;
   --accent: #0FA3A3;
   --accent-foreground: #FFFFFF;
   --destructive: #C62828;
@@ -244,10 +244,10 @@
 
   /* ============ Shadows ============ */
   .shadow-htg {
-    box-shadow: 0 8px 32px rgba(11, 31, 42, 0.08);
+    box-shadow: 0 10px 34px rgba(11, 31, 42, 0.1), 0 2px 6px rgba(11, 31, 42, 0.05);
   }
   .shadow-htg-lg {
-    box-shadow: 0 20px 60px rgba(11, 31, 42, 0.12);
+    box-shadow: 0 20px 60px rgba(11, 31, 42, 0.14), 0 4px 12px rgba(11, 31, 42, 0.07);
   }
   .dark .shadow-htg {
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(96, 165, 250, 0.05);
@@ -331,11 +331,11 @@
 
   /* Glassmorphism — true frosted glass with light refraction edge */
   .glass {
-    background: rgba(255, 255, 255, 0.65);
-    backdrop-filter: blur(16px) saturate(180%);
-    -webkit-backdrop-filter: blur(16px) saturate(180%);
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    box-shadow: 0 4px 30px rgba(11, 31, 42, 0.1), inset 0 1px 0 0 rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.78);
+    backdrop-filter: blur(16px) saturate(160%);
+    -webkit-backdrop-filter: blur(16px) saturate(160%);
+    border: 1px solid rgba(15, 163, 163, 0.16);
+    box-shadow: 0 6px 28px rgba(11, 31, 42, 0.1), 0 1px 3px rgba(11, 31, 42, 0.06), inset 0 1px 0 0 rgba(255, 255, 255, 0.9);
   }
   .dark .glass {
     background: rgba(17, 34, 68, 0.55);
@@ -439,15 +439,15 @@
   }
   .glow-border:hover {
     transform: translateY(-4px);
-    box-shadow: 0 20px 40px rgba(20, 184, 184, 0.15), 0 8px 16px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 20px 40px rgba(15, 163, 163, 0.22), 0 8px 16px rgba(11, 31, 42, 0.1);
   }
   .dark .glow-border:hover {
     box-shadow: 0 20px 40px rgba(20, 184, 184, 0.25), 0 8px 16px rgba(0, 0, 0, 0.4);
   }
 
-  /* Modern gradient text — gold to teal */
+  /* Modern gradient text — gold to teal (light mode: deeper for contrast on cream) */
   .text-gradient {
-    background: linear-gradient(135deg, #F5A623 0%, #14B8B8 100%);
+    background: linear-gradient(135deg, #E8900A 0%, #0E8A8A 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -458,6 +458,15 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+  }
+
+  /* Deep gold for TEXT on light backgrounds only — the base --gold (#F5A623)
+     is fine on navy (footer/CTA) but washed out on cream. Dark mode keeps brand gold. */
+  .text-gold-deep {
+    color: var(--gold);
+  }
+  :root:not(.dark) .text-gold-deep {
+    color: #C27C00;
   }
 
   /* Modern pill badge with animated gradient border */
@@ -488,6 +497,14 @@
     background: rgba(56, 189, 248, 0.08);
     pointer-events: none;
   }
+  /* Light mode: brand teal+gold pill (sky/purple reads washed-out on cream) */
+  :root:not(.dark) .pill-modern::before {
+    background: linear-gradient(135deg, rgba(15, 163, 163, 0.9), rgba(245, 166, 35, 0.8), rgba(15, 163, 163, 0.9));
+    background-size: 200% 100%;
+  }
+  :root:not(.dark) .pill-modern::after {
+    background: rgba(15, 163, 163, 0.09);
+  }
 
   /* Recessed input fields — modern dark mode wells with glow focus */
   .input-recessed {
@@ -504,18 +521,18 @@
     box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15), inset 0 1px 3px rgba(0, 0, 0, 0.5);
     outline: none;
   }
-  /* Light mode recessed inputs */
+  /* Light mode recessed inputs — visible borders + soft well depth */
   :root .input-recessed {
-    background: rgba(11, 31, 42, 0.04);
-    border: 1px solid rgba(11, 31, 42, 0.08);
-    box-shadow: inset 0 1px 2px rgba(11, 31, 42, 0.06);
+    background: rgba(11, 31, 42, 0.045);
+    border: 1px solid rgba(11, 31, 42, 0.16);
+    box-shadow: inset 0 1px 3px rgba(11, 31, 42, 0.08);
     color: #0B1F2A;
   }
   :root .input-recessed:focus,
   :root .input-recessed:focus-within {
     background: rgba(11, 31, 42, 0.06);
-    border-color: rgba(15, 163, 163, 0.5);
-    box-shadow: 0 0 0 3px rgba(15, 163, 163, 0.15), inset 0 1px 2px rgba(11, 31, 42, 0.06);
+    border-color: rgba(15, 163, 163, 0.65);
+    box-shadow: 0 0 0 3px rgba(15, 163, 163, 0.18), inset 0 1px 3px rgba(11, 31, 42, 0.08);
   }
 
   /* ============ DARK MODE TEXT VISIBILITY GUARANTEES ============

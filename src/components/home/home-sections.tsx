@@ -299,7 +299,7 @@ export function HowItWorks() {
             <StaggerItem key={step.number}>
               <div className="text-center">
                 <div className="mx-auto inline-flex h-16 w-16 items-center justify-center rounded-2xl bg-foreground/5 mb-5">
-                  <span className="font-heading text-3xl font-bold text-gold">{step.number}</span>
+                  <span className="font-heading text-3xl font-bold text-gold-deep">{step.number}</span>
                 </div>
                 <h3 className="font-heading text-xl font-semibold text-foreground mb-2">{step.title}</h3>
                 <p className="text-sm text-muted-foreground leading-relaxed max-w-xs mx-auto">{step.description}</p>
@@ -358,11 +358,11 @@ export function FinalCTA() {
       {/* Subtle ambient blobs */}
       <div
         aria-hidden
-        className="absolute -top-32 -right-32 w-96 h-96 bg-teal/10 dark:bg-teal/15 rounded-full blur-3xl pointer-events-none drift-blob"
+        className="absolute -top-32 -right-32 w-96 h-96 bg-teal/15 rounded-full blur-3xl pointer-events-none drift-blob"
       />
       <div
         aria-hidden
-        className="absolute -bottom-32 -left-32 w-96 h-96 bg-gold/10 dark:bg-gold/15 rounded-full blur-3xl pointer-events-none drift-blob-2"
+        className="absolute -bottom-32 -left-32 w-96 h-96 bg-gold/15 rounded-full blur-3xl pointer-events-none drift-blob-2"
       />
       {/* Dot grid texture */}
       <div
