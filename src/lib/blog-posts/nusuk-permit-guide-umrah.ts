@@ -66,6 +66,39 @@ export const nusukPermitGuideUmrah: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Visa Versus Permit: Two Different Things",
+    },
+    {
+      type: "p",
+      text: "This distinction is where confusion costs people their trips, so read it slowly. The Umrah visa is what lets you enter Saudi Arabia for pilgrimage; international pilgrims typically arrive on an Umrah visa or, for eligible nationalities, a tourist e-visa, both valid for Umrah outside Hajj season. The Umrah permit is your timed slot to perform the Umrah itself, a specific date and hour window for Tawaf, booked through Nusuk. You need both. A visa without a permit gets you into the country but not to the Kaaba, and a permit without a visa is just a screenshot of a dream. And remember that permits are cancellable: if your plans shift, cancel in the app so you are not marked a no-show, which can affect future bookings.",
+    },
+    {
+      type: "h2",
+      text: "How Ramadan Changes the Permit Game",
+    },
+    {
+      type: "p",
+      text: "Ramadan is the busiest Umrah season of the year, and in the final ten nights Makkah and Madinah reach their absolute capacity, which is precisely what the permit system exists to manage. Permits run out: during the last third of Ramadan, Umrah permit slots can vanish within hours of release. Slots are timed, and the gates honour the window printed on yours. And during the most crowded periods there is no entry to the mataf area without a permit, even with a valid visa in your passport. The rule of thumb from years of watching the rush: if you want Umrah in the last ten nights, book your slot the moment the window opens, not the week you fly.",
+    },
+    {
+      type: "p",
+      text: "Rawdah permits deserve their own warning in Ramadan. They are famously the harder booking to land at any time of year, and in the holy month the batches disappear fastest of all, especially for men, while women's slots follow their own release pattern through the app. Check the app at the exact moment new slots drop, refresh patiently, and do not give up after one day. And hold this comfort close: even without a Rawdah slot, you can still pray in the rest of Masjid an-Nabawi. The mosque is open; only the blessed section is gated.",
+    },
+    {
+      type: "h2",
+      text: "The Smart Ramadan Strategy",
+    },
+    {
+      type: "ul",
+      items: [
+        "Aim for the first half of Ramadan if your schedule allows: the spiritual atmosphere is complete and the crowds are merely heavy rather than historic",
+        "Book hotels within walking distance of the Haram, because on peak nights the streets outside fill to a standstill",
+        "Keep your permit screenshots available offline, since networks drown under a million pilgrims on the odd nights",
+        "If Laylat al-Qadr in Makkah is your goal, secure visa, permits, and hotel months ahead, not weeks",
+      ],
+    },
+    {
+      type: "h2",
       text: "More Than Permits",
     },
     {

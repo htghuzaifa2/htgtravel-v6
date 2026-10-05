@@ -328,6 +328,9 @@ import { masjidIslamicCenterGroupTripGuide } from "./blog-posts/masjid-islamic-c
 import { hajj2027RegistrationEarlyPreparation } from "./blog-posts/hajj-2027-registration-early-preparation";
 import { umrahVisaRefusedReapplyGuide } from "./blog-posts/umrah-visa-refused-reapply-guide";
 import { taifDayTripFromMakkah } from "./blog-posts/taif-day-trip-from-makkah";
+import { multiGenerationalUmrahThreeGenerationsGuide } from "./blog-posts/multi-generational-umrah-three-generations-guide";
+import { flightCancelledMissedConnectionRecoveryGuide } from "./blog-posts/flight-cancelled-missed-connection-recovery-guide";
+import { afterUmrahPlacesToVisitSaudiArabia } from "./blog-posts/after-umrah-places-to-visit-saudi-arabia";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -623,6 +626,9 @@ const SEEDS: BlogPostSeed[] = [
   hajj2027RegistrationEarlyPreparation,
   umrahVisaRefusedReapplyGuide,
   taifDayTripFromMakkah,
+  multiGenerationalUmrahThreeGenerationsGuide,
+  flightCancelledMissedConnectionRecoveryGuide,
+  afterUmrahPlacesToVisitSaudiArabia,
 ];
 
 // Auto-generate IDs for all posts at runtime

@@ -51,8 +51,48 @@ export const uzbekistanTravelGuidePakistanisComprehensive: BlogPostSeed = {
       text: "The eVisa process is online and genuinely welcoming to Pakistani applicants. Uzbek hospitality is Central Asian Islam at its warmest. Halal food is the norm and the mosques are living history. The high-speed train connects the major cities in comfort. Spring and autumn are the seasons. And the budget: Uzbekistan delivers Silk Road heritage at prices that feel like a decade ago everywhere else. The Mughal journey home. Arranged by our desk in one message.",
     },
     {
+      type: "h2",
+      text: "Samarkand: The City That Made Timur Weep",
+    },
+    {
+      type: "p",
+      text: "Legend says Timur designed Samarkand to outshine every city on earth, and honestly, he may have succeeded. At its heart sits the Registan, three madrasahs facing each other across a square, their walls a galaxy of azure, gold, and geometry. Go at dusk, when the tiles glow and the day-trippers thin out; travellers stand there a full hour and barely move.",
+    },
+    {
+      type: "p",
+      text: "Around it wait Gur-e-Amir, the emperor's mausoleum beneath a ribbed turquoise dome; Shah-i-Zinda, a rising avenue of shrines said to hold a companion of the Prophet, peace be upon him, that pilgrims have climbed for centuries; the Ulugh Beg Observatory, where a fifteenth-century Muslim astronomer measured the year with astonishing accuracy using a sextant dug into the earth; and Siab Bazaar, with round crusty bread the size of a plate and spices piled in pyramids.",
+    },
+    {
+      type: "h2",
+      text: "Bukhara: A Living Museum of Faith",
+    },
+    {
+      type: "p",
+      text: "If Samarkand dazzles, Bukhara breathes. The old town holds over a hundred and forty protected monuments, and it feels less restored than simply awake: elders playing chess beside ancient pools, calligraphers working in caravanserai courtyards. Begin at the Kalyan Minaret, nearly 850 years old and beautifully slender, the tower they say even Genghis Khan looked up at and ordered spared. Beside it, the Mir-i-Arab Madrasah still teaches students today, one of the few in the Muslim world that never closed its doors. Then find the Ismail Samani Mausoleum, a thousand years old, its brickwork woven like fabric; it survived because it lay buried under sand for centuries. Sometimes humility preserves what pride cannot.",
+    },
+    {
+      type: "h2",
+      text: "The Scholars Who Shaped Islam",
+    },
+    {
+      type: "p",
+      text: "For Muslim travellers, the truest treasure is not the tilework but whose feet walked this soil first. Imam al-Bukhari, the great hadith compiler, was born in Bukhara, and his serene mausoleum complex lies just outside Samarkand; visiting feels like standing in the library of Sunni Islam. Imam al-Maturidi, whose creed guides most Sunni Muslims, also came from this land, and Bahauddin Naqshband, founder of the Naqshbandi Sufi order, rests in a peaceful village near Bukhara shaded by trees. Pray Fajr in an old mosque here and you understand why scholars call this region the second heartland of Islam.",
+    },
+    {
+      type: "h2",
+      text: "Getting Around Is Easier Than You Think",
+    },
+    {
+      type: "p",
+      text: "Uzbekistan has quietly become one of Central Asia's easiest destinations. The sleek Afrosiyob high-speed train links Tashkent, Samarkand, and Bukhara, and the whole route runs in a few comfortable hours, though seats sell out in spring and autumn, so book early. Pakistani travellers apply for a simple e-visa online, and rules do shift, so check the latest requirements before booking flights. In mosque areas and small towns, dress modestly and carry a light scarf; locals are warm and genuinely delighted when visitors respect the faith that built these cities. And come hungry: plov, the national rice dish, is worth the flight alone, and every region claims theirs is the best. Order the samsa too, and thank us later.",
+    },
+    {
       type: "quote",
       text: "Your ancestors' homeland, opened by an eVisa. Ask us for the itinerary.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. Standing before buildings that have stood for a thousand years stirs gratitude for the freedom to simply be somewhere beautiful. Our brothers and sisters in Palestine and Sudan cannot say the same, facing danger and displacement no traveller should ever know. Keep them in your duas as you wander these sacred cities, and support trusted humanitarian relief where you are able. Beauty should remind us to protect those who have lost theirs.",
     },
   ],
   faqs: [

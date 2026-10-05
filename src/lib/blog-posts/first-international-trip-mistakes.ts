@@ -96,11 +96,60 @@ export const firstInternationalTripMistakes: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Start With the Paperwork, Because It Decides Everything",
+    },
+    {
+      type: "p",
+      text: "Before any of those mistakes can even happen, there is the part first-timers fear most: the visa. Apply early, because some embassies process applications in days while others take weeks, and most will ask for a passport valid for at least six months, recent photographs on a plain white background, bank statements, hotel confirmations, and a return ticket. That background detail sounds trivial until it bounces your appointment, and little details trip first-timers up all the time. Have a professional check your documents line by line before submission; a refused application follows your travel history for years.",
+    },
+    {
+      type: "h2",
+      text: "Booking the Flight the Smart Way",
+    },
+    {
+      type: "ul",
+      items: [
+        "Book roughly six to ten weeks ahead for the kindest fares on most routes",
+        "Check the baggage allowance before you pay, because budget carriers charge heavily for checked luggage at the airport",
+        "Watch your layover times: an overly tight connection in an unfamiliar airport is a sprint you did not train for",
+        "Prefer morning departures when your schedule allows, since they are statistically less likely to cascade into delays",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Your Pre-Flight Checklist",
+    },
+    {
+      type: "p",
+      text: "Passport with six months of validity and the visa approval, flight tickets printed and on your phone, hotel confirmation, travel insurance you actually bought, some cash in the local currency plus your cards, and copies of every key document saved in your email and cloud. Keep one set of photocopies in your carry-on and share the digital set with family back home. Future you, standing at some counter at midnight, will be grateful.",
+    },
+    {
+      type: "h2",
+      text: "Airport Day: What Actually Happens",
+    },
+    {
+      type: "p",
+      text: "Arrive three hours before an international departure, and the flow is simpler than the nerves suggest: check-in counter, baggage drop, immigration, security, then your gate. At immigration, expect a few short questions about where you are going, why, and for how long, and answer them honestly and calmly. The officer is not testing you; nervous first-timers pass through those booths every single day of the year.",
+    },
+    {
+      type: "h2",
+      text: "In the Air and Touching Down",
+    },
+    {
+      type: "p",
+      text: "On a long flight, drink water, stretch your legs every couple of hours, and download your entertainment before boarding, because the plane wifi will disappoint you. Setting your watch to the destination's time zone the moment you take off genuinely softens the jet lag. On arrival, follow the signs to immigration, collect your bags, and use official taxis or a pre-booked transfer rather than the enthusiastic gentleman who finds you first. And keep a pen handy for the arrival form: one traveller once shuffled back from the counter like a guilty schoolboy because he had skipped his, and the queue was not kind about it.",
+    },
+    {
+      type: "h2",
       text: "What I Do Differently Now",
     },
     {
       type: "p",
       text: "Those seven mistakes were expensive tuition, but they shaped a career. I now help plan trips at HTG Travel, and every first-time traveller we work with gets a pre-departure briefing covering all of this, bank alerts, insurance, eSIMs, realistic itineraries, before anything gets booked. Watching someone's first international trip go the way mine should have is my favourite part of the job.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we plan our first trips and chase new horizons, the people of Palestine and Sudan remain in our hearts and prayers. Their resilience humbles us, and their hope deserves ours. Wherever this post finds you, keep them in your duas and support humanitarian relief efforts where you can, because even small acts of kindness travel further than any of us will.",
     },
   ],
   faqs: [

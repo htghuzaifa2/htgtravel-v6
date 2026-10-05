@@ -45,6 +45,46 @@ export const schengenVisaRefusalReasonsPakistan: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Why DIY Applications Draw More Refusals",
+    },
+    {
+      type: "p",
+      text: "Here is what most people learn the hard way: a visa officer sees your file for minutes, not hours, and embassies do not call to clarify a confusing bank statement or a mismatched hotel date. If something raises doubt, the decision defaults to no. DIY applications fail mostly because applicants cannot know what raises doubt; you are guessing what an officer wants, while an experienced filer has seen thousands of files and knows exactly which detail triggers a refusal. Rejections are rarely about one big mistake. They are about five small ones nobody flagged.",
+    },
+    {
+      type: "ul",
+      items: [
+        "Unexplained money: a sudden large deposit, even from selling a car, looks suspicious without a paper trail behind it",
+        "Mismatched dates: flights say the 10th, the hotel says the 11th. Tiny, and fatal",
+        "Dummy bookings: officers recognize fake reservations instantly, and they poison the entire application",
+        "Wrong visa category: applying as a tourist when you are visiting family is a quiet, guaranteed problem",
+        "No cover letter: any unusual element, a long stay or sponsorship from a relative, left unexplained forces the officer to assume the worst",
+        "Form errors: blank fields, names spelt differently from the passport, photos with the wrong background",
+      ],
+    },
+    {
+      type: "p",
+      text: "None of these mean you were lying or unwelcome. They mean your file made an officer pause, and pauses become refusals. A client once came to our desk after a DIY Schengen refusal: his documents were genuine, but his hotel covered six days of a nine-day trip, and a large cash deposit sat unexplained in his statement. We rebuilt the file with a booking for the full stay and a short letter with a sale receipt explaining the deposit, and he was approved on the second attempt. Same traveller, same truth, different presentation.",
+    },
+    {
+      type: "h2",
+      text: "What Agent Filing Actually Changes",
+    },
+    {
+      type: "ul",
+      items: [
+        "An eligibility check before you pay: an honest look at whether your profile is ready, or whether applying now would only add a refusal to your history",
+        "A line-by-line document review against what that specific embassy expects to see",
+        "Professional presentation: consistent dates, a clear cover letter, and documents sequenced the way officers like to read them",
+        "Embassy-specific knowledge, because every consulate has its quirks, and the quirks change",
+      ],
+    },
+    {
+      type: "p",
+      text: "To be fair, DIY is genuinely fine when the stakes are low: a strong passport applying for a simple eVisa or ETA was built for self-service. The math changes with long-stay, high-scrutiny applications, Schengen, the UK, family visits, where a single refusal follows you into every future application. That is where professional filing earns its keep. And anyone promising guaranteed approval is selling fiction; the real value is removing every avoidable reason for rejection.",
+    },
+    {
+      type: "h2",
       text: "The Comeback Plan",
     },
     {
@@ -54,6 +94,10 @@ export const schengenVisaRefusalReasonsPakistan: BlogPostSeed = {
     {
       type: "quote",
       text: "A refusal read correctly is a blueprint for approval. We read them every week at the desk.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we help travellers cross borders for holidays and reunions, our hearts stay with the people of Palestine and Sudan, for whom borders and hardship are an everyday reality rather than a travel plan. We pray for their safety, relief, and peace. Keep them in your duas and support trusted humanitarian relief where you can; every small act of kindness reaches further than we know.",
     },
   ],
   faqs: [

@@ -85,6 +85,42 @@ export const spotFakeTravelAgentsOnline: BlogPostSeed = {
       text: "In Pakistan, tour operators register with the Department of Tourist Services and ticketing agents often hold IATA accreditation; ask for the numbers and check them. Search the agency's name plus 'scam', call the official landline rather than the WhatsApp number, and insist on a written itinerary and receipt. Hesitation is an answer too.",
     },
     {
+      type: "h2",
+      text: "Who Is Actually Behind Your Booking",
+    },
+    {
+      type: "p",
+      text: "Now let us pull the curtain back the other way, because the positive case matters as much as the warning. When you send an inquiry to a licensed agency like ours, real people pick it up: visa consultants who review your documents line by line and know which embassy quirks cause delays, ticketing agents who compare fares across airlines and hold seats while you decide, ground handlers who arrange transfers, hotels, and Umrah logistics, and a support line that answers when your plans fall apart mid-trip rather than only before payment.",
+    },
+    {
+      type: "p",
+      text: "These are not chatbots; they are people who have handled thousands of bookings and can spot a problem in your file before an airline or embassy does. One of our colleagues rebuilt an entire Umrah visa application at ten at night because a name spelling did not match the passport, a five-minute catch that saved a family's whole trip.",
+    },
+    {
+      type: "h2",
+      text: "What Licensed Actually Means for You",
+    },
+    {
+      type: "ul",
+      items: [
+        "Accountability: a registered business, a physical presence, and a reputation to protect, so if something goes wrong you know exactly where to find us",
+        "Verified access: bookings made through official airline and supplier channels, so your ticket exists in the system, confirmed and traceable, not just in a forwarded screenshot",
+        "Proper documentation: real invoices, real ticket numbers, real hotel vouchers, so if immigration asks, you are covered",
+      ],
+    },
+    {
+      type: "p",
+      text: "There is a quieter failure mode than outright fraud, too: sloppily prepared visa applications that earn refusals, which then sit on your travel history and make every future application harder. A cheap shortcut can cost you years of smooth travel. Booking with a licensed agency is not paying for a middleman; it is paying for the guarantee that someone qualified is answerable for your trip.",
+    },
+    {
+      type: "h2",
+      text: "When Things Go Wrong, a Real Team Fixes Them",
+    },
+    {
+      type: "p",
+      text: "Strikes happen, flights get delayed, hotels overbook. This is where a real team earns its keep: rebooking you on the next available flight, negotiating with the airline, rearranging your hotel, and keeping you updated while you sip your airport coffee instead of panicking at the counter. It is also why proper agencies plan trips rather than just sell them: honest advice on documents, realistic timelines for visas, and itineraries built around your actual budget. Travelers overseas and at home deserve the same treatment, straight answers, proper paperwork, and a phone number that gets answered. That last one matters more than people realize until the night they need it.",
+    },
+    {
       type: "quote",
       text: "A good travel agency has nothing to hide and everything to show.",
     },

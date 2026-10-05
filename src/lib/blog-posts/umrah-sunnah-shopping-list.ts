@@ -70,6 +70,14 @@ export const umrahSunnahShoppingList: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Know Your Date Varieties Before You Shop",
+    },
+    {
+      type: "p",
+      text: "Madinah is the world's capital of dates, and each variety has its own character, so shop like a local rather than grabbing the first box. Ajwa is the famous soft, dark date of Madinah, beloved and pricier, perfect for parents and elders. Safawi is dark, chewy, and slightly sweet, the connoisseur's everyday choice. Sukkari is golden and caramel-soft, the one children beg for by name. Khudri and Segai are the budget-friendly workhorses, ideal for bulk gifting at the office, and chocolate-stuffed dates travel beautifully and vanish fastest at family gatherings. Buy by the kilo, taste before you commit, and ask the shop to vacuum-seal boxes for the flight.",
+    },
+    {
+      type: "h2",
       text: "The Wider List: What Else Earns Luggage Space",
     },
     {
@@ -84,6 +92,8 @@ export const umrahSunnahShoppingList: BlogPostSeed = {
         "Sidr honey or black seed oil: traditional remedies from the region's best suppliers, sold in sealed jars with proper labelling",
         "Oud wood chips and bakhoor: for home incense; a small amount fills a whole house",
         "Ihram-quality cotton thobes and abayas: lighter, cooler, and often cheaper here than abroad",
+        "Dua card sets sold near the Haram, covering tawaf, travel, and daily life: they cost almost nothing and become lifelong favourites, so buy several",
+        "Small Zamzam bottles and keyrings: modest keepsakes that delight children and cost riyals, not hundreds",
       ],
     },
     {
@@ -105,6 +115,14 @@ export const umrahSunnahShoppingList: BlogPostSeed = {
     {
       type: "p",
       text: "Attar bottles travel inside a zip-lock bag, wrapped in socks, in your checked luggage, because glass and cabin pressure do not negotiate. Boxes of dates go in the middle of the suitcase, cushioned on all sides. Distribute the weight carefully: one broken jar of honey has ruined more than one returning pilgrim's suitcase, and the cleanup spares nobody. Keep your most fragile and most precious items, the ones you would grieve to lose, in your hand luggage along with your documents.",
+    },
+    {
+      type: "h2",
+      text: "The Zamzam Rule Every Airline Enforces",
+    },
+    {
+      type: "p",
+      text: "Nothing carries more meaning home than sealed Zamzam, but do not pack it in your carry-on, because it will not survive security. Airlines allow pilgrims a limited quantity, typically five litres, as checked baggage only, sold in sealed official containers at the airport rather than in the city. Buy it at the airport before check-in, keep the receipt with your boarding pass, and confirm your airline's current allowance before you fly, since rules tighten during peak seasons. And a final upgrade worth the sniff test: Taif rose oil, from the famous mountain roses, is the luxury version of the ittar counter and makes the one gift people still mention years later.",
     },
     {
       type: "quote",

@@ -101,6 +101,62 @@ export const tahajjudQiyamHaramGuide: BlogPostSeed = {
       text: "At home, standing before Allah is a phrase. In the Haram, it is a location.",
     },
     {
+      type: "h2",
+      text: "When Ramadan Rewrites the Whole Night",
+    },
+    {
+      type: "p",
+      text: "Ramadan night prayer at Masjid al-Haram is another creature entirely from the quiet individual Tahajjud described above. Taraweeh here is unlike any prayer you have ever attended: world-renowned imams lead, the Quran is completed across the month, and the congregation stretches through the mataf, the courtyards, and every floor, with millions watching the same prayer worldwide. The first time you stand in the Haram after Isha in Ramadan, you may not pray much at first; you will simply look up at hundreds of thousands of people, one sky, one Kaaba, and a recitation that seems to rise from the earth itself.",
+    },
+    {
+      type: "h2",
+      text: "Which Nights Matter Most",
+    },
+    {
+      type: "ul",
+      items: [
+        "The last ten nights are the peak: the Prophet, peace be upon him, devoted more effort to them than to any other time of year, and the Haram reflects it, fuller, longer, more intense",
+        "The odd nights, the 21st, 23rd, 25th, 27th, and 29th, are where Laylat al-Qadr hides, so treat every odd night as the night, because only Allah knows which one it is",
+        "The 27th night draws the biggest crowd of the year, beautiful but prepare for a Haram that is full to its edges",
+        "The first twenty nights are the underrated gem: the same imams and the same complete Taraweeh at a fraction of the crowd, and space to actually breathe and find a spot",
+        "The final juz is completed in the closing nights, and that khatm prayer, with the Witr dua stretching long and heavy, is something people remember for the rest of their lives",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Prepare Your Body, Because This Is a Physical Event",
+    },
+    {
+      type: "p",
+      text: "Qiyam in Ramadan is a marathon, not a sprint. Pilgrims who pace themselves last the whole month; those who go all-out on night one often fade by night five. Nap after Fajr and again after Dhuhr, because two short sleeps beat one long one. Eat light at suhoor, since a heavy meal makes the long rak'ahs unbearable. Hydrate constantly between iftar and Isha; Zamzam counts, and it is free. And walk daily before you travel, because hours of standing demand legs that cooperate.",
+    },
+    {
+      type: "h2",
+      text: "Prepare Your Heart",
+    },
+    {
+      type: "p",
+      text: "The crowd will carry your body, but preparation carries your heart. Memorize the dua of Laylat al-Qadr, Allahumma innaka afuwwun tuhibbul afwa fa-fu anni, O Allah, You are Most Forgiving and You love forgiveness, so forgive me. Write your personal dua list before you arrive, because at 2 a.m., exhausted and emotional, you will not remember half of what you meant to ask. And follow the recitation if you can, with a pocket Quran or an app on your phone tracking the night's portion.",
+    },
+    {
+      type: "h2",
+      text: "The Night-Of Survival Strategy",
+    },
+    {
+      type: "ul",
+      items: [
+        "Arrive two to three hours early on the odd nights; the mataf fills completely well before the adhan",
+        "Carry your shoes in a drawstring bag, because racks overflow, and finding yours among thousands at 1 a.m. is a memory you do not want",
+        "Pick a landmark: the nearest column, clock, or gate, so you can find your spot, and your hotel, afterward",
+        "Agree on a family meeting point before entering; phones struggle in a sea of a million people, and separated families have found each other an hour after Fajr by pure luck",
+        "Hold your position at the end rather than joining the push, because waiting ten minutes beats being swept sideways through a human current",
+      ],
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we stand for long, safe, peaceful nights of prayer, we remember those who cannot sleep in peace at all. Our brothers and sisters in Palestine and Sudan face hunger and fear that no Ramadan night should hold. Keep them in every dua you raise in these blessed hours, and support trusted humanitarian relief where you are able. May Allah accept their patience as He accepts our prayers.",
+    },
+    {
       type: "p",
       text: "Tahajjud in the Haram needs no ticket and no reservation, just intention, an alarm and warm socks. Nap early, aim for the last third of the night, claim a quiet corner on the upper floors, and let those whispered prayers do their quiet work.",
     },

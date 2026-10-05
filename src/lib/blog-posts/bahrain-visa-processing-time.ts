@@ -84,6 +84,40 @@ export const bahrainVisaProcessingTime: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Eid Travel? Circle a Date Six Weeks Ahead",
+    },
+    {
+      type: "p",
+      text: "Every Eid, someone insists the Bahrain visa only takes a few days, and then spends the holiday refreshing their inbox instead of strolling the Manama waterfront. Eid al-Fitr is expected around the second week of March 2027, subject to the moon sighting, so count back six weeks and your real deadline lands in late January. Apply by the 30th of January 2027, even if the portal promises faster turnaround. The same mathematics works for Eid al-Adha, expected around mid-May 2027, which puts your deadline in early April, and for any future Eid the rule never changes: file four to six weeks before departure.",
+    },
+    {
+      type: "p",
+      text: "Why the buffer, when the official clock says 3 to 5 working days? Because Eid changes everything. Application volumes spike and systems slow down exactly when you need speed. One off document, a blurry photo or a mismatched name, and your file bounces back costing precious days, right as visa desks close for the holidays themselves. Meanwhile fares climb while you wait, and Karachi to Bahrain tickets have been watched to double inside a single pre-Eid week. One traveller of our acquaintance applied eight days before Eid; his visa arrived two days after the holiday ended. Do not be that traveller.",
+    },
+    {
+      type: "p",
+      text: "For a typical Eid trip, the 14-day single-entry visit eVisa is plenty, applied through Bahrain's official eVisa portal, with 30- and 90-day options if you plan to stay on. Pakistani passport holders may see visa-on-arrival routes listed as well, but eligibility rules shift, airport queues grow long, and Eid is the worst possible week to gamble. The eVisa, filed early, is the dependable route.",
+    },
+    {
+      type: "h2",
+      text: "The Document Folder to Build Today",
+    },
+    {
+      type: "ul",
+      items: [
+        "Passport valid for at least six months beyond your arrival date",
+        "A recent digital photograph on a plain white background",
+        "Confirmed return ticket",
+        "Hotel booking, or your host's address in Bahrain",
+        "Proof of funds, such as a recent bank statement",
+      ],
+    },
+    {
+      type: "p",
+      text: "Scan everything and keep it in one folder before the application window opens. Ten minutes of preparation now beats ten days of panic in February. Then run the sequence that works: submit the visa, book flexible or refundable flights in parallel rather than waiting for approval to even look at fares, and lock the hotel the moment approval lands. Waiting for the visa before touching flights feels cautious, but it is exactly how travellers end up paying peak-season fares for a mid-Eid departure.",
+    },
+    {
+      type: "h2",
       text: "When It Runs Late",
     },
     {
@@ -110,6 +144,10 @@ export const bahrainVisaProcessingTime: BlogPostSeed = {
     {
       type: "quote",
       text: "Filed on the right day, the visa lands before the packing starts. Timing is our department.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we look forward to Eid gatherings, our hearts remain with the people of Palestine and Sudan, whose Eid will arrive amid hardship and loss. We pray for their safety, their relief, and their unbroken spirit. Keep them in your duas this season and support trusted humanitarian relief wherever you can, because no gesture of kindness is too small to matter.",
     },
   ],
   faqs: [

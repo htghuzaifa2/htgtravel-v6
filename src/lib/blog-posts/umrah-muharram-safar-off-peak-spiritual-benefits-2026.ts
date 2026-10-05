@@ -55,6 +55,76 @@ export const umrahMuharramSafarOffPeakSpiritualBenefits2026: BlogPostSeed = {
       type: "quote",
       text: "The smartest calendars start with Muharram in Makkah. Ask us for the quiet season.",
     },
+    {
+      type: "h2",
+      text: "First, Understand the Calendar You Are Planning Around",
+    },
+    {
+      type: "p",
+      text: "The Islamic, Hijri, calendar follows the moon, so its year runs about 354 days, roughly ten to eleven days shorter than the Gregorian one. That means Ramadan, Rajab, and every other sacred date drifts backward through the seasons each year, and Muharram that fell in winter a few years ago now marches toward summer. Before anything else, check this year's Hijri dates against your own calendar, because a Ramadan you remember as pleasant can quietly become a Ramadan of serious heat, and an off-peak month you remember as cool can arrive in July.",
+    },
+    {
+      type: "h2",
+      text: "The Four Sacred Months",
+    },
+    {
+      type: "p",
+      text: "The Quran names four months as sacred: Dhul-Qi'dah, Dhul-Hijjah, Muharram, and Rajab. Traditionally months of peace, many scholars hold that good deeds carry extra weight within them, which makes any Umrah in these months a beautiful choice, and makes Muharram in particular a hidden gem, because the post-Hajj rush has faded, hotel prices soften, and the Haram breathes again.",
+    },
+    {
+      type: "p",
+      text: "A gentle note on Rajab, since you may hear that Umrah in it equals Hajj in reward: scholars differ on that particular narration, so treat the claim with care. Rajab is sacred, and an Umrah performed in it is an Umrah performed in a blessed month. Your sincerity matters more than the label.",
+    },
+    {
+      type: "h2",
+      text: "The White Days: Ayyam al-Beed",
+    },
+    {
+      type: "p",
+      text: "The White Days are the 13th, 14th, and 15th of every Hijri month, the nights when the moon shines full and bright. Fasting them is a beloved Sunnah, with the Prophet, peace be upon him, describing three fasts a month as carrying the reward of a lifetime of fasting. Pilgrims increasingly plan entire trips around them, and it is easy to see why: perform your Umrah, then fast those three days in the shadow of the Haram, and break your fast at sunset with dates and Zamzam in the courtyard. Pilgrims who have done exactly that still call it the best meal of their lives.",
+    },
+    {
+      type: "h2",
+      text: "Meeting the Islamic New Year at the Haram",
+    },
+    {
+      type: "p",
+      text: "There is poetry in the timing of 1 Muharram: the Hijri calendar begins with the Hijrah, the Prophet's migration from Makkah to Madinah, so every Islamic New Year quietly celebrates a journey from Makkah. Starting your own new year in Makkah, at the House of Allah, feels like coming full circle. One detail many first-timers miss: the Islamic day begins at sunset, not midnight, so 1 Muharram actually begins at Maghrib on the final evening of Dhul Hijjah. Arrive at the Haram an hour or two before that Maghrib, pray it and Isha in congregation, and write a handwritten list of duas for the year ahead to read right there. A year later, flipping through that notebook, more will have been answered than you remember asking for.",
+    },
+    {
+      type: "h2",
+      text: "Stay Through Ashura and You Have Built Something Special",
+    },
+    {
+      type: "p",
+      text: "Here is the upgrade worth considering: stay through the 10th of Muharram, the day of Ashura, and fast it. The Prophet, peace be upon him, recommended this fast, saying it expiates the sins of the previous year. Fasting the old year's sins away inside the Haram's horizon as the new one begins is not a holiday itinerary; it is a memory that reorganizes a life. When Muharram falls in the hotter months, simply respect the weather: perform Tawaf in the late night or early morning hours, book a hotel minutes from the Haram so you can retreat between prayers, hydrate relentlessly, and give any elders a protected midday rest.",
+    },
+    {
+      type: "h2",
+      text: "A Season-by-Season Cheat Sheet",
+    },
+    {
+      type: "ul",
+      items: [
+        "Muharram and Safar: the quietest and kindest on the wallet; visa season reopens after Hajj; pleasantly cool in some years, hot in others, so check the drift",
+        "Ramadan: the greatest reward, the greatest crowds, and the greatest prices, especially the last ten nights. Book many months ahead, and pack patience beside your ihram",
+        "Shawwal and Dhul-Qi'dah: a calm shoulder season; remember that Umrah visa processing pauses in the weeks around Hajj",
+        "Rajab and Shaban: the gentle buildup to Ramadan; busy but manageable, with anticipation in the air",
+        "Peak summer: fewer crowds, serious heat. Go early in the day, rest at noon, and let the night prayers carry the journey",
+      ],
+    },
+    {
+      type: "h2",
+      text: "The Best Date Is the One You Actually Book",
+    },
+    {
+      type: "p",
+      text: "One final truth: there is no wrong day for Umrah. The journey is open every day of the year, and the early believers were encouraged not to delay it. Blessed dates add sweetness, but a sincere heart in an ordinary month outweighs a perfect plan that never happens. Pick the month your life actually allows, match it against the Hijri calendar, and make the intention real.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we mark our calendars for blessed days, we remember those whose days hold no such certainty. Our brothers and sisters in Palestine and Sudan face hunger and hardship that no date on any calendar can sweeten. Keep them in your duas with every fast and every Tawaf, and support trusted humanitarian relief where you are able. May Allah write relief for them, and acceptance for us all.",
+    },
   ],
   faqs: [
     { q: "Why do people choose Muharram and Safar for Umrah?", a: "For the calm: hotel rates at their annual low, a Mataf walkable at ease, with longer, calmer time facing the Kaaba per visit. Scholars also note that worship in quiet months carries its own sincerity, away from seasonal crowd energy." },

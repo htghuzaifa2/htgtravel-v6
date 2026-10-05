@@ -105,6 +105,59 @@ export const itikafMasjidAlHaramGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Sleep Setup That Makes or Breaks the Ten Nights",
+    },
+    {
+      type: "p",
+      text: "Here is what separates a focused itikaf from a miserable one. A foldable mattress or thick sleeping pad earns its space by night four, and a travel pillow saves your neck. Bring a warm blanket or sleeping bag liner, and yes, even in Arabia, because the mosques run air conditioning at full power through the night, and sleeping cold is the single most common regret we hear. An eye mask and earplugs close the loop: hundreds of people praying, whispering, and walking past you all night is beautiful and exhausting in equal measure.",
+    },
+    {
+      type: "p",
+      text: "One tip from hard experience: mark your spot with a distinctive bag or prayer mat colour. Returning from wudu to a sea of identical white pillows at 2 a.m. is genuinely disorienting, and the wrong corner becomes yours for the next eight nights.",
+    },
+    {
+      type: "h2",
+      text: "Worship Essentials, Kept Within Reach",
+    },
+    {
+      type: "ul",
+      items: [
+        "Your own Quran, a copy you read comfortably from, plus a small dua book for the nights when words run dry",
+        "Tasbeeh beads rather than a digital counter, because batteries die at Suhoor and beads never do",
+        "A notebook and pen, for duas, reflections, and the intentions you want to carry home",
+        "A lightweight musalla, since marble is cold at Fajr and the mosque's mats are not always where you are assigned",
+      ],
+    },
+    {
+      type: "p",
+      text: "Pack the worship items in a separate pouch so they are never buried under snacks. That sounds trivial right now, and it will not sound trivial at 3 a.m. on the 27th night.",
+    },
+    {
+      type: "h2",
+      text: "Clothing and the Small Dignities",
+    },
+    {
+      type: "p",
+      text: "Comfort beats style entirely for ten nights in one building. Two to three sets of loose, breathable clothing, more socks than you think you need, slippers with a strap that survive crowds, and a light jacket or shawl for the air conditioning and the Fajr winds. For women, loose layered clothing and a spare hijab or two. Roll everything instead of folding, because rolled clothing halves the space your corner needs. And pack a laundry bag: after ten nights, keeping worn clothes from taking over your small territory is a quiet dignity that matters more than you expect.",
+    },
+    {
+      type: "h2",
+      text: "Food, Power, and the Practical Bits",
+    },
+    {
+      type: "p",
+      text: "The mosque often provides meals in Ramadan, but do not bet your Suhoor on somebody else's timing. Keep dry snacks such as dates, nuts, biscuits, and instant oats, a refillable water bottle, your own medications plus paracetamol and electrolyte sachets, and a power bank with a long charging cable, because sockets near your assigned spot may not exist and a dead phone at Suhoor time is a real problem. Carry a small amount of cash for the nights you step out for ghusl or a quick meal; itikaf allows leaving for genuine needs, so keep the exits minimal and purposeful.",
+    },
+    {
+      type: "h2",
+      text: "What Not to Bring",
+    },
+    {
+      type: "p",
+      text: "Leave the valuables, the laptop, and the suitcase-size toiletry bag at home. No strong perfumes out of courtesy for worshippers packed beside you, no loud alarms because your neighbours are praying, and nothing you would panic to lose. Travel light enough that you could relocate your entire corner in a single trip, because some nights you will need to.",
+    },
+    {
+      type: "h2",
       text: "What It Is Really Like",
     },
     {
@@ -126,6 +179,10 @@ export const itikafMasjidAlHaramGuide: BlogPostSeed = {
     {
       type: "p",
       text: "Itikaf at Masjid al-Haram is part discipline, part sanctuary. Register early on Nusuk, pack light, follow the rules, and let the stillness do its work.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we pack our bags for ten nights in the House of Allah, we hold the people of Palestine and Sudan close, who would give anything for the safety and peace we will be sleeping in. We pray for their relief, their dignity, and their strength. Keep them in your duas through these blessed nights and support trusted humanitarian relief where you are able, and let some of what we seek in itikaf reach them too.",
     },
   ],
   faqs: [
