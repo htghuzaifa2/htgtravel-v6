@@ -88,12 +88,37 @@ export const ramadanUmrah2027BookingTimeline: BlogPostSeed = {
       ],
     },
     {
+      type: "h2",
+      text: "Under Three Months: The Salvage Mission",
+    },
+    {
+      type: "p",
+      text: "If you are reading this with fewer than ninety days to Ramadan, honest hope remains, but the strategy changes. Last-ten-nights packages are mostly gone by now, and what remains is pricier, farther out, and on awkward dates. Your realistic options become cancellations and waitlists, the first ten nights instead of the last, or shifting to Shawwal, the month immediately after Eid. It is not impossible; it is simply negotiating with fate rather than choosing freely, which is exactly why the early bookers sleep better.",
+    },
+    {
+      type: "h2",
+      text: "The Timing Hacks Most People Miss",
+    },
+    {
+      type: "ul",
+      items: [
+        "The first ten nights carry the same blessed month with smaller crowds and gentler prices. Underrated, genuinely",
+        "Mid-Ramadan, roughly the 10th to the 20th, is the sweet spot: still fully Ramadan, noticeably calmer than the final stretch",
+        "Shawwal, right after Eid, is the insider's choice. Crowds drop, hotels discount, and many travellers now deliberately choose it over a stressful last-ten-nights dash",
+        "Set a Nusuk reminder, because Umrah permits are released in waves, and prime Ramadan dates can disappear within hours of opening",
+      ],
+    },
+    {
       type: "quote",
       text: "Umrah in Ramadan is equal in reward to Hajj. Hadith, Bukhari and Muslim",
     },
     {
       type: "p",
       text: "One line to remember: decide your dates now, confirm your Ramadan Umrah 2027 package at the earliest window you can, and secure the best hotel you can afford, because in Ramadan the early bookers truly pray easier.",
+    },
+    {
+      type: "p",
+      text: "A note of the heart. As we prepare for a month of mercy and answered prayers, let us keep the people of Palestine and Sudan in ours. They deserve the peace, safety, and dignity that this blessed month promises to all of us. Remember them in your duas, and support trusted humanitarian relief efforts where you can. Their hope deserves our solidarity.",
     },
   ],
   faqs: [

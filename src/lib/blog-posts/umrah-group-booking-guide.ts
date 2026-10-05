@@ -53,6 +53,55 @@ export const umrahGroupBookingGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Survey Your Group Before You Book Anything",
+    },
+    {
+      type: "p",
+      text: "This step saves you from a hundred small regrets, so do it before requesting a single quote. Find out who is actually coming: how many adults, children, and seniors, whether anyone needs wheelchair support or rooms close to the Haram, how many are first-timers, what a realistic per-person budget looks like, and how long people can travel. A group of thirty young brothers needs a different trip than a group with twelve grandparents. Know your people first, then build the plan around them, because the reverse order is how community trips unravel.",
+    },
+    {
+      type: "h2",
+      text: "Handle the Money Transparently",
+    },
+    {
+      type: "p",
+      text: "Money is where community trips get complicated, so keep it boringly organized, and trust becomes your real currency as an organizer:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Collect a deposit with a firm deadline, since flights and rooms require non-refundable payments upfront",
+        "Offer a payment plan where possible; Umrah is a stretch for many families, and flexibility fills groups",
+        "Keep everything in a separate account or spreadsheet, and share updates openly with the whole group",
+        "Ask about the free place: most group Umrah packages include a free seat for the leader, usually one per 20 to 25 pilgrims. Always ask",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Rooming Lists and the Vaccination Nobody Expects",
+    },
+    {
+      type: "p",
+      text: "Two unglamorous items decide more group trips than any hotel star rating. First, the rooming list: decide sharing arrangements early, because in my experience this causes more debate than any other single detail, and a thoughtful pairing sets the mood of the whole journey. Second, the meningitis ACWY vaccination certificate, which is mandatory for Umrah travellers. Remind people at the mosque, not at the airport, because a single missing certificate can hold up an entire rooming list, and clinics need notice for group appointments.",
+    },
+    {
+      type: "h2",
+      text: "On the Ground: Rhythm, Buddies, and a Meeting Point",
+    },
+    {
+      type: "p",
+      text: "Big groups do not fall apart from bad planning; they fall apart at the Haram, when forty people scatter in every direction. So set one agreed meeting point and time after every collective prayer. Create a WhatsApp group with the itinerary pinned, and appoint a helper for every ten to fifteen pilgrims. Pair first-timers with experienced pilgrims, because a buddy system turns confusion into confidence. And leave free time in the schedule: people come for personal worship, not a tour bus marathon, and over-scheduling is the most common mistake organizers make.",
+    },
+    {
+      type: "h2",
+      text: "Hold One Briefing Before Departure",
+    },
+    {
+      type: "p",
+      text: "Before departure, gather everyone once: how to enter ihram, the steps of Umrah, the key duas, and packing basics. A simple printed pocket guide, one page that folds into a pocket, is worth its weight in gold at the miqat. First-timers arrive calm instead of anxious, families arrive prepared instead of improvising, and you, the organizer, get to walk onto that plane as the person who handled it, which is exactly how the trip should begin.",
+    },
+    {
+      type: "h2",
       text: "More Than a Bonus: When a Company Takes Its Team",
     },
     {

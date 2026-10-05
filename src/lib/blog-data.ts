@@ -295,6 +295,22 @@ import { umrahForNursesDoctorsShiftWork } from "./blog-posts/umrah-for-nurses-do
 import { umrahForSeafarersBetweenContracts } from "./blog-posts/umrah-for-seafarers-between-contracts";
 import { studentUmrahUniversityBreak } from "./blog-posts/student-umrah-university-break";
 import { jeddahAirportArrivalGuideUmrah } from "./blog-posts/jeddah-airport-arrival-guide-umrah";
+import { umrahSunnahShoppingList } from "./blog-posts/umrah-sunnah-shopping-list";
+import { haramLiveStreamDuaUntilYouTravel } from "./blog-posts/haram-live-stream-dua-until-you-travel";
+import { teachingKidsAboutKaabaBeforeUmrah } from "./blog-posts/teaching-kids-about-kaaba-before-umrah";
+import { eidWeekDepartureGuideFlyingHome } from "./blog-posts/eid-week-departure-guide-flying-home";
+import { fourTawafsOfHajjExplained } from "./blog-posts/four-tawafs-of-hajj-explained";
+import { hajjMabroorSignsAccepted } from "./blog-posts/hajj-mabroor-signs-accepted";
+import { customUmrahPackagesDatesFamilyBudget } from "./blog-posts/custom-umrah-packages-dates-family-budget";
+import { employeeDeputationBahrainGccHrGuide } from "./blog-posts/employee-deputation-bahrain-gcc-hr-guide";
+import { fakeUmrahPackagesRedFlags } from "./blog-posts/fake-umrah-packages-red-flags";
+import { chooseTrustworthyUmrahAgencyChecklist } from "./blog-posts/choose-trustworthy-umrah-agency-checklist";
+import { riyadhSeasonAndUmrahCombinedTrip } from "./blog-posts/riyadh-season-and-umrah-combined-trip";
+import { teachersSummerUmrahSchoolBreak } from "./blog-posts/teachers-summer-umrah-school-break";
+import { remoteWorkerUmrahJeddahGuide } from "./blog-posts/remote-worker-umrah-jeddah-guide";
+import { smartHaramTechnology2026 } from "./blog-posts/smart-haram-technology-2026";
+import { umrahOnYourBirthday } from "./blog-posts/umrah-on-your-birthday";
+import { alAqsaThirdHoliestSiteGuide } from "./blog-posts/al-aqsa-third-holiest-site-guide";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -557,6 +573,22 @@ const SEEDS: BlogPostSeed[] = [
   umrahForSeafarersBetweenContracts,
   studentUmrahUniversityBreak,
   jeddahAirportArrivalGuideUmrah,
+  umrahSunnahShoppingList,
+  haramLiveStreamDuaUntilYouTravel,
+  teachingKidsAboutKaabaBeforeUmrah,
+  eidWeekDepartureGuideFlyingHome,
+  fourTawafsOfHajjExplained,
+  hajjMabroorSignsAccepted,
+  customUmrahPackagesDatesFamilyBudget,
+  employeeDeputationBahrainGccHrGuide,
+  fakeUmrahPackagesRedFlags,
+  chooseTrustworthyUmrahAgencyChecklist,
+  riyadhSeasonAndUmrahCombinedTrip,
+  teachersSummerUmrahSchoolBreak,
+  remoteWorkerUmrahJeddahGuide,
+  smartHaramTechnology2026,
+  umrahOnYourBirthday,
+  alAqsaThirdHoliestSiteGuide,
 ];
 
 // Auto-generate IDs for all posts at runtime
