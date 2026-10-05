@@ -134,6 +134,26 @@ export const pilgrimDayInMakkah: BlogPostSeed = {
       ],
     },
     {
+      type: "h2",
+      text: "Sleep Like a Shift Worker, Because in Ramadan You Are One",
+    },
+    {
+      type: "p",
+      text: "Nurses and doctors survive irregular hours with one trick, split sleep, and pilgrims can borrow the exact same system. The main block comes right after Fajr, three and a half to four and a half hours, guarded fiercely as your foundation. Then comes qaylulah, a short midday nap of thirty to forty-five minutes after Dhuhr, which is a Sunnah practice and genuinely restores you for the evening. An optional twenty-minute top-up before iftar or after Taraweeh closes the gap, and pieced together the day delivers six to seven hours across shifts. A doctor from Birmingham on one of our Ramadan groups called it shift-work sleep, and the framing saved everyone: stop feeling guilty about napping, because the schedule demands it.",
+    },
+    {
+      type: "p",
+      text: "Fuel beats willpower, too. Most Ramadan exhaustion is actually dehydration wearing a disguise, so aim for eight to ten glasses of water spread between iftar and suhoor, plus an electrolyte sachet or two. And one caffeine rule to live by: your last tea or coffee goes right after suhoor, never within six hours of your main sleep block, because late-night chai feels essential at the time and then guarantees you lie awake staring at the ceiling during your only real rest window.",
+    },
+    {
+      type: "p",
+      text: "Budget your energy like money across the month, because you cannot spend one hundred percent for thirty nights. Choose your big nights deliberately, the odd nights of the last ten for most pilgrims, and go lighter around them. Give each time block one job: tawaf or shopping or ziyarah, never all three stacked. The Prophet, peace be upon him, taught that the most beloved deeds to Allah are the consistent ones, even if small, so rest is not the opposite of worship here; it is what makes worship sustainable. And if headaches, dizziness, or a shortening temper appear, that is your signal to sit in the courtyard, drink Zamzam, and breathe.",
+    },
+    {
+      type: "p",
+      text: "Families should divide and conquer rather than attend everything together. Couples alternate Haram nights, grandparents or older children take day duty with the little ones while parents nap, and the wheelchair services and rest zones around the Haram exist precisely for long Ramadan nights, so use them without guilt.",
+    },
+    {
       type: "quote",
       text: "Let the adhan, not your phone, tell you what time it is.",
     },

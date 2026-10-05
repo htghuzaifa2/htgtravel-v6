@@ -92,6 +92,10 @@ export const spainTravelGuidePakistanis: BlogPostSeed = {
       text: "A few Andalusia-specific notes that make the week flow. Fly into Madrid or Malaga and let Spain's high-speed trains do the rest: Madrid to Cordoba takes under two hours, and the cities chain comfortably from there. April to June and September to October are the kind windows, because Cordoba and Seville push past forty degrees in deep summer. Halal food is easiest to find in Granada; elsewhere, lean on seafood and vegetable dishes and learn the phrase sin jamon, no ham, which serves you at every counter. Pace it honestly: three cities in seven days is comfortable, four in four days is not, and the journey deserves better than a blur.",
     },
     {
+      type: "p",
+      text: "Three insider details worth crossing the street for. The Mezquita opens its quietest, best-lit free slots between 8:30 and 9:30 in the morning, before the ticketed crowds arrive, and that hour among the arches is the one photographers chase. You will taste al-Andalus on every menu: gazpacho and salmorejo, the tomato bread soups with Moorish roots, olives, saffron, almonds, and citrus, while Granada's teterias in the Albaicin pour mint tea beside Middle Eastern pastries, and the city's famous free tapas tradition rewards every drink. And for prayer, Granada's old mosque by the San Nicolas viewpoint, the Mezquita Mayor de Granada, welcomes visitors, with a small musalla in Cordoba serving travellers too.",
+    },
+    {
       type: "quote",
       text: "Europe's Muslim heartbeat. Visit it with the file built right. Ask us.",
     },

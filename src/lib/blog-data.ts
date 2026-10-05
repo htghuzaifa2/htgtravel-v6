@@ -331,6 +331,14 @@ import { taifDayTripFromMakkah } from "./blog-posts/taif-day-trip-from-makkah";
 import { multiGenerationalUmrahThreeGenerationsGuide } from "./blog-posts/multi-generational-umrah-three-generations-guide";
 import { flightCancelledMissedConnectionRecoveryGuide } from "./blog-posts/flight-cancelled-missed-connection-recovery-guide";
 import { afterUmrahPlacesToVisitSaudiArabia } from "./blog-posts/after-umrah-places-to-visit-saudi-arabia";
+import { umrahWhileLivingAbroadGuide } from "./blog-posts/umrah-while-living-abroad-guide";
+import { lastMinuteUmrahGuide } from "./blog-posts/last-minute-umrah-guide";
+import { visaDelayNoResponseGuide } from "./blog-posts/visa-delay-no-response-guide";
+import { stuckAbroadExpiredVisaGuide } from "./blog-posts/stuck-abroad-expired-visa-guide";
+import { umrahAlulaCombinationTrip } from "./blog-posts/umrah-alula-combination-trip";
+import { abhaSoudahPeaksGuide } from "./blog-posts/abha-soudah-peaks-guide";
+import { abayaShoppingMakkahJeddahGuide } from "./blog-posts/abaya-shopping-makkah-jeddah-guide";
+import { istanbulOttomanMosquesUmrahExtension } from "./blog-posts/istanbul-ottoman-mosques-umrah-extension";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -629,6 +637,14 @@ const SEEDS: BlogPostSeed[] = [
   multiGenerationalUmrahThreeGenerationsGuide,
   flightCancelledMissedConnectionRecoveryGuide,
   afterUmrahPlacesToVisitSaudiArabia,
+  umrahWhileLivingAbroadGuide,
+  lastMinuteUmrahGuide,
+  visaDelayNoResponseGuide,
+  stuckAbroadExpiredVisaGuide,
+  umrahAlulaCombinationTrip,
+  abhaSoudahPeaksGuide,
+  abayaShoppingMakkahJeddahGuide,
+  istanbulOttomanMosquesUmrahExtension,
 ];
 
 // Auto-generate IDs for all posts at runtime

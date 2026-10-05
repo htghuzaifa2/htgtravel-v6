@@ -45,6 +45,43 @@ export const umrahJeddahLayoverStopoverGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "How to Apply, Step by Step",
+    },
+    {
+      type: "ul",
+      items: [
+        "Book your flights with Saudia or Flynas, choosing a connection long enough to be worth it; twelve hours or more is the sweet spot",
+        "Add the stopover service through the airline's stopover page during or after booking, because this is what triggers the free visa application",
+        "Apply at least forty-eight to seventy-two hours before departure, so processing has room to breathe",
+        "Receive the visa by email, and carry a printed copy alongside the digital one",
+      ],
+    },
+    {
+      type: "p",
+      text: "Both airlines sweeten the deal beyond the visa itself: Saudia's stopover program includes discounted hotel nights, and free nights for some cabin classes, plus deals on transport and attractions, while Flynas offers similar perks. Check what is bundled before booking hotels separately, because you might already be covered. And remember that most nationalities eligible for Saudi's e-visa program qualify for the stopover route, including travellers from the US, UK, EU, and beyond.",
+    },
+    {
+      type: "h2",
+      text: "Madinah and Riyadh Change the Mathematics Too",
+    },
+    {
+      type: "p",
+      text: "Jeddah is not the only door. Transiting through Madinah? Prince Mohammad bin Abdulaziz Airport sits barely twenty to thirty minutes from the Prophet's Mosque, so even a twelve-hour layover can include prayers in the Haram, dinner in the Central Area, and a return with time to spare. That makes Madinah the smarter airport for shorter connections, while Jeddah, with Makkah ninety minutes to two hours away by road or the Haramain train, rewards the longer ones. Riyadh stopovers, meanwhile, suit quick city breaks: the Boulevard, Diriyah, and the National Museum fill a calm day nicely. One essential note for mixed groups: non-Muslims cannot enter Makkah, so Madinah's offerings are the draw when your travel party is mixed.",
+    },
+    {
+      type: "h2",
+      text: "Plan Your Hours Backwards",
+    },
+    {
+      type: "p",
+      text: "The mistake first-timers make is planning as if the layover clock stops while they are out. It does not. Work backwards from your onward flight: immigration queues, travel time, prayer times, and a comfortable buffer at the airport, arriving at least three hours before an international departure. If your connection is fourteen hours, that is realistically eight or nine hours on the ground, enough for Madinah, not for Makkah. And confirm whether your bags are checked through to your final destination or need collecting and rechecking; if it is the latter, factor the time, or travel hand-luggage only for the smoothest experience of your life.",
+    },
+    {
+      type: "p",
+      text: "For those with a full three-day window, the flow writes itself: land in Jeddah in the morning, take the train to Makkah, and perform Umrah at night when the Haram is calm; spend day two on morning prayers, rest, and the train to Madinah for an evening at the Prophet's Mosque; then day three brings a Rawdah visit and the ziyarah sites before returning to Jeddah for your onward flight. That is a complete spiritual trip built from hours that would otherwise be spent at Gate 43.",
+    },
+    {
+      type: "h2",
       text: "Do Not Skip the Umrah Permit",
     },
     {

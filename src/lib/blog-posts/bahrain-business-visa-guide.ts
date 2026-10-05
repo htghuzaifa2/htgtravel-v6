@@ -82,6 +82,46 @@ export const bahrainBusinessVisaGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Fast-Track Options When Time Is Short",
+    },
+    {
+      type: "p",
+      text: "Here is where companies with urgent trips have real advantages. Urgent eVisa processing exists for travellers who need approval within twenty-four to forty-eight hours, for an additional fee; not every application qualifies, but it is a lifeline for last-minute meetings. Guarantor sponsorship moves files too: if your Bahraini partner, client, or local branch registers as a guarantor on the portal, they can sponsor your visa directly, and company-sponsored applications often travel faster because a local entity is vouching for you.",
+    },
+    {
+      type: "p",
+      text: "GCC residents get their own route. If you hold residency in the UAE, Saudi Arabia, Kuwait, or Oman and work in an approved profession, doctors, engineers, consultants, and similar roles, you may be eligible for a smoother entry path. One honest note, though: Pakistani passport holders, even with GCC residency, generally need to arrange a visa in advance rather than on arrival, so always check the current eligibility list before flying.",
+    },
+    {
+      type: "p",
+      text: "Choosing correctly at the start prevents reapplying later, so know the three buckets. The single-entry eVisa, valid fourteen days, suits one short meeting trip. The multiple-entry eVisa, in thirty or ninety day forms, serves teams that visit Bahrain regularly. And the company-sponsored visit visa, where your Bahraini partner registers as guarantor, is often the fastest route for delegations.",
+    },
+    {
+      type: "h2",
+      text: "The Official Portal and the Document Folder",
+    },
+    {
+      type: "p",
+      text: "Bahrain's official eVisa portal, evisa.gov.bh, is the only government website for applications, so ignore lookalike sites entirely. The process itself is genuinely simple: fill in your details, upload documents, pay online, and wait. Keep this folder ready before you start: a passport valid for at least six months, a recent photo on a white background, your return flight booking, hotel confirmation, and the invitation or guarantee letter from the Bahraini company stating your trip's purpose, plus a residence card copy for GCC residents.",
+    },
+    {
+      type: "p",
+      text: "Incomplete or mismatched details are the number-one reason applications stall, so double-check that names on your ticket, hotel, and passport match exactly. And carry a printed copy of your eVisa and invitation letter when you travel: immigration officers appreciate it, and phone batteries die at the worst times. One client's whole delegation ran smoother simply because someone thought to pack a folder.",
+    },
+    {
+      type: "h2",
+      text: "A Few Tips From Experience",
+    },
+    {
+      type: "ul",
+      items: [
+        "Apply at least a week before travel even with fast-track options, because flights to Manama fill up around major expos",
+        "If several colleagues travel together, submit applications as a group so approvals arrive together",
+        "Book hotels near the diplomatic area when meetings cluster there, and let someone who files these weekly handle the paperwork",
+      ],
+    },
+    {
+      type: "h2",
       text: "When You Need More Than a Business Visa",
     },
     {
@@ -105,6 +145,10 @@ export const bahrainBusinessVisaGuide: BlogPostSeed = {
     {
       type: "quote",
       text: "Strong letters, clean files, meetings that start on time. That is business travel handled properly.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we help travellers cross borders for opportunity and trade, our thoughts stay with the people of Palestine and Sudan, who face hardship no family should endure. We hold them in our prayers and hope for their safety and relief. Wherever this post finds you, keep them in your duas and support trusted humanitarian efforts where you can, because compassion travels farther than any of us.",
     },
   ],
   faqs: [

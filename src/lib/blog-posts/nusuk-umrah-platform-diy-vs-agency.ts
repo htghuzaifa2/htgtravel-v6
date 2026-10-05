@@ -123,6 +123,30 @@ export const nusukUmrahPlatformDiyVsAgency: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Hidden Costs Behind the Sticker Price",
+    },
+    {
+      type: "p",
+      text: "When you self-book, you see three numbers: flights, hotel, visa. A real Umrah trip carries about ten more, and each one looks small until they stand together. The cheap hotel trap is the classic: a room 1.5 kilometres from the Haram costs a fraction of one 300 meters away, but you will cross that distance five times a day, so the savings quietly become daily taxi fares in both directions, shuttle buses that run on their schedule rather than yours, and exhaustion felt exactly when you want to be standing for Isha. One family we spoke to booked a hotel described as close to the Haram; it was close to a different landmark entirely, and their ten days of taxis cost more than the walking-distance upgrade would have from the start.",
+    },
+    {
+      type: "p",
+      text: "Getting around is not free either. A 2 a.m. landing in Jeddah makes the taxi to Makkah genuinely expensive, the Haramain train sells out during busy weeks, and stations do not always sit beside your hotel. The Makkah-to-Madinah leg is the one self-bookers forget to budget at all.",
+    },
+    {
+      type: "p",
+      text: "Then come the small fees: card and forex charges that add two to three percent per transaction when you pay in riyals or dollars, service fees that appear only on the final payment screen, name corrections where one misspelled letter on a flight booking costs more than a night's hotel room, and free cancellation that stops being free once you scroll far enough. And when something breaks mid-trip, the solo traveller fixes it at a midnight front desk, in a queue, with tired children, while an agency fixes it with a phone call.",
+    },
+    {
+      type: "h2",
+      text: "To Be Fair, When Self-Booking Works",
+    },
+    {
+      type: "p",
+      text: "Honesty cuts both ways here. If you are flexible on dates, traveling off-season, have performed Umrah before, and genuinely enjoy logistics, DIY can work beautifully, and we would rather tell you that than pretend otherwise. The travellers who get hurt are the ones who believed they were choosing between a package and free, when they were actually choosing between one clear price and a dozen unknowns. Add up the taxis, transfers, fees, and visa risks first, then compare that true total against a package quote, and let the real mathematics make the decision.",
+    },
+    {
+      type: "h2",
       text: "A Final DIY Checklist, If You Go That Way",
     },
     {

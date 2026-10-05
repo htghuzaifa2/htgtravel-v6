@@ -115,6 +115,18 @@ export const umrahMuharramSafarOffPeakSpiritualBenefits2026: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "When Slots Actually Fill Up",
+    },
+    {
+      type: "p",
+      text: "The cheat sheet tells you the character of each month; this tells you the booking mathematics. Ramadan's last ten nights demand four to six months in advance, without exaggeration, and walking-distance hotels sell out first with prices climbing steeply from there. Early Ramadan and the December school holidays need two to three months. Shaban and Rajab, the pre-Ramadan buildup, take one to two months, and Shaban especially rewards early booking because many pilgrims deliberately choose it to beat the Ramadan rush, particularly the middle of the month. Muharram, Safar, and the other quiet months are the relaxed ones, where two to four weeks is often enough.",
+    },
+    {
+      type: "p",
+      text: "Two seasonal notes deserve their own warning. Expect a small bump around Eid Milad un Nabi on the twelfth of Rabi al-Awwal, when the city fills with visitors honouring the occasion. And treat any Dhul Hijjah Umrah deal with suspicion, because Umrah for regular pilgrims pauses around mid-Dhul Qadah and stays closed through the Hajj period, reopening only after Hajj wraps up. Confirm the exact travel dates before paying anything in that window, always.",
+    },
+    {
+      type: "h2",
       text: "The Best Date Is the One You Actually Book",
     },
     {

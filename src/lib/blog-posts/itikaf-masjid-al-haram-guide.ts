@@ -170,7 +170,19 @@ export const itikafMasjidAlHaramGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Absolutely. Women have dedicated itikaf sections in the Haram with their own registration through Nusuk. In recent years women's spots have opened in greater numbers and thousands participate, so sisters should apply just as early, because those permits vanish fastest of all.",
+      text: "Absolutely, and in growing numbers. Women have dedicated itikaf sections in both Haramain with their own registration through Nusuk. In Masjid al-Haram, designated women's sections are allocated on specific floors and mezzanine areas with clear signage during the last ten nights, and locations can shift year to year based on crowd planning, so confirm on arrival. In Masjid an-Nabawi, women's itikaf areas sit within the courtyard sections, typically in the shaded zones designated for female worshippers.",
+    },
+    {
+      type: "p",
+      text: "The sections are roped or partitioned with volunteers managing entry, and they are quieter, safer for sleeping, and honestly the best-kept secret of the last ten nights. Apply as early as the system opens, because women's permits vanish fastest of all, and if permits appear unavailable, check back often since cancellations happen.",
+    },
+    {
+      type: "p",
+      text: "Let us set expectations with love, because this is beautiful and demanding in equal measure. You will sleep in snatches, the restroom queues at Fajr are real, and your back will discover muscles it never knew existed. But on the odd nights, when the Haram fills to its doors and the imam's recitation cracks your heart open, you will understand why women return every year without hesitation. If ten full nights feel like too much, remember that fewer nights, or entering when you can, still carries reward. Start with what is sustainable for you.",
+    },
+    {
+      type: "p",
+      text: "Companionship genuinely helps: many women do itikaf with a sister, friend, or family member, someone to watch your spot during wudu, share food, and keep you company. If you are traveling from abroad, confirm the current visa and mahram rules before booking; regulations for women traveling for Umrah have relaxed considerably in recent years, but organized group travel remains the smoothest route, and a hotel within a two-minute walk means family can bring you meals through the nights.",
     },
     {
       type: "quote",
