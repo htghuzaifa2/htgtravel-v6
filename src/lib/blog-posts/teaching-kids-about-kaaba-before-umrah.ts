@@ -53,6 +53,8 @@ export const teachingKidsAboutKaabaBeforeUmrah: BlogPostSeed = {
         "Going to Mecca by Na'ima B. Robert: a gentle picture book walking through the whole Umrah journey, perfect for ages four to eight",
         "Tell Me About Hajj by Saniyasnain Khan: clear and visual, suited to slightly older kids who want facts",
         "The Story of the Elephant by Shade 7 Publishing: a pop-up book about Surah Al-Feel that children genuinely refuse to put down",
+        "Yan's Hajj by Fawzia Gilani: a moving tale about a man whose journey to Makkah keeps being delayed by his kindness to others, and the patience the story teaches sneaks up on adults too",
+        "Golden Domes and Silver Lanterns by Hena Khan: a gentle colors-and-culture book, perfect for ages three to six",
         "Sticker and activity books on Hajj and Umrah: widely available from Islamic publishers and worth their weight in gold on the flight itself",
       ],
     },
@@ -100,6 +102,31 @@ export const teachingKidsAboutKaabaBeforeUmrah: BlogPostSeed = {
     {
       type: "p",
       text: "Write a little list they carry themselves: find the golden door, count the minarets, drink Zamzam, spot the Maqam Ibrahim, find a pigeon, and locate the green light from afar. Every checkmark keeps them engaged through long prayers and gives you a beautiful keepsake afterward. Children love a mission, and the Haram is the greatest mission field they will ever walk. The list also becomes your gentlest teaching tool, because each item opens a conversation about what that spot means in the story of the House.",
+    },
+    {
+      type: "h2",
+      text: "The Safety Lessons to Rehearse at Home",
+    },
+    {
+      type: "p",
+      text: "Spiritual preparation matters most, but small practical rules keep children safe and calm, and rules rehearsed at home surface automatically on the day. Treat them like fire drills: repeat them until they are boring, because boring is exactly what you want when it matters. The lessons themselves are short:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Stay close to Mama or Baba, and hold hands in crowds rather than in open spaces only",
+        "If we get separated, stand exactly still; moving children are hard to find, and still ones are found fast",
+        "The Kaaba is for respect, not climbing or games; explain gently that some people are crying because they are so happy to be there",
+        "Pack a patience kit for long waits: a quiet toy, a snack, and a game of counting lanterns",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Give Them a Job and a Small Bag",
+    },
+    {
+      type: "p",
+      text: "Children behave remarkably better when they carry responsibility, so hand some over before the flight. Let them pack their own small backpack with a water bottle, dates, and a notebook, and make it theirs to manage. Ask them to be the family's Kaaba spotter, the first to spot it from the hotel window each morning, and take the job seriously because they certainly will. Spin a globe or open a map and trace the journey from your home city to Makkah with a finger; children grasp distance when they can see it. Assign something, anything, because ownership breeds engagement, and engaged children are a joy to travel with in exactly the places where joy matters most.",
     },
     {
       type: "quote",

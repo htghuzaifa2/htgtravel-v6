@@ -322,6 +322,12 @@ import { umrahJeddahLayoverStopoverGuide } from "./blog-posts/umrah-jeddah-layov
 import { muezzinMasjidAlHaramDayInLife } from "./blog-posts/muezzin-masjid-al-haram-day-in-life";
 import { gettingAroundMakkahTaxisBusesWalking } from "./blog-posts/getting-around-makkah-taxis-buses-walking";
 import { lostInHaramSeparatedFromGroupGuide } from "./blog-posts/lost-in-haram-separated-from-group-guide";
+import { sponsoringUmrahRewardGuide } from "./blog-posts/sponsoring-umrah-reward-guide";
+import { kiswaChangingCeremonyGuide } from "./blog-posts/kiswa-changing-ceremony-guide";
+import { masjidIslamicCenterGroupTripGuide } from "./blog-posts/masjid-islamic-center-group-trip-guide";
+import { hajj2027RegistrationEarlyPreparation } from "./blog-posts/hajj-2027-registration-early-preparation";
+import { umrahVisaRefusedReapplyGuide } from "./blog-posts/umrah-visa-refused-reapply-guide";
+import { taifDayTripFromMakkah } from "./blog-posts/taif-day-trip-from-makkah";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -611,6 +617,12 @@ const SEEDS: BlogPostSeed[] = [
   muezzinMasjidAlHaramDayInLife,
   gettingAroundMakkahTaxisBusesWalking,
   lostInHaramSeparatedFromGroupGuide,
+  sponsoringUmrahRewardGuide,
+  kiswaChangingCeremonyGuide,
+  masjidIslamicCenterGroupTripGuide,
+  hajj2027RegistrationEarlyPreparation,
+  umrahVisaRefusedReapplyGuide,
+  taifDayTripFromMakkah,
 ];
 
 // Auto-generate IDs for all posts at runtime

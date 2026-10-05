@@ -82,6 +82,44 @@ export const umrahRamadan2026LaylatulQadrGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Why Umrah in Ramadan Multiplies the Prize",
+    },
+    {
+      type: "p",
+      text: "Surah Al-Qadr describes the night plainly: worship on Laylatul Qadr is better than a thousand months. The angels descend, the decrees for the coming year are written, and whoever stands that night in sincere faith emerges forgiven. Now add the layer the Prophet ﷺ taught alongside it: Umrah performed in Ramadan carries the reward of Hajj. Combine the two, Ramadan's Umrah and the Night of Decree in the Haram, and you understand why Makkah becomes the most sought-after place on earth for those ten nights.",
+    },
+    {
+      type: "h2",
+      text: "The Permits Nobody Warns You About",
+    },
+    {
+      type: "p",
+      text: "Three things decide your Laylatul Qadr experience, and none of them can be left late. Umrah permits are issued through the Nusuk app, and for the final ten nights they vanish within minutes of release, so know your booking window and be ready the moment it opens. Hotels within walking distance of the Haram for these nights sell out months ahead, with prices climbing as Ramadan approaches. And flights into Jeddah and Madinah fill early from Pakistan, the UK, and the Gulf alike. Pilgrims who arrive prepared spend the night in tears of gratitude; pilgrims who arrive unprepared spend it stressed in queues. Same mosque, same night, completely different experience.",
+    },
+    {
+      type: "h2",
+      text: "The Game Plan for the Night Itself",
+    },
+    {
+      type: "p",
+      text: "The pilgrims who thrive on these nights follow an unspoken routine, learned from the ones who came before them:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Arrive in the afternoon, not at sunset; serious worshippers claim their spots four to six hours before Isha, bringing it as patience rather than complaint",
+        "Break your fast inside the Haram, because iftar among thousands of strangers passing dates and water down the rows is among the most moving scenes you will ever witness",
+        "Pray Isha and Taraweeh with the imam, then settle in for qiyam through the night",
+        "Pack light but smart: a water bottle, dates, a power bank, any medications, and a small bag that closes fully",
+        "Rotate rest in shifts if you travel with a group; someone keeps the spot while others do wudu or rest briefly, because nobody wins Laylatul Qadr through exhaustion",
+      ],
+    },
+    {
+      type: "p",
+      text: "For elderly parents who cannot manage the marathon crowds, one gentle adjustment: the overflow courtyards and upper levels offer screens, organization, and space to sit in worship comfortably through the night, and wheelchair services operate from dedicated points when booked in advance. The reward does not depend on standing in the front row; it depends on the heart.",
+    },
+    {
+      type: "h2",
       text: "Book Before the Crowds Do",
     },
     {
@@ -95,6 +133,10 @@ export const umrahRamadan2026LaylatulQadrGuide: BlogPostSeed = {
     {
       type: "p",
       text: "Cover all ten nights, peak on the odd ones, guard night 27 with patience, and never let an even night go to waste. Whoever stands every night has guaranteed the prize, because Laylatul Qadr cannot hide from someone who never sat down.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we seek mercy on this blessed night, our duas reach for those who need it most. Our hearts remain with the people of Palestine and Sudan, families enduring hardships none of us can imagine, yet facing each night with a faith that shames our complaints. May Allah write relief, safety, and brighter days for them in every decree this night delivers, and may the forgiveness we ask for ourselves flow outward to them as well. Please remember them in your duas on Laylatul Qadr especially, and support trusted humanitarian relief efforts wherever you are able.",
     },
   ],
   faqs: [

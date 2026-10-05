@@ -98,12 +98,63 @@ export const familyUmrahTipsWithChildren: BlogPostSeed = {
       text: "One money note worth knowing before you multiply tickets by four or five: infants usually fly for around ten percent of the adult fare, and children typically pay about seventy-five percent, which is why booking early matters even more for families. Let them watch the Kaaba before asking them to circle it. The sight lands on children the way it lands on adults, and their questions afterward are the journey's real reward.",
     },
     {
+      type: "h2",
+      text: "When Your Heart Is Set on Ramadan",
+    },
+    {
+      type: "p",
+      text: "The advice above favors cooler, quieter months, and it stands. But some families feel a pull toward Ramadan that no calendar argument can touch, and that pull deserves an honest answer rather than a caution. The truth most brochures skip: Ramadan Umrah with kids is not a spiritual marathon at every prayer. It is a gentle rhythm built around little bodies, fasting hours, and midnight Taraweeh, and done right, children absorb more in those blessed days than you would believe. A child who leaves Makkah saying I want to come back is the win condition, whatever the season.",
+    },
+    {
+      type: "h2",
+      text: "The Ramadan Rhythm That Works for Families",
+    },
+    {
+      type: "p",
+      text: "Families who thrive in Ramadan Makkah follow a predictable cycle, and the cycle itself is the strategy:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Suhoor together, made into an event: dates, honey, and a toast to the best day ever",
+        "Fajr in the Haram or on the livestream, followed by early sleep that nobody apologizes for",
+        "A long protected morning sleep, which guards everyone's mood, and the fast for the adults",
+        "A late-afternoon Haram visit, arriving three to four hours before iftar to claim a courtyard spot while kids play quietly nearby",
+        "Iftar in the courtyards among strangers feeding strangers, an unforgettable scene in itself",
+        "Isha and Taraweeh by divide and conquer: one parent prays in congregation while the other stays with the kids, then swap the next night",
+      ],
+    },
+    {
+      type: "p",
+      text: "That last point saves the entire trip. Keeping a four-year-old quiet through a two-hour Taraweeh is a recipe for tears, theirs and yours, while the alternating-parent system means both parents pray in congregation across the week and children receive honest attention instead of constant shushing.",
+    },
+    {
+      type: "h2",
+      text: "Making Fasting Feel Special, Never Forced",
+    },
+    {
+      type: "p",
+      text: "For children who want to join the fast, keep it playful and praise effort rather than duration. Half-day fasts from suhoor to Dhuhr, celebrated with a special lunch, work beautifully, and some families make a homemade first-fast certificate whose value exceeds any toy. Remind them the Prophet ﷺ started small too. And if they cannot or will not fast, release the guilt entirely: watching, helping, and feeling the atmosphere counts for plenty at their age, and the memory of wanting to fast matters more than the fact of finishing one.",
+    },
+    {
+      type: "h2",
+      text: "Ramadan Practicalities That Save the Trip",
+    },
+    {
+      type: "p",
+      text: "Non-fasting children eat openly in Ramadan Makkah, with restaurants serving behind discreet screens and hotel buffets running on Ramadan timing, so confirm suhoor and iftar hours at check-in. Beyond meals, three arrangements carry families through the month: connecting rooms or suites, which prevent the everyone awake at 3 a.m. chaos; a late checkout on the final day, because Taraweeh ends past midnight and children can sleep until departure instead of waiting in a lobby; and a light foldable stroller, allowed in the Haram's designated areas, which rescues small legs exactly when the night grows long. Keep children's hydration honest during non-fasting hours, pack electrolyte sachets for the fasting adults, and the month carries you rather than cracks you.",
+    },
+    {
       type: "quote",
       text: "Families are not an adjustment to our packages. They are the package. Ask about family departures.",
     },
     {
       type: "p",
       text: "Choose proximity over room size, travel in the cooler months, pack light but smart, and build rest into the days. Families do not need perfect conditions for a perfect Umrah, just a plan that works with kids instead of against them.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we raise our children inside the blessing of the Haram, we hold the children of Palestine and Sudan close in our prayers: little ones facing hardships no child should carry, yet meeting them with a courage that shames our complaints. May Allah grant them relief, safety, and the childhoods they deserve, and may our children's laughter remind us to give generously on their behalf. Please keep them in your duas this Ramadan, and support trusted humanitarian relief efforts wherever you are able.",
     },
   ],
   faqs: [

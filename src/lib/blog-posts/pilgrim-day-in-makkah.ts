@@ -92,12 +92,58 @@ export const pilgrimDayInMakkah: BlogPostSeed = {
       text: "Five prayers, five anchors, and between them rest, food, errands, worship and wonder. By worldly measures you did almost nothing, yet you have never felt more full. That is the schedule your soul was designed for, and the challenge is bringing a piece of it home.",
     },
     {
+      type: "h2",
+      text: "When Ramadan Rewrites the Whole Day",
+    },
+    {
+      type: "p",
+      text: "Every rule above belongs to an ordinary month. In Ramadan, the entire day shifts sideways, and the adhan for Fajr has barely finished before you realize you have already lived a full day. Hotel corridors hum from two in the morning, elevators fill with pilgrims, and everyone moves in the same direction, toward the Haram, for suhoor and a night that never truly ends. It is the same rhythm you learned above, played in a different key.",
+    },
+    {
+      type: "h2",
+      text: "Suhoor While the City Stirs",
+    },
+    {
+      type: "p",
+      text: "Many hotels serve suhoor from around two in the morning, though plenty of pilgrims skip it for something better: dates and Zamzam inside the Grand Mosque itself. The walk there at that hour is otherworldly, streets that hold a hundred thousand by day lying calm, coffee stalls glowing on corners, minarets lit against the dark. Fajr in the Haram is a full-body experience, the adhan rolling over your head and the congregation rising in unison, and the hours after it are Makkah's calmest: tawaf flows easily, dua feels unhurried, and the early light on the Kaaba belongs to the patient.",
+    },
+    {
+      type: "h2",
+      text: "The Two-Block Sleep Strategy",
+    },
+    {
+      type: "p",
+      text: "By nine in the morning most pilgrims are back at the hotel, asleep by design rather than exhaustion, because Ramadan nights in the Haram run until one or two in the morning. Disciplined pilgrims sleep in two blocks: a longer stretch after Fajr, and a shorter nap before Asr, guarded like appointments. This is where a hotel near the Haram stops being a luxury and becomes the strategy itself, since a five-minute walk home at half past eight feels entirely different from a forty-five-minute bus ride. Between the sleeps come the quiet middle hours: Quran in the upper arcades, a Zamzam refill, a shower, ihram ironed and power banks charged for the night ahead.",
+    },
+    {
+      type: "h2",
+      text: "After Taraweeh, the Night Keeps Going",
+    },
+    {
+      type: "p",
+      text: "Here is what surprises first-timers: post-Taraweeh Makkah is fully awake. Streets around the Haram fill with food carts, families, and shopkeepers calling deals, and pilgrims eat a light meal, shawarma, fresh juices, the famous Saudi-style fava beans, before drifting back toward the mosque for qiyam in the final ten nights. By the time you fall into bed, often past midnight, you have prayed five prayers in the Haram, possibly completed a tawaf, read Quran, slept strategically, and made dua beside a hundred thousand strangers. Exhausting, deeply. Unforgettable, more.",
+    },
+    {
+      type: "ul",
+      items: [
+        "Hydrate relentlessly between iftar and suhoor, not during the fast",
+        "Guard the nap blocks like appointments, because qiyam rewards the rested",
+        "Eat light at iftar; heavy meals and Taraweeh are enemies",
+        "Keep a Haram bag packed and ready: prayer mat, bottle, dates, power bank, medications",
+        "Know your gate and floor by name, because it saves twenty lost minutes every night",
+      ],
+    },
+    {
       type: "quote",
       text: "Let the adhan, not your phone, tell you what time it is.",
     },
     {
       type: "p",
       text: "A day in the life of a pilgrim in Makkah is simple on paper: five prayers, good sleep, honest food, and the Kaaba at the center of it all. Walk it slowly, pace yourself, and let the rhythm carry you.",
+    },
+    {
+      type: "p",
+      text: "And a note from the heart before we close. As we move through our blessed routine, suhoor to qiyam, we remember those fasting through hardship rather than choice. Our brothers and sisters in Palestine and Sudan break their fast on far less than we ever will, with a gratitude that humbles every full table we have ever sat at. May Allah grant them relief, safety, and brighter days ahead. Remember them in your suhoor and your qiyam this Ramadan, and support trusted humanitarian relief efforts wherever you are able.",
     },
   ],
   faqs: [

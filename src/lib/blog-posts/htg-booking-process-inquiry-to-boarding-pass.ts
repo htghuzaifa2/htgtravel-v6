@@ -97,6 +97,51 @@ export const htgBookingProcessInquiryToBoardingPass: BlogPostSeed = {
       text: "A few days before departure, you receive a final travel brief: timings, terminal information, baggage rules, and a couple of local tips we have picked up along the way. And if anything goes sideways on travel day, a delayed flight, a room mix-up, you call us, not a robot. That support does not expire when your plane lands. It stays with you until you are safely home.",
     },
     {
+      type: "h2",
+      text: "The Umrah Edition: Documents Reviewed Before Anything Moves",
+    },
+    {
+      type: "p",
+      text: "When the booking is an Umrah, the process above tightens in a few blessed places. Before your visa application goes anywhere, we help you get the paperwork right: a passport valid for at least six months, a recent photo with a white background, your meningitis ACWY vaccination certificate, and for families, marriage or birth certificates depending on your group. Requirements vary by nationality, so we confirm exactly what applies to your passport rather than letting you guess. The visa is then submitted through official channels, tracked daily, and delivered to your phone as a digital copy, usually within a few working days.",
+    },
+    {
+      type: "h2",
+      text: "Why Walking Distance Outvotes Star Ratings in Makkah",
+    },
+    {
+      type: "p",
+      text: "For hotels, we do something a little different: we tell you the actual walking distance to the Haram in minutes, not the brochure's version of near. A seven-minute walk to the mosque is worth far more than an extra star on the door when you are returning after every Fajr with tired legs, and the hotels we place pilgrims in are chosen by that arithmetic first. For travelers flying from Karachi, London, Toronto, or Dubai, we look for sensible connections too, routes you survive, not routes with two layovers and a prayer.",
+    },
+    {
+      type: "h2",
+      text: "The Pre-Departure Briefing, Umrah Version",
+    },
+    {
+      type: "p",
+      text: "Roughly a week or two before you fly, you join a briefing, in person if you are in Pakistan, over a video call if you are abroad. No slides, no jargon, just the things that replace nerves with confidence:",
+    },
+    {
+      type: "ul",
+      items: [
+        "How to wear ihram properly, and the mistakes almost everyone makes on the first attempt",
+        "The sequence of Umrah rituals, step by step, so the crowd never rushes your heart",
+        "Packing, currency exchange, and getting a local SIM without the airport markup",
+        "What Saudi immigration actually looks like, so nothing about arrival surprises you",
+      ],
+    },
+    {
+      type: "p",
+      text: "You leave with a simple checklist and our contact details saved in your phone. When you land, everything is pre-arranged: transport from the airport, your coach to Makkah, check-in handled smoothly, and a WhatsApp group with your guide, so if a flight delays or you lose sight of your group near the Haram, one message brings help. That support, from takeoff to tawaf, is the real reason travelers book Umrah packages with us rather than piecing the journey together alone.",
+    },
+    {
+      type: "h2",
+      text: "Your Homework While We Handle Ours",
+    },
+    {
+      type: "p",
+      text: "While we run the machinery, three small assignments genuinely improve your journey, and none of them cost a rupee: walk thirty minutes a day, because the Haram demands more steps than any first-timer expects; refresh your duas and the talbiyah, because familiar words calm a crowded heart; and scan your passport, keeping a digital copy somewhere safe. Preparation you bring, logistics we carry, and the journey meets you in the middle.",
+    },
+    {
       type: "quote",
       text: "If the planning feels overwhelming, that is literally our job. Bring us the dream; we handle the logistics.",
     },
