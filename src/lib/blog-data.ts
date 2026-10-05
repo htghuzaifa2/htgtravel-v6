@@ -288,6 +288,13 @@ import { newbornBabyUmrahGuide } from "./blog-posts/newborn-baby-umrah-guide";
 import { secondUmrahWhyItFeelsDifferent } from "./blog-posts/second-umrah-why-it-feels-different";
 import { servingPilgrimsMakkahReward } from "./blog-posts/serving-pilgrims-makkah-reward";
 import { duaNotAnsweredAtKaaba } from "./blog-posts/dua-not-answered-at-kaaba";
+import { htgBookingProcessInquiryToBoardingPass } from "./blog-posts/htg-booking-process-inquiry-to-boarding-pass";
+import { nameErrorFlightTicketFix } from "./blog-posts/name-error-flight-ticket-fix";
+import { umlujSaudiMaldivesPostUmrahBeach } from "./blog-posts/umluj-saudi-maldives-post-umrah-beach";
+import { umrahForNursesDoctorsShiftWork } from "./blog-posts/umrah-for-nurses-doctors-shift-work";
+import { umrahForSeafarersBetweenContracts } from "./blog-posts/umrah-for-seafarers-between-contracts";
+import { studentUmrahUniversityBreak } from "./blog-posts/student-umrah-university-break";
+import { jeddahAirportArrivalGuideUmrah } from "./blog-posts/jeddah-airport-arrival-guide-umrah";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -543,6 +550,13 @@ const SEEDS: BlogPostSeed[] = [
   secondUmrahWhyItFeelsDifferent,
   servingPilgrimsMakkahReward,
   duaNotAnsweredAtKaaba,
+  htgBookingProcessInquiryToBoardingPass,
+  nameErrorFlightTicketFix,
+  umlujSaudiMaldivesPostUmrahBeach,
+  umrahForNursesDoctorsShiftWork,
+  umrahForSeafarersBetweenContracts,
+  studentUmrahUniversityBreak,
+  jeddahAirportArrivalGuideUmrah,
 ];
 
 // Auto-generate IDs for all posts at runtime

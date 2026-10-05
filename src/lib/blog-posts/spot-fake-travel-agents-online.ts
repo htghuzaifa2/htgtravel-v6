@@ -56,6 +56,28 @@ export const spotFakeTravelAgentsOnline: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Five Questions a Scammer Cannot Survive",
+    },
+    {
+      type: "p",
+      text: "Red flags tell you what to fear; these questions tell you what to ask. Every year, honest travellers lose their savings not because they were careless, but because scammers sound friendly, quote attractive prices, and answer every doubt with trust me. Put any agent through these five, in order, before you pay a single rupee:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Is your company registered, and can I verify it? A genuine agency states its registration number, accreditations, and office address without blinking, and lets you visit. Vague answers about partners and temporary offices are your answer",
+        "When exactly will I receive my ticket and booking reference? Legit agents give a timeline and stick to it, in writing. And here is the trick most people miss: once the PNR arrives, enter it yourself on the airline's official website. If it does not exist there, nothing else matters",
+        "What exactly does this price include? A real quote is itemized: airfare, taxes, baggage allowance, hotel name and category, transfers, visa fees. A lump sum with everything included, do not worry should end the conversation",
+        "Whose account am I paying into? Payments belong in the company's bank account, with a proper receipt in the business name. Personal EasyPaisa, JazzCash, or an individual's account means no proof, no refund, and no case",
+        "What is your refund policy, in writing? Genuine agents explain fare rules honestly even when the answer disappoints, and put it in writing. Fully refundable, no risk at all is the oldest bait in the book, especially beside prices far below every other quote",
+      ],
+    },
+    {
+      type: "p",
+      text: "A genuine agency will never be offended by any of this. Customers ask us these exact questions regularly, and we answer every one, with documents. That is what transparency looks like, and it should be your minimum standard for anyone handling your money.",
+    },
+    {
+      type: "h2",
       text: "Your Two-Minute Verification Checklist",
     },
     {
@@ -72,7 +94,11 @@ export const spotFakeTravelAgentsOnline: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Most agents are honest people who love this work; this is not about distrusting everyone. It is about giving your trust the same care you give your money. Treat documents, references, and straight answers as the minimum, not a luxury.",
+      text: "Scammers depend on your politeness and your hurry; take away both. Most agents are honest people who love this work, and this is not about distrusting everyone. It is about giving your trust the same care you give your money. Ask the five questions, demand receipts and written quotes, verify everything yourself, and only then pay. Any agent who resents being verified was never going to deliver your ticket anyway.",
+    },
+    {
+      type: "p",
+      text: "And before you go, a word from the heart. As we protect our own families and plan our journeys, we keep the people of Palestine and Sudan in our prayers. They are facing losses and hardships no one should bear alone. Please hold them in your heart and support trusted humanitarian relief efforts where you can; compassion, like travel, crosses every border.",
     },
   ],
   faqs: [

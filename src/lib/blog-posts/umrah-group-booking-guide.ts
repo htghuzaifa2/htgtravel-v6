@@ -52,8 +52,80 @@ export const umrahGroupBookingGuide: BlogPostSeed = {
       text: "Passports first: a group is only as fast as its slowest renewal, so collect passports and vaccination certificates the day the idea becomes a plan. Dates: align with the imam or elders early. School holidays and Ramadan move whole communities. Deposit discipline: hotel blocks and group fares are held against deposits, and the group that pays together travels together. Our desk manages all of this for mosques and families every season. It is genuinely what we do best.",
     },
     {
+      type: "h2",
+      text: "More Than a Bonus: When a Company Takes Its Team",
+    },
+    {
+      type: "p",
+      text: "Every company gives bonuses. Very few give blessings. Lately, more business owners, from shopkeepers in Lahore to companies run by Pakistanis in Dubai and London, are doing something quietly beautiful: taking their entire team for Umrah. A cash bonus is spent by the end of the month; this is remembered for a lifetime. When your team stands together in ihram, praying side by side in the Haram, something shifts between people that no office dinner can replicate. It is also a powerful statement: you are telling your employees they matter as souls, not just as sales figures. One client who runs a distribution firm took thirty staff members last year and says the loyalty he saw afterwards was worth far more than the trip cost.",
+    },
+    {
+      type: "h2",
+      text: "What a Corporate Umrah Package Includes",
+    },
+    {
+      type: "p",
+      text: "Group Umrah is not just individual bookings stitched together. A properly built package covers:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Group visa processing, with all documentation handled in one file",
+        "Return flights coordinated for the whole team on the same aircraft",
+        "Hotels near the Haram, walking distance or a reliable shuttle",
+        "Private transport between Jeddah, Makkah, and Madinah",
+        "Ziyarah tours of the historical sites with a guide who explains what you are seeing",
+        "A group leader who travels with you and handles everything on the ground",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Choosing Your Timing Wisely",
+    },
+    {
+      type: "p",
+      text: "Timing changes everything. Off-peak months, after Hajj season and avoiding school holidays, mean better hotel rates, smaller crowds, and a calmer experience, ideal for a first group trip. Ramadan Umrah carries a special reward, and everyone knows it; that is exactly why it is the busiest and most expensive window of the year. If your heart is set on Ramadan, book many months ahead. Six months is not too early.",
+    },
+    {
+      type: "h2",
+      text: "The Logistics Are Bigger Than You Think",
+    },
+    {
+      type: "p",
+      text: "Forty travellers means forty passports, forty visas, forty airline seats, and one missing document can hold up the entire file. Then come the room blocks, bus sizes, meal timings, and the question of whether staff families join. This is where an agency earns its keep. We have seen every possible group hiccup, so our corporate Umrah packages are built with buffers: extra time between transfers, backup contacts in Saudi Arabia, and one coordinator your team can always find.",
+    },
+    {
+      type: "h2",
+      text: "The Small Details That Make the Trip",
+    },
+    {
+      type: "ul",
+      items: [
+        "A pre-trip briefing: many employees have never performed Umrah, and gentle guidance on ihram and the rituals removes all that first-time anxiety",
+        "Respecting different paces: some will attend every prayer in the Haram, others will need rest. Both are okay, and the itinerary should say so",
+        "Room pairing done thoughtfully, because who shares with whom affects the whole mood",
+        "Clear daily schedules, printed simply and shared on WhatsApp",
+      ],
+    },
+    {
+      type: "h2",
+      text: "An Honest Word on Budget",
+    },
+    {
+      type: "p",
+      text: "Hotel distance to the Haram is the single biggest price lever; a five-minute walk costs noticeably more than a shuttle ride. Decide early whether the company covers the full cost, shares it, or tiers it by seniority. Whatever you choose, clarity upfront avoids awkwardness later, and a good agency will quote both options honestly so you can decide with real numbers.",
+    },
+    {
       type: "quote",
       text: "Bring us your jamaat. We have moved hundreds. Ask for the group rate sheet.",
+    },
+    {
+      type: "p",
+      text: "Your Takeaway: if you have been searching for a way to thank your team that actually means something, this is it. Start planning six months out, get the logistics into experienced hands, and let your people focus on what the journey is really for. The blessing you hand your staff will outlast any bonus you have ever paid.",
+    },
+    {
+      type: "p",
+      text: "And before you go, a gentle word from the heart. As we make plans and count our blessings, we keep the people of Palestine and Sudan close in our prayers. They face hardship no family should know. We invite you to hold them in your heart and support humanitarian relief wherever you are able; sincere prayers travel further than we realize.",
     },
   ],
   faqs: [

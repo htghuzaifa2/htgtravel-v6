@@ -33,6 +33,14 @@ export const bahrainVisaRejectedReasons: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "First: Do Not Reapply Immediately",
+    },
+    {
+      type: "p",
+      text: "The biggest mistake is rushing to submit again with the same documents, hoping for a different result. Bahrain's system flags repeat applications, and resubmitting identical information usually earns you an identical rejection, sometimes with your fee paid twice. Instead, spend an hour diagnosing the problem. In most cases the fault is small, findable, and fixable.",
+    },
+    {
+      type: "h2",
       text: "The Seven, at a Glance",
     },
     {
@@ -46,6 +54,14 @@ export const bahrainVisaRejectedReasons: BlogPostSeed = {
         "Mismatched travel details: align flight dates, hotel booking, and stated purpose into one story",
         "Prior overstays or GCC violations: resolve the record before reapplying",
       ],
+    },
+    {
+      type: "h2",
+      text: "The Photo: The Single Biggest Killer",
+    },
+    {
+      type: "p",
+      text: "More Bahrain rejections come from photos than everything else combined. The system wants a recent passport-style photo: white background, face centered, no glasses glare, no smiling like it is a birthday party. What people actually send: a cropped selfie, a scan of an old photo, or a picture with shadows across the face. Get a proper photo taken professionally; it costs almost nothing and removes the single most common rejection reason in one shot. The same logic applies to your passport scan: if the officer cannot read the MRZ lines, those two rows of characters at the bottom of the data page, the application dies. Scan every document flat, in colour, at high resolution, with no corners cut off and no photos of photos.",
     },
     {
       type: "h2",
@@ -73,11 +89,38 @@ export const bahrainVisaRejectedReasons: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Applying for the Wrong Visa",
+    },
+    {
+      type: "p",
+      text: "Bahrain offers tourist eVisas, visit visas sponsored by family or companies, and several work-related categories. Picking the wrong one, say a tourist eVisa when you are actually visiting a sponsoring relative, leads to a quiet rejection with no explanation. Match the visa to your true purpose and your sponsor's documents. If a family member in Bahrain is sponsoring you, their paperwork, passport copy, residency proof, relationship evidence, matters as much as yours.",
+    },
+    {
+      type: "h2",
       text: "Refused at the Counter",
     },
     {
       type: "p",
       text: "Planning to be stamped at the airport instead? The same rules apply, just faster. Officers can deny entry on the spot for thin funds, missing hotel proof, or a passport nearing expiry, and there is no appeal window at the counter. Carry printed copies of every document in your hand luggage, because the printer you never needed is the printer that is never there.",
+    },
+    {
+      type: "h2",
+      text: "Before You Hit Submit Again",
+    },
+    {
+      type: "p",
+      text: "Run through this checklist honestly before the second fee leaves your account:",
+    },
+    {
+      type: "ul",
+      items: [
+        "A new, professionally taken photo",
+        "Passport valid six months or more, scanned clearly in colour",
+        "Every form field matching the passport exactly",
+        "The correct visa category for your actual purpose",
+        "Any previous rejection acknowledged, if the form asks",
+        "Hotel booking and return flight ready to upload",
+      ],
     },
     {
       type: "h2",
@@ -90,6 +133,14 @@ export const bahrainVisaRejectedReasons: BlogPostSeed = {
     {
       type: "quote",
       text: "Every refused file we review teaches the same lesson: the fix was always smaller than the fear.",
+    },
+    {
+      type: "p",
+      text: "Your Takeaway: a Bahrain visa rejection is a message, not a verdict. Find the specific flaw, usually the photo, the scan, or a mismatched detail, fix it thoroughly, then reapply once, carefully. One rejection is a lesson; a second is expensive. If the reason is not obvious, do not gamble with another fee; get someone experienced to read the file with you.",
+    },
+    {
+      type: "p",
+      text: "And before you go, a word from the heart. As we work through our own paperwork and plans, we keep the people of Palestine and Sudan in our prayers. Their resilience through hardship beyond imagining humbles us daily. Please hold them in your heart and support trusted humanitarian relief efforts where you can; no gesture of kindness is ever wasted.",
     },
   ],
   faqs: [
