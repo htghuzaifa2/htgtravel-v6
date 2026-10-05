@@ -311,6 +311,17 @@ import { remoteWorkerUmrahJeddahGuide } from "./blog-posts/remote-worker-umrah-j
 import { smartHaramTechnology2026 } from "./blog-posts/smart-haram-technology-2026";
 import { umrahOnYourBirthday } from "./blog-posts/umrah-on-your-birthday";
 import { alAqsaThirdHoliestSiteGuide } from "./blog-posts/al-aqsa-third-holiest-site-guide";
+import { zakatSadaqahRamadanMakkahMadinahGuide } from "./blog-posts/zakat-sadaqah-ramadan-makkah-madinah-guide";
+import { hajjForNewMuslimsRevertGuide } from "./blog-posts/hajj-for-new-muslims-revert-guide";
+import { umrahMadeSimpleVisaTicketsHotels } from "./blog-posts/umrah-made-simple-visa-tickets-hotels";
+import { gulfConferencesTradeFairsGroupTravel } from "./blog-posts/gulf-conferences-trade-fairs-group-travel";
+import { schoolHolidays2026FamilyTripEarlyBooking } from "./blog-posts/school-holidays-2026-family-trip-early-booking";
+import { whenOnlineBookingFailsAgentRescue } from "./blog-posts/when-online-booking-fails-agent-rescue";
+import { alBaladJeddahUnescoOldCityGuide } from "./blog-posts/al-balad-jeddah-unesco-old-city-guide";
+import { umrahJeddahLayoverStopoverGuide } from "./blog-posts/umrah-jeddah-layover-stopover-guide";
+import { muezzinMasjidAlHaramDayInLife } from "./blog-posts/muezzin-masjid-al-haram-day-in-life";
+import { gettingAroundMakkahTaxisBusesWalking } from "./blog-posts/getting-around-makkah-taxis-buses-walking";
+import { lostInHaramSeparatedFromGroupGuide } from "./blog-posts/lost-in-haram-separated-from-group-guide";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -589,6 +600,17 @@ const SEEDS: BlogPostSeed[] = [
   smartHaramTechnology2026,
   umrahOnYourBirthday,
   alAqsaThirdHoliestSiteGuide,
+  zakatSadaqahRamadanMakkahMadinahGuide,
+  hajjForNewMuslimsRevertGuide,
+  umrahMadeSimpleVisaTicketsHotels,
+  gulfConferencesTradeFairsGroupTravel,
+  schoolHolidays2026FamilyTripEarlyBooking,
+  whenOnlineBookingFailsAgentRescue,
+  alBaladJeddahUnescoOldCityGuide,
+  umrahJeddahLayoverStopoverGuide,
+  muezzinMasjidAlHaramDayInLife,
+  gettingAroundMakkahTaxisBusesWalking,
+  lostInHaramSeparatedFromGroupGuide,
 ];
 
 // Auto-generate IDs for all posts at runtime

@@ -69,11 +69,27 @@ export const umrahForNursesDoctorsShiftWork: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Befriend the Swap System",
+    },
+    {
+      type: "p",
+      text: "Here is the underused superpower of healthcare scheduling: the swap. Many nurses and doctors quietly fund their Umrah window by taking extra shifts before and after the trip, trading the unpopular weekend and night slots to colleagues in exchange for the exact days they need off. It is clever, completely legitimate, and invisible to anyone who never asks how that senior nurse got ten days away using only four days of actual leave.",
+    },
+    {
+      type: "p",
+      text: "One senior nurse in Manchester we worked with built her entire journey on this: two bank holidays, plus three swapped shifts, gave her ten consecutive days out of the country while touching only four days of her annual leave allowance. Start the swap conversations early, put them in writing the way your ward prefers, and keep one colleague as your emergency cover-back contact while you are away. The rota is a system; systems reward the people who learn their rules.",
+    },
+    {
+      type: "h2",
       text: "The Shift Worker's Recovery Rule",
     },
     {
       type: "p",
       text: "This one matters more than any packing list: never fly the morning after your last night shift. We know the temptation, squeezing in one more shift to save one more day of leave. But you will arrive in Makkah exhausted, and tawaf, travel days, and crowded courtyards demand real energy. Build in one buffer day after your final shift to sleep properly, and if you can, ask for a lighter schedule before your next run of nights when you return. Your body carries you through this journey; treat it like a colleague, not a machine.",
+    },
+    {
+      type: "p",
+      text: "Protect the body on the way in, too. Schedule your first day in Makkah as rest rather than ritual, performing Umrah the following morning with a slept and fed body. Pack comfortable, broken-in footwear, because new shoes and marble floors are enemies, and keep your medications and a small first-aid kit in your hand luggage, a habit you already have professionally and owe yourself personally. Finish your last night shift at least twenty-four to forty-eight hours before departure, and the journey starts as a blessing instead of a debt.",
     },
     {
       type: "h2",
@@ -93,7 +109,15 @@ export const umrahForNursesDoctorsShiftWork: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Some of the most moving trips we have arranged have been entire teams, a group of nurses from one ward, a set of junior doctors, going together after arranging mutual cover. There is something powerful about standing in the Haram beside the same people who have held your hand through a brutal shift. Small groups also unlock the practical benefits of group bookings: deposits instead of full upfront payment, seats together, and one coordinated itinerary. The shift swaps you negotiate for each other become part of the blessing. Your Takeaway: choose your window the day leave requests open, keep the trip to one focused week, protect your sleep on both ends, and book flexible so the rota cannot steal your journey. Do that, and next year finally becomes this year.",
+      text: "Some of the most moving trips we have arranged have been entire teams, a group of nurses from one ward, a set of junior doctors, going together after arranging mutual cover. There is something powerful about standing in the Haram beside the same people who have held your hand through a brutal shift. Small groups also unlock the practical benefits of group bookings: deposits instead of full upfront payment, seats together, and one coordinated itinerary. The shift swaps you negotiate for each other become part of the blessing.",
+    },
+    {
+      type: "h2",
+      text: "A Quiet Bonus for Healthcare Workers Abroad",
+    },
+    {
+      type: "p",
+      text: "For doctors and nurses in the UK, the Gulf, the USA, or Canada, here is something worth knowing: you do not need to route through Pakistan to arrange any of it. Complete Umrah packages can be organised remotely for overseas Pakistanis, visa, flights, and Haram-side hotels coordinated end to end around your leave dates, with nothing requiring your physical presence back home. Many NHS staff fly directly from Manchester or London and meet their families in Makkah itself, converting a scattered household into a complete one for one blessed week. Your Takeaway: choose your window the day leave requests open, keep the trip to one focused week, protect your sleep on both ends, and book flexible so the rota cannot steal your journey. Do that, and next year finally becomes this year.",
     },
     {
       type: "p",

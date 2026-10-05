@@ -61,6 +61,36 @@ export const servingPilgrimsMakkahReward: BlogPostSeed = {
       text: "The Prophet ﷺ was once asked which charity was best, and he answered simply: water (Abu Dawud). Watch the man handing out cold Zamzam at a Haram cooler, and you will understand why that answer was chosen. These workers perform a service pilgrims fly thousands of miles for, and most of us walk right past them. Pause next time. Say jazaakAllahu khayran. Hand over the dates in your bag. Small gestures, enormous meaning.",
     },
     {
+      type: "h2",
+      text: "Who They Are and Why They Came",
+    },
+    {
+      type: "p",
+      text: "Thousands of workers maintain the Grand Mosque in continuous shifts, a round-the-clock operation, because the mosque never truly empties. Many come from Pakistan, Sudan, Bangladesh, Egypt, Indonesia, the Philippines, and Yemen, often leaving families behind for years at a stretch. Here is the part that surprises people: these positions are sought after rather than avoided. For countless workers, being chosen to serve the Haram is considered the honor of a lifetime, and some weep the first time they stand in the courtyard, not from exhaustion but from the weight of where they have been sent to work.",
+    },
+    {
+      type: "p",
+      text: "Every Ramadan, videos circulate of pilgrims stopping mid-crowd to embrace a cleaner, hand him a gift, or pray over him, and one clip that stayed with us showed a worker, asked whether the job was hard, smiling and saying that every floor he wiped felt like preparing a guest room for the guests of Allah. Pilgrims sometimes mistake the workers for worshippers, bent low over the marble with hands folded on the cloth. In a sense, they are both, and the scholars of nearly every tradition agree: serving the House of Allah and its guests is itself an act of worship. Greatness in this deen often wears a work uniform rather than a title.",
+    },
+    {
+      type: "h2",
+      text: "The Choreography You Never Noticed",
+    },
+    {
+      type: "p",
+      text: "Watch carefully between prayers and you will see something remarkable. Cleaning teams move across the Mataf in coordinated formations, almost like a flock turning in the air, and in under an hour, marble that held tens of thousands of worshippers is dry, gleaming, and ready again. During Ramadan and Hajj the crowds multiply, and so does the work, much of it performed in the middle of the night while pilgrims rest for the next prayer.",
+    },
+    {
+      type: "ul",
+      items: [
+        "Vacuuming acres of carpet after each of the five daily prayers",
+        "Washing the marble courtyards and arcades through the night",
+        "Cleaning escalators, bathrooms, and ablution areas continuously",
+        "Resetting the Tawaf area between the prayer and Tawaf waves",
+        "Handling the Zamzam stations and the endless trail of spilled water",
+      ],
+    },
+    {
       type: "quote",
       text: "Go to Makkah only for yourself, and your Umrah is one transaction. Go with open hands, and a second, quieter pilgrimage runs beneath your own.",
     },
@@ -85,6 +115,29 @@ export const servingPilgrimsMakkahReward: BlogPostSeed = {
     {
       type: "p",
       text: "One trip, a pilgrim helped a grandfather book his Rawdah permit through the Nusuk app on his phone. The grandfather kept making dua for him days later, and of everything that happened between ihram and halq, that is the memory he still tells his family about.",
+    },
+    {
+      type: "h2",
+      text: "How You Can Honor the Haram's Workers",
+    },
+    {
+      type: "p",
+      text: "You do not need money to respect this work; you need habits. Small ones, practised daily, lighten the load of the people carrying the heaviest shifts in the building, and they teach your children how to see the people everyone else walks past:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Offer salam and a smile; a kind word costs nothing and lands deeper than you would think",
+        "Take your trash with you, because water bottles and wrappers left on marble become their burden",
+        "Fold and return prayer mats properly after use, leaving the row as you found it",
+        "Give way gracefully when the cleaning teams move through the crowd between prayers",
+        "Teach your children to see the workers with respect rather than indifference",
+        "Make du'a for them, for the families back home whom they carry in their hearts across oceans",
+      ],
+    },
+    {
+      type: "p",
+      text: "One brother in our group used to keep small packs of dates in his bag, handed quietly to the workers near his spot after Fajr. Nothing formal, nothing photographed, just recognition. It is the exact shape of the kindness this whole city runs on, and it costs about as much as a cup of coffee back home.",
     },
     {
       type: "h2",

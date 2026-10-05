@@ -110,8 +110,38 @@ export const nusukUmrahPlatformDiyVsAgency: BlogPostSeed = {
       text: "If you go direct, double-check your visa type before paying for anything, since package rules differ by visa category. Watch the Rawdah permit release windows, which open weekly on Fridays and book out fast, so set your alarms. Keep digital and printed copies of every confirmation, and have a backup plan for transport between Makkah and Madinah, because the intercity options fill at peak times. None of this is difficult. All of it is easy to miss when you are also packing, planning leave, and preparing spiritually.",
     },
     {
+      type: "h2",
+      text: "The Honest Cost Math, Season by Season",
+    },
+    {
+      type: "p",
+      text: "Cost is where the debate gets loud, so let us slow it down honestly, because the winner changes with the calendar. Off-season, in the weeks after Hajj and through the deep winter, a genuinely organized traveller can beat package prices by booking components individually, especially when travelling light on comfort and flexible on dates. In Ramadan and other peak windows, the arithmetic flips: agencies hold room allocations near the Haram before public rates triple, so the package with the hotel five minutes from your gate sometimes costs less than the public rate you would find alone, and always costs less than the room you end up upgrading into when your cheap option turns out to be a forty-minute walk away.",
+    },
+    {
+      type: "p",
+      text: "For families and groups, packages almost always win, through negotiated group rates, one coordinator, and one plan that keeps everyone in the same hotel rather than scattered across whatever remained bookable. For first-timers, a guided package saves you from the expensive beginner mistakes, the hotel booked by map distance instead of walked distance, the permit window missed, the transfer that never existed. One DIY pilgrim once showed us his spreadsheet after the fact: adding the train, the taxis, and the last-minute upgrade, he had spent nearly what a package would have cost, minus the three weeks of his life spent assembling it. The hidden line in DIY accounting is always time.",
+    },
+    {
+      type: "h2",
+      text: "A Final DIY Checklist, If You Go That Way",
+    },
+    {
+      type: "ul",
+      items: [
+        "Book Haram-side hotels at least two to three months out, because the walkable inventory disappears first",
+        "Verify the walking distance with your own eyes on a map, tracing the actual pedestrian route rather than the straight line",
+        "Keep digital and printed copies of every permit and confirmation, because phones die at exactly the wrong moment",
+        "Check passport validity before anything else, since six months remaining is the floor, not the target",
+        "Build one buffer day into the plan, because Saudi logistics occasionally move at their own pace and your itinerary should be able to absorb it",
+      ],
+    },
+    {
       type: "quote",
       text: "Official platform, human backup. That combination is what a stress-free Umrah looks like.",
+    },
+    {
+      type: "p",
+      text: "And one humble pause before the final word. Our prayers stay with the people of Palestine and Sudan, families carrying hardships most of us can barely imagine, yet meeting each morning with a patience and faith that moves the world. May they be granted relief, safety, and brighter days ahead. If you are able, please support trusted humanitarian relief efforts, and keep them in your heart on every journey you take, however it was booked.",
     },
   ],
   faqs: [
