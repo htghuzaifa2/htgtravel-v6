@@ -84,6 +84,43 @@ export const eidWeekFlightRushGuide: BlogPostSeed = {
       ],
     },
     {
+      type: "h2",
+      text: "How Fare Buckets Actually Empty",
+    },
+    {
+      type: "p",
+      text: "Airlines price through fare buckets: a limited number of seats at each price level, with the next tier opening automatically as cheaper buckets sell out. During Eid week this happens at breathtaking speed because demand is so concentrated, and supply cannot respond, since airlines cannot magic aircraft into existence for one week. Some carriers add a few extra sections, but capacity grows maybe five to ten percent while demand can double. A fare once jumped three hundred and ten dollars between breakfast and dinner on the same route; nothing changed except the cheap buckets quietly emptying.",
+    },
+    {
+      type: "h2",
+      text: "The Moon Sighting Wildcard, and the Eid Day Dip",
+    },
+    {
+      type: "p",
+      text: "One wrinkle is unique to Eid travel: the exact date depends on moon sighting and can shift by a day between countries, so Saudi Arabia, Pakistan, and the UK do not always celebrate together. Airlines price for the estimated dates, but your family may celebrate a day earlier or later, which is why flexible tickets or a small date buffer matter and why a rigid non-changeable fare for Eid week is a gamble. Counterintuitively, demand dips on the morning of Eid itself: flying on Eid day is often the cheapest option of the entire window, and arriving for dinner and dessert feels like a private bonus.",
+    },
+    {
+      type: "h2",
+      text: "Eid al-Adha Adds the Hajj Squeeze",
+    },
+    {
+      type: "p",
+      text: "For Eid al-Adha specifically, add one layer: it falls during Hajj season, when pilgrim traffic is already consuming enormous seat capacity on Gulf and Saudi routes. Book that Eid even earlier than you think necessary, seriously.",
+    },
+    {
+      type: "h2",
+      text: "At the Airport During Eid Week",
+    },
+    {
+      type: "ul",
+      items: [
+        "Arrive three hours early without fail; Eid queues are legendary",
+        "Expect heavier baggage, gifts and clothes, and check import rules before packing anything from the qurbani, since many countries restrict or ban fresh meat",
+        "Keep your booking confirmation handy and printed; counters are chaos, and calm travellers with paper move fastest",
+        "Booking for the whole family? Group fares work differently from normal buckets, with seats held against deposits before general inventory runs dry",
+      ],
+    },
+    {
       type: "quote",
       text: "Eid fares are not cruel; they are arithmetic. Timing is concentrated, seats are finite, and the early planner wins the sum.",
     },

@@ -81,6 +81,38 @@ export const nameErrorFlightTicketFix: BlogPostSeed = {
       text: "Whatever the passport says, that is what goes on the ticket. Not your nickname, not the name everyone calls you, not the shorter version on your national ID. If your passport lists Muhammad Ahmad Khan, the ticket needs that exact order and spelling; some airlines drop spaces or shorten names to fit their systems, which is fine, because agents know each airline's quirks. One more trap for frequent flyers: if a passport renewal added a name or changed the order, update the airline's loyalty programme too, since a mismatch there causes the same headache on award tickets.",
     },
     {
+      type: "h2",
+      text: "What a Correction Costs Across Airlines",
+    },
+    {
+      type: "p",
+      text: "Costs differ wildly, so know your lane. On flights to or from the United States, you generally hold a twenty four hour window to cancel or correct free of charge; use it as your safety net. After that, full service airlines often fix small spelling errors free or for a modest fee, while budget carriers can charge fifty to a hundred and fifty dollars, and a few treat the edit as a full rebooking. Third-party bookings carry their own rule: if you booked through an agency or a website, the correction usually must go through them, and the airline will not touch it directly, which is exactly where travellers get stuck in phone-tree purgatory.",
+    },
+    {
+      type: "h2",
+      text: "Never Just Risk It",
+    },
+    {
+      type: "p",
+      text: "Security systems match ticket names against passports before you are even allowed to check in online, so a mismatch can mean denied boarding with no refund. A traveller with a three letter typo once begged at a check-in desk and lost; the airline's hands were tied. Request the fix the moment you spot it, because corrections raised months ahead are processed calmly while corrections raised forty eight hours before departure become expensive emergencies, if they are processed at all.",
+    },
+    {
+      type: "h2",
+      text: "Prevention: Three Habits That Stop Errors",
+    },
+    {
+      type: "ul",
+      items: [
+        "Copy your name exactly as it appears on the passport bio page, not your email signature, not what friends call you",
+        "Never book with a shortened name; Jimmy must be James if that is what the passport prints",
+        "Check the confirmation email within an hour of booking, while corrections are still free and easy",
+      ],
+    },
+    {
+      type: "p",
+      text: "And one observation from years of family bookings: the moment four passports sit open at once is precisely when errors creep in. Booking tickets directly from passport details, rather than retyping from memory or a chat message, quietly eliminates this entire category of problem.",
+    },
+    {
       type: "quote",
       text: "Check the names the hour you book. An airline can forgive many things; a misspelled passenger is not one of them.",
     },

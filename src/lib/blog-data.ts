@@ -377,6 +377,16 @@ import { umrahFromAtlantaSoutheastGuide } from "./blog-posts/umrah-from-atlanta-
 import { thanksgivingWinterBreakUmrahGuide } from "./blog-posts/thanksgiving-winter-break-umrah-guide";
 import { ukSchoolHolidaysUmrah2027Guide } from "./blog-posts/uk-school-holidays-umrah-2027-guide";
 import { hajj2027CanadaNusukGuide } from "./blog-posts/hajj-2027-canada-nusuk-guide";
+import { masjidYouthGroupUmrahGuide } from "./blog-posts/masjid-youth-group-umrah-guide";
+import { passportValiditySixMonthRuleGuide } from "./blog-posts/passport-validity-six-month-rule-guide";
+import { policeClearanceCertificateVisaGuide } from "./blog-posts/police-clearance-certificate-visa-guide";
+import { umrahFromChicagoMidwestGuide } from "./blog-posts/umrah-from-chicago-midwest-guide";
+import { springBreakUmrahAmericanFamiliesGuide } from "./blog-posts/spring-break-umrah-american-families-guide";
+import { hajj2027FromAustraliaGuide } from "./blog-posts/hajj-2027-from-australia-guide";
+import { istanbulDohaDubaiUmrahConnectionGuide } from "./blog-posts/istanbul-doha-dubai-umrah-connection-guide";
+import { bankStatementVisaApplicationGuide } from "./blog-posts/bank-statement-visa-application-guide";
+import { lostPassportAbroadEmergencyGuide } from "./blog-posts/lost-passport-abroad-emergency-guide";
+import { studentsFirstTimeFlyingAbroadGuide } from "./blog-posts/students-first-time-flying-abroad-guide";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -721,6 +731,16 @@ const SEEDS: BlogPostSeed[] = [
   thanksgivingWinterBreakUmrahGuide,
   ukSchoolHolidaysUmrah2027Guide,
   hajj2027CanadaNusukGuide,
+  masjidYouthGroupUmrahGuide,
+  passportValiditySixMonthRuleGuide,
+  policeClearanceCertificateVisaGuide,
+  umrahFromChicagoMidwestGuide,
+  springBreakUmrahAmericanFamiliesGuide,
+  hajj2027FromAustraliaGuide,
+  istanbulDohaDubaiUmrahConnectionGuide,
+  bankStatementVisaApplicationGuide,
+  lostPassportAbroadEmergencyGuide,
+  studentsFirstTimeFlyingAbroadGuide,
 ];
 
 // Auto-generate IDs for all posts at runtime

@@ -92,6 +92,47 @@ export const marriageBirthCertificatesFamilyVisaGuide: BlogPostSeed = {
       text: "Born at home in the 1990s and registered years later? You are not alone, but late-registered birth certificates raise flags unless you close the loop. Attach supporting evidence from the era: hospital records, school certificates, vaccination cards, or a parent's affidavit confirming the birth details. Consistency across those documents is what convinces an officer. And mind the date format trap, because 03/04/1995 means March the fourth to some officers and April the third to others. When in doubt, write dates in your cover letter as 4 April 1995, unambiguous, always.",
     },
     {
+      type: "h2",
+      text: "One Family, Separate Applications: The Golden Rule",
+    },
+    {
+      type: "p",
+      text: "Clear this up immediately: there is no single family application at most embassies. Every traveller, including your newborn, submits their own form, pays their own fee, and receives their own visa. A family of four means four forms, four photographs, four fees. What you can do is link things together: book appointments consecutively, cross-reference each application so the embassy sees one unit, and submit everything in a single visit. Linked but separate, that is the golden rule.",
+    },
+    {
+      type: "h2",
+      text: "The Consent Letter That Catches Everyone",
+    },
+    {
+      type: "p",
+      text: "Here is the biggest trap in family travel. If one parent stays home while the other travels with the children, most embassies and airlines expect a consent letter from the absent parent: signed, dated, ideally notarized, with a copy of their passport or national ID. A father once nearly missed boarding at the airport over exactly this. Single parents bring custody or sole responsibility documents instead. It feels bureaucratic, but the rule exists to protect children, and staff enforce it firmly.",
+    },
+    {
+      type: "h2",
+      text: "Children Come With Their Own Rulebook",
+    },
+    {
+      type: "ul",
+      items: [
+        "Schengen: children under six typically go fee free, ages six to eleven pay a reduced rate, with current figures worth confirming before you pay",
+        "US visas: every applicant pays, including infants, though children under fourteen usually skip the interview",
+        "Infant photographs carry strict rules: face fully visible, eyes open, mouth closed, no pacifier, no hands supporting the head",
+        "Children's passports expire faster than adult booklets, often every five years, so check the six month validity line for every family member",
+      ],
+    },
+    {
+      type: "h2",
+      text: "One Salary Can Fund the Whole Household",
+    },
+    {
+      type: "p",
+      text: "Good news for families where one parent works: that is completely normal. Required funds scale with family size, but one bank statement can cover everyone, paired with an employment letter, recent payslips, and a short note listing exactly who you are sponsoring. Do not hide a non working spouse or list them as anything odd. Dependents are expected; overcomplicating the story raises more flags than the truth ever will.",
+    },
+    {
+      type: "p",
+      text: "One practical habit ties the whole file together: ask the visa centre for group or family appointment slots before booking four random ones months apart. Submitting together also means passports come back together, so nobody's leave gets wasted waiting on one straggler file.",
+    },
+    {
       type: "quote",
       text: "Genuine families get refused every day over formatting alone. Audit the papers before the officer does.",
     },

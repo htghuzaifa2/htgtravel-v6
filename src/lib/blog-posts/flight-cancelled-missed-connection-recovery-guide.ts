@@ -93,6 +93,38 @@ export const flightCancelledMissedConnectionRecoveryGuide: BlogPostSeed = {
       text: "Here is something you cannot do alone from the airport floor: a travel agent sees inventory across airlines at once. When your carrier offers you a seat three days later, an agent can often find a same-day alternative on another airline, rebuild the rest of your itinerary, and rearrange your hotel while you are still standing in the queue. It is also why careful booking matters before disruption ever begins; we build journeys as protected through-tickets wherever the price allows, which is the difference between a free rebooking and a costly disaster.",
     },
     {
+      type: "h2",
+      text: "Rebooking Yourself: Powerful, but Crowded",
+    },
+    {
+      type: "p",
+      text: "The app route has real strengths: it is free, instant, and shows every option the airline offers consumers. For a simple round trip with plenty of later flights, it often works beautifully, swipe, tap, done. But here is what the app will not tell you: you are seeing only what the airline chooses to show, and everyone on that cancelled flight is scrolling the exact same inventory at the exact same moment. Apps crash, hold music loops, and the next available flight fills while you stare at it. One boarding area once fought over three remaining seats on the last flight out; the fastest movers flew, and everyone else collected hotel vouchers.",
+    },
+    {
+      type: "h2",
+      text: "The Trade Desk Advantage Nobody Tells You About",
+    },
+    {
+      type: "p",
+      text: "A good agent is not simply someone who books for you; they work a different machine. Through reservation systems they see global inventory, including partner and other airlines, so if your carrier is full, that is the difference between flying tonight and flying Thursday. Airlines also give agent support lines priority over passenger hotlines: while you are caller number forty seven, your agent is already talking to a human. One call sets them checking your whole itinerary, the rebooking rules on your fare, and your connection options in parallel, while you get coffee and look after the kids, and they handle the aftermath too: hotel vouchers, meal claims, and the compensation paperwork most passengers never file.",
+    },
+    {
+      type: "h2",
+      text: "When Doing It Yourself Is Completely Fine",
+    },
+    {
+      type: "ul",
+      items: [
+        "Your route runs frequent later flights, think Dubai to Karachi or London to Islamabad corridors",
+        "You travel solo on a simple ticket with no tight connections behind it",
+        "The cancellation is for tomorrow, not tonight, giving you time and options",
+      ],
+    },
+    {
+      type: "p",
+      text: "Add one rights note before you negotiate anything: on EU and UK flights, airline-fault cancellations can owe you two hundred and fifty to three hundred and fifty euros and beyond on top of rebooking, meals, and hotels, while US rules require free rebooking or a refund if you decline the alternative. Keep every receipt; reimbursement claims die quietly without them.",
+    },
+    {
       type: "quote",
       text: "Chaos is optional. The system has a recovery path for every disruption; the calm traveller simply knows where it starts.",
     },

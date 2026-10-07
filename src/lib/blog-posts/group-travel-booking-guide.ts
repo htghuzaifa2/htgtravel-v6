@@ -78,6 +78,39 @@ export const groupTravelBookingGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Honest Price Truth Nobody Tells You",
+    },
+    {
+      type: "p",
+      text: "Group fares are not automatically cheaper than individual fares; sometimes a promotional individual fare beats the group quote. What group pricing actually buys is different: the price is locked for an option period, usually seven to fourteen days, while your group decides, and an individual fare can jump between your booking and your cousin's two hours later. Deposits replace full payment, names can substitute until close to departure, and the fair comparison is never group fare versus today's individual fare, but group fare versus whatever the individuals will pay over the next two weeks as cheaper buckets sell out.",
+    },
+    {
+      type: "h2",
+      text: "The Quiet Hassle Difference",
+    },
+    {
+      type: "p",
+      text: "Ten separately booked passengers on one flight frequently end up scattered across the cabin unless each pays for seat selection, while airlines allocate group seating together as standard practice. When an airline moves a flight, ten separate passengers get handled ten separate times, sometimes split onto different connections, while a group booking moves as one unit. One invoice replaces ten credit card transactions and the organiser stops reconciling payments from relatives; and when a flight cancels with ten people stranded, a group booking comes with a real human on the trade desk instead of the general queue.",
+    },
+    {
+      type: "h2",
+      text: "When Separate Tickets Actually Win",
+    },
+    {
+      type: "ul",
+      items: [
+        "A flash sale is live and all ten travellers can pay in full within hours",
+        "Travellers want different dates or routes, which makes it not truly a group anyway",
+        "You are paying with air miles, since group fares rarely allow redemption",
+        "Your group is flexible on everything and can pounce the moment fares drop",
+      ],
+    },
+    {
+      type: "p",
+      text: "For a tight family of four to six, just book individually and pick seats in advance; the ten passenger threshold exists for a reason. Before deciding, ask yourself: can every person pay in full today, is anyone's attendance uncertain, do we need seats together for kids or elderly parents, and do we want one invoice and one contact? The answers usually make the decision for you.",
+    },
+    {
+      type: "h2",
       text: "Start Earlier Than Feels Necessary",
     },
     {

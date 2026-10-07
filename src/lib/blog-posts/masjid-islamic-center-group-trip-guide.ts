@@ -159,6 +159,22 @@ export const masjidIslamicCenterGroupTripGuide: BlogPostSeed = {
       text: "Two more habits from experienced American group leaders. Run two or three pre-trip classes covering the rituals, the key duas, and what to realistically expect, because spiritually prepared pilgrims absorb the experience while unprepared ones merely survive it. And sort mobility needs months ahead, with wheelchair requests and accessible rooms booked early rather than requested at the airport. One routing rule ties it all together: book Madinah first, then Makkah, so the whole community settles in the calm of Masjid an-Nabawi before the beautiful intensity of the Haram.",
     },
     {
+      type: "h2",
+      text: "The School Trip Playbook: Canada and the UK",
+    },
+    {
+      type: "p",
+      text: "Islamic schools across Canada and the UK run these journeys too, and students come home changed: more serious about salah, more curious about Islamic history, closer to each other. The calendar does half the work. Canada's March Break, mid March, offers a full week with minimal lost class time and comfortably warm Saudi weather, while UK schools can use February half term or the Easter holidays, late March into April 2027, a longer window that never collides with the Hajj visa pause. Book group flights four to five months ahead, since airlines release group allocations for ten or more passengers earlier than individual seats.",
+    },
+    {
+      type: "p",
+      text: "The paperwork is where school trips differ completely from family ones, and where most stress lives. Every minor needs their own passport and visa, with no exceptions and no sharing a parent's document. Students travelling without their parents need notarized parental consent, and the school keeps medical forms, allergy lists, and emergency contacts for every child. Chaperone ratios sit around one adult per eight to ten students, with at least one male and one female chaperone for mixed groups, teachers on the same booking in adjacent rooms, a daily register, a buddy system, and an evening photo update to the parents' WhatsApp group; parents forgive a delayed flight, they do not forgive silence.",
+    },
+    {
+      type: "p",
+      text: "The educational layer separates a good school trip from a great one. Before departure, run weekly sessions on the rituals and the seerah of Makkah and Madinah. On the ground, build guided ziyarah into the itinerary, Jabal Uhud, Quba Mosque, Masjid Qiblatain, with each student assigned one site to present, because ownership beats listening. After return, reflection journals and a school assembly where students present cements the experience and quietly sells next year's trip. Budget roughly CAD 2,500 to 3,500 or GBP 1,800 to 2,500 per student for a ten day program depending on hotel distance and season, open the school fund twelve months out, and offer payment plans rather than lump sums; more students say yes, and community iftars plus sponsored challenges reliably close the gap.",
+    },
+    {
       type: "quote",
       text: "A community that travels together should return with two things: new memories, and the same organizer, still smiling.",
     },

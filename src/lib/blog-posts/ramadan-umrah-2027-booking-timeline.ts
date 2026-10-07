@@ -79,6 +79,22 @@ export const ramadanUmrah2027BookingTimeline: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The UK Pilgrim's Version of the Timeline",
+    },
+    {
+      type: "p",
+      text: "For pilgrims booking from Britain, 2027 quietly rewrites the rulebook, because Ramadan shifts back into the cooler months for the first time in years. Ramadan 2027 is expected to begin around 8 February, with Eid al Fitr falling around 9 and 10 March, meaning fasting days in Makkah run roughly thirteen hours with cool evenings around the Haram. One happy coincidence for UK families: February half term lands in the first ten days of Ramadan, making that week the natural window for school age children, with manageable crowds and no need to pull a single child out of class.",
+    },
+    {
+      type: "p",
+      text: "The same booking rhythm then applies with UK advantages layered in. Book flights and Haram view hotels by mid 2026, when rates publish and the best rooms go first; September and October 2026 mark the last comfortable window for mid Ramadan dates, and beyond December 2026 only flexible travellers should still be hunting. Direct beats connecting for a short trip: Saudia flies from London Heathrow and Manchester to Jeddah and Madinah in about six and a half hours, among the shortest long haul pilgrim journeys in the world, and British Airways also serves Jeddah. Land in Madinah and depart from Jeddah, and sort your Nusuk e visa early, since UK passports are eligible and the entire process can be done from your sofa, including Rawdah visit permits through the app.",
+    },
+    {
+      type: "p",
+      text: "A practical tip from experience: the first ten nights of Ramadan offer nearly the same spiritual atmosphere at a fraction of the crowd and cost of the last ten. If your schedule allows, the first Ashrah is the smart British pilgrim's secret. And take travel insurance with health cover seriously, because a winter Ramadan attracts elderly pilgrims and clinic queues move slowly precisely when you least want them to.",
+    },
+    {
+      type: "h2",
       text: "What Ramadan Umrah Costs",
     },
     {

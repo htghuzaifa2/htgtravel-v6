@@ -68,6 +68,45 @@ export const schengenVisaRefusalReasonsPakistan: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Insufficient Funds Refusal, Fixed Properly",
+    },
+    {
+      type: "p",
+      text: "Since this ground refuses more Pakistani applicants than any other, it deserves its own playbook. Every Schengen embassy sets a daily minimum, roughly forty five to one hundred twenty euros per person per day depending on the country, on top of prepaid hotels. But here is what visa officers really examine: consistency and origin. A healthy balance built over months of salary credits beats a sudden large deposit every time, because a big number that appears the week before you apply reads as borrowed money and triggers exactly this refusal.",
+    },
+    {
+      type: "h2",
+      text: "The Documents That Solve It",
+    },
+    {
+      type: "ul",
+      items: [
+        "Bank statements for the last six months, stamped and signed by the bank, never home printouts",
+        "Salary credits that match your employment letter, roughly to the rupee",
+        "Income tax returns for the past one to two years, proving the income is real and declared",
+        "Recent payslips if employed; business bank statements and registration documents if self employed",
+        "A cover letter explaining any large deposit, a property sale, a gift from a parent, a matured fixed deposit, with evidence attached",
+        "Supporting assets like fixed deposits and property papers, which strengthen ties but never replace liquid funds",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Three Mistakes That Trigger This Refusal",
+    },
+    {
+      type: "ul",
+      items: [
+        "Parking money: moving funds in from a relative's account two weeks before applying is the most detected trick in the visa world, because officers read the full statement history",
+        "Showing wealth without income: a high balance with no salary pattern, no tax record, and no business trail fails the origin of funds test",
+        "Informal sponsorship: a paying parent or sibling needs a signed declaration, their own six month statements, income proof, relationship evidence, and a passport copy; missing one piece reads as insufficient funds",
+      ],
+    },
+    {
+      type: "p",
+      text: "Already refused on this ground? Wait four to eight weeks so statements show fresh, steady activity, write a short factual cover letter addressing the refusal directly, and reapply with a realistic seven day itinerary, booked hotels, and a clear budget; a well-fixed reapplication usually beats a formal appeal.",
+    },
+    {
+      type: "h2",
       text: "What Agent Filing Actually Changes",
     },
     {

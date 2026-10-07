@@ -74,6 +74,33 @@ export const hajj2027NusukUsBookingGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Form, Field by Field, Where Small Mistakes Cost Big",
+    },
+    {
+      type: "ul",
+      items: [
+        "Name: enter it exactly as printed on the passport bio page, middle names included; a mismatch here is the most common reason for corrections later",
+        "Date of birth and gender: simple, but double-check, because these sync directly to your visa",
+        "Nationality and country of residence: Pakistani Americans enter Pakistan as nationality and the USA as residence, keeping the green card or US visa handy in case proof is requested",
+        "Passport details: number, issue date, and expiry; if expiry is close, renew before you book",
+        "Contact details: use an email and phone you actually check, because Nusuk sends time-sensitive updates and missing one can cost your slot",
+        "Companions: adding family members links them to one application; women no longer need a mahram to perform Hajj, though many still choose groups for comfort",
+      ],
+    },
+    {
+      type: "p",
+      text: "Having these details on hand turns a two-hour form into a twenty-minute task. The same preparation pays off on payment day: full payment is due when you book, and that is what locks your spot, so budget before packages open, not after.",
+    },
+    {
+      type: "h2",
+      text: "The Deadlines That Actually Matter",
+    },
+    {
+      type: "p",
+      text: "Exact dates shift every year because Hajj follows the lunar calendar, moving about eleven days earlier annually, but the rhythm stays the same. Account creation is open all year, so do it today. Packages usually open in spring, roughly three to five months before Hajj, and US quota packages can sell out within days. The Hajj e-visa issues through Nusuk after booking, with a processing cut-off closer to departure, and Hajj itself runs the eighth to the thirteenth of Dhul Hijjah. A friend in New Jersey once waited a few days to decide on a package and lost it; if you take one piece of advice, be ready to book the day packages open.",
+    },
+    {
+      type: "h2",
       text: "So Where Do Travel Agents Fit In",
     },
     {
