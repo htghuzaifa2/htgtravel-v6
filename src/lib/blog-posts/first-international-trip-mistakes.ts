@@ -104,6 +104,28 @@ export const firstInternationalTripMistakes: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Traps Booking Sites Sell Without Warning",
+    },
+    {
+      type: "p",
+      text: "Search engines are brilliant if you know what to ask for, and quietly dangerous if you do not, because they show flights without showing consequences. They will happily sell a forty-five minute connection in Istanbul that no experienced traveller would accept, a ticket to a country whose visa you do not hold, or a great deal whose baggage fee doubles the price at checkout. The websites do not warn you because legally they do not have to. Here is the shortlist of first-timer traps, all of which surface at the worst possible moment:",
+    },
+    {
+      type: "ul",
+      items: [
+        "The transit visa you never heard of, which means denied boarding at your first airport before the journey even begins",
+        "The name typo, where Ali versus Alir on a ticket can mean buying an entirely new one",
+        "The six-month passport rule, which refuses a valid passport because it expires soon after your return",
+        "The connection that legally is not one: two tickets glued together by a search engine, with no protection if the first runs late",
+        "Baggage surprises, where one airline's free cabin bag becomes another airline's paid checked luggage",
+      ],
+    },
+    {
+      type: "p",
+      text: "And here is the deepest difference between self-booking and booking with a human, learned the hard way in this industry. When a flight cancels at midnight in a foreign airport, an app offers a chatbot and a toll-free number experiencing high call volumes. A real agent answers the phone, knows your itinerary without being told, reroutes you, and tells you exactly which counter to walk to. First trips are precisely when you need that kind of help, because everything is new; that is not weakness, that is just statistics.",
+    },
+    {
+      type: "h2",
       text: "Booking the Flight the Smart Way",
     },
     {

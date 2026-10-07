@@ -339,6 +339,18 @@ import { umrahAlulaCombinationTrip } from "./blog-posts/umrah-alula-combination-
 import { abhaSoudahPeaksGuide } from "./blog-posts/abha-soudah-peaks-guide";
 import { abayaShoppingMakkahJeddahGuide } from "./blog-posts/abaya-shopping-makkah-jeddah-guide";
 import { istanbulOttomanMosquesUmrahExtension } from "./blog-posts/istanbul-ottoman-mosques-umrah-extension";
+import { hajjFirstTimeFromAmericaGuide } from "./blog-posts/hajj-first-time-from-america-guide";
+import { hajjChecklistUsPassportHolders } from "./blog-posts/hajj-checklist-us-passport-holders";
+import { umrahFromLondonManchesterBirminghamGuide } from "./blog-posts/umrah-from-london-manchester-birmingham-guide";
+import { umrahForFamilyBackHomeOverseasGuide } from "./blog-posts/umrah-for-family-back-home-overseas-guide";
+import { weekendUmrahDubaiDohaRiyadhGuide } from "./blog-posts/weekend-umrah-dubai-doha-riyadh-guide";
+import { umrahJetLagBodyClockGuide } from "./blog-posts/umrah-jet-lag-body-clock-guide";
+import { selfTransferFlightsRiskGuide } from "./blog-posts/self-transfer-flights-risk-guide";
+import { multiCityVsTwoOneWayTickets } from "./blog-posts/multi-city-vs-two-one-way-tickets";
+import { nusukPermitRejectedExpiredFixes } from "./blog-posts/nusuk-permit-rejected-expired-fixes";
+import { umrahHotelDistanceNearHaramTrick } from "./blog-posts/umrah-hotel-distance-near-haram-trick";
+import { documentAttestationPakistanGuide } from "./blog-posts/document-attestation-pakistan-guide";
+import { elderlyParentsFlyingAloneGuide } from "./blog-posts/elderly-parents-flying-alone-guide";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -645,6 +657,18 @@ const SEEDS: BlogPostSeed[] = [
   abhaSoudahPeaksGuide,
   abayaShoppingMakkahJeddahGuide,
   istanbulOttomanMosquesUmrahExtension,
+  hajjFirstTimeFromAmericaGuide,
+  hajjChecklistUsPassportHolders,
+  umrahFromLondonManchesterBirminghamGuide,
+  umrahForFamilyBackHomeOverseasGuide,
+  weekendUmrahDubaiDohaRiyadhGuide,
+  umrahJetLagBodyClockGuide,
+  selfTransferFlightsRiskGuide,
+  multiCityVsTwoOneWayTickets,
+  nusukPermitRejectedExpiredFixes,
+  umrahHotelDistanceNearHaramTrick,
+  documentAttestationPakistanGuide,
+  elderlyParentsFlyingAloneGuide,
 ];
 
 // Auto-generate IDs for all posts at runtime

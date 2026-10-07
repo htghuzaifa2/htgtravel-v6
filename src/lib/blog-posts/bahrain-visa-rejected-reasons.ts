@@ -77,6 +77,18 @@ export const bahrainVisaRejectedReasons: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Scans and Statements Pakistanis Lose Weeks Over",
+    },
+    {
+      type: "p",
+      text: "Three document habits from back home quietly sink applications. First, lamination: many of us laminate our documents, and that protective shine becomes glare under a scanner, hiding the very details the officer needs to verify. If your passport bio page or supporting papers are laminated, have the originals photographed professionally in flat, even light instead. Second, never reuse the exact photo printed inside your current passport; a fresh photo signals the image is genuinely recent, and the checkers notice. Third, keep an old passport holding previous visas handy, because some applications ask for it, and a lost old passport slows the story you are telling.",
+    },
+    {
+      type: "p",
+      text: "Supporting papers follow the same quality-over-quantity logic. Bank statements must be stamped and show your own name; screenshots from a banking app usually are not enough. Employment letters should state your position, salary, and approved leave on company letterhead. Hotel bookings and return tickets must match your stated dates exactly, because a one-day gap raises questions that end in refusal. Clean, consistent, current documents beat a thick folder every time.",
+    },
+    {
+      type: "h2",
       text: "Details That Must Match",
     },
     {
@@ -120,6 +132,8 @@ export const bahrainVisaRejectedReasons: BlogPostSeed = {
         "The correct visa category for your actual purpose",
         "Any previous rejection acknowledged, if the form asks",
         "Hotel booking and return flight ready to upload",
+        "Bank statements stamped, in your own name, with no app screenshots",
+        "Laminated pages re-photographed flat to kill the glare",
       ],
     },
     {
