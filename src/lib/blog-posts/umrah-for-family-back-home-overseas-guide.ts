@@ -41,6 +41,14 @@ export const umrahForFamilyBackHomeOverseasGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Pick the Season Before You Pick the Dates",
+    },
+    {
+      type: "p",
+      text: "Umrah has no quota struggles and no fixed week in the calendar, which is exactly why scattered families love it, but the season you choose still shapes everything. Ramadan is the most rewarding and the most crowded, so book hotels six to nine months ahead if that is your goal. Shawwal through Dhul-Qi'dah, the season after Hajj, offers pleasant weather, thinner crowds, and noticeably gentler prices. And if your parents are elderly, avoid the peak summer heat altogether, because winter months are far kinder to long walks around the Haram. Our own rule after watching families scramble: lock the dates first, agree on them in the family WhatsApp group, and only then book flights, because changing plans later costs real money on two continents.",
+    },
+    {
+      type: "h2",
       text: "Step One: The Money Question",
     },
     {
@@ -79,6 +87,31 @@ export const umrahForFamilyBackHomeOverseasGuide: BlogPostSeed = {
     {
       type: "p",
       text: "Each traveller, whether flying from Chicago or Karachi, needs their own visa and permit. But the itinerary can be shared, and honestly, sharing it is where the magic is.",
+    },
+    {
+      type: "h2",
+      text: "The Same Hotel Rule: Trust Us on This",
+    },
+    {
+      type: "p",
+      text: "Staying at different hotels turns your reunion into a logistics project. Choose one hotel within walking distance of the Haram, even a modest one, and book every family member into it, so you share suhoor, walk to prayers together, and your father never has to memorize a route to find you. The area around King Abdulaziz Gate and the Clock Tower offers options at every price point: rooms overlooking the Haram cost more, while rooms ten minutes away cost much less and still put you at every prayer. When one family member handles the booking for everyone through a single desk, the same-hotel rule costs nothing extra and buys the entire trip.",
+    },
+    {
+      type: "h2",
+      text: "The Meeting-Day Checklist",
+    },
+    {
+      type: "ul",
+      items: [
+        "Share flight details in a family group chat with live location tracking switched on for arrival day",
+        "Buy a local SIM or arrange eSIMs before anyone lands, because airport queues are brutal after a long flight",
+        "Agree on a landmark, not just the Haram: it is enormous, and a message saying near Gate 3 means nothing at prayer time",
+        "If your parents arrive on a direct flight from Pakistan, ask the airline about wheelchair service for the Jeddah transfer; it is free and worth it",
+      ],
+    },
+    {
+      type: "p",
+      text: "One more honest note on money: budget this as two trips, because it is two trips. Your parents' land package from Pakistan might cost a fraction of your flight alone from London or Chicago, so set the budgets separately and pool funds only for shared expenses like the hotel, meals, and transport between Makkah and Madinah. Nobody should carry the whole bill alone, and no parent should feel embarrassed to accept help.",
     },
     {
       type: "h2",

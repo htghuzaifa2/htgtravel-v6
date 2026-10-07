@@ -49,6 +49,18 @@ export const selfTransferFlightsRiskGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "It Already Happened: The First Ten Minutes",
+    },
+    {
+      type: "p",
+      text: "If the connection has already broken, stop reading and work this sequence fast. Go straight to the second airline's desk, not the first, explain that you hold a confirmed ticket on their next flight, and ask to be rebooked, ideally as a standby passenger. While you walk, call the airline on the phone, because the phone line sometimes moves faster than any airport queue. Ask about the flat tire rule while you are there: some American airlines rebook you free or cheap if you reach the counter within two hours of your original departure, an unofficial courtesy rather than a right, so politeness genuinely pays. And if you carry travel insurance, contact it immediately, remembering that most basic policies exclude self-transfers entirely.",
+    },
+    {
+      type: "p",
+      text: "One honest note on manner: the agent at that desk hears a hundred sob stories a day, and a calm, kind traveller asking for standby gets much further than an angry one demanding compensation. Kindness is not just good manners here; it is strategy.",
+    },
+    {
+      type: "h2",
       text: "The Baggage Problem Nobody Mentions",
     },
     {
@@ -84,6 +96,18 @@ export const selfTransferFlightsRiskGuide: BlogPostSeed = {
         "You deliberately built the trip as two real journeys, say a day in Istanbul on purpose",
         "Both tickets come from the same airline group, which sometimes keeps protection intact",
       ],
+    },
+    {
+      type: "h2",
+      text: "When You Do Have Rights: The One-Ticket Difference",
+    },
+    {
+      type: "p",
+      text: "Flip the scenario and the story changes completely. If you bought one ticket and the airline's own delay made you miss the connection, the airline must rebook you on the next available flight at no cost and provide meals and hotels during long waits. In Europe, EU261 rules may additionally entitle you to cash compensation of up to 600 euros depending on the distance and delay. Keep your boarding passes, delay notifications, and receipts from that day, because that paperwork becomes your claim. This is the entire argument of this guide compressed into one sentence: one ticket, one responsibility; two tickets, all yours.",
+    },
+    {
+      type: "p",
+      text: "Prevention, then, is simple. Book connections on one ticket even when the split booking looks cheaper, because the price difference is insurance money. Stick to one airline or alliance where possible, since partners often help each other's passengers even when they are not required to. And prefer transfer-friendly hubs like Istanbul, Doha, and Dubai, which are built for smooth same-ticket connections and carry so much Pakistan and Gulf traffic for precisely that reason.",
     },
     {
       type: "h2",

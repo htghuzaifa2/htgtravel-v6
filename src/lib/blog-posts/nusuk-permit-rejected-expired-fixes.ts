@@ -81,6 +81,36 @@ export const nusukPermitRejectedExpiredFixes: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Why No Available Slots Is Not a Rejection",
+    },
+    {
+      type: "p",
+      text: "Sometimes nothing is wrong with your profile at all: you are simply competing with millions of pilgrims for a system that releases permits in waves, and the best batches vanish within minutes. Slots are not released all at once, and new drops typically arrive late at night, Saudi time, which means checking casually at three in the afternoon is browsing whatever thousands of earlier refreshers left behind.",
+    },
+    {
+      type: "p",
+      text: "Beyond timing, three more patterns quietly block families. Peak windows: Ramadan nights, Thursday and Friday evenings, and school-holiday weeks are the slots ten thousand people want simultaneously, while early-morning midweek slots sit quietly unclaimed. Whole-family requests: booking six seats in one go is like asking for six front-row concert tickets, technically possible and practically rare, so book each person separately, one successful permit at a time. And flagged accounts: a permit you missed without cancelling can pause new bookings on your profile, and cancelling a permit you will not use is free and keeps your record clean.",
+    },
+    {
+      type: "h2",
+      text: "The Fixes That Genuinely Work",
+    },
+    {
+      type: "ul",
+      items: [
+        "Refresh the app around the slot-drop hour, late evening Saudi time, for three or four consecutive nights, because persistence beats luck",
+        "Update the app or switch to the Nusuk website, since the two do not always show identical availability",
+        "Split family bookings across two or three phones, each logged into a different account, all targeting the same window",
+        "Build buffer days into your Makkah stay so one failed night never threatens your Umrah",
+        "For Rawdah permits, try early mornings or late nights and keep trying daily, because cancellations constantly reopen seats",
+      ],
+    },
+    {
+      type: "p",
+      text: "One habit worth copying: a pilgrim family we know in London sets a nightly phone alarm for slot-dropping time with the app already open on the screen. She secured her whole family in two nights; her husband, who refreshed whenever he happened to remember, took two weeks. And when the honest answer is that demand simply outweighs supply, widen your dates, shift to quieter hours, or add a day in Makkah rather than refreshing until your thumbs cramp. The Haram is not going anywhere, and neither is your intention.",
+    },
+    {
+      type: "h2",
       text: "Rejected or Expired: The Recovery Plan",
     },
     {

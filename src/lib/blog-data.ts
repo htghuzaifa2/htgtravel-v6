@@ -351,6 +351,13 @@ import { nusukPermitRejectedExpiredFixes } from "./blog-posts/nusuk-permit-rejec
 import { umrahHotelDistanceNearHaramTrick } from "./blog-posts/umrah-hotel-distance-near-haram-trick";
 import { documentAttestationPakistanGuide } from "./blog-posts/document-attestation-pakistan-guide";
 import { elderlyParentsFlyingAloneGuide } from "./blog-posts/elderly-parents-flying-alone-guide";
+import { hajj2027PakistaniAmericansGuide } from "./blog-posts/hajj-2027-pakistani-americans-guide";
+import { hajj2027UkNusukDirectGuide } from "./blog-posts/hajj-2027-uk-nusuk-direct-guide";
+import { usaToJeddahMadinahFlightRoutes } from "./blog-posts/usa-to-jeddah-madinah-flight-routes";
+import { transitVisaRulesExplained } from "./blog-posts/transit-visa-rules-explained";
+import { familyEmergencyVisaTicket48Hours } from "./blog-posts/family-emergency-visa-ticket-48-hours";
+import { hajjSeasonFlightRestrictionsGuide } from "./blog-posts/hajj-season-flight-restrictions-guide";
+import { unaccompaniedMinorFlightRules } from "./blog-posts/unaccompanied-minor-flight-rules";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -669,6 +676,13 @@ const SEEDS: BlogPostSeed[] = [
   umrahHotelDistanceNearHaramTrick,
   documentAttestationPakistanGuide,
   elderlyParentsFlyingAloneGuide,
+  hajj2027PakistaniAmericansGuide,
+  hajj2027UkNusukDirectGuide,
+  usaToJeddahMadinahFlightRoutes,
+  transitVisaRulesExplained,
+  familyEmergencyVisaTicket48Hours,
+  hajjSeasonFlightRestrictionsGuide,
+  unaccompaniedMinorFlightRules,
 ];
 
 // Auto-generate IDs for all posts at runtime

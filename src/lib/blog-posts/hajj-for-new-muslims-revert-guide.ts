@@ -109,6 +109,26 @@ export const hajjForNewMuslimsRevertGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The 2027 Clock Is Already Running",
+    },
+    {
+      type: "p",
+      text: "If your target is Hajj 2027, expected around mid-May depending on the moon sighting, start now, really now. Saudi Arabia sets a Hajj visa quota for each country, and national shares book out fast, with many pilgrims securing spots twelve to eighteen months ahead. Early planning also gives you time to save steadily in a dedicated account and to choose accommodation within walking distance of the Haram instead of accepting whatever is left when the map has emptied. For pilgrims booking from the United States, the paperwork has one hard rule worth repeating: the Hajj visa is arranged only through licensed, Nusuk-approved operators, and you cannot perform Hajj on a tourist or Umrah visa, no matter how flexible those feel.",
+    },
+    {
+      type: "p",
+      text: "Beyond the visa, collect the rest early: vaccination certificates, with meningitis ACWY mandatory and your operator sharing the full current list, plus travel insurance, which some packages include and others leave to you. Confirm which one yours is before departure, not at a clinic in Makkah.",
+    },
+    {
+      type: "h2",
+      text: "Train the Body You Brought With You",
+    },
+    {
+      type: "p",
+      text: "Hajj is beautiful, and it is also physically demanding in ways photos cannot convey. On some days you may walk five to seven miles, often in serious heat and on little sleep. Start a simple walking routine now, thirty minutes daily and building gradually, and break in a comfortable pair of sandals months before departure, never brand new ones. See your doctor for a quick check-up, and pack any medications in their original packaging with a copy of the prescription. Your future self, standing in the Arabian sun, will thank you.",
+    },
+    {
+      type: "h2",
       text: "One Emotional Truth Before You Fly",
     },
     {
@@ -122,6 +142,10 @@ export const hajjForNewMuslimsRevertGuide: BlogPostSeed = {
     {
       type: "p",
       text: "So make dua for your family at Arafat, by name, in your own language, without hurry. And when you cry, and you will, let it happen. Half the crowd around you is crying too, and the other half understands completely.",
+    },
+    {
+      type: "p",
+      text: "And if you are travelling without Muslim family, know that you are in extraordinary company: thousands of reverts from America and across the West make this journey every single year. Reach out through revert networks or your local mosque before you fly, because the names you gather beforehand become your familiar faces inside the crowd. Save a photo of your hotel card on your phone and download an offline map of the area, since the streets around the Haram look identical at two in the morning. By the time you stand among millions reciting the same talbiyah, alone will be the last word on your mind.",
     },
     {
       type: "h2",

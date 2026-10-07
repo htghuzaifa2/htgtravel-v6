@@ -40,6 +40,10 @@ export const jeddahAirportArrivalGuideUmrah: BlogPostSeed = {
       text: "If you are flying to Jeddah with Umrah in your heart, the plane crosses the miqat roughly an hour before landing. The crew will announce it, and you will see passengers standing up to make their intention. Wear your ihram before boarding, or keep it easily accessible in your hand luggage, not buried in the overhead bin. And make your niyyat for Umrah when the miqat announcement comes; it is easy to get distracted by landing procedures and miss the moment.",
     },
     {
+      type: "p",
+      text: "One detail worth planning the whole itinerary around: Jeddah sits inside the miqat boundary, so if Makkah is your first stop you must already be in ihram when you leave the airport, either changed on the plane or in the arrival facilities. If you are going to Madinah first, no ihram is needed yet, which is exactly why so many families build Madinah-first itineraries and make their intention calmly the next morning. Confirm your city order before you fly, not after.",
+    },
+    {
       type: "h2",
       text: "Which Terminal You Will Arrive At",
     },
@@ -68,6 +72,10 @@ export const jeddahAirportArrivalGuideUmrah: BlogPostSeed = {
       text: "That last step is why your hotel confirmation should be genuine and on record, not a paper from a friend's cousin. Keep every document on your phone and offline: visa, hotel booking, return ticket, insurance. Pilgrims who fumble through files hold up the line, and their own group.",
     },
     {
+      type: "p",
+      text: "Two arrival-speed tricks worth knowing before you fly. First, if your visa process included a biometric appointment abroad, such as the VFS Tasheer centres that collect fingerprints for many Western applicants, arrival immigration moves noticeably faster because your biometrics are already linked to your file. First-time visitors still usually give fingerprints at the dedicated counters, which takes only seconds. Second, give yourself a cushion of about two hours between landing and any booked train or taxi during peak Umrah season, because queues stretch exactly when you assumed they would not.",
+    },
+    {
       type: "h2",
       text: "First Stops in Arrivals: SIM, Money, Rest",
     },
@@ -88,6 +96,18 @@ export const jeddahAirportArrivalGuideUmrah: BlogPostSeed = {
       text: "Ignore anyone grabbing your luggage uninvited and demanding payment at the exit. Porters with official trolleys and uniforms are fine; a firm, polite no thank you handles the rest.",
     },
     {
+      type: "p",
+      text: "On money, the riyal is pegged at 3.75 to the US dollar, so the mental math is mercifully easy. Cards and phone payments work nearly everywhere, but keep around one hundred to two hundred riyals in small notes for trolleys, coffee, and the occasional cash-only taxi. ATMs sit right in arrivals; withdraw after immigration, not before, when you are calm and unhurried.",
+    },
+    {
+      type: "h2",
+      text: "Sort Your Connection Before You Land, Not After",
+    },
+    {
+      type: "p",
+      text: "Airport Wi-Fi exists, but it groans under the weight of a full aircraft's worth of pilgrims all loading maps at once, so do the digital work at home. Download three apps before departure: the Haramain train app, Careem or Uber, and an offline map of Makkah and Madinah. An eSIM activated before takeoff is the smoothest option, and if you prefer a local SIM from the STC, Mobily, or Zain kiosks, bring your passport, since registration requires it and activation takes about ten minutes. Sort the SIM before leaving the airport, not sometime later, because stepping into a Saudi street with no data and no Arabic turns later into a two-hour adventure. And set up WhatsApp calling before you land, since it is how everyone in the holy cities communicates, including hotel staff and drivers.",
+    },
+    {
       type: "h2",
       text: "The Transfer Game-Changer: The Haramain Train",
     },
@@ -101,7 +121,7 @@ export const jeddahAirportArrivalGuideUmrah: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Prefer a car? Uber and Careem both operate from designated pickup zones, with upfront pricing that removes haggling entirely. Traditional airport taxis are plentiful; agree the fare or insist on the meter before moving. Expect the drive to Makkah to take about 90 minutes to two hours depending on traffic. One local rhythm worth learning: roads around prayer times and just before Maghrib slow to a crawl, so a patient driver is worth more than a fast one.",
+      text: "Prefer a car? Uber and Careem both operate from designated pickup zones, with upfront pricing that removes haggling entirely; expect roughly 250 to 400 riyals to Makkah depending on car type and hour, which suits families with elderly parents or heavy luggage. Traditional airport taxis are plentiful; agree the fare or insist on the meter before moving, and expect the drive to take about 90 minutes to two hours depending on traffic. SAPTCO buses are the budget choice, comfortable enough, though slower and less frequent. One local rhythm worth learning: roads around prayer times and just before Maghrib slow to a crawl, so a patient driver is worth more than a fast one. And on the Haramain train heading to Madinah, book the left side for the desert views that make the journey disappear.",
     },
     {
       type: "quote",

@@ -48,6 +48,30 @@ export const umrahWithElderlyParentsGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Hotel Equation: Measure in Metres, Not Marketing",
+    },
+    {
+      type: "p",
+      text: "Brochures love the phrase close to Haram, so ask the honest question: close by whose legs? A five-minute walk for you can be fifteen for your father, and longer still after Fajr when he is tired. What matters for elderly pilgrims is the true walking distance to the nearest gate, measured in metres rather than marketing; a room near the elevator, which beats a view every time; on-site or nearby dining, because late-night restaurant runs lose their charm at that age; and wheelchair-accessible bathrooms, which must be requested explicitly rather than assumed. The premium for proximity stings at checkout and pays daily: a hotel two hundred metres from King Abdulaziz Gate versus one eight hundred metres away is the difference between every prayer and two.",
+    },
+    {
+      type: "h2",
+      text: "They Need a Person, Not Just a Wheelchair",
+    },
+    {
+      type: "p",
+      text: "Here is what nobody puts in the brochure: the elderly do not just need wheelchairs, they need a person. Someone who explains each ritual slowly, twice. Someone who knows which gate has the shortest security line at four in the morning, where the elevators to the upper mataf levels are, and how to secure a Rawdah permit for a grandmother who cannot stand in queues. Children try heroically, but they are juggling their own worship, their own children, and a foreign country all at once, and that is precisely why an attendant-pushed wheelchair service, where a trained staff member handles your parent through Tawaf and Sa'i while you walk alongside making dua, is worth arranging in advance rather than hoping for the best on arrival.",
+    },
+    {
+      type: "h2",
+      text: "Why Families Hand the Whole Job to One Desk",
+    },
+    {
+      type: "p",
+      text: "You can absolutely assemble all of this yourself: airline assistance, wheelchair bookings, hotel vetting, guides, transfers. Families do it every year, and many do it well. But they do it across two countries, three apps, and a language barrier, usually while holding full-time jobs, and the coordination quietly becomes a second job of its own. When a son in Toronto calls us about his mother in Faisalabad, one desk coordinates both ends: her hotel ten minutes from the Haram, wheelchair assistance at Jeddah airport, a group leader who checks on her daily, and a room an elevator's ten steps from the lift. Once you have watched an eighty-year-old complete Umrah with dignity and energy to spare, you understand exactly why the details mattered.",
+    },
+    {
+      type: "h2",
       text: "Pacing the Rituals",
     },
     {
@@ -105,6 +129,10 @@ export const umrahWithElderlyParentsGuide: BlogPostSeed = {
     {
       type: "quote",
       text: "Their comfort is the whole brief. We have planned parents' Umrahs for years. Bring us yours.",
+    },
+    {
+      type: "p",
+      text: "Small things you can still do yourself, whatever else you hand over: book a short medical check-up for your parents four to six weeks before travel, pack medications in hand luggage with prescriptions and spare doses, teach them the one phrase that works everywhere, patience and shukran, and write down their three biggest physical limitations, knees, stamina, eyesight, before designing a single day of the itinerary. Plan the trip backwards from those answers, and the journey will be measured in blessings rather than steps.",
     },
     {
       type: "p",
