@@ -358,6 +358,13 @@ import { transitVisaRulesExplained } from "./blog-posts/transit-visa-rules-expla
 import { familyEmergencyVisaTicket48Hours } from "./blog-posts/family-emergency-visa-ticket-48-hours";
 import { hajjSeasonFlightRestrictionsGuide } from "./blog-posts/hajj-season-flight-restrictions-guide";
 import { unaccompaniedMinorFlightRules } from "./blog-posts/unaccompanied-minor-flight-rules";
+import { hajj2027NusukUsBookingGuide } from "./blog-posts/hajj-2027-nusuk-us-booking-guide";
+import { ukLongWeekendUmrahPlan } from "./blog-posts/uk-long-weekend-umrah-plan";
+import { umrahFromAustraliaGuide } from "./blog-posts/umrah-from-australia-guide";
+import { invitationLetterVisitVisaGuide } from "./blog-posts/invitation-letter-visit-visa-guide";
+import { soloHajjNusukGuide } from "./blog-posts/solo-hajj-nusuk-guide";
+import { eidWeekFlightRushGuide } from "./blog-posts/eid-week-flight-rush-guide";
+import { marriageBirthCertificatesFamilyVisaGuide } from "./blog-posts/marriage-birth-certificates-family-visa-guide";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -683,6 +690,13 @@ const SEEDS: BlogPostSeed[] = [
   familyEmergencyVisaTicket48Hours,
   hajjSeasonFlightRestrictionsGuide,
   unaccompaniedMinorFlightRules,
+  hajj2027NusukUsBookingGuide,
+  ukLongWeekendUmrahPlan,
+  umrahFromAustraliaGuide,
+  invitationLetterVisitVisaGuide,
+  soloHajjNusukGuide,
+  eidWeekFlightRushGuide,
+  marriageBirthCertificatesFamilyVisaGuide,
 ];
 
 // Auto-generate IDs for all posts at runtime

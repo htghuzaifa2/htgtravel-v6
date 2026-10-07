@@ -37,7 +37,7 @@ export const lastMinuteUmrahGuide: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "The old days of mailing documents and waiting weeks are gone. Saudi Arabia's e-visa system processes most Umrah applications in just three to five working days, sometimes faster. Add the Nusuk app, which handles your Umrah permit in minutes, and the entire journey can genuinely come together in under two weeks. That is not marketing talk; that is simply how the system works now.",
+      text: "The old days of mailing documents and waiting weeks are gone. Saudi Arabia's e-visa now clears most eligible applicants within minutes to seventy-two hours, with many seeing it land the same day, while other routes, such as the Umrah visa through Nusuk or an agency for Pakistani passports, typically process in one to three working days. Add the Nusuk app, which handles your Umrah permit in minutes, and the entire journey can genuinely come together faster than most people dare hope. That is not marketing talk; that is simply how the system works now.",
     },
     {
       type: "h2",
@@ -46,6 +46,46 @@ export const lastMinuteUmrahGuide: BlogPostSeed = {
     {
       type: "p",
       text: "Everything else waits on this, so start here. You need a passport valid for at least six months, a clear digital photo on a white background, a confirmed return ticket and accommodation details, and your application through the official portal, never a lookalike site. One blurry photo or a misspelled name can cost you days you do not have, so check everything twice before you submit. If you are applying from the USA, UK, or Gulf on a foreign residency, confirm your e-visa eligibility first; most residents qualify, and it takes two minutes to be sure.",
+    },
+    {
+      type: "h2",
+      text: "The Realistic Minimum: 48 to 72 Hours",
+    },
+    {
+      type: "p",
+      text: "Here is the general picture for most pilgrims today, and it is faster than the folklore suggests. Eligible passport holders, UK, US, EU, and many others, can often see the e-visa approved within minutes to seventy-two hours. Pakistani passport holders typically arrange the Umrah visa through the official Nusuk platform or an agency, which usually processes in one to three working days. Flights and hotels can genuinely be booked the same day, the only real cost being your wallet. So the true bottleneck is never the flight or the hotel. It is the visa, and everything else moves at whatever speed you are willing to pay for.",
+    },
+    {
+      type: "p",
+      text: "One caution before you count on that speed: it collapses when documents are not ready. The passport needs six months of validity, non-negotiable and non-fixable at short notice, the photo must meet Saudi specifications, some routes ask for the meningitis ACWY certificate upfront, and every personal detail must match your passport letter for letter.",
+    },
+    {
+      type: "h2",
+      text: "The 72-Hour Plan That Works",
+    },
+    {
+      type: "p",
+      text: "When someone needs to travel this week, here is the sequence that has carried pilgrims to the Haram again and again:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Day one: documents checked in the morning, visa application submitted, flights booked the same day. Do not wait for the visa to book flights when the fare is right, because most fares are changeable",
+        "Day two: visa approved and hotel confirmed. Book the closest to the Haram you can afford, because with zero recovery days, proximity is your best friend",
+        "Day three: fly. Land, rest a few hours, and make your Umrah at a quiet hour, after Isha, when the courtyards soften",
+      ],
+    },
+    {
+      type: "p",
+      text: "Stretch the same skeleton to five or seven days and your options widen dramatically: cheaper fares, better hotels, and breathing room in Madinah. The three-day version exists for the heart that cannot wait, and it works, provided the documents are already in order.",
+    },
+    {
+      type: "h2",
+      text: "The Price of Going Now",
+    },
+    {
+      type: "p",
+      text: "Let us not sugar-coat it: urgency carries a premium. Last-minute flights from major cities can cost double the fare of a seat booked six weeks earlier, and hotels near the Haram climb with them. Three softeners genuinely help: be flexible on departure day, since a Tuesday departure often costs far less than a weekend one; consider one-stop routings instead of nonstops; and take a hotel a block or two further out, where a ten-minute walk trades for a real saving. Even with the premium, many pilgrims tell us the spontaneous Umrah became the most treasured trip of their lives. Deciding in your heart that you are going, and then going, has its own barakah.",
     },
     {
       type: "h2",

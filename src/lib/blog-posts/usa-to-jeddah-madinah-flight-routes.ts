@@ -37,7 +37,33 @@ export const usaToJeddahMadinahFlightRoutes: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "Yes, but only to Jeddah, and only with Saudia, the Saudi national carrier. Saudia has operated nonstop routes from New York, Washington Dulles, and Los Angeles to Jeddah. The East Coast hop takes around twelve hours; from Los Angeles, expect closer to sixteen or seventeen. Schedules shift seasonally, so always verify current routes before you commit. If you are travelling with elderly parents, a nonstop is not luxury; it is mercy, one boarding pass, one meal, one landing.",
+      text: "Yes, but only to Jeddah, and only with Saudia, the Saudi national carrier. Saudia has operated nonstop routes from New York, Washington Dulles, Los Angeles, and Dallas-Fort Worth to Jeddah, and the Texas gateway has been a quiet game-changer for pilgrims across the South since it launched. The East Coast hop takes around twelve hours; from Los Angeles, expect closer to sixteen or seventeen. Schedules shift seasonally, so always verify current routes before you commit. If you are travelling with elderly parents, a nonstop is not luxury; it is mercy, one boarding pass, one meal, one landing.",
+    },
+    {
+      type: "h2",
+      text: "Why Pilgrims Love Flying Saudia",
+    },
+    {
+      type: "p",
+      text: "There is something quietly reassuring about starting Umrah on the flag carrier of the country you are travelling to, and the practical benefits are real too:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Prayer areas onboard, since the widebody aircraft on these routes include dedicated spaces pilgrims genuinely appreciate mid-flight",
+        "Pilgrim-friendly baggage allowances, often more generous than US carriers, and worth checking for your ticket class",
+        "A cabin crew that announces the miqat before the boundary crossing, so preparing for ihram carries no guesswork",
+        "Arabic and English-speaking crews who understand pilgrim travel, not just passenger travel",
+        "Seamless onward connections, because if you are flying into Madinah first, Saudia's domestic network makes the transfer painless",
+      ],
+    },
+    {
+      type: "h2",
+      text: "Not Near a Gateway? One-Stops From Your Home Airport",
+    },
+    {
+      type: "p",
+      text: "If you live in Atlanta, Chicago, Seattle, or anywhere beyond the nonstop cities, you still have strong options, and they are often cheaper than the drive to a gateway. Emirates via Dubai and Qatar Airways via Doha are the workhorses, with smooth connections from dozens of US cities, while Turkish Airlines via Istanbul, Royal Jordanian via Amman, and EgyptAir via Cairo all work beautifully. Do the honest comparison before driving two days to catch a nonstop: a well-timed one-stop from your home airport, with the hotel night and parking you would have paid anyway, frequently costs hundreds less.",
     },
     {
       type: "h2",
@@ -78,7 +104,7 @@ export const usaToJeddahMadinahFlightRoutes: BlogPostSeed = {
     },
     {
       type: "p",
-      text: "One more timing rule that saves real money: book three to five months ahead for off-peak Umrah, and much earlier for Ramadan, because fares from the US can double in the final eight weeks.",
+      text: "One more timing rule that saves real money: book three to five months ahead for off-peak Umrah, and much earlier for Ramadan, because fares from the US can double in the final eight weeks. Midweek departures, Tuesday through Thursday, are consistently kinder to your wallet than weekends. And when you compare prices, compare totals rather than headlines: a slightly pricier Saudia ticket whose baggage allowance covers your pilgrimage luggage often beats the cheaper fare once bags are paid for, and any route list, this one included, is a snapshot that deserves rechecking before you commit.",
     },
     {
       type: "quote",

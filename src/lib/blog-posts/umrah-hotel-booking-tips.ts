@@ -36,11 +36,11 @@ export const umrahHotelBookingTips: BlogPostSeed = {
     {
       type: "ul",
       items: [
-        "Bed configuration in writing — 'quad' sometimes hides a floor mattress",
+        "Bed configuration in writing, because 'quad' sometimes hides a floor mattress",
         "Distance to the Haram in walking minutes, not adjectives",
         "Whether breakfast is included and what it actually covers",
-        "Cancellation deadline and penalty — Makkah hotels enforce dates strictly",
-        "Renovation status. A 'beautifully located' hotel under scaffolding is a long story",
+        "Cancellation deadline and penalty, since Makkah hotels enforce dates strictly",
+        "Renovation status: a 'beautifully located' hotel under scaffolding is a long story",
         "Lift access and floor number for elderly travellers",
       ],
     },
@@ -51,6 +51,47 @@ export const umrahHotelBookingTips: BlogPostSeed = {
     {
       type: "p",
       text: "Book three to six months ahead for standard dates, and the moment you fix your dates for Ramadan or December. Last-minute Haram-side rooms exist, but they are found through agencies with local relationships, not through public booking sites showing 'only 2 rooms left.' And a quiet truth from years of bookings: a clean, honest 300-metre hotel outperforms a famous far hotel on every measure that matters to a tired pilgrim.",
+    },
+    {
+      type: "h2",
+      text: "The Spike Calendar, Committed to Memory",
+    },
+    {
+      type: "p",
+      text: "Hotels everywhere raise prices when demand rises, but Makkah is different in one big way: the demand is not flexible. Nobody books the Haram for sometime this summer; pilgrims travel for Ramadan, for school holidays, for the dates that fit their leave, and the rooms within walking distance are the first thing the whole world wants. So when a million extra people chase the same few thousand beds, prices do not rise politely. They leap.",
+    },
+    {
+      type: "p",
+      text: "The pattern repeats every year. Ramadan, especially its last ten nights, is the absolute peak, when rooms near the Haram can triple or worse. School-holiday seasons, December and January plus the summer break, surge next, as families from the UK, the US, and the Gulf all travel at once. Eid periods bring short, intense spikes, and the weeks around Hajj fill the city for the pilgrimage itself. Then compare the weeks right after Hajj season or mid-autumn: same rooms, gentler numbers, calmer courtyards. Timing is the first discount you will ever get in this city.",
+    },
+    {
+      type: "h2",
+      text: "The Refundable-Rate Trick That Beats the Spike",
+    },
+    {
+      type: "p",
+      text: "You do not have to gamble on the calendar, because modern booking terms let you stack a few advantages:",
+    },
+    {
+      type: "ul",
+      items: [
+        "Book refundable rates early, locking today's lower price while keeping the right to cancel if plans change",
+        "Re-check your rate before check-in, since many platforms let you rebook cheaper and cancel the original",
+        "Watch the free-cancellation deadline, because the date your rate locks into no refund is the real point of no return",
+        "Read whether the price is per room or per person, because some Makkah hotels charge per person in peak season, quietly doubling the number you thought you were comparing",
+      ],
+    },
+    {
+      type: "p",
+      text: "One family we know books their Ramadan room the week they return from the previous Umrah: nine months early, refundable, done. Their room for the whole stay costs roughly what their neighbours pay per night. For the last ten nights specifically, think in six to nine months rather than weeks, because by then the best-located rooms are genuinely sold out, not merely expensive.",
+    },
+    {
+      type: "h2",
+      text: "The Honest Math of Walking Further",
+    },
+    {
+      type: "p",
+      text: "If early booking is not possible, distance is your remaining lever. A hotel ten minutes' walk from the Haram can cost half of one five minutes away, and in peak season even ten minutes may mean a shuttle or a brisk stroll through crowds. But run the honest math before celebrating the saving: a hundred pounds kept per night, paid for with forty extra minutes of daily walking on tired feet and restless children, is not always a saving. Early booking is what wins on both fronts at once, keeping the price and the location.",
     },
     {
       type: "h2",

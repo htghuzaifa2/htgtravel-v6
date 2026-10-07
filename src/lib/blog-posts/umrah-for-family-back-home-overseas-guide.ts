@@ -90,6 +90,34 @@ export const umrahForFamilyBackHomeOverseasGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "When the Family Is Scattered Across Three Countries",
+    },
+    {
+      type: "p",
+      text: "The parents live in Lahore, one son is in Toronto, and the daughter's family is in London: for families like this, the Haram beats every other meeting point on earth, because everyone arrives with the same purpose and nowhere to be except side by side at Fajr. But the coordination deserves respect, and it starts with the hardest conversation, agreeing on dates. Anchor the decision around the person with the least flexibility, usually the branch with school-age children or strict leave allowances.",
+    },
+    {
+      type: "p",
+      text: "The windows that align across countries are the winter school holidays in late December, the Easter or spring break with its cooler weather and thinner crowds, and the calmer, cheaper weeks right after Hajj season. Set the dates first, then book everything, because choosing flights before the family agrees is how one cousin ends up travelling solo in a different month.",
+    },
+    {
+      type: "h2",
+      text: "Different Passports, Different Visa Routes",
+    },
+    {
+      type: "p",
+      text: "Here is where a three-country family needs to pay attention, because everyone's paperwork differs. UK, US, Canadian, and Australian passport holders can usually apply for Saudi Arabia's tourist e-visa online, which is quick and straightforward. Pakistani passport holders apply for an Umrah visa through the official Nusuk platform or a trusted agency. Each adult handles their own visa, but start all the applications at the same time and share progress in one family group chat. And if one passport needs renewing first, remember the six-month validity rule and flag it early, because that is the step that silently delays whole reunions.",
+    },
+    {
+      type: "h2",
+      text: "Book Around the Most Constrained Traveller",
+    },
+    {
+      type: "p",
+      text: "Once the dates are locked, book the trickiest itinerary first. The long-haul traveller, say the family flying from Australia, needs the most care: open-jaw tickets, stopovers, and rest days built in. Everyone else builds around them. Toronto can route through London and fly together with the UK branch, while family members in Pakistan can often fly direct and land the same morning. You do not need the same flights; you need the same arrival day, ideally within a few hours of each other, so the reunion starts with hugs in the arrivals hall rather than a day of waiting.",
+    },
+    {
+      type: "h2",
       text: "The Same Hotel Rule: Trust Us on This",
     },
     {
@@ -107,6 +135,8 @@ export const umrahForFamilyBackHomeOverseasGuide: BlogPostSeed = {
         "Buy a local SIM or arrange eSIMs before anyone lands, because airport queues are brutal after a long flight",
         "Agree on a landmark, not just the Haram: it is enormous, and a message saying near Gate 3 means nothing at prayer time",
         "If your parents arrive on a direct flight from Pakistan, ask the airline about wheelchair service for the Jeddah transfer; it is free and worth it",
+        "Build in a rest day after arrival when elderly parents and small children are both in the mix, because reunion energy burns faster than anyone expects",
+        "Split shared costs openly from day one: one person covers ground transport, another covers group meals, and the rest settles later without awkwardness",
       ],
     },
     {

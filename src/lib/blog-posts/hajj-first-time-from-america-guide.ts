@@ -61,6 +61,14 @@ export const hajjFirstTimeFromAmericaGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Respect the Heat Like a Veteran",
+    },
+    {
+      type: "p",
+      text: "Daytime temperatures during the Hajj season can cross forty degrees, and the sun is not a detail you adapt to on arrival. Locals and experienced pilgrims carry umbrellas for shade, which looks unusual until you try it, and then it makes perfect sense. Small habits matter more than you would think: sip water constantly, pack electrolyte sachets rather than relying on thirst, eat lighter than you want to, and rest whenever the schedule allows. Heat exhaustion ruins more pilgrimages than any long queue ever will, so train your relationship with the sun the same way you train your legs.",
+    },
+    {
+      type: "h2",
       text: "Pack Less Than You Think You Need",
     },
     {
@@ -75,6 +83,8 @@ export const hajjFirstTimeFromAmericaGuide: BlogPostSeed = {
         "Broken-in sandals, never brand-new ones",
         "Prescription medicines in original packaging, with a doctor's letter",
         "A power bank, a universal adapter, and photocopies of every document",
+        "Electrolyte sachets and blister plasters, because the heat and the walking arrive together",
+        "A drawstring bag for your sandals inside the Haram, since footwear has a habit of vanishing there",
         "A small daypack for the Mina days",
       ],
     },
@@ -89,6 +99,14 @@ export const hajjFirstTimeFromAmericaGuide: BlogPostSeed = {
     {
       type: "p",
       text: "Join a Hajj workshop at your local mosque, watch step-by-step walkthroughs, and keep a reliable Hajj app on your phone. Will you forget half of it in the moment? Almost certainly. But knowing the shape of the journey keeps panic low, and your group leader can guide you through the rest.",
+    },
+    {
+      type: "h2",
+      text: "Write Your Duas Before You Land",
+    },
+    {
+      type: "p",
+      text: "Standing before the Kaaba, or on the plain of Arafat, your mind will go strangely blank. It happens to almost everyone, scholars included, and it is nothing to fear. The fix is beautifully ordinary: write your duas weeks in advance, in a small notebook or a notes app, and learn the words of each ritual at home, calmly, instead of trying to memorize them in a tent at midnight. Preparation gives you presence, and presence is what Hajj is really about.",
     },
     {
       type: "h2",

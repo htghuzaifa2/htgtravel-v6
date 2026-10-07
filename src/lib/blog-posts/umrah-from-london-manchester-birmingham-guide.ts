@@ -86,6 +86,30 @@ export const umrahFromLondonManchesterBirminghamGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Open-Jaw Trick for UK Pilgrims",
+    },
+    {
+      type: "p",
+      text: "Here is the routing we recommend constantly: fly into Madinah, fly home from Jeddah. You start your journey in the calmer, gentler city, reset your body clock, then travel to Makkah on the Haramain train in under two hours, without ever backtracking. Most airlines price this multi-city option reasonably, and it quietly removes one of the most exhausting parts of a compressed itinerary: the return slog between the two holy cities with your luggage and your tiredness both peaking.",
+    },
+    {
+      type: "h2",
+      text: "Direct, Near-Direct, and the Layover Rule",
+    },
+    {
+      type: "p",
+      text: "Saudia and British Airways both operate the Heathrow to Jeddah nonstop, with BA suiting Avios collectors and anyone who prefers UK-based customer service. But a direct flight is not automatically the right flight, and the number to inspect is the layover, not just the fare. A well-timed two-hour connection through Doha or Istanbul barely registers; a poorly-timed nine-hour one will haunt you, because that is a working day spent in terminal chairs. When the prices sit close, choose the itinerary your seventy-year-old father would thank you for.",
+    },
+    {
+      type: "h2",
+      text: "The Small Rules That Protect Your Arrival",
+    },
+    {
+      type: "p",
+      text: "Pack your ihram in hand luggage, never checked bags, because you will cross the miqat mid-flight and the crew announcement will come whether you are ready or not. Compare door-to-door cost rather than headline fares, since a cheap Heathrow ticket plus eighty pounds of trains and parking can lose to a direct Manchester departure. And if your flight lands in the morning, plan a quiet first day: the Haram is not going anywhere, but your energy will be. Three habits, none of them expensive, all of them deciding whether day one feels like worship or logistics.",
+    },
+    {
+      type: "h2",
       text: "The Pakistan Stopover Most UK Agencies Cannot Offer",
     },
     {
