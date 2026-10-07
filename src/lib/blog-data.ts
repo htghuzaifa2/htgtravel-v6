@@ -365,6 +365,18 @@ import { invitationLetterVisitVisaGuide } from "./blog-posts/invitation-letter-v
 import { soloHajjNusukGuide } from "./blog-posts/solo-hajj-nusuk-guide";
 import { eidWeekFlightRushGuide } from "./blog-posts/eid-week-flight-rush-guide";
 import { marriageBirthCertificatesFamilyVisaGuide } from "./blog-posts/marriage-birth-certificates-family-visa-guide";
+import { umrahFromNewYorkNewJerseyGuide } from "./blog-posts/umrah-from-new-york-new-jersey-guide";
+import { umrahFromEuropeGuide } from "./blog-posts/umrah-from-europe-guide";
+import { umrahFromCanadaGuide } from "./blog-posts/umrah-from-canada-guide";
+import { infantChildFlightFareRules } from "./blog-posts/infant-child-flight-fare-rules";
+import { medicalTreatmentVisaGuide } from "./blog-posts/medical-treatment-visa-guide";
+import { familyVisitVisaSponsorshipGuide } from "./blog-posts/family-visit-visa-sponsorship-guide";
+import { umrahFromHoustonDallasTexasGuide } from "./blog-posts/umrah-from-houston-dallas-texas-guide";
+import { umrahFromLosAngelesBayAreaGuide } from "./blog-posts/umrah-from-los-angeles-bay-area-guide";
+import { umrahFromAtlantaSoutheastGuide } from "./blog-posts/umrah-from-atlanta-southeast-guide";
+import { thanksgivingWinterBreakUmrahGuide } from "./blog-posts/thanksgiving-winter-break-umrah-guide";
+import { ukSchoolHolidaysUmrah2027Guide } from "./blog-posts/uk-school-holidays-umrah-2027-guide";
+import { hajj2027CanadaNusukGuide } from "./blog-posts/hajj-2027-canada-nusuk-guide";
 
 const SEEDS: BlogPostSeed[] = [
   ukVisitorVisaGuidePakistan,
@@ -697,6 +709,18 @@ const SEEDS: BlogPostSeed[] = [
   soloHajjNusukGuide,
   eidWeekFlightRushGuide,
   marriageBirthCertificatesFamilyVisaGuide,
+  umrahFromNewYorkNewJerseyGuide,
+  umrahFromEuropeGuide,
+  umrahFromCanadaGuide,
+  infantChildFlightFareRules,
+  medicalTreatmentVisaGuide,
+  familyVisitVisaSponsorshipGuide,
+  umrahFromHoustonDallasTexasGuide,
+  umrahFromLosAngelesBayAreaGuide,
+  umrahFromAtlantaSoutheastGuide,
+  thanksgivingWinterBreakUmrahGuide,
+  ukSchoolHolidaysUmrah2027Guide,
+  hajj2027CanadaNusukGuide,
 ];
 
 // Auto-generate IDs for all posts at runtime

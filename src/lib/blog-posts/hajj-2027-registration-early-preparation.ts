@@ -123,6 +123,30 @@ export const hajj2027RegistrationEarlyPreparation: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The Month-by-Month Countdown",
+    },
+    {
+      type: "p",
+      text: "Hajj is not the kind of trip you plan over a long weekend, so here is the timeline the pilgrims who enjoy it most actually follow. Twelve months out, dream big and budget bigger: check the passport, decide what package tier fits, set up the monthly savings plan, and talk to your employer early, because you will likely need three to four weeks of leave. Six months out, you should be locked in: package reserved through an authorized operator working with the official Nusuk Hajj platform, daily walking started at five kilometres a stretch, a full medical checkup booked, and the rituals under gentle weekly study.",
+    },
+    {
+      type: "p",
+      text: "Three months out, handle health, paperwork, and peace of mind: the ACWY vaccination, confirmed flights and hotel locations, sandals broken in properly, your bank notified and some riyals set aside. And, quietly, put your affairs in order, because writing your will is sunnah and it strangely settles the heart. One month out, print and digitize everything, pack light, download the Nusuk app, and practice your duas until they feel natural on your tongue. Follow that rhythm and you land with a clear head and a full heart.",
+    },
+    {
+      type: "h2",
+      text: "What Actually Drives the Price",
+    },
+    {
+      type: "p",
+      text: "For pilgrims booking from the United States and Canada, packages commonly range from around $8,000 to $15,000 and beyond per person, and four levers move that number. The distance of your Mina camp from the Jamarat, since closer camps cost more and save your legs. Hotel proximity to the Haram, priced per metre of walking saved. Room sharing, where quad arrangements cost less than doubles or privates. And the length of your Madinah stay, which quietly adds or removes days of the total. Many operators offer installment plans, and the asking needs to happen early, because nobody offers financing the week before departure.",
+    },
+    {
+      type: "p",
+      text: "One more note worth its own line: sisters travelling solo have seen mahram requirements ease in recent seasons, but the current rules deserve confirmation with your operator before booking, since policy details shift year to year.",
+    },
+    {
+      type: "h2",
       text: "Learn the Rituals Before You Land",
     },
     {

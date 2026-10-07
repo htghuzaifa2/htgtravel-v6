@@ -56,6 +56,28 @@ export const usaB1B2VisaGuidePakistan: BlogPostSeed = {
       text: "And if refused under 214(b), you can reapply, but only with a changed situation. Repeating the same file buys the same answer.",
     },
     {
+      type: "h2",
+      text: "The DS-160 Mistakes That Quietly Refuse Applications",
+    },
+    {
+      type: "p",
+      text: "Here is the scenario our desk hears far too often: an applicant walks into the consulate in Karachi or Islamabad confident, answers two questions, and hears the refusal. Ninety seconds. The real problem was never said at the window; it was typed into the DS-160 months earlier. The consular officer has your form open before you reach the counter, which makes it the first interview, in writing, and when your spoken answers do not match what you submitted, it is not treated as an innocent slip. It can be recorded as misrepresentation, which carries consequences that last a lifetime.",
+    },
+    {
+      type: "ul",
+      items: [
+        "Forgetting a previous refusal. The form asks directly, and the consulate holds every record. Disclosing an old refusal rarely sinks a fresh application; hiding one almost always does, because the issue becomes your honesty rather than your eligibility",
+        "Vague work and money answers. Occupation as business, an employer address that is a phone number, an income your statements have never seen. Officers build your entire ties profile from these fields, so exact employer names, real addresses, and an income story your bank can support are the fix",
+        "Trip details that do not add up. Two weeks on the form but maybe six months at the window, a host you cannot name, no idea who pays. Print your confirmation and re-read every answer, then carry a small card of facts, arrival date, duration, address, sponsor, daily budget",
+        "Skipping the social media question. The form has asked for handles used in the last five years, and omitting an account is a misrepresentation risk with zero upside, because nobody is refused for having a profile, while people are refused for lying about one",
+        "The small errors that scream carelessness: passport number or date-of-birth typos, a photo outside the six-month window, a name order that differs from your passport, family fields left blank",
+      ],
+    },
+    {
+      type: "p",
+      text: "Made an error after submitting? Act fast: complete a corrected form and carry the new confirmation to your interview, never two conflicting versions unexplained. And build the five-minute night-before habit: re-read the DS-160 one final time beside the documents that match it, your invitation letter, employment letter, and statements telling the same story the form tells. The interview is really two interviews, the one you type and the one you speak, and winning the written one turns the spoken one into a short conversation.",
+    },
+    {
       type: "quote",
       text: "Three minutes decide your US visa. Practise those three minutes with us before you live them at the embassy.",
     },

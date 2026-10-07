@@ -56,6 +56,26 @@ export const umrahEvisaVsUmrahVisa: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The American Pilgrim's Quick Answer",
+    },
+    {
+      type: "p",
+      text: "For US citizens, the thirty-second version: the Saudi tourist eVisa is usually the easier, more flexible choice, while the dedicated Umrah visa still makes sense when you are travelling with a group package or an agent handling everything. Both permit Umrah, but they behave very differently in practice.",
+    },
+    {
+      type: "ul",
+      items: [
+        "The eVisa: apply fully online with approvals often within minutes to a couple of days, valid for one year with multiple entries and stays up to ninety days each, tourism allowed so AlUla and Jeddah's old town fit the same trip, and roughly $100 to 150 all-in including the mandatory insurance",
+        "The Umrah visa: issued specifically for worship through the Nusuk platform or an authorized agent, typically single entry for about thirty days, free of government charge in recent seasons though agents may add service fees, and usually bundled with hotel and transport when booked through an agency",
+        "The hard rule nobody breaks: neither visa allows Hajj, which requires its own booking through the Nusuk Hajj platform with an authorized package, and Umrah on the eVisa pauses during the Hajj season itself, so plan dates around that window",
+      ],
+    },
+    {
+      type: "p",
+      text: "Choose the eVisa if you travel independently, want flexibility, plan to see more of the country, or might return for another Umrah within the year. Choose the Umrah visa if you are joining an organized group, your masjid's operator recommends it, or you want the simplest worship-focused arrangement. And good news for green card holders: US permanent residents are generally eligible for the eVisa under Saudi policy, though travellers in the US on other visa categories should confirm current eligibility before booking, because those rules have shifted in recent years and a five-minute verification beats an airport surprise.",
+    },
+    {
+      type: "h2",
       text: "How to Choose",
     },
     {

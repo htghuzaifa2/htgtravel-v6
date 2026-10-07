@@ -77,6 +77,22 @@ export const jeddahAirportArrivalGuideUmrah: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The 2 AM Landing: When the Airport Is Half Asleep",
+    },
+    {
+      type: "p",
+      text: "Flights into Jeddah arrive at odd hours, because Saudia, flynas, and dozens of international carriers land between midnight and four in the morning; arriving at two is not bad luck, it is the norm. What catches first-timers is that the Haramain train does not run all night, airport buses thin out overnight, and your ride options shrink dramatically once you step outside. Landing with no data, no directions, and a tired brain is exactly when unlicensed helpers appear offering rides at surprise prices charged at the destination rather than agreed at the start. One friend arrived during Umrah season, took a stranger's offer, and paid triple the standard fare with no receipt and no way to complain.",
+    },
+    {
+      type: "p",
+      text: "The cleanest fix is also the simplest: arrange your airport pickup before you fly. Most Makkah and Madinah hotels offer paid transfers, reputable agencies bundle them into packages, and your driver waits at arrivals with a name board. If you land without a booking, you still have solid options, provided you skip the freelance offers: the official taxi counters inside the terminal with fixed prices and printed receipts, Uber and Careem, which both serve the airport with upfront fares, and the hotel call desks, most of which answer around the clock. Agree the price before moving, keep small bills ready, and know your hotel's exact name and district, because a hotel near the Haram is not an address.",
+    },
+    {
+      type: "p",
+      text: "Your midnight-landing survival kit takes five minutes at home: install an eSIM or a Saudi SIM plan before departure, exchange a small amount into riyals, screenshot and print your hotel name, address, and confirmation in English and Arabic, agree the arrival plan with your group including meeting points at different exit doors, and charge your power bank, because a dead phone at two in the morning is a self-inflicted crisis. And reverse the problem on departure: book your return transfer at the same time as your arrival one, build in buffer for the roadworks between Makkah and Jeddah, and never schedule a tight connection behind a three in the morning flight.",
+    },
+    {
+      type: "h2",
       text: "First Stops in Arrivals: SIM, Money, Rest",
     },
     {

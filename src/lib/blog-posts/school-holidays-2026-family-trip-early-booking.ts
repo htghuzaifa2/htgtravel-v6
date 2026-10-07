@@ -87,6 +87,38 @@ export const schoolHolidays2026FamilyTripEarlyBooking: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Where DIY Booking Quietly Fails Families at Peak",
+    },
+    {
+      type: "p",
+      text: "Off-peak, booking it yourself works beautifully: prices are soft and you can shift dates by a week to save. But December and summer peaks remove the one weapon DIY booking relies on, flexibility, because the children have exams until the twentieth and school resumes in January, so your dates are carved in stone.",
+    },
+    {
+      type: "p",
+      text: "That is also when the fare bucket trap bites hardest. Airlines sell seats in limited price tiers, and that tempting fare you found might be the last seat in its tier; add three more passengers and the price quietly jumps for everyone. A cousin spent twenty minutes entering his children's passport details for a December Dubai trip and watched the fare rise by eighty-five thousand rupees before he could pay. Families of four are not buying one ticket, they are emptying entire fare buckets, so have every passport ready before you search and book in one sitting.",
+    },
+    {
+      type: "p",
+      text: "Then comes the family room illusion. Hotel sites happily show availability for two adults and two children, but a family of five discovers that real family rooms and connecting rooms rarely appear in online inventory, and at peak they sell out first. DIY bookers do what seems logical, reserve two double rooms and hope, and one family arrived in Antalya to find their supposedly connected rooms on different floors, with grandparents who could not manage the stairs. Worse, some hotels charge children over a certain age as full adults, a detail buried in the booking terms. Always email the hotel directly and get the room configuration confirmed in writing before paying.",
+    },
+    {
+      type: "h2",
+      text: "The Hidden Multipliers and the Visa Wall",
+    },
+    {
+      type: "p",
+      text: "Comparison sites show a base fare, and your brain multiplies by four. Reality multiplies more: four suitcases on a low-cost carrier can add more than the fare itself, sitting together costs real money once the free seats scatter, and meals, insurance, and transfers each multiply across the family. Do the honest math and DIY totals often exceed a family package that already includes baggage, transfers, and a guaranteed room configuration. The like-for-like comparison is the only comparison worth running.",
+    },
+    {
+      type: "p",
+      text: "And the trap that catches families hardest: December and summer are also peak visa seasons, when Schengen, UK, and US appointment slots vanish months in advance. The classic disaster is a family booking flights first, then discovering the nearest appointment falls after their departure date, leaving non-refundable tickets, wasted money, and devastated children. Secure the appointment slot before paying for anything.",
+    },
+    {
+      type: "p",
+      text: "Remember too that someone gets a fever the week before departure eventually, and refundable rates with real travel insurance turn that crisis into a reschedule rather than a loss. Peak season also reshuffles airline schedules heavily, and when flights and hotels are booked separately, you are the one coordinating the rebooking at peak prices.",
+    },
+    {
+      type: "h2",
       text: "Where Families Are Heading in 2026",
     },
     {

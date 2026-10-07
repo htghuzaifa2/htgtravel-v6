@@ -67,11 +67,23 @@ export const ramadanUmrah2027BookingTimeline: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The American Pilgrim's Version of the Timeline",
+    },
+    {
+      type: "p",
+      text: "For pilgrims booking from the United States, the same phases translate into a particularly concrete rhythm. Twelve months out, in early 2026: talk to the family about who is coming, request time off from work or school in writing, and open a dedicated savings account with a monthly target. Eight to ten months out, by mid-2026 at the latest, book everything through the Nusuk platform or an authorized agency, insisting on hotels within walking distance of the Haram, because in Ramadan you will be moving to iftar and Taraweeh among massive crowds and distance taxes every single movement.",
+    },
+    {
+      type: "p",
+      text: "Four to six months out, through autumn 2026: check the passport for six months of validity, gather the visa photographs and family documents, book any required vaccinations, and remember that sisters no longer need a mahram for Umrah travel. Two to three months out, start the physical training, because fasting while walking miles daily is its own discipline, and confirm your flights, where the direct JFK options on Saudia are gold and connections via Istanbul, Doha, or Amman often save money from other cities. And in the final three weeks, pack smart: February in Makkah is mild, but Madinah nights turn chilly, and an empty foldable bag earns its place in your luggage, because between gifts, dates, and Zamzam you will need it.",
+    },
+    {
+      type: "h2",
       text: "What Ramadan Umrah Costs",
     },
     {
       type: "p",
-      text: "Ramadan is the most expensive Umrah season, and the last ten nights cost the most within it. As a rough guide from Pakistan, first-half packages commonly start around PKR 400,000 to 500,000 per person, while last-ten-night packages can climb well beyond PKR 800,000. Departing from the UK, USA or the Gulf shifts the figures but never the pattern: the closer to Ramadan, the higher the price. Always compare what is included, because visa, transport and meals quietly swing the total by thousands.",
+      text: "Ramadan is the most expensive Umrah season, and the last ten nights cost the most within it. As a rough guide from Pakistan, first-half packages commonly start around PKR 400,000 to 500,000 per person, while last-ten-night packages can climb well beyond PKR 800,000. From the United States, expect roughly $2,200 to $3,500 for the first half of Ramadan and $4,000 to $6,000 and climbing for the last ten nights. Departing from the UK or the Gulf shifts the figures but never the pattern: the closer to Ramadan, the higher the price. Always compare what is included, because visa, transport and meals quietly swing the total by thousands.",
     },
     {
       type: "h2",

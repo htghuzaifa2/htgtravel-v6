@@ -93,6 +93,40 @@ export const masjidIslamicCenterGroupTripGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "The American Playbook: Khutbah to Kaaba",
+    },
+    {
+      type: "p",
+      text: "Every year, mosque groups from Chicago to Houston land in Jeddah together, and behind every smooth trip is an imam and a small team who started planning nearly a year earlier. For US Islamic centers specifically, push the timeline to eight to twelve months ahead, and to twelve or more for Ramadan or winter-break departures, because hotels within walking distance of the Haram and group flight space from American cities disappear earliest.",
+    },
+    {
+      type: "p",
+      text: "The most successful American trips run on four simple roles rather than one exhausted volunteer: the imam or scholar as spiritual lead and final decision-maker, a logistics coordinator for flights, hotels, transport, and the operator relationship, a treasurer for payments, receipts, and total transparency, and a communications lead for WhatsApp groups, info sessions, and reminders. Hold your first info session right after Jumuah and watch how many hands go up.",
+    },
+    {
+      type: "h2",
+      text: "Vetting the Operator: The Questions That Matter",
+    },
+    {
+      type: "p",
+      text: "Saudi rules require Umrah bookings through official channels, the Nusuk platform or licensed, authorized operators, so the real vetting starts after legitimacy is confirmed:",
+    },
+    {
+      type: "ul",
+      items: [
+        "References from other Islamic centers they have served, requested and actually checked",
+        "A written contract with every inclusion listed clearly, beds, meals, transfers, and distances included",
+        "Hotel distances in metres, not vague promises of near the Haram",
+        "Cancellation and refund terms confirmed in writing before any deposit moves",
+        "Who handles the group on the ground in Saudi Arabia, and who answers the phone at two in the morning in Makkah",
+      ],
+    },
+    {
+      type: "p",
+      text: "That last question matters more than people think, and a good operator answers it without hesitation. And here is a beautiful trend worth copying: several US mosques now run Umrah sponsorship funds, where the community quietly sponsors seats for youth, new Muslims, and elderly members who could never otherwise afford the journey. One Texas masjid sent twelve sponsored pilgrims last year, and the announcement alone brought tears to the room.",
+    },
+    {
+      type: "h2",
       text: "Handling Money Without the Awkwardness",
     },
     {
@@ -115,7 +149,14 @@ export const masjidIslamicCenterGroupTripGuide: BlogPostSeed = {
         "Note dietary needs in advance, and pass them to hotels and airlines before departure rather than after dinner",
         "Create the trip-day WhatsApp group early, and make sure your guide's number lives in it",
         "Label everyone's luggage with something bright; identical black suitcases have humbled every community group in history",
+        "Matching badges or wristbands carrying the group name and hotel address, because crowds do not respect memory",
+        "A buddy system so that no one, especially elders, is ever alone in the crowds",
+        "Agreed meeting points after every prayer, not just every day, plus rest days built in, because over-programmed pilgrims burn out fast",
       ],
+    },
+    {
+      type: "p",
+      text: "Two more habits from experienced American group leaders. Run two or three pre-trip classes covering the rituals, the key duas, and what to realistically expect, because spiritually prepared pilgrims absorb the experience while unprepared ones merely survive it. And sort mobility needs months ahead, with wheelchair requests and accessible rooms booked early rather than requested at the airport. One routing rule ties it all together: book Madinah first, then Makkah, so the whole community settles in the calm of Masjid an-Nabawi before the beautiful intensity of the Haram.",
     },
     {
       type: "quote",

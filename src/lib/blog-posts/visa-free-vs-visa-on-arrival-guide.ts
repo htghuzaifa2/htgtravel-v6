@@ -52,6 +52,38 @@ export const visaFreeVsVisaOnArrivalGuide: BlogPostSeed = {
     },
     {
       type: "h2",
+      text: "Why Travellers Actually Get Turned Away",
+    },
+    {
+      type: "p",
+      text: "Here is the misunderstanding that trips people up: visa on arrival is never guaranteed. What you hold is eligibility to apply at the border, and the final decision always belongs to the officer in front of you, who can refuse anyone, for any reason, without owing you an explanation. Airlines support this posture because a denied traveller becomes their expensive problem, which is why carriers sometimes stop you at the departure gate before you ever fly. The denials themselves almost always come down to a short, repeating list:",
+    },
+    {
+      type: "ul",
+      items: [
+        "No onward or return ticket, the single biggest one, because I will book it later does not survive the counter",
+        "No accommodation proof: no hotel booking, no host's address, nothing written down",
+        "Insufficient funds, a wallet with almost no cash, no working card, no visible way to pay for the trip",
+        "Vague answers: just visiting, maybe two weeks, not sure where I am staying yet, which reads as risk rather than spontaneity",
+        "Passport problems: under six months' validity, no blank pages, water damage, or a tear",
+        "Past history of overstays, refusals, or bans, which the officer sees in seconds",
+        "The wrong category: arriving as a tourist while planning to work, volunteer, or see how it goes",
+      ],
+    },
+    {
+      type: "p",
+      text: "Notice what the list is really saying: none of it is about nationality or luck. Every item is about preparation, which means every item is preventable before you fly. Rehearse your answers too, because thirty seconds of clarity, delivered calmly, ends most interviews before they begin: I am visiting for nine days, staying at this hotel, flying back on the 14th, using my card and this cash.",
+    },
+    {
+      type: "h2",
+      text: "If It Still Happens, Handle It Well",
+    },
+    {
+      type: "p",
+      text: "If you are denied despite everything, your response shapes what follows. Stay calm and polite, because arguing achieves nothing and can trigger a formal record. Ask respectfully for the stated reason, since you will need it for any appeal or future application. Contact your airline desk immediately, because they rebook denied passengers regularly. And write everything down while it is fresh, because a denial is a paragraph in your travel story, not the end of the book, and the notes make the next application stronger.",
+    },
+    {
+      type: "h2",
       text: "Where the Passport Works Hardest",
     },
     {
@@ -76,6 +108,7 @@ export const visaFreeVsVisaOnArrivalGuide: BlogPostSeed = {
         "Verify the rule with the destination's official sources or the IATA Travel Centre; policies shift quietly.",
         "Check the stay length per entry type; 30, 45, and 90 days vary by door.",
         "Confirm the arrival fee and carry the amount in the right currency.",
+        "Print the prevention set: return ticket, first night's booking with full address, insurance, and proof of funds, because screenshots die with your battery.",
       ],
     },
     {
